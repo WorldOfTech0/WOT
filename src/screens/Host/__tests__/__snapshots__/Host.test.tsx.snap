@@ -1,0 +1,441 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Host should render correctly 1`] = `
+<div>
+  <div
+    class="css-vooagt"
+  >
+    <div
+      class="chakra-stack css-br9adh"
+    >
+      <a
+        class="chakra-stack css-1fxws24"
+        href="https://www.hourcoding.com"
+      >
+        <svg
+          class="chakra-icon css-1x9csnb"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <svg
+            viewBox="0 0 128 128"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M26 13h76c0 13.656-.583 24.046-10 34-3.795 3.652-7.614 7.076-12 10l1 3c.068 1.478.085 2.958.063 4.438l-.028 2.308L81 69v4c1.95 1.406 3.96 2.73 6 4 8.07 7.263 12.317 14.475 15 25v14H26c0-14.766 1.283-24.99 11-36 2.532-2.243 5.158-4.171 8-6l3-2-1-3a72.563 72.563 0 01-.063-4.438l.028-2.308L47 60v-4c-1.978-1.677-1.978-1.677-4.563-3.125C32.89 46.515 28.733 37.93 26 27V13zm13 12c1.21 7.265 3.525 12.159 9.293 16.875C55.479 46.752 61.323 47.92 70 47c7.682-2.39 13.208-6.84 17.027-13.898C88.324 30.269 89 28.134 89 25H39zm21.063 36.125c-1.327 1.91-1.327 1.91-.75 4.563L60 68c4.095 1.142 4.095 1.142 7.938-.125 1.326-1.91 1.326-1.91.75-4.563L68 61c-4.095-1.142-4.095-1.142-7.938.125zm-15.5 29.25C41.404 94.472 39 98.722 39 104h50c-1.21-7.265-3.525-12.159-9.293-16.875-11.574-7.854-25.332-7.43-35.144 3.25z"
+              fill="currentColor"
+            />
+          </svg>
+        </svg>
+        <div
+          class="css-sfaoe"
+        >
+          <h2
+            class="chakra-heading css-1p9c8n6"
+          >
+            Hour
+          </h2>
+          <h2
+            class="chakra-heading css-0"
+          >
+            Coding
+          </h2>
+        </div>
+      </a>
+      <div
+        class="chakra-stack css-1igwmid"
+      >
+        <div
+          class="chakra-stack css-pmywpp"
+        >
+          <a
+            aria-label="/-nav-link"
+            class="chakra-button css-p7mkev"
+            href="/"
+          >
+            <span
+              class="chakra-button__icon css-1wh2kri"
+            >
+              <svg
+                aria-hidden="true"
+                fill="currentColor"
+                focusable="false"
+                height="20"
+                viewBox="0 0 1024 1024"
+                width="20"
+              >
+                <path
+                  d="M946.5 505L560.1 118.8l-25.9-25.9a31.5 31.5 0 00-44.4 0L77.5 505a63.9 63.9 0 00-18.8 46c.4 35.2 29.7 63.3 64.9 63.3h42.5V940h691.8V614.3h43.4c17.1 0 33.2-6.7 45.3-18.8a63.6 63.6 0 0018.7-45.3c0-17-6.7-33.1-18.8-45.2zM568 868H456V664h112v204zm217.9-325.7V868H632V640c0-22.1-17.9-40-40-40H432c-22.1 0-40 17.9-40 40v228H238.1V542.3h-96l370-369.7 23.1 23.1L882 542.3h-96.1z"
+                />
+              </svg>
+            </span>
+            <p
+              class="chakra-text css-wr62en"
+            >
+              Home
+            </p>
+          </a>
+          <a
+            aria-label="/coding-projects-nav-link"
+            class="chakra-button css-p7mkev"
+            href="/coding-projects"
+          >
+            <span
+              class="chakra-button__icon css-1wh2kri"
+            >
+              <svg
+                aria-hidden="true"
+                fill="currentColor"
+                focusable="false"
+                height="20"
+                viewBox="0 0 16 16"
+                width="20"
+              >
+                <path
+                  d="M10.478 1.647a.5.5 0 10-.956-.294l-4 13a.5.5 0 00.956.294l4-13zM4.854 4.146a.5.5 0 010 .708L1.707 8l3.147 3.146a.5.5 0 01-.708.708l-3.5-3.5a.5.5 0 010-.708l3.5-3.5a.5.5 0 01.708 0zm6.292 0a.5.5 0 000 .708L14.293 8l-3.147 3.146a.5.5 0 00.708.708l3.5-3.5a.5.5 0 000-.708l-3.5-3.5a.5.5 0 00-.708 0z"
+                />
+              </svg>
+            </span>
+            <p
+              class="chakra-text css-wr62en"
+            >
+              Coding projects
+            </p>
+          </a>
+          <a
+            aria-label="/college-projects-nav-link"
+            class="chakra-button css-p7mkev"
+            href="/college-projects"
+          >
+            <span
+              class="chakra-button__icon css-1wh2kri"
+            >
+              <svg
+                aria-hidden="true"
+                fill="currentColor"
+                focusable="false"
+                height="20"
+                viewBox="0 0 24 24"
+                width="20"
+              >
+                <path
+                  d="M19 10v6a2 2 0 012 2v2a2 2 0 01-2 2H5a2 2 0 01-2-2v-2c0-1.1.9-2 2-2v-6a2 2 0 01-2-2V7a1 1 0 01.55-.9l8-4a1 1 0 01.9 0l8 4A1 1 0 0121 7v1a2 2 0 01-2 2zm-6 0h-2v6h2v-6zm4 0h-2v6h2v-6zm-8 0H7v6h2v-6zM5 7.62V8h14v-.38l-7-3.5-7 3.5zM5 18v2h14v-2H5z"
+                />
+              </svg>
+            </span>
+            <p
+              class="chakra-text css-wr62en"
+            >
+              College projects
+            </p>
+          </a>
+          <a
+            aria-label="/ai-projects-nav-link"
+            class="chakra-button css-p7mkev"
+            href="/ai-projects"
+          >
+            <span
+              class="chakra-button__icon css-1wh2kri"
+            >
+              <svg
+                aria-hidden="true"
+                fill="currentColor"
+                focusable="false"
+                height="20"
+                viewBox="0 0 24 24"
+                width="20"
+              >
+                <path
+                  d="M12 .04a1.743 1.743 0 00-.537 3.401l-.631 2.579H2.456A2.456 2.456 0 000 8.476v13.029a2.456 2.456 0 002.456 2.456h19.088c1.356 0 2.456-1.1 2.456-2.456V8.476c0-1.356-1.1-2.456-2.456-2.456h-8.403l-.616-2.575A1.743 1.743 0 0011.999.04zM3.933 7.881h16.136c1.101 0 1.994.893 1.994 1.994v10.117a1.994 1.994 0 01-1.994 1.994H3.933a1.994 1.994 0 01-1.994-1.994V9.875c0-1.101.893-1.994 1.994-1.994zm3.254 2.312a4.575 4.575 0 100 9.15 4.575 4.575 0 000-9.15zm9.743 0a4.575 4.575 0 100 9.15 4.575 4.575 0 000-9.15zm-9.743 1.07a3.506 3.506 0 110 7.011 3.506 3.506 0 010-7.011zm9.743 0a3.506 3.506 0 110 7.011 3.506 3.506 0 010-7.011zm-9.743 1.663a1.843 1.843 0 100 3.686 1.843 1.843 0 000-3.686zm9.743 0a1.843 1.843 0 100 3.686 1.843 1.843 0 000-3.686zm-6.927 6.5v2.159h.706v-2.159h-.706zm1.077 0v2.159h.705v-2.159h-.705zm1.076 0v2.159h.706v-2.159h-.706zm1.077 0v2.159h.706v-2.159h-.706zm1.077.03v2.1a1.08 1.08 0 00.829-1.049v-.001c0-.51-.354-.937-.829-1.05zm-4.678.028a1.08 1.08 0 00-.731 1.021v.001c0 .474.306.876.731 1.021v-2.043z"
+                />
+              </svg>
+            </span>
+            <p
+              class="chakra-text css-wr62en"
+            >
+              AI projects
+            </p>
+          </a>
+          <a
+            aria-label="/all-projects-nav-link"
+            class="chakra-button css-p7mkev"
+            href="/all-projects"
+          >
+            <span
+              class="chakra-button__icon css-1wh2kri"
+            >
+              <svg
+                aria-hidden="true"
+                fill="currentColor"
+                focusable="false"
+                height="20"
+                viewBox="0 0 1024 1024"
+                width="20"
+              >
+                <path
+                  d="M862 465.3h-81c-4.6 0-9 2-12.1 5.5L550 723.1V160c0-4.4-3.6-8-8-8h-60c-4.4 0-8 3.6-8 8v563.1L255.1 470.8c-3-3.5-7.4-5.5-12.1-5.5h-81c-6.8 0-10.5 8.1-6 13.2L487.9 861a31.96 31.96 0 0048.3 0L868 478.5c4.5-5.2.8-13.2-6-13.2z"
+                />
+              </svg>
+            </span>
+            <p
+              class="chakra-text css-wr62en"
+            >
+              More
+            </p>
+          </a>
+        </div>
+        <div
+          class="css-10obmow"
+        >
+          <button
+            aria-controls="menu-list-:r1:"
+            aria-expanded="false"
+            aria-haspopup="menu"
+            class="chakra-menu__menu-button css-1eqi7qs"
+            id="menu-button-:r1:"
+          >
+            <span
+              class="css-xl71ch"
+            >
+              <button
+                class="chakra-button css-1t9ew6g"
+                type="button"
+              >
+                Menu
+                <span
+                  class="chakra-button__icon css-1hzyiq5"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="none"
+                    focusable="false"
+                    height="1em"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                  >
+                    <path
+                      d="M2 6a1 1 0 011-1h18a1 1 0 110 2H3a1 1 0 01-1-1zM2 12.032a1 1 0 011-1h18a1 1 0 110 2H3a1 1 0 01-1-1zM3 17.064a1 1 0 100 2h18a1 1 0 000-2H3z"
+                      fill="currentColor"
+                    />
+                  </svg>
+                </span>
+              </button>
+            </span>
+          </button>
+          <div
+            class="css-4c85rg"
+            style="visibility: hidden; position: absolute; min-width: max-content; inset: 0 auto auto 0;"
+          >
+            <div
+              aria-orientation="vertical"
+              class="chakra-menu__menu-list css-7ezqfw"
+              id="menu-list-:r1:"
+              role="menu"
+              style="transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.8);"
+              tabindex="-1"
+            >
+              <button
+                aria-label="/-nav-link"
+                class="chakra-button css-4xx2wk"
+                type="button"
+              >
+                <a
+                  class="chakra-text css-wr62en"
+                  href="/"
+                >
+                  Home
+                </a>
+                <span
+                  class="chakra-button__icon css-1hzyiq5"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="currentColor"
+                    focusable="false"
+                    height="20"
+                    viewBox="0 0 1024 1024"
+                    width="20"
+                  >
+                    <path
+                      d="M946.5 505L560.1 118.8l-25.9-25.9a31.5 31.5 0 00-44.4 0L77.5 505a63.9 63.9 0 00-18.8 46c.4 35.2 29.7 63.3 64.9 63.3h42.5V940h691.8V614.3h43.4c17.1 0 33.2-6.7 45.3-18.8a63.6 63.6 0 0018.7-45.3c0-17-6.7-33.1-18.8-45.2zM568 868H456V664h112v204zm217.9-325.7V868H632V640c0-22.1-17.9-40-40-40H432c-22.1 0-40 17.9-40 40v228H238.1V542.3h-96l370-369.7 23.1 23.1L882 542.3h-96.1z"
+                    />
+                  </svg>
+                </span>
+              </button>
+              <button
+                aria-label="/coding-projects-nav-link"
+                class="chakra-button css-4xx2wk"
+                type="button"
+              >
+                <a
+                  class="chakra-text css-wr62en"
+                  href="/coding-projects"
+                >
+                  Coding projects
+                </a>
+                <span
+                  class="chakra-button__icon css-1hzyiq5"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="currentColor"
+                    focusable="false"
+                    height="20"
+                    viewBox="0 0 16 16"
+                    width="20"
+                  >
+                    <path
+                      d="M10.478 1.647a.5.5 0 10-.956-.294l-4 13a.5.5 0 00.956.294l4-13zM4.854 4.146a.5.5 0 010 .708L1.707 8l3.147 3.146a.5.5 0 01-.708.708l-3.5-3.5a.5.5 0 010-.708l3.5-3.5a.5.5 0 01.708 0zm6.292 0a.5.5 0 000 .708L14.293 8l-3.147 3.146a.5.5 0 00.708.708l3.5-3.5a.5.5 0 000-.708l-3.5-3.5a.5.5 0 00-.708 0z"
+                    />
+                  </svg>
+                </span>
+              </button>
+              <button
+                aria-label="/college-projects-nav-link"
+                class="chakra-button css-4xx2wk"
+                type="button"
+              >
+                <a
+                  class="chakra-text css-wr62en"
+                  href="/college-projects"
+                >
+                  College projects
+                </a>
+                <span
+                  class="chakra-button__icon css-1hzyiq5"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="currentColor"
+                    focusable="false"
+                    height="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                  >
+                    <path
+                      d="M19 10v6a2 2 0 012 2v2a2 2 0 01-2 2H5a2 2 0 01-2-2v-2c0-1.1.9-2 2-2v-6a2 2 0 01-2-2V7a1 1 0 01.55-.9l8-4a1 1 0 01.9 0l8 4A1 1 0 0121 7v1a2 2 0 01-2 2zm-6 0h-2v6h2v-6zm4 0h-2v6h2v-6zm-8 0H7v6h2v-6zM5 7.62V8h14v-.38l-7-3.5-7 3.5zM5 18v2h14v-2H5z"
+                    />
+                  </svg>
+                </span>
+              </button>
+              <button
+                aria-label="/ai-projects-nav-link"
+                class="chakra-button css-4xx2wk"
+                type="button"
+              >
+                <a
+                  class="chakra-text css-wr62en"
+                  href="/ai-projects"
+                >
+                  AI projects
+                </a>
+                <span
+                  class="chakra-button__icon css-1hzyiq5"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="currentColor"
+                    focusable="false"
+                    height="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                  >
+                    <path
+                      d="M12 .04a1.743 1.743 0 00-.537 3.401l-.631 2.579H2.456A2.456 2.456 0 000 8.476v13.029a2.456 2.456 0 002.456 2.456h19.088c1.356 0 2.456-1.1 2.456-2.456V8.476c0-1.356-1.1-2.456-2.456-2.456h-8.403l-.616-2.575A1.743 1.743 0 0011.999.04zM3.933 7.881h16.136c1.101 0 1.994.893 1.994 1.994v10.117a1.994 1.994 0 01-1.994 1.994H3.933a1.994 1.994 0 01-1.994-1.994V9.875c0-1.101.893-1.994 1.994-1.994zm3.254 2.312a4.575 4.575 0 100 9.15 4.575 4.575 0 000-9.15zm9.743 0a4.575 4.575 0 100 9.15 4.575 4.575 0 000-9.15zm-9.743 1.07a3.506 3.506 0 110 7.011 3.506 3.506 0 010-7.011zm9.743 0a3.506 3.506 0 110 7.011 3.506 3.506 0 010-7.011zm-9.743 1.663a1.843 1.843 0 100 3.686 1.843 1.843 0 000-3.686zm9.743 0a1.843 1.843 0 100 3.686 1.843 1.843 0 000-3.686zm-6.927 6.5v2.159h.706v-2.159h-.706zm1.077 0v2.159h.705v-2.159h-.705zm1.076 0v2.159h.706v-2.159h-.706zm1.077 0v2.159h.706v-2.159h-.706zm1.077.03v2.1a1.08 1.08 0 00.829-1.049v-.001c0-.51-.354-.937-.829-1.05zm-4.678.028a1.08 1.08 0 00-.731 1.021v.001c0 .474.306.876.731 1.021v-2.043z"
+                    />
+                  </svg>
+                </span>
+              </button>
+              <button
+                aria-label="/all-projects-nav-link"
+                class="chakra-button css-4xx2wk"
+                type="button"
+              >
+                <a
+                  class="chakra-text css-wr62en"
+                  href="/all-projects"
+                >
+                  More
+                </a>
+                <span
+                  class="chakra-button__icon css-1hzyiq5"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="currentColor"
+                    focusable="false"
+                    height="20"
+                    viewBox="0 0 1024 1024"
+                    width="20"
+                  >
+                    <path
+                      d="M862 465.3h-81c-4.6 0-9 2-12.1 5.5L550 723.1V160c0-4.4-3.6-8-8-8h-60c-4.4 0-8 3.6-8 8v563.1L255.1 470.8c-3-3.5-7.4-5.5-12.1-5.5h-81c-6.8 0-10.5 8.1-6 13.2L487.9 861a31.96 31.96 0 0048.3 0L868 478.5c4.5-5.2.8-13.2-6-13.2z"
+                    />
+                  </svg>
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
+        <button
+          aria-label="instagram-icon"
+          class="chakra-button css-1ehqmgk"
+          type="button"
+        >
+          <svg
+            aria-hidden="true"
+            fill="currentColor"
+            focusable="false"
+            height="20"
+            viewBox="0 0 24 24"
+            width="20"
+          >
+            <path
+              d="M9.57 3.38a8 8 0 0010.4 10.4 1 1 0 011.31 1.3 10 10 0 11-13-13 1 1 0 011.3 1.3zM7.1 5.04a8 8 0 1011.2 11.23A10 10 0 017.08 5.04z"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+    <div
+      class="css-blokl4"
+    >
+      <a
+        class="chakra-button css-11uacpy"
+        href="https://www.hourcoding.com/about/privacy-policy"
+      >
+        Privacy policy
+      </a>
+      <a
+        class="chakra-button css-11uacpy"
+        href="https://www.hourcoding.com/about/terms-of-use"
+      >
+        Terms of service
+      </a>
+      <a
+        class="chakra-button css-11uacpy"
+        href="https://www.hourcoding.com/about/contact-us"
+      >
+        Contact us
+      </a>
+      <a
+        class="chakra-button css-11uacpy"
+        href="https://www.hourcoding.com/about/about-us"
+      >
+        About us
+      </a>
+      <a
+        class="chakra-button css-11uacpy"
+        href="https://www.hourcoding.com/about/faq"
+      >
+        FAQs
+      </a>
+    </div>
+    <div
+      class="css-18klxuc"
+    >
+      © 2024 Hourcoding.com | All rights reserved
+    </div>
+  </div>
+</div>
+`;

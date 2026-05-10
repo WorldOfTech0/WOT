@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CopyrightFooter should render 1`] = `
+<div>
+  <div
+    class="css-blokl4"
+  >
+    <a
+      class="chakra-button css-11uacpy"
+      href="https://www.hourcoding.com/about/privacy-policy"
+    >
+      Privacy policy
+    </a>
+    <a
+      class="chakra-button css-11uacpy"
+      href="https://www.hourcoding.com/about/terms-of-use"
+    >
+      Terms of service
+    </a>
+    <a
+      class="chakra-button css-11uacpy"
+      href="https://www.hourcoding.com/about/contact-us"
+    >
+      Contact us
+    </a>
+    <a
+      class="chakra-button css-11uacpy"
+      href="https://www.hourcoding.com/about/about-us"
+    >
+      About us
+    </a>
+    <a
+      class="chakra-button css-11uacpy"
+      href="https://www.hourcoding.com/about/faq"
+    >
+      FAQs
+    </a>
+  </div>
+  <div
+    class="css-18klxuc"
+  >
+    © 2024 Hourcoding.com | All rights reserved
+  </div>
+</div>
+`;

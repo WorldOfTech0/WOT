@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LazyProvider should render correctly 1`] = `
+<div>
+  <p
+    class="chakra-text css-0"
+  >
+    Test
+  </p>
+</div>
+`;

@@ -1,0 +1,12 @@
+{
+  "Title_1": "Hour",
+  "Title_2": "Coding",
+  "LandingPage": {
+    "heroText": "Welcome to Hourcoding | Roadmaps",
+    "subHeroText": "Checkout our road-maps to become a professional developer, designer or a data scientist.",
+    "searchPlaceholder": "Search for a roadmaps"
+  },
+  "Footer": {
+    "copyrightText": "© {{year}} Hourcoding.com | All rights reserved"
+  }
+}
