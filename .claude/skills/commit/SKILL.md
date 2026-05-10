@@ -32,22 +32,26 @@ All feature and fix branches MUST follow this naming pattern:
 
 > [!IMPORTANT]
 > Always use `make commit` for the initial commit. DO NOT use `git commit -m`.
+> **Every commit MUST include a detailed body.** A single-line description is NOT sufficient.
 
 When using Claude Code to commit changes:
 
-- For initial commit with conventional commit format: Use the `/commit` skill or run `make commit`
-- For amending with detailed description: Use `git commit --amend` via bash tool
-- Always follow the conventional commits format: `<type>(<ticket-number>): <description>`
+- **Initial Commit**: Use the `/commit` skill or run `make commit` with a detailed body.
+- **Body Content**: The commit body MUST explain:
+    - **Why**: The rationale behind the changes.
+    - **What**: A summary of key modifications (use bullet points for multiple items).
+    - **Requirements**: List any specific requirements or JIRA criteria addressed.
+- **Format**: `<type>(<ticket-number>): <short description>` followed by a detailed body.
 
 ## Examples
 
-### Initial Commit
+### Initial Commit with Detailed Message
 
-To provide all inputs in one go (recommended for AI agents):
+To provide a high-quality commit message in one go:
 
 ```bash
-# Pattern: printf "tag_index\nscope\ntitle\nbody\n\n" | make commit
-printf "2\nWOT-19\nadd branding and skills\nAdd WorldOfTech branding.\n\n" | make commit
+# Pattern: printf "tag_index\nscope\ntitle\nDetailed body explanation with bullet points.\n\n" | make commit
+printf "3\nWOT-19\nadd branding and skills\n- Implement WorldOfTech branding across core components.\n- Add custom SVG icons for the new design system.\n- Update global styles to use the vibrant WorldOfTech color palette.\n- Adhere to requirements specified in WOT-19 for visual excellence.\n\n" | make commit
 ```
 
 ### Initial Commit (Interactive)

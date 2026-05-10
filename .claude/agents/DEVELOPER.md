@@ -34,7 +34,9 @@ When assigned to process a set of changes, the agent MUST follow these steps in 
 - After the Jira ticket is successfully created, initiate the commit process.
 - Follow the rules defined in `.claude/skills/commit/SKILL.md`.
 - Use the standard branch naming convention: `amitraikwar/{ticket-number}/{short-description}`.
-- Use `make commit` for the initial commit, adhering to the Conventional Commits format (`<type>(<ticket-number>): <description>`).
+- **IMPORTANT**: Use `make commit` with a **detailed, multi-line body**.
+- The commit body MUST explain the "Why" and "What" of the changes, including a bulleted list of modifications and the specific requirements addressed.
+- Example format: `<type>(<ticket-number>): <short description>\n\n- Detailed change 1\n- Detailed change 2\n...`
 
 ### 4. Create Pull Request
 
