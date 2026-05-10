@@ -1,16 +1,16 @@
-import { render, screen } from '@testing-library/react';
+import { renderWithProviders } from '@testUtils';
 import LazyProvider from '../LazyProvider';
 import { Text } from '@chakra-ui/react';
 
 describe('LazyProvider', () => {
   it('should render correctly', () => {
-    const { container } = render(
+    const { container } = renderWithProviders(
       <LazyProvider>
         <Text>Test</Text>
       </LazyProvider>,
     );
 
     expect(container).toMatchSnapshot();
-    expect(screen.getByText('Test')).toBeDefined();
+    expect(container.textContent).toContain('Test');
   });
 });

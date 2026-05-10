@@ -2,9 +2,7 @@
 
 exports[`LazyProvider should render correctly 1`] = `
 <div>
-  <p
-    class="chakra-text css-0"
-  >
+  <p>
     Test
   </p>
 </div>

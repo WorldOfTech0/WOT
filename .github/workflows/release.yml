@@ -15,6 +15,13 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.PA_TOKEN }}
+      - name: Enable Corepack
+        run: corepack enable
+      - name: setup-node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20.x
+          cache: 'yarn'
       - name: conventional changelog action
         id: changelog
         # https://github.com/TriPSs/conventional-changelog-action
@@ -22,7 +29,7 @@ jobs:
         with:
           # you can also create separate token to trace action
           github-token: '${{ secrets.PA_TOKEN }}'
-          git-user-name: 'Hourcoding bot'
+          git-user-name: 'WorldOfTech bot'
           output-file: false
       - name: create release
         # https://github.com/actions/create-release

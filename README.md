@@ -1,69 +1,74 @@
-# Boilerplate react-js project
+# WorldOfTech
 
-This is a boilerplate project for a react-js project. It includes the following:
+WorldOfTech is a website for all free stuff on the internet.
 
-- React-js
-- Webpack
-- Babel
-- Eslint
-- Prettier
-- Jest
-- cypress
-- Husky
-- Lint-staged
-- Zustand
-- Tailwindcss
-- i18next
-- module resolver
-- Github action | Build, Lint, Test job | FTP deploy job |
+This project is a modernized React application focused on providing free comprehensive resources for developers, designers, and data scientists.
 
-## Getting started
+## Core Technology Stack
 
-For development, you will only need Node.js and a node global package, npm, installed in your environment.
+- **Framework**: [React 18+](https://reactjs.org/)
+- **UI Library**: [Chakra UI v3](https://chakra-ui.com/)
+- **State Management**: [Zustand v5](https://zustand-demo.pmnd.rs/)
+- **Routing**: [React Router v7](https://reactrouter.com/)
+- **Styling**: [Panda CSS](https://panda-css.com/) (Chakra UI v3 underlying engine)
+- **Language**: [TypeScript 5.x](https://www.typescriptlang.org/)
+- **Testing**: [Jest](https://jestjs.io/) & [Cypress](https://www.cypress.io/)
+- **Package Manager**: [Yarn 4.x (Berry)](https://yarnpkg.com/)
+
+## Getting Started
 
 ### Prerequisites
 
-- Node.js
-- npm or yarn
+- Node.js (Latest LTS recommended)
+- Yarn 4.x
 
-### Install
+### Installation
 
 ```bash
-npx boilerplate-react-js my-app
-cd my-app
-npm install
- or
 yarn install
 ```
 
-### Start
+### Development
 
 ```bash
-npm start
- or
 yarn start
 ```
 
 ### Build
 
 ```bash
-npm run build
- or
 yarn build
 ```
 
-### Test
+### Testing
 
 ```bash
-npm test
- or
+# Run all tests
 yarn test
+
+# Run tests with coverage
+yarn test:cov
+
+# Open Cypress for E2E testing
+yarn cy:open
 ```
 
-### Lint
+### Linting & Formatting
 
 ```bash
-npm run lint
- or
+# Run ESLint
 yarn lint
+
+# Format code with Prettier
+yarn healthier
 ```
+
+## Infrastructure
+
+- **CI/CD**: GitHub Actions for automated building, linting, testing, and FTP deployment.
+- **Localization**: Internationalization support via `i18next`.
+- **Theme**: Robust dark/light mode support with system preference detection.
+
+---
+
+© {{year}} worldoftech.com | All rights reserved

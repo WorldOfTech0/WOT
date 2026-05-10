@@ -1,30 +1,36 @@
-import { IconButton, useColorMode } from '@chakra-ui/react';
+import { IconButton } from '@chakra-ui/react';
+import { useTheme } from 'next-themes';
 
-import { HourcodingIcon, IconHc } from '@assets';
+import { WorldOfTechIcon, IconHc } from '@assets';
 
 import { ICON_SIZE_STYLE } from './constants';
 import { COMMON_ICON_STYLE } from './constants';
 
 const ThemeIcon = () => {
-  const { colorMode, toggleColorMode } = useColorMode();
+  const { resolvedTheme, setTheme } = useTheme();
+  const isDark = resolvedTheme === 'dark';
+
+  const toggleColorMode = () => {
+    setTheme(isDark ? 'light' : 'dark');
+  };
+
   return (
     <IconButton
       {...COMMON_ICON_STYLE}
-      icon={
-        colorMode === 'dark' ? (
-          <HourcodingIcon
-            color={'yellow'}
-            icon={IconHc.DAY}
-            {...ICON_SIZE_STYLE}
-          />
-        ) : (
-          <HourcodingIcon icon={IconHc.NIGHT} {...ICON_SIZE_STYLE} />
-        )
-      }
       _hover={{ bg: 'green.900' }}
-      aria-label={'instagram-icon'}
+      aria-label={'toggle-color-mode'}
       onClick={toggleColorMode}
-    />
+    >
+      {isDark ? (
+        <WorldOfTechIcon
+          color={'yellow'}
+          icon={IconHc.DAY}
+          {...ICON_SIZE_STYLE}
+        />
+      ) : (
+        <WorldOfTechIcon icon={IconHc.NIGHT} {...ICON_SIZE_STYLE} />
+      )}
+    </IconButton>
   );
 };
 

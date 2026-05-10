@@ -7,7 +7,10 @@ module.exports = {
   },
   setupFilesAfterEnv: ['<rootDir>/jest.js'],
   roots: ['./'],
-  testEnvironment: 'jsdom',
+  testEnvironment: 'jest-environment-jsdom',
+  testEnvironmentOptions: {
+    customExportConditions: ['node', 'node-addons'],
+  },
   coverageReporters: ['lcov'],
   coverageDirectory: './coverage',
   collectCoverageFrom: [

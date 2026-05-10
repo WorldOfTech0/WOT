@@ -1,10 +1,10 @@
-import { render } from '@testing-library/react';
+import { renderWithProviders } from '@testUtils';
 import { ModalID } from '@uiStore';
 import ModalComponent from '../Modal';
 
 describe('Modal', () => {
   it('should render correctly', () => {
-    const { container } = render(
+    const { container } = renderWithProviders(
       <ModalComponent
         isOpen={true}
         modalID={ModalID.SEARCH}
@@ -16,7 +16,7 @@ describe('Modal', () => {
   });
 
   it('should render correctly with different modalID', () => {
-    const { container } = render(
+    const { container } = renderWithProviders(
       <ModalComponent
         isOpen={true}
         modalID={ModalID.NONE}

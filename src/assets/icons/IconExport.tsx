@@ -4,15 +4,15 @@ import {
   IconDay,
   IconDownArrow,
   IconHome,
-  IconHourcoding,
+  IconWorldOfTech,
   IconMenu,
   IconNight,
   IconRobot,
 } from './IconsAssets';
 
-import { HourcodingIconProps, IconHc } from './types';
+import { WorldOfTechIconProps, IconHc } from './types';
 
-const HourcodingIcon = ({ icon, ...rest }: HourcodingIconProps) => {
+const WorldOfTechIcon = ({ icon, ...rest }: WorldOfTechIconProps) => {
   switch (icon) {
     case IconHc.CODE:
       return <IconCode {...rest} />;
@@ -24,8 +24,8 @@ const HourcodingIcon = ({ icon, ...rest }: HourcodingIconProps) => {
       return <IconDownArrow {...rest} />;
     case IconHc.HOME:
       return <IconHome {...rest} />;
-    case IconHc.HOURCODING:
-      return <IconHourcoding {...rest} />;
+    case IconHc.WORLDOFTECH:
+      return <IconWorldOfTech {...rest} />;
     case IconHc.MENU:
       return <IconMenu {...rest} />;
     case IconHc.NIGHT:
@@ -37,4 +37,4 @@ const HourcodingIcon = ({ icon, ...rest }: HourcodingIconProps) => {
   }
 };
 
-export default HourcodingIcon;
+export default WorldOfTechIcon;

@@ -4,9 +4,8 @@ const LoadingComponent = () => {
   return (
     <Flex height={'100vh'} justifyContent={'center'} alignItems={'center'}>
       <Spinner
-        thickness="4px"
-        speed="0.65s"
-        emptyColor="primary"
+        borderWidth="4px"
+        animationDuration="0.65s"
         color="blue.500"
         size="xl"
       />

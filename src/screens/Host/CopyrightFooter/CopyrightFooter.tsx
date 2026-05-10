@@ -7,23 +7,23 @@ import { Link } from 'react-router-dom';
 const FOOTER_LINK = [
   {
     title: 'Privacy policy',
-    path: 'https://www.hourcoding.com/about/privacy-policy',
+    path: 'https://www.worldoftech.com/about/privacy-policy',
   },
   {
     title: 'Terms of service',
-    path: 'https://www.hourcoding.com/about/terms-of-use',
+    path: 'https://www.worldoftech.com/about/terms-of-use',
   },
   {
     title: 'Contact us',
-    path: 'https://www.hourcoding.com/about/contact-us',
+    path: 'https://www.worldoftech.com/about/contact-us',
   },
   {
     title: 'About us',
-    path: 'https://www.hourcoding.com/about/about-us',
+    path: 'https://www.worldoftech.com/about/about-us',
   },
   {
     title: 'FAQs',
-    path: 'https://www.hourcoding.com/about/faq',
+    path: 'https://www.worldoftech.com/about/faq',
   },
 ];
 
@@ -48,11 +48,10 @@ const CopyrightFooter = () => {
             key={title}
             fontSize={{ base: 10, md: 'sm' }}
             size={'sm'}
-            as={Link}
-            to={path}
-            variant={'link'}
+            variant={'plain'}
+            asChild
           >
-            {title}
+            <Link to={path}>{title}</Link>
           </Button>
         ))}
       </Box>

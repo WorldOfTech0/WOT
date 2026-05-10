@@ -1,16 +1,16 @@
-import { Modal, ModalContent, ModalOverlay } from '@chakra-ui/react';
+import { Dialog } from '@chakra-ui/react';
 import { ModalProps } from './types';
 import { SearchModal } from './Modals';
 import { ModalID } from '@uiStore';
 
 const ModalComponent = ({ isOpen, modalID, onModalClose }: ModalProps) => {
   return (
-    <Modal isOpen={isOpen} onClose={onModalClose}>
-      <ModalOverlay />
-      <ModalContent>
+    <Dialog.Root open={isOpen} onOpenChange={(details: { open: boolean }) => { if (!details.open) onModalClose(); }}>
+      <Dialog.Backdrop />
+      <Dialog.Content>
         <ModalToShow modalID={modalID} />
-      </ModalContent>
-    </Modal>
+      </Dialog.Content>
+    </Dialog.Root>
   );
 };
 

@@ -4,7 +4,7 @@ import { HeroSection } from './components';
 const LandingPage = () => {
   return (
     <TitleBoxContainer
-      title={'Hourcoding | Projects'}
+      title={'WorldOfTech | Projects'}
       icon="app"
       display="flex"
       flexDir="column"

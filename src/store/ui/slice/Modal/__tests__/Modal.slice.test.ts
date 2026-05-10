@@ -1,5 +1,5 @@
 import { ModalID, appStore } from '@uiStore';
-import { act, renderHook } from '@testing-library/react-hooks';
+import { act, renderHook } from '@testing-library/react';
 
 describe('Modal slice', () => {
   const onModalCloseMock = jest.fn();
@@ -30,13 +30,17 @@ describe('Modal slice', () => {
   it('should reset and close modal state on modal data set using closeModal', () => {
     const { result } = renderHook(() => appStore());
 
-    result.current.Modal.openModal(ModalID.SEARCH, onModalCloseMock);
+    act(() => {
+      result.current.Modal.openModal(ModalID.SEARCH, onModalCloseMock);
+    });
 
     expect(result.current.Modal.modalID).toEqual(ModalID.SEARCH);
     expect(result.current.Modal.modalData?.onModalClose).not.toBeUndefined();
 
-    result.current.Modal.resetModalState();
-    jest.runAllTimers();
+    act(() => {
+      result.current.Modal.resetModalState();
+      jest.runAllTimers();
+    });
 
     expect(result.current.Modal.modalID).toEqual(ModalID.NONE);
     expect(result.current.Modal.modalData?.onModalClose).toBeUndefined();
