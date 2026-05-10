@@ -5,7 +5,7 @@ description: Single unified Agent responsible for dynamically reviewing and test
 
 # Unified PR Review & Merge Agent
 
-This agent ruleset defines the responsibilities and workflows for the AI Agent assigned to review and merge Pull Requests in the SDPrimer monorepo.
+This agent ruleset defines the responsibilities and workflows for the AI Agent assigned to review and merge Pull Requests in the WorldOfTech project.
 
 ## 1. Trigger Conditions
 
@@ -16,8 +16,8 @@ This agent should be invoked when any Pull Request is opened or updated in the r
 The agent MUST perform the following checks before approving a PR:
 
 - **PR Metadata**: Verify that the PR title and description follow the templates defined in `.claude/skills/pr/SKILL.md`.
-- **Branch Naming**: Verify the branch name follows `{username}/{ticket-number}/{short-description}`.
-- **Dynamic Build & Test Verification**: Execute `bash scripts/pr-test-runner.sh`. This script will automatically determine which projects (`apps/web`, `apps/mobile`, `packages/`) have been modified and run the appropriate `yarn build` and `yarn test` commands. Ensure the script completes successfully without errors.
+- **Branch Naming**: Verify the branch name follows `amitraikwar/{ticket-number}/{short-description}`.
+- **Dynamic Build & Test Verification**: Execute `yarn run-staged-tests`. This script will automatically run the appropriate `yarn build` and `yarn test` commands. Ensure the script completes successfully without errors.
 - **Code Quality**: Ensure the changes adhere to project standards (e.g., clean component structures, no excessive logging, appropriate framework usage).
 
 ## 3. Merge Protocol
