@@ -98,8 +98,6 @@ export const renderWithProvidersAndRouter = (ui: React.ReactElement) => {
 export const renderHookWithProviders = <Result, Props>(
   renderCallback: (props: Props) => Result,
 ) => {
-  const queryClient = new QueryClient();
-
   return renderHook(renderCallback, {
     wrapper: ({ children }) => <AllProviders>{children}</AllProviders>,
   });
