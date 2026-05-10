@@ -1,7 +1,7 @@
 const ICON_SIZE = '20';
 
 export const COMMON_ICON_STYLE = {
-  variant: 'outline',
+  variant: 'outline' as const,
   padding: '0',
   borderRadius: 'full',
   transition: 'all 0.2s',

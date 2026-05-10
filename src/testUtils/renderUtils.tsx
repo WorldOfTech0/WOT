@@ -1,6 +1,21 @@
+import { ChakraProvider } from '@chakra-ui/react';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { render, renderHook } from '@testing-library/react';
 import { BrowserRouter } from 'react-router-dom';
+import { system } from '@components';
+
+const AllProviders = ({ children }: { children: React.ReactNode }) => {
+  const queryClient = new QueryClient({
+    defaultOptions: { queries: { retry: false } },
+  });
+  return (
+    <QueryClientProvider client={queryClient}>
+      <ChakraProvider value={system}>
+        <BrowserRouter>{children}</BrowserRouter>
+      </ChakraProvider>
+    </QueryClientProvider>
+  );
+};
 
 /**
  * Render with providers.
@@ -12,7 +27,9 @@ export const renderWithProviders = (ui: React.ReactElement) => {
   const { rerender, ...result } = render(ui, {
     wrapper: ({ children }) => (
       <QueryClientProvider client={queryClient}>
-        <BrowserRouter>{children}</BrowserRouter>
+        <ChakraProvider value={system}>
+          <BrowserRouter>{children}</BrowserRouter>
+        </ChakraProvider>
       </QueryClientProvider>
     ),
   });
@@ -22,7 +39,9 @@ export const renderWithProviders = (ui: React.ReactElement) => {
     renderer: (renderUi: React.ReactElement) =>
       rerender(
         <QueryClientProvider client={queryClient}>
-          <BrowserRouter>{renderUi}</BrowserRouter>
+          <ChakraProvider value={system}>
+            <BrowserRouter>{renderUi}</BrowserRouter>
+          </ChakraProvider>
         </QueryClientProvider>,
       ),
   };
@@ -34,7 +53,11 @@ export const renderWithProviders = (ui: React.ReactElement) => {
  * @returns The rendered component.
  */
 export const renderWithRouter = (ui: React.ReactElement) => {
-  return render(<BrowserRouter>{ui}</BrowserRouter>);
+  return render(
+    <ChakraProvider value={system}>
+      <BrowserRouter>{ui}</BrowserRouter>
+    </ChakraProvider>,
+  );
 };
 
 /**
@@ -47,7 +70,9 @@ export const renderWithProvidersAndRouter = (ui: React.ReactElement) => {
   const { rerender, ...result } = render(ui, {
     wrapper: ({ children }) => (
       <QueryClientProvider client={queryClient}>
-        <BrowserRouter>{children}</BrowserRouter>
+        <ChakraProvider value={system}>
+          <BrowserRouter>{children}</BrowserRouter>
+        </ChakraProvider>
       </QueryClientProvider>
     ),
   });
@@ -57,7 +82,9 @@ export const renderWithProvidersAndRouter = (ui: React.ReactElement) => {
     renderer: (renderUi: React.ReactElement) =>
       rerender(
         <QueryClientProvider client={queryClient}>
-          <BrowserRouter>{renderUi}</BrowserRouter>
+          <ChakraProvider value={system}>
+            <BrowserRouter>{renderUi}</BrowserRouter>
+          </ChakraProvider>
         </QueryClientProvider>,
       ),
   };
@@ -74,10 +101,6 @@ export const renderHookWithProviders = <Result, Props>(
   const queryClient = new QueryClient();
 
   return renderHook(renderCallback, {
-    wrapper: ({ children }) => (
-      <QueryClientProvider client={queryClient}>
-        <BrowserRouter>{children}</BrowserRouter>
-      </QueryClientProvider>
-    ),
+    wrapper: ({ children }) => <AllProviders>{children}</AllProviders>,
   });
 };

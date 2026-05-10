@@ -1,8 +1,8 @@
-import { useColorMode } from '@chakra-ui/react';
+import { useTheme } from 'next-themes';
 
 const useIsDarkMode = () => {
-  const { colorMode } = useColorMode();
-  return colorMode === 'dark';
+  const { resolvedTheme } = useTheme();
+  return resolvedTheme === 'dark';
 };
 
 export default useIsDarkMode;

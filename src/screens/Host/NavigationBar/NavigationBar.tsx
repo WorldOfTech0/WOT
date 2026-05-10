@@ -1,17 +1,15 @@
 import {
   Box,
   Button,
-  Divider,
+  Separator,
   HStack,
   Heading,
   Icon,
   Menu,
-  MenuButton,
-  MenuList,
   Text,
 } from '@chakra-ui/react';
 import { ThemeIcon } from '@components';
-import { HourcodingIcon, IconHc } from '@assets';
+import { WorldOfTechIcon, IconHc } from '@assets';
 import { useTranslation } from 'react-i18next';
 import { Link, useLocation } from 'react-router-dom';
 import { isEmpty } from 'lodash';
@@ -35,32 +33,35 @@ const NavigationBar = () => {
     >
       <HStack
         gap={0.2}
-        as={Link}
-        to={'https://www.hourcoding.com'}
         _hover={{
           cursor: 'pointer',
         }}
       >
-        <Icon
-          color={'white'}
-          width={'3em'}
-          height={'3em'}
-          focusable={false}
-          borderRadius={'full'}
-          bg={'primary'}
-          padding={2}
-        >
-          <HourcodingIcon icon={IconHc.HOURCODING} />
-        </Icon>
-        <Box display={{ base: 'none', xl: 'flex' }}>
-          <Heading size={'md'} textColor={'primary'}>
-            {t('Title_1')}
-          </Heading>
-          <Heading size={'md'}>{t('Title_2')}</Heading>
-        </Box>
+        <Link to={'https://www.worldoftech.com'} style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
+          <Icon
+            color={'white'}
+            width={'3em'}
+            height={'3em'}
+            focusable={false}
+            borderRadius={'full'}
+            bg={'primary'}
+            padding={2}
+            asChild
+          >
+            <span>
+              <WorldOfTechIcon icon={IconHc.WORLDOFTECH} />
+            </span>
+          </Icon>
+          <Box display={{ base: 'none', xl: 'flex' }}>
+            <Heading size={'md'} color={'primary'}>
+              {t('Title_1')}
+            </Heading>
+            <Heading size={'md'}>{t('Title_2')}</Heading>
+          </Box>
+        </Link>
         {!isEmpty(title) ? (
           <>
-            <Divider
+            <Separator
               orientation={'vertical'}
               mx={6}
               bg={'primary'}
@@ -73,48 +74,49 @@ const NavigationBar = () => {
       </HStack>
       <HStack>
         <HStack
-          spacing={{ base: 1, xl: 2 }}
+          gap={{ base: 1, xl: 2 }}
           display={{ base: 'none', xl: 'flex' }}
         >
           {NAVIGATION_LINKS.map(({ name, link, icon }) => (
             <Button
-              as={Link}
-              to={link}
+              asChild
               p={0}
               variant={'ghost'}
-              leftIcon={<HourcodingIcon icon={icon} height={20} width={20} />}
               key={link}
               aria-label={link + '-nav-link'}
             >
-              <Text
-                p={1}
-                fontSize={{ base: 'smaller', md: 'medium' }}
-                fontWeight={'bold'}
-                textAlign={'center'}
-                _hover={{
-                  cursor: 'pointer',
-                  color: 'primary',
-                }}
-                transition={'all 0.3s'}
-              >
-                {name}
-              </Text>
+              <Link to={link}>
+                <WorldOfTechIcon icon={icon} height={20} width={20} />
+                <Text
+                  p={1}
+                  fontSize={{ base: 'smaller', md: 'medium' }}
+                  fontWeight={'bold'}
+                  textAlign={'center'}
+                  _hover={{
+                    cursor: 'pointer',
+                    color: 'primary',
+                  }}
+                  transition={'all 0.3s'}
+                >
+                  {name}
+                </Text>
+              </Link>
             </Button>
           ))}
         </HStack>
         <Box display={{ base: 'flex', md: 'none' }}>
-          <Menu placement="bottom">
-            <MenuButton>
+          <Menu.Root>
+            <Menu.Trigger asChild>
               <Button
-                rightIcon={<HourcodingIcon icon={IconHc.MENU} />}
                 variant={'outline'}
                 borderColor="primary"
                 borderWidth={1}
               >
                 Menu
+                <WorldOfTechIcon icon={IconHc.MENU} />
               </Button>
-            </MenuButton>
-            <MenuList
+            </Menu.Trigger>
+            <Menu.Content
               zIndex={100}
               borderRadius={10}
               boxShadow={'md'}
@@ -122,32 +124,22 @@ const NavigationBar = () => {
               flexDir="column"
             >
               {NAVIGATION_LINKS.map(({ name, link, icon }) => (
-                <Button
-                  rightIcon={
-                    <HourcodingIcon icon={icon} height={20} width={20} />
-                  }
-                  key={link}
-                  aria-label={link + '-nav-link'}
-                >
-                  <Text
-                    p={1}
-                    as={Link}
-                    to={link}
-                    fontSize={{ base: 'smaller', md: 'medium' }}
-                    fontWeight={'bold'}
-                    textAlign={'center'}
-                    _hover={{
-                      cursor: 'pointer',
-                      color: 'primary',
-                    }}
-                    transition={'all 0.3s'}
-                  >
-                    {name}
-                  </Text>
-                </Button>
+                <Menu.Item key={link} value={link} asChild>
+                  <Link to={link}>
+                    <WorldOfTechIcon icon={icon} height={20} width={20} />
+                    <Text
+                      p={1}
+                      fontSize={{ base: 'smaller', md: 'medium' }}
+                      fontWeight={'bold'}
+                      textAlign={'center'}
+                    >
+                      {name}
+                    </Text>
+                  </Link>
+                </Menu.Item>
               ))}
-            </MenuList>
-          </Menu>
+            </Menu.Content>
+          </Menu.Root>
         </Box>
         <ThemeIcon />
       </HStack>

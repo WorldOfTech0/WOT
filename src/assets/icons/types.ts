@@ -1,4 +1,4 @@
-export type HourcodingIconProps = {
+export type WorldOfTechIconProps = {
   icon?: IconHc;
 } & React.SVGProps<SVGSVGElement>;
 
@@ -7,7 +7,7 @@ export enum IconHc {
   COLLEGE = 'college',
   DAY = 'day',
   DOWN_ARROW = 'down-arrow',
-  HOURCODING = 'hourcoding',
+  WORLDOFTECH = 'worldoftech',
   HOME = 'home',
   MENU = 'menu',
   NIGHT = 'night',

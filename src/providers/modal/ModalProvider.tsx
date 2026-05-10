@@ -11,7 +11,7 @@ import {
 import { ModalProviderProps } from './types';
 
 const ModalProvider = ({ children }: ModalProviderProps) => {
-  const { isOpen, onOpen, onClose } = useDisclosure();
+  const { open: isOpen, onOpen, onClose } = useDisclosure();
   const { openState, modalID, onModalClose, resetModalState } = appStore(
     useShallow(modalDataSelector),
   );

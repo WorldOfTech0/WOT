@@ -1,6 +1,6 @@
 import { render } from '@testing-library/react';
 
-import { IconDay, IconHourcoding, IconNight } from '../IconsAssets';
+import { IconDay, IconWorldOfTech, IconNight } from '../IconsAssets';
 
 describe('Icons', () => {
   it('should render IconDay icon', () => {
@@ -8,8 +8,8 @@ describe('Icons', () => {
     expect(container).toMatchSnapshot();
   });
 
-  it('should render IconHourcoding icon', () => {
-    const { container } = render(<IconHourcoding />);
+  it('should render IconWorldOfTech icon', () => {
+    const { container } = render(<IconWorldOfTech />);
     expect(container).toMatchSnapshot();
   });
 

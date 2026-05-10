@@ -1,9 +1,9 @@
-import { render } from '@testing-library/react';
+import { renderWithProviders } from '@testUtils';
 import SearchModal from '../SearchModal';
 
 describe('Search modal', () => {
   it('Should render correctly', () => {
-    const { container } = render(<SearchModal />);
+    const { container } = renderWithProviders(<SearchModal />);
 
     expect(container).toMatchSnapshot();
   });

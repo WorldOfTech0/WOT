@@ -3,43 +3,48 @@
 exports[`CopyrightFooter should render 1`] = `
 <div>
   <div
-    class="css-blokl4"
+    class="css-tpkhba"
   >
     <a
-      class="chakra-button css-11uacpy"
-      href="https://www.hourcoding.com/about/privacy-policy"
+      class="chakra-button css-1pwwpbx"
+      href="https://www.worldoftech.com/about/privacy-policy"
+      type="button"
     >
       Privacy policy
     </a>
     <a
-      class="chakra-button css-11uacpy"
-      href="https://www.hourcoding.com/about/terms-of-use"
+      class="chakra-button css-1pwwpbx"
+      href="https://www.worldoftech.com/about/terms-of-use"
+      type="button"
     >
       Terms of service
     </a>
     <a
-      class="chakra-button css-11uacpy"
-      href="https://www.hourcoding.com/about/contact-us"
+      class="chakra-button css-1pwwpbx"
+      href="https://www.worldoftech.com/about/contact-us"
+      type="button"
     >
       Contact us
     </a>
     <a
-      class="chakra-button css-11uacpy"
-      href="https://www.hourcoding.com/about/about-us"
+      class="chakra-button css-1pwwpbx"
+      href="https://www.worldoftech.com/about/about-us"
+      type="button"
     >
       About us
     </a>
     <a
-      class="chakra-button css-11uacpy"
-      href="https://www.hourcoding.com/about/faq"
+      class="chakra-button css-1pwwpbx"
+      href="https://www.worldoftech.com/about/faq"
+      type="button"
     >
       FAQs
     </a>
   </div>
   <div
-    class="css-18klxuc"
+    class="css-1ij1t7h"
   >
-    © 2024 Hourcoding.com | All rights reserved
+    © 2026 worldoftech.com | All rights reserved
   </div>
 </div>
 `;

@@ -4,11 +4,10 @@ import {
   Heading,
   Input,
   Text,
-  Collapse,
-  useDisclosure,
+  Collapsible,
   CloseButton,
-  InputGroup,
-  InputRightAddon,
+  Group,
+  InputAddon,
 } from '@chakra-ui/react';
 import { fuse } from '@data';
 import { useEffect, useState } from 'react';
@@ -17,14 +16,13 @@ import { Link } from 'react-router-dom';
 
 const HeroSection = () => {
   const { t } = useTranslation();
-  const { isOpen, onClose, onOpen } = useDisclosure();
+  const [isOpen, setIsOpen] = useState(false);
   const [search, setSearchText] = useState<string>('');
   const [list, setList] = useState<any[]>([]);
 
   useEffect(() => {
     const timeout = setTimeout(() => {
       const result = fuse.search(search);
-
       setList(result.map((item) => item.item));
     }, 500);
 
@@ -34,12 +32,8 @@ const HeroSection = () => {
   }, [search]);
 
   useEffect(() => {
-    if (list.length > 0) {
-      onOpen();
-    } else {
-      onClose();
-    }
-  }, [list.length, onClose, onOpen, search]);
+    setIsOpen(list.length > 0);
+  }, [list.length, search]);
 
   return (
     <Stack
@@ -63,15 +57,13 @@ const HeroSection = () => {
       <Text
         textAlign={'center'}
         fontSize={{ base: 'medium', md: 'large' }}
-        textColor={'neutral.100'}
+        color={'neutral.100'}
       >
         {t('LandingPage.subHeroText')}
       </Text>
-      <InputGroup
+      <Group
         width={{ base: '80%', md: '50%' }}
-        borderColor={'green.800'}
-        borderRadius={'full'}
-        color={'green.800'}
+        attached
       >
         <Input
           bg={'white'}
@@ -88,8 +80,10 @@ const HeroSection = () => {
           onChange={(e) => {
             setSearchText(e.target.value);
           }}
+          color={'green.800'}
+          borderColor={'green.800'}
         />
-        <InputRightAddon
+        <InputAddon
           _hover={{
             cursor: 'pointer',
           }}
@@ -98,57 +92,47 @@ const HeroSection = () => {
           }}
           bg={'white'}
           borderEndRadius={'full'}
+          px={2}
         >
           <CloseButton size={'md'} color={'green'} />
-        </InputRightAddon>
-      </InputGroup>
-      <Collapse
-        style={{
-          width: '50%',
-        }}
-        in={isOpen}
-        animateOpacity
-        transition={{
-          exit: {
-            duration: 0.5,
-            animation: 'easeInOut',
-          },
-          enter: {
-            duration: 0.5,
-            animation: 'easeInOut',
-          },
-        }}
+        </InputAddon>
+      </Group>
+      <Collapsible.Root
+        open={isOpen}
+        style={{ width: '50%' }}
       >
-        <VStack
-          width={'100%'}
-          zIndex={10}
-          py={2}
-          height={'40vh'}
-          bg={'white'}
-          borderRadius={10}
-          boxShadow={'md'}
-          overflow={'auto'}
-        >
-          {list.map((item) => (
-            <Text
-              width={'100%'}
-              fontSize={{ base: 'medium', md: 'large' }}
-              key={item.title}
-              textColor={'green.800'}
-              as={Link}
-              paddingX={5}
-              to={item.path}
-              _hover={{
-                bg: 'green.100',
-                borderRadius: 5,
-              }}
-              textAlign={'left'}
-            >
-              {item.title}
-            </Text>
-          ))}
-        </VStack>
-      </Collapse>
+        <Collapsible.Content>
+          <VStack
+            width={'100%'}
+            zIndex={10}
+            py={2}
+            height={'40vh'}
+            bg={'white'}
+            borderRadius={10}
+            boxShadow={'md'}
+            overflow={'auto'}
+          >
+            {list.map((item) => (
+              <Text
+                width={'100%'}
+                fontSize={{ base: 'medium', md: 'large' }}
+                key={item.title}
+                color={'green.800'}
+                asChild
+                paddingX={5}
+                textAlign={'left'}
+              >
+                <Link
+                  to={item.path}
+                  style={{ display: 'block', width: '100%' }}
+                >
+                  {item.title}
+                </Link>
+              </Text>
+            ))}
+          </VStack>
+        </Collapsible.Content>
+      </Collapsible.Root>
     </Stack>
   );
 };

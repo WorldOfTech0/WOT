@@ -1,9 +1,9 @@
-import { render } from '@testing-library/react';
+import { renderWithProviders } from '@testUtils';
 import LoadingComponent from '../LoadingComponent';
 
 describe('Loading Component', () => {
   it('should render correctly', () => {
-    const { container } = render(<LoadingComponent />);
+    const { container } = renderWithProviders(<LoadingComponent />);
 
     expect(container).toMatchSnapshot();
   });

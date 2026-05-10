@@ -3,7 +3,7 @@ export * from './College';
 export * from './Day';
 export * from './DownArrow';
 export * from './Home';
-export * from './Hourcoding';
+export * from './WorldOfTech';
 export * from './Menu';
 export * from './Night';
 export * from './Robot';

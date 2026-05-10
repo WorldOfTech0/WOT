@@ -9,11 +9,16 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [16.x]
+        node-version: [20.x]
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'yarn'
+      - name: Enable Corepack
+        run: corepack enable
       - name: Install Dependencies
         run: yarn install
       - name: Build
@@ -21,8 +26,8 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          server: ${{ secrets.HOURCODING_ROADMAP_FTP_SERVER }}
-          username: ${{ secrets.HOURCODING_ROADMAP_FTP_ACCOUNT }}
-          password: ${{ secrets.HOURCODING_ROADMAP_FTP_PASSWORD }}
+          server: ${{ secrets.WOT_FTP_SERVER }}
+          username: ${{ secrets.WOT_FTP_ACCOUNT }}
+          password: ${{ secrets.WOT_FTP_PASSWORD }}
           local-dir: ./build/
           server-dir: ./

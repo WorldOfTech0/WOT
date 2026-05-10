@@ -1,4 +1,4 @@
-import { render } from '@testing-library/react';
+import { renderWithProviders } from '@testUtils';
 
 import TitleBoxContainer from '../TitleBoxContainer';
 
@@ -13,7 +13,7 @@ const props = {
 describe('TitleBoxContainer', () => {
   it('should set the document title', () => {
     // Act
-    const { container } = render(<TitleBoxContainer {...props} />);
+    const { container } = renderWithProviders(<TitleBoxContainer {...props} />);
 
     expect(container).toMatchSnapshot();
   });

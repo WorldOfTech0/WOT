@@ -3,64 +3,85 @@
 exports[`LandingPage should render correctly 1`] = `
 <div>
   <div
-    class="css-1t7lin7"
+    class="css-4cm927"
   >
     <div>
       <title>
-        Hourcoding | Projects
+        WorldOfTech | Projects
       </title>
     </div>
     <div
-      class="chakra-stack css-czh84e"
+      class="chakra-stack css-1y8eamp"
     >
       <h2
-        class="chakra-heading css-sq5xho"
+        class="chakra-heading css-jye50z"
       >
-        Welcome to Hourcoding | Roadmaps
+        Welcome to WorldOfTech
       </h2>
       <p
-        class="chakra-text css-u4jg54"
+        class="css-emxdng"
       >
-        Checkout our road-maps to become a professional developer, designer or a data scientist.
+        Boilerplate description text goes here.
       </p>
       <div
-        class="chakra-input__group css-1l2eyqo"
-        data-group="true"
+        class="chakra-group css-1jr4y88"
       >
         <input
-          class="chakra-input css-myj7kn"
-          placeholder="Search for a roadmaps"
+          class="chakra-input css-1d145ln"
+          data-first=""
+          data-group-item=""
+          placeholder="Search..."
+          style="--group-count: 2; --group-index: 0;"
           value=""
         />
         <div
-          class="chakra-input__right-addon css-dbv5e0"
+          class="css-p8g6xm"
+          data-group-item=""
+          data-last=""
+          style="--group-count: 2; --group-index: 1;"
         >
           <button
             aria-label="Close"
-            class="css-1yxqp3b"
+            class="chakra-button css-wtfbkt"
             type="button"
           >
             <svg
-              aria-hidden="true"
-              class="chakra-icon css-onkibi"
-              focusable="false"
+              class="css-kqzqgg"
               viewBox="0 0 24 24"
             >
               <path
-                d="M.439,21.44a1.5,1.5,0,0,0,2.122,2.121L11.823,14.3a.25.25,0,0,1,.354,0l9.262,9.263a1.5,1.5,0,1,0,2.122-2.121L14.3,12.177a.25.25,0,0,1,0-.354l9.263-9.262A1.5,1.5,0,0,0,21.439.44L12.177,9.7a.25.25,0,0,1-.354,0L2.561.44A1.5,1.5,0,0,0,.439,2.561L9.7,11.823a.25.25,0,0,1,0,.354Z"
-                fill="currentColor"
+                clip-rule="evenodd"
+                d="M18.7071 6.70711C19.0976 6.31658 19.0976 5.68342 18.7071 5.29289C18.3166 4.90237 17.6834 4.90237 17.2929 5.29289L12 10.5858L6.70711 5.29289C6.31658 4.90237 5.68342 4.90237 5.29289 5.29289C4.90237 5.68342 4.90237 6.31658 5.29289 6.70711L10.5858 12L5.29289 17.2929C4.90237 17.6834 4.90237 18.3166 5.29289 18.7071C5.68342 19.0976 6.31658 19.0976 6.70711 18.7071L12 13.4142L17.2929 18.7071C17.6834 19.0976 18.3166 19.0976 18.7071 18.7071C19.0976 18.3166 19.0976 17.6834 18.7071 17.2929L13.4142 12L18.7071 6.70711Z"
+                fill-rule="evenodd"
               />
             </svg>
           </button>
         </div>
       </div>
       <div
-        class="chakra-collapse"
-        style="overflow: hidden; display: none; width: 50%; opacity: 0; height: 0px;"
+        class="chakra-collapsible__root"
+        data-part="root"
+        data-scope="collapsible"
+        data-state="closed"
+        dir="ltr"
+        id="collapsible::r0:"
+        style="width: 50%;"
       >
         <div
-          class="chakra-stack css-1ha9ga8"
-        />
+          class="chakra-collapsible__content css-15cdg8i"
+          data-collapsible=""
+          data-part="content"
+          data-scope="collapsible"
+          data-state="closed"
+          dir="ltr"
+          hidden=""
+          id="collapsible::r0::content"
+          style="--height: 0px; --width: 0px;"
+        >
+          <div
+            class="chakra-stack css-d38cy"
+          />
+        </div>
       </div>
     </div>
   </div>
