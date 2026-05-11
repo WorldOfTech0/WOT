@@ -3,7 +3,7 @@
 exports[`Modal should render correctly 1`] = `
 <div>
   <div
-    class="chakra-dialog__backdrop css-1cnmm3c"
+    class="chakra-dialog__backdrop css-1s5qbxu"
     data-part="backdrop"
     data-scope="dialog"
     data-state="open"
@@ -11,22 +11,108 @@ exports[`Modal should render correctly 1`] = `
     id="dialog::r0::backdrop"
   />
   <div
-    aria-describedby="dialog::r0::description"
-    aria-labelledby="dialog::r0::title"
-    aria-modal="true"
-    class="chakra-dialog__content css-19b30xi"
-    data-part="content"
+    class="chakra-dialog__positioner css-h34q7s"
+    data-part="positioner"
     data-scope="dialog"
-    data-state="open"
     dir="ltr"
-    id="dialog::r0::content"
-    role="dialog"
-    tabindex="-1"
+    id="dialog::r0::positioner"
   >
     <div
-      class="css-16wkbyj"
+      aria-describedby="dialog::r0::description"
+      aria-labelledby="dialog::r0::title"
+      aria-modal="true"
+      class="chakra-dialog__content css-fgfm8d"
+      data-part="content"
+      data-scope="dialog"
+      data-state="open"
+      dir="ltr"
+      id="dialog::r0::content"
+      role="dialog"
+      tabindex="-1"
     >
-      Search
+      <div
+        class="chakra-stack css-q6ncq3"
+      >
+        <div
+          class="css-1lowjss"
+        >
+          <div
+            class="css-1ebzxwr"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 24px;"
+            >
+              search
+            </span>
+          </div>
+          <input
+            class="chakra-input css-1yvdd1p"
+            placeholder="Search the tech stack..."
+            value=""
+          />
+          <div
+            class="chakra-stack css-1x0y7ph"
+          >
+            <div
+              class="css-1i7ja2w"
+            >
+              <p
+                class="css-10tpgzx"
+              >
+                ESC
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="css-1hgr0s7"
+        >
+          <div
+            class="css-1p0zyki"
+          >
+            <p
+              class="css-1n2tetg"
+            >
+              Type at least 2 characters to search...
+            </p>
+          </div>
+        </div>
+        <div
+          class="css-1es5x1w"
+        >
+          <div
+            class="chakra-stack css-121t02s"
+          >
+            <div
+              class="chakra-stack css-6cpqb8"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 14px;"
+              >
+                keyboard_return
+              </span>
+              <p>
+                to select
+              </p>
+            </div>
+            <div
+              class="chakra-stack css-6cpqb8"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 14px;"
+              >
+                swap_vert
+              </span>
+              <p>
+                to navigate
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
@@ -43,17 +129,25 @@ exports[`Modal should render correctly with different modalID 1`] = `
     id="dialog::r1::backdrop"
   />
   <div
-    aria-describedby="dialog::r1::description"
-    aria-labelledby="dialog::r1::title"
-    aria-modal="true"
-    class="chakra-dialog__content css-19b30xi"
-    data-part="content"
+    class="chakra-dialog__positioner css-h34q7s"
+    data-part="positioner"
     data-scope="dialog"
-    data-state="open"
     dir="ltr"
-    id="dialog::r1::content"
-    role="dialog"
-    tabindex="-1"
-  />
+    id="dialog::r1::positioner"
+  >
+    <div
+      aria-describedby="dialog::r1::description"
+      aria-labelledby="dialog::r1::title"
+      aria-modal="true"
+      class="chakra-dialog__content css-fgfm8d"
+      data-part="content"
+      data-scope="dialog"
+      data-state="open"
+      dir="ltr"
+      id="dialog::r1::content"
+      role="dialog"
+      tabindex="-1"
+    />
+  </div>
 </div>
 `;

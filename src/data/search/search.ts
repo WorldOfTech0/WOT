@@ -17,6 +17,4 @@ const fuseOptions = {
   keys: ['title'],
 };
 
-const fuse = new Fuse([], fuseOptions);
-
-export default fuse;
+export const fuse = new Fuse([], fuseOptions);

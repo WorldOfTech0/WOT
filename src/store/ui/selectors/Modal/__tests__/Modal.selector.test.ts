@@ -25,7 +25,7 @@ describe('Modal selector', () => {
     );
 
     act(() => {
-      modalResult.current.openModal(ModalID.SEARCH, onModalCloseMock);
+      modalResult.current.openModal(ModalID.SEARCH, { onModalClose: onModalCloseMock });
     });
 
     expect(dataResult.current).toMatchSnapshot();
@@ -45,7 +45,7 @@ describe('Modal selector', () => {
     );
 
     act(() => {
-      modalResult.current.openModal(ModalID.SEARCH, onModalCloseMock);
+      modalResult.current.openModal(ModalID.SEARCH, { onModalClose: onModalCloseMock });
     });
 
     expect(dataResult.current.modalID).toEqual(modalData.modalID);

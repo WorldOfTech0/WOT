@@ -9,6 +9,7 @@ import {
 } from '@chakra-ui/react';
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 
 const MotionGridItem = motion(GridItem);
 
@@ -18,6 +19,7 @@ const CategoryCard = ({
   icon,
   isFeatured,
   number,
+  to,
 }: any) => {
   const { t } = useTranslation();
 
@@ -28,160 +30,172 @@ const CategoryCard = ({
       whileHover={{ y: -8 }}
       transition={{ duration: 0.4, ease: [0.23, 1, 0.32, 1] }}
     >
-      <Box
-        h="full"
-        position="relative"
-        bg="rgba(255, 255, 255, 0.02)"
-        backdropFilter="blur(24px)"
-        borderRadius="3xl"
-        borderWidth="1px"
-        borderColor="rgba(255, 255, 255, 0.08)"
-        overflow="hidden"
-        p={isFeatured ? { base: 8, md: 12 } : 8}
-        transition="all 0.4s cubic-bezier(0.4, 0, 0.2, 1)"
-        role="group"
-        _hover={{
-          bg: 'rgba(255, 255, 255, 0.04)',
-          borderColor: 'primary',
-          boxShadow:
-            '0 20px 40px rgba(0,0,0,0.4), 0 0 20px rgba(139, 92, 246, 0.1)',
-        }}
+      <Link
+        to={to}
+        style={{ textDecoration: 'none', display: 'block', height: '100%' }}
       >
-        {/* Glow effect */}
         <Box
-          position="absolute"
-          top="-20%"
-          right="-10%"
-          w="60%"
-          h="60%"
-          bgGradient="radial(primaryAlpha.200, transparent 70%)"
-          filter="blur(60px)"
-          opacity={0}
-          _groupHover={{ opacity: 1 }}
-          transition="opacity 0.6s ease"
-        />
-
-        <Flex
-          direction="column"
-          justify="space-between"
+          display="block"
           h="full"
           position="relative"
-          zIndex={1}
+          bg="surfaceContainer/40"
+          backdropFilter="blur(24px)"
+          borderRadius="3xl"
+          borderWidth="1px"
+          borderColor="outline"
+          overflow="hidden"
+          p={isFeatured ? { base: 8, md: 12 } : 8}
+          transition="all 0.4s cubic-bezier(0.4, 0, 0.2, 1)"
+          role="group"
+          _hover={{
+            bg: 'surfaceContainer/60',
+            borderColor: 'primary',
+            boxShadow:
+              '0 20px 40px rgba(0,0,0,0.4), 0 0 20px rgba(139, 92, 246, 0.1)',
+          }}
         >
-          <Box>
-            <Flex align="center" gap={4} mb={8}>
+          {/* Glow effect */}
+          <Box
+            position="absolute"
+            top="-20%"
+            right="-10%"
+            w="60%"
+            h="60%"
+            bgGradient="radial(primaryAlpha.200, transparent 70%)"
+            filter="blur(60px)"
+            opacity={0}
+            _groupHover={{ opacity: 1 }}
+            transition="opacity 0.6s ease"
+          />
+
+          <Flex
+            direction="column"
+            justify="space-between"
+            h="full"
+            position="relative"
+            zIndex={1}
+          >
+            <Box>
+              <Flex align="center" gap={4} mb={8}>
+                <Flex
+                  align="center"
+                  justify="center"
+                  w={isFeatured ? 14 : 10}
+                  h={isFeatured ? 14 : 10}
+                  borderRadius={isFeatured ? '2xl' : 'xl'}
+                  bg="primary/10"
+                  borderWidth="1px"
+                  borderColor="primary/20"
+                  color="primary"
+                  transition="all 0.3s ease"
+                  _groupHover={{
+                    bg: 'primary',
+                    color: 'white',
+                    transform: 'scale(1.1)',
+                  }}
+                >
+                  <span
+                    className="material-symbols-outlined"
+                    style={{ fontSize: isFeatured ? '28px' : '20px' }}
+                  >
+                    {icon}
+                  </span>
+                </Flex>
+                <Box>
+                  <Text
+                    fontSize="10px"
+                    fontFamily="mono"
+                    fontWeight="black"
+                    textTransform="uppercase"
+                    letterSpacing="0.2em"
+                    color="primary"
+                    mb={0.5}
+                  >
+                    {isFeatured
+                      ? t('LandingPage.Categories.featured')
+                      : t('LandingPage.Categories.techStack')}
+                  </Text>
+                  <Text
+                    fontSize="xs"
+                    color="onSurfaceVariant"
+                    fontFamily="mono"
+                  >
+                    {number} {'// SELECT'}
+                  </Text>
+                </Box>
+              </Flex>
+
+              <Heading
+                as="h3"
+                fontSize={isFeatured ? { base: '2xl', md: '3xl' } : '2xl'}
+                fontFamily="heading"
+                fontWeight="black"
+                lineHeight="shorter"
+                letterSpacing="tight"
+                color="onSurface"
+                mb={6}
+                transition="all 0.3s ease"
+                _groupHover={{ color: 'primary' }}
+              >
+                {title}
+              </Heading>
+
+              <Text
+                fontFamily="body"
+                fontSize={isFeatured ? 'lg' : 'sm'}
+                color="onSurfaceVariant"
+                maxW={isFeatured ? 'lg' : 'full'}
+                lineHeight="tall"
+                opacity={0.8}
+              >
+                {description}
+              </Text>
+            </Box>
+
+            <Flex align="center" justify="space-between" mt={12}>
+              <HStack gap={2}>
+                <Box w={2} h={2} borderRadius="full" bg="primary" />
+                <Text
+                  fontSize="xs"
+                  fontFamily="mono"
+                  color="primary"
+                  fontWeight="black"
+                  letterSpacing="widest"
+                >
+                  {t('LandingPage.Categories.suffix')}
+                </Text>
+              </HStack>
+
               <Flex
                 align="center"
                 justify="center"
-                w={isFeatured ? 14 : 10}
-                h={isFeatured ? 14 : 10}
-                borderRadius={isFeatured ? '2xl' : 'xl'}
-                bg="rgba(139, 92, 246, 0.1)"
+                w={12}
+                h={12}
+                borderRadius="full"
                 borderWidth="1px"
-                borderColor="rgba(139, 92, 246, 0.2)"
-                color="primary"
-                transition="all 0.3s ease"
+                borderColor="outline"
+                bg="surfaceContainer/20"
+                transition="all 0.4s cubic-bezier(0.4, 0, 0.2, 1)"
+                color="onSurface"
                 _groupHover={{
                   bg: 'primary',
+                  borderColor: 'primary',
                   color: 'white',
-                  transform: 'scale(1.1)',
+                  transform: 'rotate(45deg)',
+                  boxShadow: '0 0 20px rgba(139, 92, 246, 0.4)',
                 }}
               >
                 <span
                   className="material-symbols-outlined"
-                  style={{ fontSize: isFeatured ? '28px' : '20px' }}
+                  style={{ fontSize: '24px' }}
                 >
-                  {icon}
+                  arrow_forward
                 </span>
               </Flex>
-              <Box>
-                <Text
-                  fontSize="10px"
-                  fontFamily="mono"
-                  fontWeight="black"
-                  textTransform="uppercase"
-                  letterSpacing="0.2em"
-                  color="primary"
-                  mb={0.5}
-                >
-                  {isFeatured
-                    ? t('LandingPage.Categories.featured')
-                    : t('LandingPage.Categories.techStack')}
-                </Text>
-                <Text fontSize="xs" color="onSurfaceVariant" fontFamily="mono">
-                  {number} {'// SELECT'}
-                </Text>
-              </Box>
-            </Flex>
-
-            <Heading
-              as="h3"
-              fontSize={isFeatured ? { base: '2xl', md: '3xl' } : '2xl'}
-              fontFamily="heading"
-              fontWeight="black"
-              lineHeight="shorter"
-              letterSpacing="tight"
-              color="onSurface"
-              mb={6}
-              transition="all 0.3s ease"
-              _groupHover={{ color: 'primary' }}
-            >
-              {title}
-            </Heading>
-
-            <Text
-              fontFamily="body"
-              fontSize={isFeatured ? 'lg' : 'sm'}
-              color="onSurfaceVariant"
-              maxW={isFeatured ? 'lg' : 'full'}
-              lineHeight="tall"
-              opacity={0.8}
-            >
-              {description}
-            </Text>
-          </Box>
-
-          <Flex align="center" justify="space-between" mt={12}>
-            <HStack gap={2}>
-              <Box w={2} h={2} borderRadius="full" bg="primary" />
-              <Text
-                fontSize="xs"
-                fontFamily="mono"
-                color="primary"
-                fontWeight="black"
-                letterSpacing="widest"
-              >
-                {t('LandingPage.Categories.suffix')}
-              </Text>
-            </HStack>
-
-            <Flex
-              align="center"
-              justify="center"
-              w={12}
-              h={12}
-              borderRadius="full"
-              borderWidth="1px"
-              borderColor="rgba(255, 255, 255, 0.1)"
-              bg="rgba(255, 255, 255, 0.02)"
-              transition="all 0.4s cubic-bezier(0.4, 0, 0.2, 1)"
-              _groupHover={{
-                bg: 'primary',
-                borderColor: 'primary',
-                transform: 'rotate(45deg)',
-                boxShadow: '0 0 20px rgba(139, 92, 246, 0.4)',
-              }}
-            >
-              <span
-                className="material-symbols-outlined"
-                style={{ fontSize: '24px' }}
-              >
-                arrow_forward
-              </span>
             </Flex>
           </Flex>
-        </Flex>
-      </Box>
+        </Box>
+      </Link>
     </MotionGridItem>
   );
 };
@@ -203,18 +217,21 @@ const CategoryGrid = () => {
           icon="terminal"
           isFeatured={true}
           number="01"
+          to="/infrastructure"
         />
         <CategoryCard
           title={t('LandingPage.Categories.items.software.title')}
           description={t('LandingPage.Categories.items.software.description')}
           icon="integration_instructions"
           number="02"
+          to="/software"
         />
         <CategoryCard
           title={t('LandingPage.Categories.items.security.title')}
           description={t('LandingPage.Categories.items.security.description')}
           icon="shield"
           number="03"
+          to="/security"
         />
         <CategoryCard
           title={t('LandingPage.Categories.items.learning.title')}
@@ -222,18 +239,21 @@ const CategoryGrid = () => {
           icon="school"
           isFeatured={true}
           number="04"
+          to="/learning"
         />
         <CategoryCard
           title={t('LandingPage.Categories.items.resources.title')}
           description={t('LandingPage.Categories.items.resources.description')}
           icon="folder_zip"
           number="05"
+          to="/resources"
         />
         <CategoryCard
           title={t('LandingPage.Categories.items.tools.title')}
           description={t('LandingPage.Categories.items.tools.description')}
           icon="build"
           number="06"
+          to="/tools"
         />
       </Grid>
     </Box>

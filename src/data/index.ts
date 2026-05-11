@@ -1,1 +1,1 @@
-export { default as fuse } from './search';
+export * from './search';

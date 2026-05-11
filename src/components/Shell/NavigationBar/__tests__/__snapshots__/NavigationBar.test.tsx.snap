@@ -197,11 +197,11 @@ exports[`NavigationBar should render 1`] = `
       </div>
       <button
         aria-label="toggle-color-mode"
-        class="chakra-button css-1eilo2p"
+        class="chakra-button css-hjqm2w"
         type="button"
       >
         <svg
-          color="yellow"
+          color="primary"
           fill="currentColor"
           height="20"
           viewBox="0 0 16 16"

@@ -5,7 +5,7 @@ import { CopyrightFooter, TopNavBar, SideNavBar } from '@components';
 
 const Host = () => {
   return (
-    <Box minH="100vh" bg="black" color="white">
+    <Box minH="100vh" bg="bg" color="fg">
       <TopNavBar />
       <SideNavBar />
       <Box as="main" ml={{ base: 0, md: 64 }} minH="calc(100vh - 64px)">

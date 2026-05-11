@@ -3,10 +3,10 @@
 exports[`Host should render correctly 1`] = `
 <div>
   <div
-    class="css-1azg64g"
+    class="css-8qdz7x"
   >
     <header
-      class="css-efnem2"
+      class="css-lkgpjt"
     >
       <div
         class="chakra-stack css-1kydda"
@@ -40,11 +40,11 @@ exports[`Host should render correctly 1`] = `
         </button>
         <button
           aria-label="toggle-color-mode"
-          class="chakra-button css-1eilo2p"
+          class="chakra-button css-hjqm2w"
           type="button"
         >
           <svg
-            color="yellow"
+            color="primary"
             fill="currentColor"
             height="20"
             viewBox="0 0 16 16"
@@ -70,7 +70,7 @@ exports[`Host should render correctly 1`] = `
       </div>
     </header>
     <nav
-      class="css-14nel52"
+      class="css-1cm7kun"
     >
       <div
         class="css-2o4hrl"
