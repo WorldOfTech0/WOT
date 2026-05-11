@@ -8,13 +8,13 @@ import {
   Menu,
   Text,
 } from '@chakra-ui/react';
-import { ThemeIcon } from '@components';
+import { ThemeIcon } from '../../Theme';
 import { WorldOfTechIcon, IconHc } from '@assets';
 import { useTranslation } from 'react-i18next';
 import { Link, useLocation } from 'react-router-dom';
 import { isEmpty } from 'lodash';
 
-import { usePaddingForScreen } from '../../hooks';
+import { usePaddingForScreen } from '@screens/hooks';
 import { NAVIGATION_LINKS } from './constants';
 
 const NavigationBar = () => {
@@ -54,9 +54,9 @@ const NavigationBar = () => {
           </Icon>
           <Box display={{ base: 'none', xl: 'flex' }}>
             <Heading size={'md'} color={'primary'}>
-              {t('Title_1')}
+              {t('Common.Title_1')}
             </Heading>
-            <Heading size={'md'}>{t('Title_2')}</Heading>
+            <Heading size={'md'}>{t('Common.Title_2')}</Heading>
           </Box>
         </Link>
         {!isEmpty(title) ? (
@@ -112,7 +112,7 @@ const NavigationBar = () => {
                 borderColor="primary"
                 borderWidth={1}
               >
-                Menu
+                {t('Common.Menu')}
                 <WorldOfTechIcon icon={IconHc.MENU} />
               </Button>
             </Menu.Trigger>
