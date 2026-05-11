@@ -48,7 +48,16 @@ module.exports = {
   transform: {
     '^.+.(css|styl|less|sass|scss|png|jpg|ttf|woff|woff2)$':
       'jest-transform-stub',
-    '^.+\\.(js|jsx|ts|tsx)$': ['ts-jest', { isolatedModules: true }],
+    '^.+\\.(js|jsx|ts|tsx)$': [
+      'ts-jest',
+      {
+        isolatedModules: true,
+        tsconfig: {
+          module: 'commonjs',
+          moduleResolution: 'node',
+        },
+      },
+    ],
   },
   // coverageThreshold: {
   //   global: {
