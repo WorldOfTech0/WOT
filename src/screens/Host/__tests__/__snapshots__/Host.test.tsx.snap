@@ -108,7 +108,7 @@ exports[`Host should render correctly 1`] = `
                 class="material-symbols-outlined"
                 style="font-size: 20px; transition: all 0.3s ease;"
               >
-                folder_open
+                folder_zip
               </span>
               <p
                 class="css-1qq56l8"
@@ -160,7 +160,7 @@ exports[`Host should render correctly 1`] = `
                 class="material-symbols-outlined"
                 style="font-size: 20px; transition: all 0.3s ease;"
               >
-                terminal
+                integration_instructions
               </span>
               <p
                 class="css-1qq56l8"
@@ -186,7 +186,7 @@ exports[`Host should render correctly 1`] = `
                 class="material-symbols-outlined"
                 style="font-size: 20px; transition: all 0.3s ease;"
               >
-                dns
+                terminal
               </span>
               <p
                 class="css-1qq56l8"
