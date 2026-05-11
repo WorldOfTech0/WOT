@@ -3,87 +3,650 @@
 exports[`LandingPage should render correctly 1`] = `
 <div>
   <div
-    class="css-4cm927"
+    class="css-18l2x5v"
   >
-    <div>
-      <title>
-        WorldOfTech | Projects
-      </title>
-    </div>
-    <div
-      class="chakra-stack css-1y8eamp"
+    <section
+      class="css-w5tu5c"
     >
-      <h2
-        class="chakra-heading css-jye50z"
-      >
-        Welcome to WorldOfTech
-      </h2>
-      <p
-        class="css-emxdng"
-      >
-        Boilerplate description text goes here.
-      </p>
       <div
-        class="chakra-group css-1jr4y88"
+        class="css-1davq0z"
       >
-        <input
-          class="chakra-input css-1d145ln"
-          data-first=""
-          data-group-item=""
-          placeholder="Search..."
-          style="--group-count: 2; --group-index: 0;"
-          value=""
+        <div
+          style="position: absolute; top: 10%; left: 10%; width: 400px; height: 400px; border-radius: full; filter: blur(60px); will-change: transform;"
         />
         <div
-          class="css-p8g6xm"
-          data-group-item=""
-          data-last=""
-          style="--group-count: 2; --group-index: 1;"
+          style="position: absolute; bottom: 10%; right: 15%; width: 500px; height: 500px; border-radius: full; filter: blur(80px); will-change: transform;"
+        />
+        <div
+          style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); width: 800px; height: 800px; border-radius: full; filter: blur(100px); will-change: opacity,transform;"
+        />
+      </div>
+      <div
+        style="opacity: 0; will-change: opacity,transform; transform: translateY(20px);"
+      >
+        <div
+          class="css-81j9nk"
         >
-          <button
-            aria-label="Close"
-            class="chakra-button css-wtfbkt"
-            type="button"
+          <div
+            class="css-79elbk"
           >
-            <svg
-              class="css-kqzqgg"
-              viewBox="0 0 24 24"
-            >
-              <path
-                clip-rule="evenodd"
-                d="M18.7071 6.70711C19.0976 6.31658 19.0976 5.68342 18.7071 5.29289C18.3166 4.90237 17.6834 4.90237 17.2929 5.29289L12 10.5858L6.70711 5.29289C6.31658 4.90237 5.68342 4.90237 5.29289 5.29289C4.90237 5.68342 4.90237 6.31658 5.29289 6.70711L10.5858 12L5.29289 17.2929C4.90237 17.6834 4.90237 18.3166 5.29289 18.7071C5.68342 19.0976 6.31658 19.0976 6.70711 18.7071L12 13.4142L17.2929 18.7071C17.6834 19.0976 18.3166 19.0976 18.7071 18.7071C19.0976 18.3166 19.0976 17.6834 18.7071 17.2929L13.4142 12L18.7071 6.70711Z"
-                fill-rule="evenodd"
-              />
-            </svg>
-          </button>
+            <div
+              class="css-2o06cr"
+            />
+            <div
+              style="position: absolute; inset: 0; border-radius: 100%; will-change: transform,opacity;"
+            />
+          </div>
+          <p
+            class="css-19pl9ou"
+          >
+            Beta Version
+          </p>
         </div>
       </div>
       <div
-        class="chakra-collapsible__root"
-        data-part="root"
-        data-scope="collapsible"
-        data-state="closed"
-        dir="ltr"
-        id="collapsible::r0:"
-        style="width: 50%;"
+        class="chakra-stack css-hx52aw"
       >
         <div
-          class="chakra-collapsible__content css-15cdg8i"
-          data-collapsible=""
-          data-part="content"
-          data-scope="collapsible"
-          data-state="closed"
-          dir="ltr"
-          hidden=""
-          id="collapsible::r0::content"
-          style="--height: 0px; --width: 0px;"
+          style="opacity: 0; will-change: opacity,transform; transform: translateY(20px);"
         >
-          <div
-            class="chakra-stack css-d38cy"
-          />
+          <h1
+            class="chakra-heading css-k7g4ia"
+          >
+            CURATING THE
+             
+            <br />
+            <span
+              class="css-nkfer4"
+            >
+              TECH ELITE.
+            </span>
+          </h1>
+        </div>
+        <div
+          style="opacity: 0; will-change: opacity,transform; transform: translateY(20px);"
+        >
+          <p
+            class="css-3ws0pp"
+          >
+            Explore an extensive library of resources, software, infrastructure patterns, and security protocols designed for high-performance engineering teams.
+          </p>
         </div>
       </div>
-    </div>
+      <div
+        class="css-458sx5"
+      >
+        <div
+          style="opacity: 0; will-change: opacity,transform; transform: scale(0.95);"
+        >
+          <div
+            class="css-86s0lo"
+          >
+            <div
+              class="css-1qami3l"
+            />
+            <p
+              class="css-lgmh4x"
+            >
+              Tech Stack
+            </p>
+          </div>
+          <div
+            class="css-ekv6w8"
+          />
+          <div
+            class="css-14wwnue"
+          >
+            <div
+              class="css-3bpxic"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 24px;"
+              >
+                search
+              </span>
+            </div>
+            <input
+              class="chakra-input css-hylr73"
+              placeholder="Search the tech stack..."
+              value=""
+            />
+            <button
+              class="chakra-button css-170kanx"
+              type="button"
+            >
+              EXECUTE
+            </button>
+          </div>
+          <div
+            class="chakra-collapsible__root"
+            data-part="root"
+            data-scope="collapsible"
+            data-state="closed"
+            dir="ltr"
+            id="collapsible::r0:"
+            style="width: 100%; position: absolute; top: 100%; margin-top: 1.5rem; z-index: 10;"
+          >
+            <div
+              class="chakra-collapsible__content css-15cdg8i"
+              data-collapsible=""
+              data-part="content"
+              data-scope="collapsible"
+              data-state="closed"
+              dir="ltr"
+              hidden=""
+              id="collapsible::r0::content"
+              style="--height: 0px; --width: 0px;"
+            >
+              <div
+                class="chakra-stack css-7hltfp"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="css-1gxng3x"
+    >
+      <div
+        class="css-sta9oh"
+      >
+        <div
+          class="css-1h8tubl"
+        >
+          <div
+            class="css-vwwob8"
+            role="group"
+          >
+            <div
+              class="css-16icayy"
+            />
+            <div
+              class="css-jd24an"
+            >
+              <div>
+                <div
+                  class="css-2wuqlq"
+                >
+                  <div
+                    class="css-1qxjr57"
+                  >
+                    <span
+                      class="material-symbols-outlined"
+                      style="font-size: 28px;"
+                    >
+                      terminal
+                    </span>
+                  </div>
+                  <div>
+                    <p
+                      class="css-m2i5yq"
+                    >
+                      Featured Category
+                    </p>
+                    <p
+                      class="css-1iab9o6"
+                    >
+                      01
+                       
+                      // SELECT
+                    </p>
+                  </div>
+                </div>
+                <h3
+                  class="chakra-heading css-qh20wb"
+                >
+                  DEVELOPER INFRASTRUCTURE
+                </h3>
+                <p
+                  class="css-766f9t"
+                >
+                  High-performance tools for cloud architecture, deployment pipelines, and system monitoring.
+                </p>
+              </div>
+              <div
+                class="css-1dowgc8"
+              >
+                <div
+                  class="chakra-stack css-1x0y7ph"
+                >
+                  <div
+                    class="css-idhj6b"
+                  />
+                  <p
+                    class="css-v5jli6"
+                  >
+                    / ELITE STACK
+                  </p>
+                </div>
+                <div
+                  class="css-1j0rjqp"
+                >
+                  <span
+                    class="material-symbols-outlined"
+                    style="font-size: 24px;"
+                  >
+                    arrow_forward
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="css-1pms3ts"
+        >
+          <div
+            class="css-mfewon"
+            role="group"
+          >
+            <div
+              class="css-16icayy"
+            />
+            <div
+              class="css-jd24an"
+            >
+              <div>
+                <div
+                  class="css-2wuqlq"
+                >
+                  <div
+                    class="css-1f2os1n"
+                  >
+                    <span
+                      class="material-symbols-outlined"
+                      style="font-size: 20px;"
+                    >
+                      integration_instructions
+                    </span>
+                  </div>
+                  <div>
+                    <p
+                      class="css-m2i5yq"
+                    >
+                      Tech Stack
+                    </p>
+                    <p
+                      class="css-1iab9o6"
+                    >
+                      02
+                       
+                      // SELECT
+                    </p>
+                  </div>
+                </div>
+                <h3
+                  class="chakra-heading css-ilvt5x"
+                >
+                  PREMIUM SOFTWARE
+                </h3>
+                <p
+                  class="css-wu7933"
+                >
+                  Elite productivity tools and IDE extensions.
+                </p>
+              </div>
+              <div
+                class="css-1dowgc8"
+              >
+                <div
+                  class="chakra-stack css-1x0y7ph"
+                >
+                  <div
+                    class="css-idhj6b"
+                  />
+                  <p
+                    class="css-v5jli6"
+                  >
+                    / ELITE STACK
+                  </p>
+                </div>
+                <div
+                  class="css-1j0rjqp"
+                >
+                  <span
+                    class="material-symbols-outlined"
+                    style="font-size: 24px;"
+                  >
+                    arrow_forward
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="css-1pms3ts"
+        >
+          <div
+            class="css-mfewon"
+            role="group"
+          >
+            <div
+              class="css-16icayy"
+            />
+            <div
+              class="css-jd24an"
+            >
+              <div>
+                <div
+                  class="css-2wuqlq"
+                >
+                  <div
+                    class="css-1f2os1n"
+                  >
+                    <span
+                      class="material-symbols-outlined"
+                      style="font-size: 20px;"
+                    >
+                      shield
+                    </span>
+                  </div>
+                  <div>
+                    <p
+                      class="css-m2i5yq"
+                    >
+                      Tech Stack
+                    </p>
+                    <p
+                      class="css-1iab9o6"
+                    >
+                      03
+                       
+                      // SELECT
+                    </p>
+                  </div>
+                </div>
+                <h3
+                  class="chakra-heading css-ilvt5x"
+                >
+                  CYBERSECURITY
+                </h3>
+                <p
+                  class="css-wu7933"
+                >
+                  Advanced protection and auditing tools.
+                </p>
+              </div>
+              <div
+                class="css-1dowgc8"
+              >
+                <div
+                  class="chakra-stack css-1x0y7ph"
+                >
+                  <div
+                    class="css-idhj6b"
+                  />
+                  <p
+                    class="css-v5jli6"
+                  >
+                    / ELITE STACK
+                  </p>
+                </div>
+                <div
+                  class="css-1j0rjqp"
+                >
+                  <span
+                    class="material-symbols-outlined"
+                    style="font-size: 24px;"
+                  >
+                    arrow_forward
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="css-1h8tubl"
+        >
+          <div
+            class="css-vwwob8"
+            role="group"
+          >
+            <div
+              class="css-16icayy"
+            />
+            <div
+              class="css-jd24an"
+            >
+              <div>
+                <div
+                  class="css-2wuqlq"
+                >
+                  <div
+                    class="css-1qxjr57"
+                  >
+                    <span
+                      class="material-symbols-outlined"
+                      style="font-size: 28px;"
+                    >
+                      school
+                    </span>
+                  </div>
+                  <div>
+                    <p
+                      class="css-m2i5yq"
+                    >
+                      Featured Category
+                    </p>
+                    <p
+                      class="css-1iab9o6"
+                    >
+                      04
+                       
+                      // SELECT
+                    </p>
+                  </div>
+                </div>
+                <h3
+                  class="chakra-heading css-qh20wb"
+                >
+                  LEARNING RESOURCES
+                </h3>
+                <p
+                  class="css-766f9t"
+                >
+                  Deep-dive tutorials and whitepapers for the modern engineer.
+                </p>
+              </div>
+              <div
+                class="css-1dowgc8"
+              >
+                <div
+                  class="chakra-stack css-1x0y7ph"
+                >
+                  <div
+                    class="css-idhj6b"
+                  />
+                  <p
+                    class="css-v5jli6"
+                  >
+                    / ELITE STACK
+                  </p>
+                </div>
+                <div
+                  class="css-1j0rjqp"
+                >
+                  <span
+                    class="material-symbols-outlined"
+                    style="font-size: 24px;"
+                  >
+                    arrow_forward
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="css-1pms3ts"
+        >
+          <div
+            class="css-mfewon"
+            role="group"
+          >
+            <div
+              class="css-16icayy"
+            />
+            <div
+              class="css-jd24an"
+            >
+              <div>
+                <div
+                  class="css-2wuqlq"
+                >
+                  <div
+                    class="css-1f2os1n"
+                  >
+                    <span
+                      class="material-symbols-outlined"
+                      style="font-size: 20px;"
+                    >
+                      folder_zip
+                    </span>
+                  </div>
+                  <div>
+                    <p
+                      class="css-m2i5yq"
+                    >
+                      Tech Stack
+                    </p>
+                    <p
+                      class="css-1iab9o6"
+                    >
+                      05
+                       
+                      // SELECT
+                    </p>
+                  </div>
+                </div>
+                <h3
+                  class="chakra-heading css-ilvt5x"
+                >
+                  ELITE RESOURCES
+                </h3>
+                <p
+                  class="css-wu7933"
+                >
+                  Curated collections of high-quality developer assets, documentation, and tools.
+                </p>
+              </div>
+              <div
+                class="css-1dowgc8"
+              >
+                <div
+                  class="chakra-stack css-1x0y7ph"
+                >
+                  <div
+                    class="css-idhj6b"
+                  />
+                  <p
+                    class="css-v5jli6"
+                  >
+                    / ELITE STACK
+                  </p>
+                </div>
+                <div
+                  class="css-1j0rjqp"
+                >
+                  <span
+                    class="material-symbols-outlined"
+                    style="font-size: 24px;"
+                  >
+                    arrow_forward
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="css-1pms3ts"
+        >
+          <div
+            class="css-mfewon"
+            role="group"
+          >
+            <div
+              class="css-16icayy"
+            />
+            <div
+              class="css-jd24an"
+            >
+              <div>
+                <div
+                  class="css-2wuqlq"
+                >
+                  <div
+                    class="css-1f2os1n"
+                  >
+                    <span
+                      class="material-symbols-outlined"
+                      style="font-size: 20px;"
+                    >
+                      build
+                    </span>
+                  </div>
+                  <div>
+                    <p
+                      class="css-m2i5yq"
+                    >
+                      Tech Stack
+                    </p>
+                    <p
+                      class="css-1iab9o6"
+                    >
+                      06
+                       
+                      // SELECT
+                    </p>
+                  </div>
+                </div>
+                <h3
+                  class="chakra-heading css-ilvt5x"
+                >
+                  ENGINEERING TOOLS
+                </h3>
+                <p
+                  class="css-wu7933"
+                >
+                  Powerful utilities and specialized software for advanced technical workflows.
+                </p>
+              </div>
+              <div
+                class="css-1dowgc8"
+              >
+                <div
+                  class="chakra-stack css-1x0y7ph"
+                >
+                  <div
+                    class="css-idhj6b"
+                  />
+                  <p
+                    class="css-v5jli6"
+                  >
+                    / ELITE STACK
+                  </p>
+                </div>
+                <div
+                  class="css-1j0rjqp"
+                >
+                  <span
+                    class="material-symbols-outlined"
+                    style="font-size: 24px;"
+                  >
+                    arrow_forward
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   </div>
 </div>
 `;

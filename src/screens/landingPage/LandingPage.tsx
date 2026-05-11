@@ -1,18 +1,12 @@
-import { TitleBoxContainer } from '@components';
-import { HeroSection } from './components';
+import { Box } from '@chakra-ui/react';
+import { HeroSection, CategoryGrid } from './components';
 
 const LandingPage = () => {
   return (
-    <TitleBoxContainer
-      title={'WorldOfTech | Projects'}
-      icon="app"
-      display="flex"
-      flexDir="column"
-      rowGap={10}
-      height={'100vh'}
-    >
+    <Box display="flex" flexDir="column" rowGap={10}>
       <HeroSection />
-    </TitleBoxContainer>
+      <CategoryGrid />
+    </Box>
   );
 };
 
