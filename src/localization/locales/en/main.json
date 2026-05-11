@@ -72,5 +72,49 @@
     },
     "copyright": "© 2024 WORLDOFTECH.CO.IN // ALL RIGHTS RESERVED.",
     "tagline": "STAY CURIOUS. STAY ELITE."
+  },
+  "Resources": {
+    "title": "Elite Resources",
+    "description": "Curated collections of high-quality developer assets, documentation, and research.",
+    "features": {
+      "documentation": {
+        "title": "Technical Documentation",
+        "desc": "Comprehensive guides and API references for modern stacks."
+      },
+      "caseStudies": {
+        "title": "Case Studies",
+        "desc": "Deep dives into successful engineering transformations."
+      },
+      "whitepapers": {
+        "title": "Whitepapers",
+        "desc": "Research-backed analysis of emerging technologies."
+      },
+      "assets": {
+        "title": "Design Assets",
+        "desc": "Premium UI kits, icons, and design systems for developers."
+      }
+    }
+  },
+  "Tools": {
+    "title": "Engineering Tools",
+    "description": "Powerful utilities and specialized software for advanced technical workflows.",
+    "features": {
+      "cli": {
+        "title": "CLI Utilities",
+        "desc": "Powerful command-line tools for automated workflows."
+      },
+      "devTools": {
+        "title": "Developer Tools",
+        "desc": "Specialized debugging and performance analysis software."
+      },
+      "frameworks": {
+        "title": "Core Frameworks",
+        "desc": "High-performance building blocks for technical ecosystems."
+      },
+      "automation": {
+        "title": "Automation Engine",
+        "desc": "Low-code and script-based solutions for task orchestration."
+      }
+    }
   }
 }

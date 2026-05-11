@@ -9,7 +9,7 @@ const SideNavBar = () => {
   const navItems = [
     {
       label: t('Navigation.items.resources'),
-      icon: 'folder_open',
+      icon: 'folder_zip',
       path: '/resources',
     },
     {
@@ -19,12 +19,12 @@ const SideNavBar = () => {
     },
     {
       label: t('Navigation.items.software'),
-      icon: 'terminal',
+      icon: 'integration_instructions',
       path: '/software',
     },
     {
       label: t('Navigation.items.infrastructure'),
-      icon: 'dns',
+      icon: 'terminal',
       path: '/infrastructure',
     },
     {
