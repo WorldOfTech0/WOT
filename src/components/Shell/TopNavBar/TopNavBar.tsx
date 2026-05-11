@@ -9,7 +9,7 @@ const TopNavBar = () => {
   return (
     <Flex
       as="header"
-      bg="rgba(15, 12, 24, 0.7)"
+      bg="bg/70"
       backdropFilter="blur(24px)"
       borderBottomWidth={1}
       borderColor="outline"

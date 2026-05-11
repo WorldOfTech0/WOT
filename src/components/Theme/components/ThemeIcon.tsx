@@ -17,18 +17,18 @@ const ThemeIcon = () => {
   return (
     <IconButton
       {...COMMON_ICON_STYLE}
-      _hover={{ bg: 'green.900' }}
+      _hover={{ bg: 'surfaceContainer' }}
       aria-label={'toggle-color-mode'}
       onClick={toggleColorMode}
     >
       {isDark ? (
         <WorldOfTechIcon
-          color={'yellow'}
+          color={'primary'}
           icon={IconHc.DAY}
           {...ICON_SIZE_STYLE}
         />
       ) : (
-        <WorldOfTechIcon icon={IconHc.NIGHT} {...ICON_SIZE_STYLE} />
+        <WorldOfTechIcon color={'primary'} icon={IconHc.NIGHT} {...ICON_SIZE_STYLE} />
       )}
     </IconButton>
   );

@@ -145,13 +145,25 @@ const customConfig = defineConfig({
     semanticTokens: {
       colors: {
         bg: {
-          value: { _light: colors.background, _dark: colors.background },
+          value: { _light: '#f8fafc', _dark: colors.background },
         },
         fg: {
-          value: { _light: colors.onBackground, _dark: colors.onBackground },
+          value: { _light: colors.background, _dark: colors.onBackground },
         },
         primary: {
           value: { _light: colors.primary, _dark: colors.primary },
+        },
+        onSurface: {
+          value: { _light: colors.background, _dark: colors.onSurface },
+        },
+        onSurfaceVariant: {
+          value: { _light: colors.neutral[600], _dark: colors.onSurfaceVariant },
+        },
+        outline: {
+          value: { _light: colors.neutral[200], _dark: colors.outline },
+        },
+        surfaceContainer: {
+          value: { _light: '#ffffff', _dark: colors.surfaceContainer },
         },
         'green.700': {
           value: { _light: colors.green[700], _dark: colors.green[700] },
