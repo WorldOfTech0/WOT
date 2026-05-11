@@ -1,17 +1,76 @@
 {
-  "Title_1": "World",
-  "Title_2": "OfTech",
+  "Common": {
+    "brandName": "WorldOfTech",
+    "search": "Search",
+    "code": "Code",
+    "execute": "EXECUTE"
+  },
+  "Navigation": {
+    "header": "Navigation",
+    "subHeader": "SYSTEM LIBRARIES",
+    "items": {
+      "resources": "Resources",
+      "software": "Software",
+      "infrastructure": "Infrastructure",
+      "security": "Security",
+      "learning": "Learning",
+      "tools": "Tools"
+    }
+  },
   "LandingPage": {
-    "heroText": "Welcome to WorldOfTech",
-    "subHeroText": "Boilerplate description text goes here.",
-    "searchPlaceholder": "Search..."
+    "Hero": {
+      "version": "Beta Version",
+      "headingMain": "CURATING THE",
+      "headingAccent": "TECH ELITE.",
+      "subtext": "Explore an extensive library of resources, software, infrastructure patterns, and security protocols designed for high-performance engineering teams.",
+      "searchPlaceholder": "Search the tech stack..."
+    },
+    "Categories": {
+      "featured": "Featured Category",
+      "techStack": "Tech Stack",
+      "suffix": "/ ELITE STACK",
+      "items": {
+        "infrastructure": {
+          "title": "DEVELOPER INFRASTRUCTURE",
+          "description": "High-performance tools for cloud architecture, deployment pipelines, and system monitoring."
+        },
+        "software": {
+          "title": "PREMIUM SOFTWARE",
+          "description": "Elite productivity tools and IDE extensions."
+        },
+        "security": {
+          "title": "CYBERSECURITY",
+          "description": "Advanced protection and auditing tools."
+        },
+        "learning": {
+          "title": "LEARNING RESOURCES",
+          "description": "Deep-dive tutorials and whitepapers for the modern engineer."
+        },
+        "resources": {
+          "title": "ELITE RESOURCES",
+          "description": "Curated collections of high-quality developer assets, documentation, and tools."
+        },
+        "tools": {
+          "title": "ENGINEERING TOOLS",
+          "description": "Powerful utilities and specialized software for advanced technical workflows."
+        }
+      }
+    }
   },
   "Footer": {
-    "copyrightText": "© {{year}} worldoftech.com | All rights reserved"
-  },
-  "NavigationBar": {
-    "Home": "Home",
-    "About": "About",
-    "Contact": "Contact"
+    "description": "Curating the finest technology resources for the modern developer elite.",
+    "sections": {
+      "connect": "Connect",
+      "legal": "Legal"
+    },
+    "links": {
+      "website": "Website",
+      "github": "GitHub",
+      "twitter": "Twitter",
+      "privacy": "Privacy",
+      "terms": "Terms"
+    },
+    "copyright": "© 2024 WORLDOFTECH.CO.IN // ALL RIGHTS RESERVED.",
+    "tagline": "STAY CURIOUS. STAY ELITE."
   }
 }
