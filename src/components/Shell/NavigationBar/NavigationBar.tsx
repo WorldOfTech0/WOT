@@ -37,7 +37,10 @@ const NavigationBar = () => {
           cursor: 'pointer',
         }}
       >
-        <Link to={'https://www.worldoftech.com'} style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
+        <Link
+          to={'https://www.worldoftech.com'}
+          style={{ display: 'flex', alignItems: 'center', gap: '4px' }}
+        >
           <Icon
             color={'white'}
             width={'3em'}
@@ -73,10 +76,7 @@ const NavigationBar = () => {
         ) : null}
       </HStack>
       <HStack>
-        <HStack
-          gap={{ base: 1, xl: 2 }}
-          display={{ base: 'none', xl: 'flex' }}
-        >
+        <HStack gap={{ base: 1, xl: 2 }} display={{ base: 'none', xl: 'flex' }}>
           {NAVIGATION_LINKS.map(({ name, link, icon }) => (
             <Button
               asChild
@@ -107,11 +107,7 @@ const NavigationBar = () => {
         <Box display={{ base: 'flex', md: 'none' }}>
           <Menu.Root>
             <Menu.Trigger asChild>
-              <Button
-                variant={'outline'}
-                borderColor="primary"
-                borderWidth={1}
-              >
+              <Button variant={'outline'} borderColor="primary" borderWidth={1}>
                 {t('Common.Menu')}
                 <WorldOfTechIcon icon={IconHc.MENU} />
               </Button>

@@ -14,8 +14,10 @@ const ModalComponent = ({ isOpen, modalID, onModalClose }: ModalProps) => {
       motionPreset="slide-in-bottom"
     >
       <Dialog.Backdrop
-        bg={modalID === ModalID.SEARCH ? 'rgba(0, 0, 0, 0.4)' : undefined}
-        backdropFilter={modalID === ModalID.SEARCH ? 'blur(10px)' : undefined}
+        css={{
+          bg: modalID === ModalID.SEARCH ? 'rgba(0, 0, 0, 0.4)' : undefined,
+          backdropFilter: modalID === ModalID.SEARCH ? 'blur(10px)' : undefined,
+        }}
       />
       <Dialog.Positioner>
         <Dialog.Content
