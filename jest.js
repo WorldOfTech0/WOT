@@ -33,9 +33,19 @@ jest.useFakeTimers();
 jest.mock('zustand');
 
 // Font source mocks.
-jest.mock('@fontsource/bungee-shade', () => ({
+jest.mock('@fontsource-variable/outfit', () => ({
   __esModule: true,
-  default: 'bungee-shade',
+  default: 'outfit',
+}));
+
+jest.mock('@fontsource-variable/inter', () => ({
+  __esModule: true,
+  default: 'inter',
+}));
+
+jest.mock('@fontsource-variable/jetbrains-mono', () => ({
+  __esModule: true,
+  default: 'jetbrains-mono',
 }));
 
 /**

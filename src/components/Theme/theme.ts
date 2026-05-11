@@ -1,7 +1,9 @@
 import { createSystem, defaultConfig, defineConfig } from '@chakra-ui/react';
 import colors from './colors';
 import { breakpoints, fontSize, fontWeight, lineHeight, zIndices } from './fonts';
-import '@fontsource/bungee-shade';
+import '@fontsource-variable/outfit';
+import '@fontsource-variable/inter';
+import '@fontsource-variable/jetbrains-mono';
 
 const customConfig = defineConfig({
   theme: {
@@ -17,6 +19,21 @@ const customConfig = defineConfig({
         transparent: { value: colors.transparent },
         primary: { value: colors.primary },
         secondary: { value: colors.secondary },
+        tertiary: { value: colors.tertiary },
+        background: { value: colors.background },
+        surface: { value: colors.surface },
+        surfaceDim: { value: colors.surfaceDim },
+        surfaceBright: { value: colors.surfaceBright },
+        surfaceContainer: { value: colors.surfaceContainer },
+        surfaceContainerLow: { value: colors.surfaceContainerLow },
+        surfaceContainerHigh: { value: colors.surfaceContainerHigh },
+        onSurface: { value: colors.onSurface },
+        onSurfaceVariant: { value: colors.onSurfaceVariant },
+        onPrimary: { value: colors.onPrimary },
+        onSecondary: { value: colors.onSecondary },
+        onTertiary: { value: colors.onTertiary },
+        onBackground: { value: colors.onBackground },
+        outline: { value: colors.outline },
         // Social colors
         'social.facebook': { value: colors.social.facebook },
         'social.linkedin': { value: colors.social.linkedin },
@@ -70,8 +87,12 @@ const customConfig = defineConfig({
         'error.400': { value: colors.error[400] },
       },
       fonts: {
-        heading: { value: `'Bungee Shade', sans-serif` },
-        body: { value: `'Karla Variable', sans-serif` },
+        heading: { value: `'Outfit Variable', sans-serif` },
+        body: { value: `'Inter Variable', sans-serif` },
+        mono: { value: `'JetBrains Mono Variable', monospace` },
+      },
+      radii: {
+        md: { value: '12px' },
       },
       fontSizes: {
         xs: { value: fontSize.xs },
@@ -123,6 +144,12 @@ const customConfig = defineConfig({
     },
     semanticTokens: {
       colors: {
+        bg: {
+          value: { _light: colors.background, _dark: colors.background },
+        },
+        fg: {
+          value: { _light: colors.onBackground, _dark: colors.onBackground },
+        },
         primary: {
           value: { _light: colors.primary, _dark: colors.primary },
         },
