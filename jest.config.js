@@ -1,10 +1,5 @@
 module.exports = {
   verbose: true,
-  globals: {
-    'ts-jest': {
-      isolatedModules: true,
-    },
-  },
   setupFilesAfterEnv: ['<rootDir>/jest.js'],
   roots: ['./'],
   testEnvironment: 'jest-environment-jsdom',
@@ -53,7 +48,7 @@ module.exports = {
   transform: {
     '^.+.(css|styl|less|sass|scss|png|jpg|ttf|woff|woff2)$':
       'jest-transform-stub',
-    '^.+\\.(js|jsx|ts|tsx)$': 'ts-jest',
+    '^.+\\.(js|jsx|ts|tsx)$': ['ts-jest', { isolatedModules: true }],
   },
   // coverageThreshold: {
   //   global: {
