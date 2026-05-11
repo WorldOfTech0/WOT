@@ -5,11 +5,31 @@ import { ModalID } from '@uiStore';
 
 const ModalComponent = ({ isOpen, modalID, onModalClose }: ModalProps) => {
   return (
-    <Dialog.Root open={isOpen} onOpenChange={(details: { open: boolean }) => { if (!details.open) onModalClose(); }}>
-      <Dialog.Backdrop />
-      <Dialog.Content>
-        <ModalToShow modalID={modalID} />
-      </Dialog.Content>
+    <Dialog.Root
+      open={isOpen}
+      onOpenChange={(details: { open: boolean }) => {
+        if (!details.open) onModalClose();
+      }}
+      placement="center"
+      motionPreset="slide-in-bottom"
+    >
+      <Dialog.Backdrop
+        bg={modalID === ModalID.SEARCH ? 'rgba(0, 0, 0, 0.4)' : undefined}
+        backdropFilter={modalID === ModalID.SEARCH ? 'blur(10px)' : undefined}
+      />
+      <Dialog.Positioner>
+        <Dialog.Content
+          bg="transparent"
+          border="none"
+          boxShadow="none"
+          maxW="2xl"
+          w="full"
+          p={4}
+          position="relative"
+        >
+          <ModalToShow modalID={modalID} />
+        </Dialog.Content>
+      </Dialog.Positioner>
     </Dialog.Root>
   );
 };

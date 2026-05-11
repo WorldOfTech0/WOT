@@ -9,9 +9,9 @@ const defaultModalState: ModalState = {
 
 const createModalSlice: UiStoreSlice<ModalStateSlice> = (set) => ({
   ...defaultModalState,
-  openModal: (id, onModalClose) => {
+  openModal: (id, data) => {
     set((state) => {
-      state.Modal.modalData = { onModalClose };
+      state.Modal.modalData = data;
       state.Modal.modalID = id;
       state.Modal.modalOpenState = ModalOpenState.OPEN;
     });

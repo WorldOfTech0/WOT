@@ -2,6 +2,7 @@ import { Flex, IconButton, HStack, Text } from '@chakra-ui/react';
 import { ThemeIcon } from '../../Theme';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
+import { appStore, ModalID } from '@uiStore';
 
 const TopNavBar = () => {
   const { t } = useTranslation();
@@ -42,6 +43,7 @@ const TopNavBar = () => {
           aria-label={t('Common.search')}
           variant="ghost"
           _hover={{ color: 'onSurface', bg: 'surfaceContainer' }}
+          onClick={() => appStore.getState().Modal.openModal(ModalID.SEARCH)}
         >
           <span className="material-symbols-outlined" style={{ fontSize: '20px' }}>search</span>
         </IconButton>

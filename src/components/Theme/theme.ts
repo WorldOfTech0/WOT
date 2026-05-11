@@ -145,42 +145,63 @@ const customConfig = defineConfig({
     semanticTokens: {
       colors: {
         bg: {
-          value: { _light: '#f8fafc', _dark: colors.background },
+          value: { base: '#fcfcfd', _dark: colors.background },
         },
         fg: {
-          value: { _light: colors.background, _dark: colors.onBackground },
+          value: { base: '#334155', _dark: colors.onBackground },
         },
         primary: {
-          value: { _light: colors.primary, _dark: colors.primary },
+          value: { base: '#8b5cf6', _dark: colors.primary },
+        },
+        'primaryAlpha.200': {
+          value: { base: 'rgba(139, 92, 246, 0.1)', _dark: 'rgba(139, 92, 246, 0.2)' },
         },
         onSurface: {
-          value: { _light: colors.background, _dark: colors.onSurface },
+          value: { base: '#1e293b', _dark: colors.onSurface },
         },
         onSurfaceVariant: {
-          value: { _light: colors.neutral[600], _dark: colors.onSurfaceVariant },
+          value: { base: '#64748b', _dark: colors.onSurfaceVariant },
         },
         outline: {
-          value: { _light: colors.neutral[200], _dark: colors.outline },
+          value: { base: '#f1f5f9', _dark: colors.outline },
+        },
+        surface: {
+          value: { base: '#ffffff', _dark: colors.surface },
         },
         surfaceContainer: {
-          value: { _light: '#ffffff', _dark: colors.surfaceContainer },
+          value: { base: '#f8fafc', _dark: colors.surfaceContainer },
+        },
+        surfaceContainerHigh: {
+          value: { base: '#f1f5f9', _dark: colors.surfaceContainerHigh },
         },
         'green.700': {
-          value: { _light: colors.green[700], _dark: colors.green[700] },
+          value: { base: colors.green[700], _dark: colors.green[700] },
         },
         'green.800': {
-          value: { _light: colors.green[800], _dark: colors.green[800] },
+          value: { base: colors.green[800], _dark: colors.green[800] },
         },
         'green.900': {
-          value: { _light: colors.green[900], _dark: colors.green[900] },
+          value: { base: colors.green[900], _dark: colors.green[900] },
         },
         'neutral.200': {
-          value: { _light: colors.neutral[200], _dark: colors.neutral[800] },
+          value: { base: colors.neutral[200], _dark: colors.neutral[800] },
         },
         'neutral.800': {
-          value: { _light: colors.neutral[800], _dark: colors.neutral[200] },
+          value: { base: colors.neutral[800], _dark: colors.neutral[200] },
         },
       },
+    },
+  },
+  conditions: {
+    extend: {
+      _dark: '.dark &, [data-theme=dark] &',
+      _light: '.light &, [data-theme=light] &',
+    },
+  },
+  globalCss: {
+    body: {
+      bg: 'bg',
+      color: 'fg',
     },
   },
 });

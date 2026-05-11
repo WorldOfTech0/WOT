@@ -13,6 +13,7 @@ import { motion } from 'framer-motion';
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import { appStore, ModalID } from '@uiStore';
 
 const BackgroundAnimation = () => {
   return (
@@ -145,7 +146,7 @@ const HeroSection = () => {
         <Flex
           align="center"
           gap={2}
-          bg="rgba(26, 22, 37, 0.5)"
+          bg="surfaceContainerHigh/50"
           backdropFilter="blur(8px)"
           borderWidth={1}
           borderColor="outline"
@@ -258,7 +259,7 @@ const HeroSection = () => {
           <Flex
             position="relative"
             align="center"
-            bg="rgba(26, 22, 37, 0.7)"
+            bg="surfaceContainerHigh/70"
             backdropFilter="blur(20px)"
             borderWidth={1}
             borderColor="outline"
@@ -291,6 +292,11 @@ const HeroSection = () => {
               py={4}
               value={search}
               onChange={(e) => setSearchText(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === 'Enter') {
+                  appStore.getState().Modal.openModal(ModalID.SEARCH, { searchQuery: search });
+                }
+              }}
               _placeholder={{ color: 'onSurfaceVariant', opacity: 0.5 }}
             />
             <Button
@@ -310,6 +316,7 @@ const HeroSection = () => {
               }}
               _active={{ transform: 'scale(0.98)' }}
               transition="all 0.2s"
+              onClick={() => appStore.getState().Modal.openModal(ModalID.SEARCH, { searchQuery: search })}
             >
               {t('Common.execute')}
             </Button>
@@ -329,7 +336,7 @@ const HeroSection = () => {
             <Collapsible.Content>
               <VStack
                 w="full"
-                bg="rgba(26, 22, 37, 0.95)"
+                bg="surfaceContainerHigh/95"
                 backdropFilter="blur(20px)"
                 borderWidth={1}
                 borderColor="outline"

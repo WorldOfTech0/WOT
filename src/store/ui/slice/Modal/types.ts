@@ -10,7 +10,8 @@ export type ModalState = {
 };
 
 export type ModalData = {
-  onModalClose: () => void;
+  onModalClose?: () => void;
+  [key: string]: any;
 };
 
 export enum ModalOpenState {
@@ -19,7 +20,7 @@ export enum ModalOpenState {
 }
 
 export interface ModalStateAction {
-  openModal: (id: ModalID, onModalClose: () => void) => void;
+  openModal: (id: ModalID, data?: ModalData) => void;
   resetModalState: () => void;
 }
 

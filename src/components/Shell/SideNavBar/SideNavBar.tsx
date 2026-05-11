@@ -50,10 +50,10 @@ const SideNavBar = () => {
       position="fixed"
       left={0}
       top={16}
-      bg="rgba(15, 12, 24, 0.85)"
+      bg="bg"
       backdropFilter="blur(16px)"
       borderRightWidth={1}
-      borderColor="rgba(255, 255, 255, 0.05)"
+      borderColor="outline"
       zIndex={40}
       display={{ base: 'none', md: 'flex' }}
       transition="all 0.3s ease"
@@ -83,13 +83,14 @@ const SideNavBar = () => {
 
       <Flex direction="column" gap={2}>
         {navItems.map((item) => {
-          const isActive = item.path === '/' 
-            ? location.pathname === '/' 
-            : location.pathname.startsWith(item.path);
+          const isActive =
+            item.path === '/'
+              ? location.pathname === '/'
+              : location.pathname.startsWith(item.path);
 
           return (
             <Box key={item.label} px={4}>
-              <NavLink 
+              <NavLink
                 to={item.path}
                 style={{ textDecoration: 'none', display: 'block' }}
               >
@@ -104,7 +105,9 @@ const SideNavBar = () => {
                   position="relative"
                   overflow="hidden"
                   _hover={{
-                    bg: isActive ? 'rgba(139, 92, 246, 0.2)' : 'surfaceContainerHigh',
+                    bg: isActive
+                      ? 'rgba(139, 92, 246, 0.2)'
+                      : 'surfaceContainerHigh',
                     color: 'onSurface',
                     transform: 'translateX(4px)',
                   }}
