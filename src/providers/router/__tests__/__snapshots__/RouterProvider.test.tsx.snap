@@ -14,32 +14,364 @@ exports[`RouterProvider should render router provider correctly 1`] = `
 
 exports[`RouterProvider should render router provider correctly 2`] = `
 <div>
-  <h2>
-    Unexpected Application Error!
-  </h2>
-  <h3
-    style="font-style: italic;"
+  <div
+    class="css-1azg64g"
   >
-    {"name":""}
-  </h3>
-  <p>
-    💿 Hey developer 👋
-  </p>
-  <p>
-    You can provide a way better UX than this when your app throws errors by providing your own 
-    <code
-      style="padding: 2px 4px; background-color: rgba(200, 200, 200, 0.5);"
+    <header
+      class="css-efnem2"
     >
-      ErrorBoundary
-    </code>
-     or
-     
-    <code
-      style="padding: 2px 4px; background-color: rgba(200, 200, 200, 0.5);"
+      <div
+        class="chakra-stack css-1kydda"
+      >
+        <a
+          data-discover="true"
+          href="/"
+          style="text-decoration: none;"
+        >
+          <p
+            class="css-lwhv2b"
+          >
+            WorldOfTech
+          </p>
+        </a>
+      </div>
+      <div
+        class="chakra-stack css-465vsc"
+      >
+        <button
+          aria-label="Search"
+          class="chakra-button css-1cxguc5"
+          type="button"
+        >
+          <span
+            class="material-symbols-outlined"
+            style="font-size: 20px;"
+          >
+            search
+          </span>
+        </button>
+        <button
+          aria-label="toggle-color-mode"
+          class="chakra-button css-1eilo2p"
+          type="button"
+        >
+          <svg
+            color="yellow"
+            fill="currentColor"
+            height="20"
+            viewBox="0 0 16 16"
+            width="20"
+          >
+            <path
+              d="M8 11a3 3 0 110-6 3 3 0 010 6zm0 1a4 4 0 100-8 4 4 0 000 8zM8 0a.5.5 0 01.5.5v2a.5.5 0 01-1 0v-2A.5.5 0 018 0zm0 13a.5.5 0 01.5.5v2a.5.5 0 01-1 0v-2A.5.5 0 018 13zm8-5a.5.5 0 01-.5.5h-2a.5.5 0 010-1h2a.5.5 0 01.5.5zM3 8a.5.5 0 01-.5.5h-2a.5.5 0 010-1h2A.5.5 0 013 8zm10.657-5.657a.5.5 0 010 .707l-1.414 1.415a.5.5 0 11-.707-.708l1.414-1.414a.5.5 0 01.707 0zm-9.193 9.193a.5.5 0 010 .707L3.05 13.657a.5.5 0 01-.707-.707l1.414-1.414a.5.5 0 01.707 0zm9.193 2.121a.5.5 0 01-.707 0l-1.414-1.414a.5.5 0 01.707-.707l1.414 1.414a.5.5 0 010 .707zM4.464 4.465a.5.5 0 01-.707 0L2.343 3.05a.5.5 0 11.707-.707l1.414 1.414a.5.5 0 010 .708z"
+            />
+          </svg>
+        </button>
+        <button
+          aria-label="Code"
+          class="chakra-button css-1cxguc5"
+          type="button"
+        >
+          <span
+            class="material-symbols-outlined"
+            style="font-size: 20px;"
+          >
+            code
+          </span>
+        </button>
+      </div>
+    </header>
+    <nav
+      class="css-14nel52"
     >
-      errorElement
-    </code>
-     prop on your route.
-  </p>
+      <div
+        class="css-2o4hrl"
+      >
+        <p
+          class="css-15fik6v"
+        >
+          Navigation
+        </p>
+        <div
+          class="css-81bkrc"
+        />
+        <p
+          class="css-11nhyxh"
+        >
+          SYSTEM LIBRARIES
+        </p>
+      </div>
+      <div
+        class="css-1op6ogi"
+      >
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/resources"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="chakra-stack css-16hfwyg"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                folder_open
+              </span>
+              <p
+                class="css-1qq56l8"
+              >
+                Resources
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="chakra-stack css-16hfwyg"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                build
+              </span>
+              <p
+                class="css-1qq56l8"
+              >
+                Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/software"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="chakra-stack css-16hfwyg"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                terminal
+              </span>
+              <p
+                class="css-1qq56l8"
+              >
+                Software
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/infrastructure"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="chakra-stack css-16hfwyg"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                dns
+              </span>
+              <p
+                class="css-1qq56l8"
+              >
+                Infrastructure
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/security"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="chakra-stack css-16hfwyg"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                shield
+              </span>
+              <p
+                class="css-1qq56l8"
+              >
+                Security
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/learning"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="chakra-stack css-16hfwyg"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                school
+              </span>
+              <p
+                class="css-1qq56l8"
+              >
+                Learning
+              </p>
+            </div>
+          </a>
+        </div>
+      </div>
+    </nav>
+    <main
+      class="css-1mt2zpz"
+    >
+      <div
+        class="css-169qivt"
+      >
+        <span
+          class="chakra-spinner css-1je1x3g"
+        />
+      </div>
+    </main>
+    <footer
+      class="css-17y9hbq"
+    >
+      <div
+        class="css-1ocneyr"
+      >
+        <div>
+          <a
+            class="chakra-link css-1w9d65j"
+            href="https://worldoftech.co.in"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <p
+              class="css-psxnlr"
+            >
+              WorldOfTech
+            </p>
+          </a>
+          <p
+            class="css-1x7du1n"
+          >
+            Curating the finest technology resources for the modern developer elite.
+          </p>
+        </div>
+        <div
+          class="chakra-stack css-i5wwxt"
+        >
+          <div
+            class="chakra-stack css-16p2oxl"
+          >
+            <p
+              class="css-15lbfbi"
+            >
+              Connect
+            </p>
+            <a
+              class="chakra-link css-klqc50"
+              href="https://worldoftech.co.in"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Website
+            </a>
+            <a
+              class="chakra-link css-klqc50"
+              href="#"
+            >
+              GitHub
+            </a>
+            <a
+              class="chakra-link css-klqc50"
+              href="#"
+            >
+              Twitter
+            </a>
+          </div>
+          <div
+            class="chakra-stack css-16p2oxl"
+          >
+            <p
+              class="css-15lbfbi"
+            >
+              Legal
+            </p>
+            <a
+              class="chakra-link css-klqc50"
+              href="#"
+            >
+              Privacy
+            </a>
+            <a
+              class="chakra-link css-klqc50"
+              href="#"
+            >
+              Terms
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="css-15qeq3o"
+      >
+        <div
+          class="css-1ujh7in"
+        >
+          <p
+            class="css-13k715q"
+          >
+            © 2024 WORLDOFTECH.CO.IN // ALL RIGHTS RESERVED.
+          </p>
+          <p
+            class="css-13k715q"
+          >
+            STAY CURIOUS. STAY ELITE.
+          </p>
+        </div>
+      </div>
+    </footer>
+  </div>
 </div>
 `;
