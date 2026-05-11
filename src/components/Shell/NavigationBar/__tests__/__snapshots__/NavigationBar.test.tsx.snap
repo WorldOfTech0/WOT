@@ -33,12 +33,12 @@ exports[`NavigationBar should render 1`] = `
           <h2
             class="chakra-heading css-nkl7rz"
           >
-            World
+            Common.Title_1
           </h2>
           <h2
             class="chakra-heading css-12sq6rj"
           >
-            OfTech
+            Common.Title_2
           </h2>
         </div>
       </a>
@@ -181,7 +181,7 @@ exports[`NavigationBar should render 1`] = `
           id="menu::r0::trigger"
           type="button"
         >
-          Menu
+          Common.Menu
           <svg
             fill="none"
             height="1em"

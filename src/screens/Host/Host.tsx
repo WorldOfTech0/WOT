@@ -1,14 +1,16 @@
 import { Outlet } from 'react-router-dom';
 import { Box } from '@chakra-ui/react';
 
-import { CopyrightFooter } from './CopyrightFooter';
-import { NavigationBar } from './NavigationBar';
+import { CopyrightFooter, TopNavBar, SideNavBar } from '@components';
 
 const Host = () => {
   return (
-    <Box minH={'100vh'}>
-      <NavigationBar />
-      <Outlet />
+    <Box minH="100vh" bg="black" color="white">
+      <TopNavBar />
+      <SideNavBar />
+      <Box as="main" ml={{ base: 0, md: 64 }} minH="calc(100vh - 64px)">
+        <Outlet />
+      </Box>
       <CopyrightFooter />
     </Box>
   );
