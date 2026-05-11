@@ -2588,17 +2588,24 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource-variable/karla@npm:^5.0.22":
-  version: 5.1.0
-  resolution: "@fontsource-variable/karla@npm:5.1.0"
-  checksum: 10c0/20895fb46398d4efbc8ef76cf848f14f38ff0e763f9ec644d9e8a822358ee125bd4b6589f4ae8f70446146d5c081361afc1f17bd0cd26e8edbad96e4a66fab61
+"@fontsource-variable/inter@npm:^5.2.8":
+  version: 5.2.8
+  resolution: "@fontsource-variable/inter@npm:5.2.8"
+  checksum: 10c0/35b46df31c8c18f55f87228acf6297e4dac6cc9f38d0faaafdaf5a40e40c386cf1bfb115fb0fe0dcdb9b7e14f582843693ccf070d9c903072a5b2fc0f8dfde56
   languageName: node
   linkType: hard
 
-"@fontsource/bungee-shade@npm:^5.0.22":
-  version: 5.1.0
-  resolution: "@fontsource/bungee-shade@npm:5.1.0"
-  checksum: 10c0/29b42fcba1d23bb4bd709f001b7c03768ba5291a8a4bee9dadbfc148c43cff20887a9a2a4779f168c0c930b7a87eb67a9a228bd03ad58a8b02fd7e8cc08ad2ca
+"@fontsource-variable/jetbrains-mono@npm:^5.2.8":
+  version: 5.2.8
+  resolution: "@fontsource-variable/jetbrains-mono@npm:5.2.8"
+  checksum: 10c0/574e5463b802cfdd6ec8dd16724d2fd5ee38204815729c9dca0f457a417f0a4d32e6ec4ed2dfa0e5a5de5a9b0deaeb9f3c0b49b332763ed40172de43d6b1502f
+  languageName: node
+  linkType: hard
+
+"@fontsource-variable/outfit@npm:^5.2.8":
+  version: 5.2.8
+  resolution: "@fontsource-variable/outfit@npm:5.2.8"
+  checksum: 10c0/0d8e3cf0153780d794c28bde93384ed22691a95c5e743489c3c43d4e4ec88d1c6e6a0684bc890bbbb04fb292e1505785636c60b3748e835375617e2af2e6c230
   languageName: node
   linkType: hard
 
@@ -19146,8 +19153,9 @@ __metadata:
     "@craco/craco": "npm:^7.1.0"
     "@craco/types": "npm:^7.1.0"
     "@emotion/react": "npm:^11.13.5"
-    "@fontsource-variable/karla": "npm:^5.0.22"
-    "@fontsource/bungee-shade": "npm:^5.0.22"
+    "@fontsource-variable/inter": "npm:^5.2.8"
+    "@fontsource-variable/jetbrains-mono": "npm:^5.2.8"
+    "@fontsource-variable/outfit": "npm:^5.2.8"
     "@jest/globals": "npm:^29.7.0"
     "@supabase/supabase-js": "npm:^2.45.1"
     "@tanstack/eslint-plugin-query": "npm:^5.51.15"
