@@ -51,13 +51,13 @@ exports[`LandingPage should render correctly 1`] = `
           style="opacity: 0; will-change: opacity,transform; transform: translateY(20px);"
         >
           <h1
-            class="chakra-heading css-k7g4ia"
+            class="chakra-heading css-1w81ggr"
           >
             CURATING THE
              
             <br />
             <span
-              class="css-nkfer4"
+              class="css-1sqs9xv"
             >
               TECH ELITE.
             </span>

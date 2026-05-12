@@ -173,7 +173,7 @@ const HeroSection = () => {
         >
           <Heading
             as="h1"
-            fontSize={{ base: '5xl', md: '8xl' }}
+            fontSize={{ base: '4xl', md: '8xl' }}
             fontFamily="heading"
             fontWeight="black"
             letterSpacing="tighter"
@@ -181,7 +181,7 @@ const HeroSection = () => {
             color="onSurface"
           >
             {t('LandingPage.Hero.headingMain')} <br />
-            <Text as="span" color="primary" fontSize="8xl" opacity={0.7}>
+            <Text as="span" color="primary" fontSize={{ base: '4xl', md: '8xl' }} opacity={0.7}>
               {t('LandingPage.Hero.headingAccent')}
             </Text>
           </Heading>
