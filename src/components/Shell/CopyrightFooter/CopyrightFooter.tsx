@@ -1,5 +1,6 @@
 import { Box, Flex, Text, Link, Stack, HStack } from '@chakra-ui/react';
 import { useTranslation } from 'react-i18next';
+import { Link as RouterLink } from 'react-router-dom';
 
 const CopyrightFooter = () => {
   const { t } = useTranslation();
@@ -100,22 +101,26 @@ const CopyrightFooter = () => {
             >
               {t('Footer.sections.legal')}
             </Text>
-            <Link
-              href="#"
-              fontSize="sm"
-              color="onSurfaceVariant"
-              _hover={{ color: 'onSurface', textDecoration: 'none' }}
-            >
-              {t('Footer.links.privacy')}
-            </Link>
-            <Link
-              href="#"
-              fontSize="sm"
-              color="onSurfaceVariant"
-              _hover={{ color: 'onSurface', textDecoration: 'none' }}
-            >
-              {t('Footer.links.terms')}
-            </Link>
+            <RouterLink to="/privacy" style={{ textDecoration: 'none' }}>
+              <Text
+                fontSize="sm"
+                color="onSurfaceVariant"
+                _hover={{ color: 'onSurface' }}
+                transition="color 0.2s"
+              >
+                {t('Footer.links.privacy')}
+              </Text>
+            </RouterLink>
+            <RouterLink to="/terms" style={{ textDecoration: 'none' }}>
+              <Text
+                fontSize="sm"
+                color="onSurfaceVariant"
+                _hover={{ color: 'onSurface' }}
+                transition="color 0.2s"
+              >
+                {t('Footer.links.terms')}
+              </Text>
+            </RouterLink>
           </Stack>
         </HStack>
       </Flex>

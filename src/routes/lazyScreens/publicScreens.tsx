@@ -67,3 +67,22 @@ export const LazyTools = () => (
 );
 
 // [End]-------- Landing screens --------
+
+// [Start]-------- Legal screens --------
+
+const PrivacyPolicy = lazy(() => import('@screens/Legal/PrivacyPolicy'));
+const TermsOfService = lazy(() => import('@screens/Legal/TermsOfService'));
+
+export const LazyPrivacyPolicy = () => (
+  <LazyProvider>
+    <PrivacyPolicy />
+  </LazyProvider>
+);
+
+export const LazyTermsOfService = () => (
+  <LazyProvider>
+    <TermsOfService />
+  </LazyProvider>
+);
+
+// [End]-------- Legal screens --------
