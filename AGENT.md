@@ -81,6 +81,11 @@ The platform organizes resources into 13 primary verticals:
 - Use standard `<Link>` and `useNavigate`.
 - Note: `TextEncoder` and `TextDecoder` polyfills in `jest.js` are required for RRv7 compatibility in JSDOM environments.
 
+### Legal Content Pattern
+- **Screen**: Use the `LegalScreen` component for all compliance-related pages (Privacy, Terms).
+- **Structure**: Content is driven by `translationKey` pointing to `Legal.{Key}.sections` in `main.json`.
+- **UI**: Adheres to formal ergonomic standards with vertical primary accent bars and responsive spacing.
+
 ### TypeScript
 - All files use `.ts` or `.tsx`.
 - Strictly adhere to path aliases defined in `tsconfig.path.json` (e.g., `@screens`, `@components`, `@store`).
