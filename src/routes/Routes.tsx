@@ -13,6 +13,8 @@ import {
   LazyLearning,
   LazyResources,
   LazyTools,
+  LazyPrivacyPolicy,
+  LazyTermsOfService,
 } from './lazyScreens/publicScreens';
 
 export const getAppRouter = (isUserLogin: boolean) => {
@@ -26,6 +28,8 @@ export const getAppRouter = (isUserLogin: boolean) => {
         <Route path="infrastructure" element={<LazyInfrastructure />} />
         <Route path="security" element={<LazySecurity />} />
         <Route path="learning" element={<LazyLearning />} />
+        <Route path="privacy" element={<LazyPrivacyPolicy />} />
+        <Route path="terms" element={<LazyTermsOfService />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Route>,
     ),
