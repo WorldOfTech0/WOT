@@ -1,20 +1,13 @@
-import { renderWithProviders } from '@testUtils';
-
 import TitleBoxContainer from '../TitleBoxContainer';
-
-const title = 'Test Title';
-const icon = 'test-icon';
-const props = {
-  title,
-  icon,
-  children: 'Test Children',
-};
+import { renderWithRouter } from '@testUtils';
 
 describe('TitleBoxContainer', () => {
-  it('should set the document title', () => {
-    // Act
-    const { container } = renderWithProviders(<TitleBoxContainer {...props} />);
-
+  it('should render correctly with title', () => {
+    const { container } = renderWithRouter(
+      <TitleBoxContainer title="Test Title">
+        <div>Test Content</div>
+      </TitleBoxContainer>,
+    );
     expect(container).toMatchSnapshot();
   });
 });

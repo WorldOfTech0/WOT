@@ -1,0 +1,185 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContentViewer should render correctly for nodejs subcategory 1`] = `
+<div>
+  <div
+    class="css-1115lm6"
+  >
+    <div
+      class="chakra-container css-1a9hjhw"
+    >
+      <div
+        class="chakra-stack css-80buma"
+      >
+        <div
+          class="chakra-stack css-4kx5le"
+        >
+          <a
+            data-discover="true"
+            href="/"
+          >
+            <p
+              class="css-y9x6a7"
+            >
+              SYSTEM
+            </p>
+          </a>
+          <p>
+            /
+          </p>
+          <a
+            data-discover="true"
+            href="/software"
+          >
+            <p
+              class="css-253glj"
+            >
+              Software
+            </p>
+          </a>
+          <p>
+            /
+          </p>
+          <p
+            class="css-1v8u59e"
+          >
+            nodejs
+          </p>
+        </div>
+        <div
+          class="chakra-stack css-14k3l4e"
+        >
+          <h2
+            class="chakra-heading css-9so6x0"
+          >
+            nodejs
+          </h2>
+          <p
+            class="css-zas7gb"
+          >
+            Deep dive into the nodejs ecosystem.
+          </p>
+        </div>
+        <div
+          class="css-1fxghji"
+        >
+          <div
+            class="chakra-stack css-oscz95"
+          >
+            <p
+              class="css-1mgf822"
+            >
+              The curated directory for 
+              <b>
+                nodejs
+              </b>
+               is currently in synchronization. Our engineers are finalizing the integration of industrial-grade resources, architectural patterns, and performance-optimized frameworks.
+            </p>
+            <div
+              class="css-18ek48u"
+            >
+              <p
+                class="css-1o3rymz"
+              >
+                STATUS: SYNCHRONIZING_CONTENT
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ContentViewer should render correctly for react subcategory 1`] = `
+<div>
+  <div
+    class="css-1115lm6"
+  >
+    <div
+      class="chakra-container css-1a9hjhw"
+    >
+      <div
+        class="chakra-stack css-80buma"
+      >
+        <div
+          class="chakra-stack css-4kx5le"
+        >
+          <a
+            data-discover="true"
+            href="/"
+          >
+            <p
+              class="css-y9x6a7"
+            >
+              SYSTEM
+            </p>
+          </a>
+          <p>
+            /
+          </p>
+          <a
+            data-discover="true"
+            href="/software"
+          >
+            <p
+              class="css-253glj"
+            >
+              Software
+            </p>
+          </a>
+          <p>
+            /
+          </p>
+          <p
+            class="css-1v8u59e"
+          >
+            react
+          </p>
+        </div>
+        <div
+          class="chakra-stack css-14k3l4e"
+        >
+          <h2
+            class="chakra-heading css-9so6x0"
+          >
+            react
+          </h2>
+          <p
+            class="css-zas7gb"
+          >
+            Deep dive into the react ecosystem.
+          </p>
+        </div>
+        <div
+          class="css-1fxghji"
+        >
+          <div
+            class="chakra-stack css-oscz95"
+          >
+            <p
+              class="css-1mgf822"
+            >
+              The curated directory for 
+              <b>
+                react
+              </b>
+               is currently in synchronization. Our engineers are finalizing the integration of industrial-grade resources, architectural patterns, and performance-optimized frameworks.
+            </p>
+            <div
+              class="css-18ek48u"
+            >
+              <p
+                class="css-1o3rymz"
+              >
+                STATUS: SYNCHRONIZING_CONTENT
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

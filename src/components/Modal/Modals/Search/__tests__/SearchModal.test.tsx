@@ -1,10 +1,9 @@
-import { renderWithProviders } from '@testUtils';
 import SearchModal from '../SearchModal';
+import { renderWithRouter } from '@testUtils';
 
-describe('Search modal', () => {
-  it('Should render correctly', () => {
-    const { container } = renderWithProviders(<SearchModal />);
-
+describe('SearchModal', () => {
+  it('should render correctly', () => {
+    const { container } = renderWithRouter(<SearchModal />);
     expect(container).toMatchSnapshot();
   });
 });

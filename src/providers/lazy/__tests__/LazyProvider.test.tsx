@@ -1,16 +1,17 @@
-import { renderWithProviders } from '@testUtils';
+import { render } from '@testing-library/react';
 import LazyProvider from '../LazyProvider';
-import { Text } from '@chakra-ui/react';
+import { system } from '@components';
+import { ChakraProvider } from '@chakra-ui/react';
 
 describe('LazyProvider', () => {
-  it('should render correctly', () => {
-    const { container } = renderWithProviders(
-      <LazyProvider>
-        <Text>Test</Text>
-      </LazyProvider>,
+  it('should render children correctly', () => {
+    const { getByText } = render(
+      <ChakraProvider value={system}>
+        <LazyProvider>
+          <div>Test Child</div>
+        </LazyProvider>
+      </ChakraProvider>,
     );
-
-    expect(container).toMatchSnapshot();
-    expect(container.textContent).toContain('Test');
+    expect(getByText('Test Child')).toBeInTheDocument();
   });
 });

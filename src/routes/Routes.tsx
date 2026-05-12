@@ -7,14 +7,10 @@ import {
 import {
   LazyLandingPage,
   LazyPublicHost,
-  LazySoftware,
-  LazyInfrastructure,
-  LazySecurity,
-  LazyLearning,
-  LazyResources,
-  LazyTools,
+  LazyCategory,
   LazyPrivacyPolicy,
   LazyTermsOfService,
+  LazyContentViewer,
 } from './lazyScreens/publicScreens';
 
 export const getAppRouter = (isUserLogin: boolean) => {
@@ -22,14 +18,10 @@ export const getAppRouter = (isUserLogin: boolean) => {
     createRoutesFromChildren(
       <Route path="/" element={<LazyPublicHost />}>
         <Route path="" element={<LazyLandingPage />} />
-        <Route path="resources" element={<LazyResources />} />
-        <Route path="tools" element={<LazyTools />} />
-        <Route path="software" element={<LazySoftware />} />
-        <Route path="infrastructure" element={<LazyInfrastructure />} />
-        <Route path="security" element={<LazySecurity />} />
-        <Route path="learning" element={<LazyLearning />} />
         <Route path="privacy" element={<LazyPrivacyPolicy />} />
         <Route path="terms" element={<LazyTermsOfService />} />
+        <Route path=":categoryId" element={<LazyCategory />} />
+        <Route path=":category/:subcategory" element={<LazyContentViewer />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Route>,
     ),

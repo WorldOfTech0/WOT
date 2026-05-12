@@ -10,7 +10,12 @@ export const CATEGORIES: Category[] = [
     icon: 'terminal',
     path: '/infrastructure',
     isFeatured: true,
-    subcategories: [],
+    subcategories: [
+      SUBCATEGORIES.SERVER,
+      SUBCATEGORIES.DATA_INFRA,
+      SUBCATEGORIES.NETWORK,
+      SUBCATEGORIES.CLOUD,
+    ],
   },
   {
     id: 'software',
@@ -20,7 +25,12 @@ export const CATEGORIES: Category[] = [
     icon: 'integration_instructions',
     path: '/software',
     isFeatured: false,
-    subcategories: [],
+    subcategories: [
+      SUBCATEGORIES.SYSTEMS,
+      SUBCATEGORIES.EMBEDDED,
+      SUBCATEGORIES.FULLSTACK,
+      SUBCATEGORIES.API,
+    ],
   },
   {
     id: 'security',
@@ -30,7 +40,12 @@ export const CATEGORIES: Category[] = [
     icon: 'shield',
     path: '/security',
     isFeatured: false,
-    subcategories: [],
+    subcategories: [
+      SUBCATEGORIES.INTELLIGENCE,
+      SUBCATEGORIES.IDENTITY,
+      SUBCATEGORIES.PRIVACY_ENG,
+      SUBCATEGORIES.CRYPTO,
+    ],
   },
   {
     id: 'learning',
@@ -40,7 +55,12 @@ export const CATEGORIES: Category[] = [
     icon: 'school',
     path: '/learning',
     isFeatured: true,
-    subcategories: [],
+    subcategories: [
+      SUBCATEGORIES.KNOWLEDGE,
+      SUBCATEGORIES.SCHOOL,
+      SUBCATEGORIES.LABS,
+      SUBCATEGORIES.INSIGHTS,
+    ],
   },
   {
     id: 'resources',

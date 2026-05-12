@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CategoryLayout should render correctly for infrastructure category 1`] = `<div />`;
+
+exports[`CategoryLayout should render correctly for software category 1`] = `<div />`;

@@ -1,0 +1,357 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SideNavBar should render collapsed in subcategory route 1`] = `
+<div>
+  <nav
+    class="css-1qrux4l"
+  >
+    <div
+      class="css-1v5akrw"
+    >
+      <div
+        class="css-1qlf0si"
+      >
+        <a
+          class=""
+          data-discover="true"
+          href="/infrastructure"
+          style="text-decoration: none; display: block;"
+        >
+          <div
+            class="css-11kfdtk"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 24px; transition: all 0.3s ease;"
+            >
+              terminal
+            </span>
+            <p
+              class="css-3fx4ux"
+            >
+              Infrastructure
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="css-1qlf0si"
+      >
+        <a
+          aria-current="page"
+          class="active"
+          data-discover="true"
+          href="/software"
+          style="text-decoration: none; display: block;"
+        >
+          <div
+            class="css-2tf7yz"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 24px; color: rgb(139, 92, 246); font-variation-settings: 'FILL' 1; transition: all 0.3s ease;"
+            >
+              integration_instructions
+            </span>
+            <p
+              class="css-685aqs"
+            >
+              Software
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="css-1qlf0si"
+      >
+        <a
+          class=""
+          data-discover="true"
+          href="/security"
+          style="text-decoration: none; display: block;"
+        >
+          <div
+            class="css-11kfdtk"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 24px; transition: all 0.3s ease;"
+            >
+              shield
+            </span>
+            <p
+              class="css-3fx4ux"
+            >
+              Security
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="css-1qlf0si"
+      >
+        <a
+          class=""
+          data-discover="true"
+          href="/learning"
+          style="text-decoration: none; display: block;"
+        >
+          <div
+            class="css-11kfdtk"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 24px; transition: all 0.3s ease;"
+            >
+              school
+            </span>
+            <p
+              class="css-3fx4ux"
+            >
+              Learning
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="css-1qlf0si"
+      >
+        <a
+          class=""
+          data-discover="true"
+          href="/resources"
+          style="text-decoration: none; display: block;"
+        >
+          <div
+            class="css-11kfdtk"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 24px; transition: all 0.3s ease;"
+            >
+              folder_zip
+            </span>
+            <p
+              class="css-3fx4ux"
+            >
+              Resources
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="css-1qlf0si"
+      >
+        <a
+          class=""
+          data-discover="true"
+          href="/tools"
+          style="text-decoration: none; display: block;"
+        >
+          <div
+            class="css-11kfdtk"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 24px; transition: all 0.3s ease;"
+            >
+              build
+            </span>
+            <p
+              class="css-3fx4ux"
+            >
+              Tools
+            </p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </nav>
+</div>
+`;
+
+exports[`SideNavBar should render correctly in default state 1`] = `
+<div>
+  <nav
+    class="css-1w9x71j"
+  >
+    <div
+      class="css-19jgx3e"
+    >
+      <p
+        class="css-15fik6v"
+      >
+        Navigation
+      </p>
+      <div
+        class="css-81bkrc"
+      />
+      <p
+        class="css-11nhyxh"
+      >
+        SYSTEM LIBRARIES
+      </p>
+    </div>
+    <div
+      class="css-1v5akrw"
+    >
+      <div
+        class="css-rtymh1"
+      >
+        <a
+          class=""
+          data-discover="true"
+          href="/infrastructure"
+          style="text-decoration: none; display: block;"
+        >
+          <div
+            class="css-17zk0ji"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 20px; transition: all 0.3s ease;"
+            >
+              terminal
+            </span>
+            <p
+              class="css-u9ov04"
+            >
+              Infrastructure
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="css-rtymh1"
+      >
+        <a
+          class=""
+          data-discover="true"
+          href="/software"
+          style="text-decoration: none; display: block;"
+        >
+          <div
+            class="css-17zk0ji"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 20px; transition: all 0.3s ease;"
+            >
+              integration_instructions
+            </span>
+            <p
+              class="css-u9ov04"
+            >
+              Software
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="css-rtymh1"
+      >
+        <a
+          class=""
+          data-discover="true"
+          href="/security"
+          style="text-decoration: none; display: block;"
+        >
+          <div
+            class="css-17zk0ji"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 20px; transition: all 0.3s ease;"
+            >
+              shield
+            </span>
+            <p
+              class="css-u9ov04"
+            >
+              Security
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="css-rtymh1"
+      >
+        <a
+          class=""
+          data-discover="true"
+          href="/learning"
+          style="text-decoration: none; display: block;"
+        >
+          <div
+            class="css-17zk0ji"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 20px; transition: all 0.3s ease;"
+            >
+              school
+            </span>
+            <p
+              class="css-u9ov04"
+            >
+              Learning
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="css-rtymh1"
+      >
+        <a
+          class=""
+          data-discover="true"
+          href="/resources"
+          style="text-decoration: none; display: block;"
+        >
+          <div
+            class="css-17zk0ji"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 20px; transition: all 0.3s ease;"
+            >
+              folder_zip
+            </span>
+            <p
+              class="css-u9ov04"
+            >
+              Resources
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="css-rtymh1"
+      >
+        <a
+          class=""
+          data-discover="true"
+          href="/tools"
+          style="text-decoration: none; display: block;"
+        >
+          <div
+            class="css-17zk0ji"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 20px; transition: all 0.3s ease;"
+            >
+              build
+            </span>
+            <p
+              class="css-u9ov04"
+            >
+              Tools
+            </p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </nav>
+</div>
+`;
