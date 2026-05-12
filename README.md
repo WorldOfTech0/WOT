@@ -1,7 +1,5 @@
 <div align="center">
-
-![WorldOfTech Hero Banner](/Users/mr.robot/.gemini/antigravity/brain/94da1fa4-bc7e-426a-a346-57248cc7e121/worldoftech_hero_banner_1778568327719.png)
-
+  
 # 🌐 WorldOfTech (WOT)
 ### *Where Innovation Meets Implementation*
 
