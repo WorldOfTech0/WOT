@@ -1,6 +1,7 @@
 import { Box, Flex, Text, Link, Stack, HStack } from '@chakra-ui/react';
 import { useTranslation } from 'react-i18next';
 import { Link as RouterLink } from 'react-router-dom';
+import { WEBSITE_URL, GITHUB_URL, TWITTER_URL } from '@data/constants';
 
 const CopyrightFooter = () => {
   const { t } = useTranslation();
@@ -24,7 +25,7 @@ const CopyrightFooter = () => {
       >
         <Box>
           <Link
-            href="https://worldoftech.co.in"
+            href={WEBSITE_URL}
             target="_blank"
             rel="noopener noreferrer"
             _hover={{ textDecoration: 'none', opacity: 0.8 }}
@@ -64,7 +65,7 @@ const CopyrightFooter = () => {
               {t('Footer.sections.connect')}
             </Text>
             <Link
-              href="https://worldoftech.co.in"
+              href={WEBSITE_URL}
               target="_blank"
               rel="noopener noreferrer"
               fontSize="sm"
@@ -74,7 +75,9 @@ const CopyrightFooter = () => {
               {t('Footer.links.website')}
             </Link>
             <Link
-              href="#"
+              href={GITHUB_URL}
+              target="_blank"
+              rel="noopener noreferrer"
               fontSize="sm"
               color="onSurfaceVariant"
               _hover={{ color: 'onSurface', textDecoration: 'none' }}
@@ -82,7 +85,7 @@ const CopyrightFooter = () => {
               {t('Footer.links.github')}
             </Link>
             <Link
-              href="#"
+              href={TWITTER_URL}
               fontSize="sm"
               color="onSurfaceVariant"
               _hover={{ color: 'onSurface', textDecoration: 'none' }}

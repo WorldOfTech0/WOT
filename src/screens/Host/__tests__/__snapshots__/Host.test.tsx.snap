@@ -55,18 +55,26 @@ exports[`Host should render correctly 1`] = `
             />
           </svg>
         </button>
-        <button
-          aria-label="Code"
-          class="chakra-button css-1cxguc5"
-          type="button"
+        <a
+          class="chakra-link css-2yvnes"
+          href="https://github.com/WorldOfTech0/WOT"
+          rel="noopener noreferrer"
+          style="text-decoration: none;"
+          target="_blank"
         >
-          <span
-            class="material-symbols-outlined"
-            style="font-size: 20px;"
+          <button
+            aria-label="Code"
+            class="chakra-button css-1cxguc5"
+            type="button"
           >
-            code
-          </span>
-        </button>
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 20px;"
+            >
+              code
+            </span>
+          </button>
+        </a>
       </div>
     </header>
     <nav
@@ -299,7 +307,9 @@ exports[`Host should render correctly 1`] = `
             </a>
             <a
               class="chakra-link css-klqc50"
-              href="#"
+              href="https://github.com/WorldOfTech0/WOT"
+              rel="noopener noreferrer"
+              target="_blank"
             >
               GitHub
             </a>
@@ -352,7 +362,7 @@ exports[`Host should render correctly 1`] = `
           <p
             class="css-13k715q"
           >
-            © 2024 WORLDOFTECH.CO.IN // ALL RIGHTS RESERVED.
+            © 2026 WORLDOFTECH.CO.IN // ALL RIGHTS RESERVED.
           </p>
           <p
             class="css-13k715q"
