@@ -1,8 +1,9 @@
-import { Flex, IconButton, HStack, Text } from '@chakra-ui/react';
+import { Flex, IconButton, HStack, Text, Link } from '@chakra-ui/react';
 import { ThemeIcon } from '../../Theme';
 import { useTranslation } from 'react-i18next';
-import { Link } from 'react-router-dom';
+import { Link as RouterLink } from 'react-router-dom';
 import { appStore, ModalID } from '@uiStore';
+import { GITHUB_URL } from '@data/constants';
 
 const TopNavBar = () => {
   const { t } = useTranslation();
@@ -25,7 +26,7 @@ const TopNavBar = () => {
       color="onSurface"
     >
       <HStack gap={4}>
-        <Link to="/" style={{ textDecoration: 'none' }}>
+        <RouterLink to="/" style={{ textDecoration: 'none' }}>
           <Text
             fontFamily="heading"
             fontSize={{ base: '2xl', md: '3xl' }}
@@ -36,7 +37,7 @@ const TopNavBar = () => {
           >
             {t('Common.brandName')}
           </Text>
-        </Link>
+        </RouterLink>
       </HStack>
       <HStack gap={2} color="onSurfaceVariant">
         <IconButton
@@ -53,18 +54,25 @@ const TopNavBar = () => {
           </span>
         </IconButton>
         <ThemeIcon />
-        <IconButton
-          aria-label={t('Common.code')}
-          variant="ghost"
-          _hover={{ color: 'onSurface', bg: 'surfaceContainer' }}
+        <Link
+          href={GITHUB_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ textDecoration: 'none' }}
         >
-          <span
-            className="material-symbols-outlined"
-            style={{ fontSize: '20px' }}
+          <IconButton
+            aria-label={t('Common.code')}
+            variant="ghost"
+            _hover={{ color: 'onSurface', bg: 'surfaceContainer' }}
           >
-            code
-          </span>
-        </IconButton>
+            <span
+              className="material-symbols-outlined"
+              style={{ fontSize: '20px' }}
+            >
+              code
+            </span>
+          </IconButton>
+        </Link>
       </HStack>
     </Flex>
   );
