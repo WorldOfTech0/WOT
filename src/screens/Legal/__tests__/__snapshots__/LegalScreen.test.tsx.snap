@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LegalScreen should render Privacy correctly 1`] = `<div />`;
+
+exports[`LegalScreen should render Terms correctly 1`] = `<div />`;

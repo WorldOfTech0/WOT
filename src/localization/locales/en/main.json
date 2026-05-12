@@ -99,6 +99,94 @@
       }
     }
   },
+  "Software": {
+    "title": "Premium Software",
+    "description": "Innovative software engineering solutions and robust development frameworks.",
+    "features": {
+      "systems": {
+        "title": "Systems Engineering",
+        "desc": "Developing high-performance core systems and low-level optimizations."
+      },
+      "embedded": {
+        "title": "Embedded Systems",
+        "desc": "Hardware-software co-design for specialized computing environments."
+      },
+      "fullstack": {
+        "title": "Full-Stack Development",
+        "desc": "Building scalable, responsive, and data-driven web applications."
+      },
+      "api": {
+        "title": "API Ecosystems",
+        "desc": "Designing robust and developer-friendly integration interfaces."
+      }
+    }
+  },
+  "Infrastructure": {
+    "title": "Developer Infrastructure",
+    "description": "Foundational architecture powering modern technological ecosystems with stability and scale.",
+    "features": {
+      "server": {
+        "title": "Server Management",
+        "desc": "Enterprise-grade server orchestration and monitoring."
+      },
+      "data": {
+        "title": "Data Infrastructure",
+        "desc": "Scalable data lakes and real-time processing pipelines."
+      },
+      "network": {
+        "title": "Network Architecture",
+        "desc": "High-availability low-latency global network design."
+      },
+      "cloud": {
+        "title": "Cloud Operations",
+        "desc": "Multi-cloud strategy and automated resource provisioning."
+      }
+    }
+  },
+  "Security": {
+    "title": "Cybersecurity",
+    "description": "Advanced security frameworks and defensive protocols protecting the digital frontier.",
+    "features": {
+      "intelligence": {
+        "title": "Threat Intelligence",
+        "desc": "Proactive monitoring and real-time mitigation of emerging digital threats."
+      },
+      "identity": {
+        "title": "Identity & Access",
+        "desc": "Zero-trust architecture ensuring secure and audited access control."
+      },
+      "privacy": {
+        "title": "Privacy Engineering",
+        "desc": "Data protection by design and compliance with global standards."
+      },
+      "crypto": {
+        "title": "Cryptographic Services",
+        "desc": "Advanced encryption and lifecycle management for critical secrets."
+      }
+    }
+  },
+  "Learning": {
+    "title": "Learning Resources",
+    "description": "Comprehensive educational resources designed to accelerate technical growth and innovation.",
+    "features": {
+      "knowledge": {
+        "title": "Knowledge Base",
+        "desc": "Curated technical documentation and deep-dive articles on modern tech."
+      },
+      "school": {
+        "title": "Certification Paths",
+        "desc": "Guided learning journeys designed to master specific technology domains."
+      },
+      "labs": {
+        "title": "Interactive Labs",
+        "desc": "Hands-on coding environments to practice and validate your technical skills."
+      },
+      "insights": {
+        "title": "Innovation Insights",
+        "desc": "Thought leadership and trend analysis from industry experts."
+      }
+    }
+  },
   "Tools": {
     "title": "Engineering Tools",
     "description": "Powerful utilities and specialized software for advanced technical workflows.",

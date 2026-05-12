@@ -1,9 +1,9 @@
-import SearchModal from '../SearchModal';
+import CategoryGrid from '../CategoryGrid';
 import { renderWithRouter } from '@testUtils';
 
-describe('SearchModal', () => {
+describe('CategoryGrid', () => {
   it('should render correctly', () => {
-    const { container } = renderWithRouter(<SearchModal />);
+    const { container } = renderWithRouter(<CategoryGrid />);
     expect(container).toMatchSnapshot();
   });
 });

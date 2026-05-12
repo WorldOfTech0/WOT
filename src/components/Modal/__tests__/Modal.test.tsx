@@ -1,29 +1,19 @@
-import { renderWithProviders } from '@testUtils';
-import { ModalID } from '@uiStore';
 import ModalComponent from '../Modal';
+import { renderWithRouter } from '@testUtils';
+import { ModalID } from '@uiStore';
 
-describe('Modal', () => {
-  it('should render correctly', () => {
-    const { container } = renderWithProviders(
-      <ModalComponent
-        isOpen={true}
-        modalID={ModalID.SEARCH}
-        onModalClose={() => {}}
-      />,
+describe('ModalComponent', () => {
+  it('should render correctly when open with SEARCH modal', () => {
+    const { container } = renderWithRouter(
+      <ModalComponent isOpen={true} modalID={ModalID.SEARCH} onModalClose={jest.fn()} />,
     );
-
     expect(container).toMatchSnapshot();
   });
 
-  it('should render correctly with different modalID', () => {
-    const { container } = renderWithProviders(
-      <ModalComponent
-        isOpen={true}
-        modalID={ModalID.NONE}
-        onModalClose={() => {}}
-      />,
+  it('should render nothing when closed', () => {
+    const { container } = renderWithRouter(
+      <ModalComponent isOpen={false} modalID={ModalID.SEARCH} onModalClose={jest.fn()} />,
     );
-
     expect(container).toMatchSnapshot();
   });
 });

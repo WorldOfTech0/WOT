@@ -1,9 +1,9 @@
-import SearchModal from '../SearchModal';
+import TopNavBar from '../TopNavBar';
 import { renderWithRouter } from '@testUtils';
 
-describe('SearchModal', () => {
+describe('TopNavBar', () => {
   it('should render correctly', () => {
-    const { container } = renderWithRouter(<SearchModal />);
+    const { container } = renderWithRouter(<TopNavBar />);
     expect(container).toMatchSnapshot();
   });
 });

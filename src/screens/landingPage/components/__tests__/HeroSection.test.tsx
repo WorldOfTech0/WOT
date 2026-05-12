@@ -1,9 +1,9 @@
-import SearchModal from '../SearchModal';
+import HeroSection from '../HeroSection';
 import { renderWithRouter } from '@testUtils';
 
-describe('SearchModal', () => {
+describe('HeroSection', () => {
   it('should render correctly', () => {
-    const { container } = renderWithRouter(<SearchModal />);
+    const { container } = renderWithRouter(<HeroSection />);
     expect(container).toMatchSnapshot();
   });
 });

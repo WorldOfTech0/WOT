@@ -1,12 +1,12 @@
 import { render } from '@testing-library/react';
-import LocalizationProvider from '../LocalizationProvider';
+import ThemeProvider from '../ThemeProvider';
 
-describe('LocalizationProvider', () => {
+describe('ThemeProvider', () => {
   it('should render children correctly', () => {
     const { getByText } = render(
-      <LocalizationProvider>
+      <ThemeProvider>
         <div>Test Child</div>
-      </LocalizationProvider>,
+      </ThemeProvider>,
     );
     expect(getByText('Test Child')).toBeInTheDocument();
   });
