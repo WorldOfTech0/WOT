@@ -113,36 +113,12 @@ exports[`LandingPage should render correctly 1`] = `
               value=""
             />
             <button
-              class="chakra-button css-170kanx"
+              class="chakra-button css-r22ikg"
+              disabled=""
               type="button"
             >
               EXECUTE
             </button>
-          </div>
-          <div
-            class="chakra-collapsible__root"
-            data-part="root"
-            data-scope="collapsible"
-            data-state="closed"
-            dir="ltr"
-            id="collapsible::r0:"
-            style="width: 100%; position: absolute; top: 100%; margin-top: 1.5rem; z-index: 10;"
-          >
-            <div
-              class="chakra-collapsible__content css-15cdg8i"
-              data-collapsible=""
-              data-part="content"
-              data-scope="collapsible"
-              data-state="closed"
-              dir="ltr"
-              hidden=""
-              id="collapsible::r0::content"
-              style="--height: 0px; --width: 0px;"
-            >
-              <div
-                class="chakra-stack css-hr305j"
-              />
-            </div>
           </div>
         </div>
       </div>

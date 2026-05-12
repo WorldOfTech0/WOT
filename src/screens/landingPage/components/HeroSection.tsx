@@ -6,12 +6,10 @@ import {
   Box,
   Flex,
   Button,
-  Collapsible,
 } from '@chakra-ui/react';
-import { fuse } from '@data';
+
 import { motion } from 'framer-motion';
-import { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
+import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { appStore, ModalID } from '@uiStore';
 
@@ -101,25 +99,8 @@ const BackgroundAnimation = () => {
 };
 
 const HeroSection = () => {
-  const [isOpen, setIsOpen] = useState(false);
-  const [search, setSearchText] = useState<string>('');
-  const [list, setList] = useState<any[]>([]);
   const { t } = useTranslation();
-
-  useEffect(() => {
-    const timeout = setTimeout(() => {
-      const result = fuse.search(search);
-      setList(result.map((item) => item.item));
-    }, 500);
-
-    return () => {
-      clearTimeout(timeout);
-    };
-  }, [search]);
-
-  useEffect(() => {
-    setIsOpen(list.length > 0);
-  }, [list.length, search]);
+  const [search, setSearch] = useState('');
 
   return (
     <Box
@@ -291,7 +272,7 @@ const HeroSection = () => {
               fontSize="md"
               py={4}
               value={search}
-              onChange={(e) => setSearchText(e.target.value)}
+              onChange={(e) => setSearch(e.target.value)}
               onKeyDown={(e) => {
                 if (e.key === 'Enter') {
                   appStore.getState().Modal.openModal(ModalID.SEARCH, { searchQuery: search });
@@ -309,6 +290,8 @@ const HeroSection = () => {
               fontSize="sm"
               fontWeight="black"
               letterSpacing="widest"
+              disabled={search.trim().length < 2}
+              _disabled={{ opacity: 0.5, cursor: 'not-allowed' }}
               _hover={{
                 bg: 'primaryContainer',
                 transform: 'scale(1.02)',
@@ -316,62 +299,13 @@ const HeroSection = () => {
               }}
               _active={{ transform: 'scale(0.98)' }}
               transition="all 0.2s"
-              onClick={() => appStore.getState().Modal.openModal(ModalID.SEARCH, { searchQuery: search })}
+              onClick={() => {
+                appStore.getState().Modal.openModal(ModalID.SEARCH, { searchQuery: search });
+              }}
             >
               {t('Common.execute')}
             </Button>
           </Flex>
-
-          {/* Search Results Dropdown */}
-          <Collapsible.Root
-            open={isOpen}
-            style={{
-              width: '100%',
-              position: 'absolute',
-              top: '100%',
-              marginTop: '1.5rem',
-              zIndex: 10,
-            }}
-          >
-            <Collapsible.Content>
-              <VStack
-                w="full"
-                bg="surfaceContainerHigh/95"
-                backdropFilter="blur(20px)"
-                borderWidth={1}
-                borderColor="outline"
-                borderRadius="2xl"
-                py={3}
-                maxH="45vh"
-                overflowY="auto"
-                align="stretch"
-                boxShadow="dark-lg"
-              >
-                {list.map((item) => (
-                  <Link key={item.title} to={item.path}>
-                    <Box
-                      px={6}
-                      py={4}
-                      _hover={{
-                        bg: 'rgba(139, 92, 246, 0.1)',
-                        color: 'primary',
-                      }}
-                      transition="all 0.2s"
-                    >
-                      <Text
-                        color="inherit"
-                        textAlign="left"
-                        fontSize="md"
-                        fontWeight="bold"
-                      >
-                        {item.title}
-                      </Text>
-                    </Box>
-                  </Link>
-                ))}
-              </VStack>
-            </Collapsible.Content>
-          </Collapsible.Root>
         </motion.div>
       </Box>
     </Box>

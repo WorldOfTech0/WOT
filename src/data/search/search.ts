@@ -1,20 +1,29 @@
-import Fuse from 'fuse.js';
+import { CATEGORIES, SUBCATEGORIES } from '../categories';
 
-const fuseOptions = {
+export const searchItems = [
+  ...CATEGORIES.map((c) => ({
+    id: c.id,
+    titleKey: c.titleKey,
+    descriptionKey: c.subtitleKey,
+    icon: c.icon,
+    path: c.path,
+    type: 'category',
+  })),
+  ...Object.values(SUBCATEGORIES).map((s) => ({
+    id: s.id,
+    titleKey: s.titleKey,
+    descriptionKey: '',
+    icon: s.icon,
+    path: s.path,
+    type: 'subcategory',
+  })),
+];
+
+export const fuseOptions = {
   isCaseSensitive: false,
-  // includeScore: false,
   shouldSort: true,
-  // includeMatches: false,
-  // findAllMatches: false,
-  minMatchCharLength: 3,
-  // location: 0,
-  threshold: 0.1,
-  // distance: 100,
-  // useExtendedSearch: false,
-  // ignoreLocation: false,
-  // ignoreFieldNorm: false,
-  // fieldNormWeight: 1,
-  keys: ['title'],
+  minMatchCharLength: 2,
+  threshold: 0.3,
+  keys: ['title', 'description', 'id'],
 };
 
-export const fuse = new Fuse([], fuseOptions);

@@ -1,74 +1,85 @@
-# WorldOfTech
+<div align="center">
 
-WorldOfTech is a website for all free stuff on the internet.
+![WorldOfTech Hero Banner](/Users/mr.robot/.gemini/antigravity/brain/94da1fa4-bc7e-426a-a346-57248cc7e121/worldoftech_hero_banner_1778568327719.png)
 
-This project is a modernized React application focused on providing free comprehensive resources for developers, designers, and data scientists.
+# 🌐 WorldOfTech (WOT)
+### *Where Innovation Meets Implementation*
 
-## Core Technology Stack
+[![License](https://img.shields.io/badge/license-MIT-violet.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-live-success.svg)](http://localhost:3000)
+[![Resources](https://img.shields.io/badge/resources-free-blueviolet.svg)](#-curated-free-resource-catalog)
+
+---
+
+**WorldOfTech** is a premium digital gateway dedicated to aggregating, curating, and organizing the vast landscape of **free technology resources** available across the internet. We bridge the gap between ambitious learners and the high-quality, cost-free tools they need to build the future.
+
+</div>
+
+---
+
+## ✨ Features
+
+- 📚 **Curated Free Catalog**: A thoroughly vetted collection of programming frameworks, industrial-grade software, and learning documentation.
+- 🔍 **Intelligent Discovery**: A high-performance global search system powered by `Fuse.js` with full keyboard navigation support.
+- 🎨 **Aesthetic Precision**: A premium "wow-factor" interface featuring glassmorphism, dynamic animations, and a curated violet design system.
+- 🌍 **Global Ready**: Engineered with `i18next` for seamless internationalization and multi-language support.
+
+## 🛠 Core Technology Stack
 
 - **Framework**: [React 18+](https://reactjs.org/)
-- **UI Library**: [Chakra UI v3](https://chakra-ui.com/)
-- **State Management**: [Zustand v5](https://zustand-demo.pmnd.rs/)
+- **State Management**: [Zustand v5](https://github.com/pmndrs/zustand)
 - **Routing**: [React Router v7](https://reactrouter.com/)
-- **Styling**: [Panda CSS](https://panda-css.com/) (Chakra UI v3 underlying engine)
-- **Language**: [TypeScript 5.x](https://www.typescriptlang.org/)
-- **Testing**: [Jest](https://jestjs.io/) & [Cypress](https://www.cypress.io/)
-- **Package Manager**: [Yarn 4.x (Berry)](https://yarnpkg.com/)
+- **UI Library**: [Chakra UI v3](https://chakra-ui.com/)
+- **Type Safety**: [TypeScript 5.x](https://www.typescriptlang.org/)
+- **Search Engine**: [Fuse.js](https://fusejs.io/)
+- **Animation**: [Framer Motion](https://www.framer.com/motion/)
 
-## Getting Started
+---
+
+## 🚀 Getting Started
 
 ### Prerequisites
-
-- Node.js (Latest LTS recommended)
-- Yarn 4.x
+- [Node.js](https://nodejs.org/) (Latest LTS)
+- [Yarn 4.x (Berry)](https://yarnpkg.com/)
 
 ### Installation
-
 ```bash
 yarn install
 ```
 
 ### Development
-
 ```bash
 yarn start
 ```
 
-### Build
-
+### Build & Production
 ```bash
 yarn build
 ```
 
-### Testing
+---
+
+## 🧪 Testing & Quality
 
 ```bash
-# Run all tests
+# Unit & Integration Tests (Jest)
 yarn test
 
-# Run tests with coverage
-yarn test:cov
-
-# Open Cypress for E2E testing
+# E2E Testing (Cypress)
 yarn cy:open
-```
 
-### Linting & Formatting
-
-```bash
-# Run ESLint
+# Linting & Formatting
 yarn lint
-
-# Format code with Prettier
 yarn healthier
 ```
 
-## Infrastructure
-
-- **CI/CD**: GitHub Actions for automated building, linting, testing, and FTP deployment.
-- **Localization**: Internationalization support via `i18next`.
-- **Theme**: Robust dark/light mode support with system preference detection.
-
 ---
 
-© {{year}} worldoftech.com | All rights reserved
+## 📜 Legal & Rights
+© 2026 worldoftech.com | All rights reserved.
+Resources listed are the property of their respective creators and are shared under their original licenses.
+
+---
+<div align="center">
+*Empowering the next generation of technologists with the best free tools on Earth.*
+</div>

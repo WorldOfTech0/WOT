@@ -110,7 +110,7 @@ exports[`RouterProvider should render router provider correctly 2`] = `
           <a
             class=""
             data-discover="true"
-            href="/resources"
+            href="/infrastructure"
             style="text-decoration: none; display: block;"
           >
             <div
@@ -120,38 +120,12 @@ exports[`RouterProvider should render router provider correctly 2`] = `
                 class="material-symbols-outlined"
                 style="font-size: 20px; transition: all 0.3s ease;"
               >
-                folder_zip
+                terminal
               </span>
               <p
                 class="css-1qq56l8"
               >
-                Resources
-              </p>
-            </div>
-          </a>
-        </div>
-        <div
-          class="css-rtymh1"
-        >
-          <a
-            class=""
-            data-discover="true"
-            href="/tools"
-            style="text-decoration: none; display: block;"
-          >
-            <div
-              class="chakra-stack css-16hfwyg"
-            >
-              <span
-                class="material-symbols-outlined"
-                style="font-size: 20px; transition: all 0.3s ease;"
-              >
-                build
-              </span>
-              <p
-                class="css-1qq56l8"
-              >
-                Tools
+                Infrastructure
               </p>
             </div>
           </a>
@@ -178,32 +152,6 @@ exports[`RouterProvider should render router provider correctly 2`] = `
                 class="css-1qq56l8"
               >
                 Software
-              </p>
-            </div>
-          </a>
-        </div>
-        <div
-          class="css-rtymh1"
-        >
-          <a
-            class=""
-            data-discover="true"
-            href="/infrastructure"
-            style="text-decoration: none; display: block;"
-          >
-            <div
-              class="chakra-stack css-16hfwyg"
-            >
-              <span
-                class="material-symbols-outlined"
-                style="font-size: 20px; transition: all 0.3s ease;"
-              >
-                terminal
-              </span>
-              <p
-                class="css-1qq56l8"
-              >
-                Infrastructure
               </p>
             </div>
           </a>
@@ -256,6 +204,58 @@ exports[`RouterProvider should render router provider correctly 2`] = `
                 class="css-1qq56l8"
               >
                 Learning
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/resources"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="chakra-stack css-16hfwyg"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                folder_zip
+              </span>
+              <p
+                class="css-1qq56l8"
+              >
+                Resources
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="chakra-stack css-16hfwyg"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                build
+              </span>
+              <p
+                class="css-1qq56l8"
+              >
+                Tools
               </p>
             </div>
           </a>
