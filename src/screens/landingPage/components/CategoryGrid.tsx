@@ -10,6 +10,8 @@ import {
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
+import { CATEGORIES } from '@data/categories';
+
 
 const MotionGridItem = motion(GridItem);
 
@@ -209,55 +211,21 @@ const CategoryGrid = () => {
         gap={6}
         autoRows="minmax(min-content, max-content)"
       >
-        <CategoryCard
-          title={t('LandingPage.Categories.items.infrastructure.title')}
-          description={t(
-            'LandingPage.Categories.items.infrastructure.description',
-          )}
-          icon="terminal"
-          isFeatured={true}
-          number="01"
-          to="/infrastructure"
-        />
-        <CategoryCard
-          title={t('LandingPage.Categories.items.software.title')}
-          description={t('LandingPage.Categories.items.software.description')}
-          icon="integration_instructions"
-          number="02"
-          to="/software"
-        />
-        <CategoryCard
-          title={t('LandingPage.Categories.items.security.title')}
-          description={t('LandingPage.Categories.items.security.description')}
-          icon="shield"
-          number="03"
-          to="/security"
-        />
-        <CategoryCard
-          title={t('LandingPage.Categories.items.learning.title')}
-          description={t('LandingPage.Categories.items.learning.description')}
-          icon="school"
-          isFeatured={true}
-          number="04"
-          to="/learning"
-        />
-        <CategoryCard
-          title={t('LandingPage.Categories.items.resources.title')}
-          description={t('LandingPage.Categories.items.resources.description')}
-          icon="folder_zip"
-          number="05"
-          to="/resources"
-        />
-        <CategoryCard
-          title={t('LandingPage.Categories.items.tools.title')}
-          description={t('LandingPage.Categories.items.tools.description')}
-          icon="build"
-          number="06"
-          to="/tools"
-        />
+        {CATEGORIES.map((category, index) => (
+          <CategoryCard
+            key={category.id}
+            title={t(category.titleKey)}
+            description={t(category.subtitleKey)}
+            icon={category.icon}
+            isFeatured={category.isFeatured}
+            number={(index + 1).toString().padStart(2, '0')}
+            to={category.path}
+          />
+        ))}
       </Grid>
     </Box>
   );
 };
+
 
 export default CategoryGrid;

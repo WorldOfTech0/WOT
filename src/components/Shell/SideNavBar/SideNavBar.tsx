@@ -1,43 +1,19 @@
 import { Flex, Box, Text, HStack } from '@chakra-ui/react';
 import { NavLink, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import { CATEGORIES } from '@data/categories';
+
 
 const SideNavBar = () => {
   const { t } = useTranslation();
   const location = useLocation();
 
-  const navItems = [
-    {
-      label: t('Navigation.items.resources'),
-      icon: 'folder_zip',
-      path: '/resources',
-    },
-    {
-      label: t('Navigation.items.tools'),
-      icon: 'build',
-      path: '/tools',
-    },
-    {
-      label: t('Navigation.items.software'),
-      icon: 'integration_instructions',
-      path: '/software',
-    },
-    {
-      label: t('Navigation.items.infrastructure'),
-      icon: 'terminal',
-      path: '/infrastructure',
-    },
-    {
-      label: t('Navigation.items.security'),
-      icon: 'shield',
-      path: '/security',
-    },
-    {
-      label: t('Navigation.items.learning'),
-      icon: 'school',
-      path: '/learning',
-    },
-  ];
+  const navItems = CATEGORIES.map((category) => ({
+    label: t(category.navKey),
+    icon: category.icon,
+    path: category.path,
+  }));
+
 
   return (
     <Flex

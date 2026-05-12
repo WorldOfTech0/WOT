@@ -2,7 +2,6 @@ import React from 'react';
 import { HelmetProvider } from 'react-helmet-async';
 import {
   LocalizationProvider,
-  ModalProvider,
   RouterProvider,
   ThemeProvider,
 } from '@providers';
@@ -25,9 +24,7 @@ const App = () => {
         <LocalizationProvider>
           <HelmetProvider>
             <ThemeProvider>
-              <ModalProvider>
-                <RouterProvider />
-              </ModalProvider>
+              <RouterProvider />
             </ThemeProvider>
           </HelmetProvider>
         </LocalizationProvider>

@@ -45,7 +45,12 @@ const TopNavBar = () => {
           _hover={{ color: 'onSurface', bg: 'surfaceContainer' }}
           onClick={() => appStore.getState().Modal.openModal(ModalID.SEARCH)}
         >
-          <span className="material-symbols-outlined" style={{ fontSize: '20px' }}>search</span>
+          <span
+            className="material-symbols-outlined"
+            style={{ fontSize: '20px' }}
+          >
+            search
+          </span>
         </IconButton>
         <ThemeIcon />
         <IconButton
@@ -53,7 +58,12 @@ const TopNavBar = () => {
           variant="ghost"
           _hover={{ color: 'onSurface', bg: 'surfaceContainer' }}
         >
-          <span className="material-symbols-outlined" style={{ fontSize: '20px' }}>code</span>
+          <span
+            className="material-symbols-outlined"
+            style={{ fontSize: '20px' }}
+          >
+            code
+          </span>
         </IconButton>
       </HStack>
     </Flex>
