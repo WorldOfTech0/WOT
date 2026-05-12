@@ -319,16 +319,26 @@ exports[`Host should render correctly 1`] = `
               Legal
             </p>
             <a
-              class="chakra-link css-klqc50"
-              href="#"
+              data-discover="true"
+              href="/privacy"
+              style="text-decoration: none;"
             >
-              Privacy
+              <p
+                class="css-15jvvgl"
+              >
+                Privacy
+              </p>
             </a>
             <a
-              class="chakra-link css-klqc50"
-              href="#"
+              data-discover="true"
+              href="/terms"
+              style="text-decoration: none;"
             >
-              Terms
+              <p
+                class="css-15jvvgl"
+              >
+                Terms
+              </p>
             </a>
           </div>
         </div>

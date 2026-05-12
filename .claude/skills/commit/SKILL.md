@@ -15,8 +15,11 @@ This file provides guidance for using Claude Code to commit changes following th
 
 1. Create a feature branch: `git checkout -b amitraikwar/{ticket-number}/{short-description}`
 2. Stage your changes: `git add <files>`
-3. Create initial commit: `make commit` (opens interactive conventional commit prompt)
-4. Amend with detailed message: `git commit --amend` to add requirements and detailed descriptions of changes
+3. **Mandatory Validation**: Before committing, you MUST run:
+    - `yarn test` to ensure all tests pass.
+    - `yarn lint` to ensure code quality. If any files are modified by auto-fix, run `git add .` to stage them.
+    - `yarn build` to verify the production build completes successfully.
+4. Create initial commit: `make commit` (opens interactive conventional commit prompt)
 5. Amend with detailed message: `git commit --amend` to add requirements and detailed descriptions of changes.
 
 ## Branch Naming
@@ -79,4 +82,5 @@ git commit --amend
 - Keep subject line under 50 characters
 - Use body to explain "why" not just "what"
 - Reference related issues if applicable
-- Ensure commit passes linting and tests before pushing
+- **Zero Tolerance**: Never commit unless `yarn test`, `yarn lint`, and `yarn build` pass.
+- **Stage Lint Fixes**: Always `git add .` if `yarn lint` makes changes.
