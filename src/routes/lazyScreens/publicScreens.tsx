@@ -16,13 +16,8 @@ export const LazyPublicHost = () => (
 // [Start]-------- Landing screens --------
 
 const LandingPage = lazy(() => import('@screens/landingPage/LandingPage'));
-const Software = lazy(() => import('@screens/Software/Software'));
-const Infrastructure = lazy(() => import('@screens/Infrastructure/Infrastructure'));
-const Security = lazy(() => import('@screens/Security/Security'));
-const Learning = lazy(() => import('@screens/Learning/Learning'));
-const Resources = lazy(() => import('@screens/Resources/Resources'));
-
-const Tools = lazy(() => import('@screens/Tools/Tools'));
+const CategoryScreen = lazy(() => import('@screens/Category/CategoryScreen'));
+const ContentViewer = lazy(() => import('@screens/ContentViewer/ContentViewer'));
 
 export const LazyLandingPage = () => (
   <LazyProvider>
@@ -30,39 +25,15 @@ export const LazyLandingPage = () => (
   </LazyProvider>
 );
 
-export const LazySoftware = () => (
+export const LazyCategory = () => (
   <LazyProvider>
-    <Software />
+    <CategoryScreen />
   </LazyProvider>
 );
 
-export const LazyInfrastructure = () => (
+export const LazyContentViewer = () => (
   <LazyProvider>
-    <Infrastructure />
-  </LazyProvider>
-);
-
-export const LazySecurity = () => (
-  <LazyProvider>
-    <Security />
-  </LazyProvider>
-);
-
-export const LazyLearning = () => (
-  <LazyProvider>
-    <Learning />
-  </LazyProvider>
-);
-
-export const LazyResources = () => (
-  <LazyProvider>
-    <Resources />
-  </LazyProvider>
-);
-
-export const LazyTools = () => (
-  <LazyProvider>
-    <Tools />
+    <ContentViewer />
   </LazyProvider>
 );
 
