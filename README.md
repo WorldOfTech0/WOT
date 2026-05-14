@@ -80,6 +80,7 @@ yarn healthier
 This project maintains strict governance rules for AI-assisted development:
 - **Project Rules**: Mandatory documentation synchronization and test coverage ([.claude/rules/PROJECT.md](file:///.claude/rules/PROJECT.md)).
 - **Tooling Standards**: Optimized git-aware CLI tool preferences ([.claude/rules/TOOLS.md](file:///.claude/rules/TOOLS.md)).
+- **Release Automation**: Releases are automatically generated via GitHub Actions upon successful Pull Request merges into the `production` branch.
 
 ---
 
