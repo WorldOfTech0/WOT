@@ -19,6 +19,7 @@
 
 - 📚 **Curated Free Catalog**: A thoroughly vetted collection of programming frameworks, industrial-grade software, and learning documentation.
 - 🔍 **Intelligent Discovery**: A high-performance global search system powered by `Fuse.js` with full keyboard navigation support.
+- 📖 **Documentation Portal**: A comprehensive hub for tool guides, technical documentation, and interactive resource exploration.
 - 🎨 **Aesthetic Precision**: A premium "wow-factor" interface featuring glassmorphism, dynamic animations, and a curated violet design system.
 - 🌍 **Global Ready**: Engineered with `i18next` for seamless internationalization and multi-language support.
 
@@ -30,6 +31,7 @@
 - **UI Library**: [Chakra UI v3](https://chakra-ui.com/)
 - **Type Safety**: [TypeScript 5.x](https://www.typescriptlang.org/)
 - **Search Engine**: [Fuse.js](https://fusejs.io/)
+- **Markdown Rendering**: [@uiw/react-markdown-preview](https://uiwjs.github.io/react-markdown-preview/)
 - **Animation**: [Framer Motion](https://www.framer.com/motion/)
 
 ---
@@ -70,6 +72,14 @@ yarn cy:open
 yarn lint
 yarn healthier
 ```
+
+---
+
+## ⚖️ Governance & Agent Standards
+
+This project maintains strict governance rules for AI-assisted development:
+- **Project Rules**: Mandatory documentation synchronization and test coverage ([.claude/rules/PROJECT.md](file:///.claude/rules/PROJECT.md)).
+- **Tooling Standards**: Optimized git-aware CLI tool preferences ([.claude/rules/TOOLS.md](file:///.claude/rules/TOOLS.md)).
 
 ---
 

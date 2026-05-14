@@ -7,6 +7,12 @@ description: Agent responsible for end-to-end development lifecycle, from testin
 
 This agent ruleset defines the standard end-to-end workflow for an AI Agent handling development tasks in the WorldOfTech project.
 
+## Governance & Rules
+
+- **Strict Adherence**: The agent MUST respect and follow all rules defined in the [.claude/rules/](file:///.claude/rules/) directory.
+- **Project Rules**: Follow [PROJECT.md](file:///.claude/rules/PROJECT.md) for mandatory documentation updates (`README.md`, `CLAUDE.md`, `AGENT.md`) and test coverage requirements.
+- **Tool Preferences**: Follow [TOOLS.md](file:///.claude/rules/TOOLS.md) for CLI tool preferences (e.g., `git grep`, `git ls-files`).
+
 ## Workflow Steps
 
 When assigned to process a set of changes, the agent MUST follow these steps in exact order:

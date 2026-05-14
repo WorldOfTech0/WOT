@@ -15,6 +15,7 @@ This file serves as the primary source of truth for AI agents working on the **W
 | **Styling** | Vanilla CSS + Chakra UI v3 (Panda CSS) |
 | **Language** | [TypeScript 5.x](https://www.typescriptlang.org/) |
 | **Testing** | Jest + React Testing Library (v16+) + Cypress |
+| **Markdown**  | [@uiw/react-markdown-preview](https://uiwjs.github.io/react-markdown-preview/) |
 | **Package Manager**| [Yarn 4 (Berry)](https://yarnpkg.com/) |
 | **Aesthetic**       | Utilitarian Minimalism / Terminal-Luxury |
 | **Brand Colors**    | Charcoal (#15111e) & Violet (#8b5cf6) |
@@ -44,8 +45,11 @@ The platform organizes resources into 13 primary verticals:
 ├── src/
 │   ├── assets/             # Images, Global Icons, Fonts
 │   ├── components/         # Reusable UI components
+│   │   ├── MdPreview/      # Markdown rendering components
+│   │   ├── TableOfContents/# Sticky navigation for docs
 │   │   └── Theme/          # Chakra UI v3 theme configuration & tokens
 │   ├── data/               # Static data and mock JSONs
+│   ├── docs/               # Source Markdown guides and documentation
 │   ├── hooks/              # Global custom React hooks
 │   ├── localization/       # i18next configuration and locales (en/main.json)
 │   ├── providers/          # Context Providers (Theme, Localization, Router, Query)
@@ -86,6 +90,11 @@ The platform organizes resources into 13 primary verticals:
 - **Structure**: Content is driven by `translationKey` pointing to `Legal.{Key}.sections` in `main.json`.
 - **UI**: Adheres to formal ergonomic standards with vertical primary accent bars and responsive spacing.
 
+### Documentation Portal Pattern
+- **Rendering**: Uses `MdPreview` for safe and styled markdown rendering.
+- **Navigation**: Uses `TableOfContents` for automatic heading extraction and `SubcategorySideBar` for contextual tools navigation.
+- **Interactivity**: `LinkPreview` provides hover-based URL metadata for external resource links.
+
 ### TypeScript
 - All files use `.ts` or `.tsx`.
 - Strictly adhere to path aliases defined in `tsconfig.path.json` (e.g., `@screens`, `@components`, `@store`).
@@ -102,11 +111,18 @@ The platform organizes resources into 13 primary verticals:
 
 ---
 
+### Tool & CLI Preferences
+- **Content Search**: Prefer `git grep` over `rg` or `grep`.
+- **File Discovery**: Prefer `git ls-files` over `find`.
+- **Reference**: See [.claude/rules/TOOLS.md](file:///Users/mr.robot/z-stash/WorldOfTech/WOT/.claude/rules/TOOLS.md) for details.
+
 ## 6. Agent Workflow
 
-1.  **Understand**: Review this file and `CLAUDE.md`.
+1.  **Understand**: Review this file and [.claude/CLAUDE.md](file:///Users/mr.robot/z-stash/WorldOfTech/WOT/.claude/CLAUDE.md).
 2.  **Verify**: Always run `yarn lint:fix` and `yarn test` before declaring a task complete.
-3.  **Governance**: Follow Conventional Commits and link all changes to the `WOT` Jira project using `prefix/WOT-XXX` branch naming.
+3.  **Documentation**: Always update `README.md`, `CLAUDE.md`, and `AGENT.md` for every change.
+4.  **Testing**: Always write tests for new files and changes in existing files.
+5.  **Governance**: Follow Conventional Commits and link all changes to the `WOT` Jira project using `prefix/WOT-XXX` branch naming.
 
 ---
 © 2026 WorldOfTech | Confidential and Proprietary
