@@ -12,7 +12,6 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { CATEGORIES } from '@data/categories';
 
-
 const MotionGridItem = motion(GridItem);
 
 const CategoryCard = ({
@@ -226,6 +225,5 @@ const CategoryGrid = () => {
     </Box>
   );
 };
-
 
 export default CategoryGrid;

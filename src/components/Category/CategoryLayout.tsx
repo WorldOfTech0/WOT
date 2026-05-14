@@ -41,17 +41,17 @@ const CategoryLayout = ({ categoryId }: CategoryLayoutProps) => {
                 style={{ textDecoration: 'none' }}
               >
                 <Box
-                  bg="rgba(255, 255, 255, 0.02)"
+                  bg="surfaceContainer/40"
                   backdropFilter="blur(24px)"
                   borderWidth="1px"
-                  borderColor="rgba(255, 255, 255, 0.08)"
+                  borderColor="outline"
                   p={8}
                   borderRadius="2xl"
                   transition="all 0.3s cubic-bezier(0.4, 0, 0.2, 1)"
                   _hover={{
-                    bg: 'rgba(255, 255, 255, 0.04)',
+                    bg: "surfaceContainer/60",
                     transform: 'translateY(-4px)',
-                    borderColor: 'violet.alpha.40',
+                    borderColor: 'primary',
                   }}
                 >
                   <VStack align="start" gap={4}>
@@ -59,7 +59,7 @@ const CategoryLayout = ({ categoryId }: CategoryLayoutProps) => {
                       as="span"
                       className="material-symbols-outlined"
                       fontSize="32px"
-                      color="violet.400"
+                      color="primary"
                     >
                       {sub.icon}
                     </Box>

@@ -1,3 +1,14 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`TitleBoxContainer should render correctly with title 1`] = `<div />`;
+exports[`TitleBoxContainer should render correctly with title 1`] = `
+<div>
+  <div>
+    <title>
+      Test Title
+    </title>
+    <div>
+      Test Content
+    </div>
+  </div>
+</div>
+`;

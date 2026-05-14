@@ -5,7 +5,6 @@ import { TextEncoder, TextDecoder } from 'util';
 globalThis.TextEncoder = TextEncoder;
 globalThis.TextDecoder = TextDecoder;
 
-
 // Polyfill structuredClone for Jest jsdom environment (required by Chakra UI v3)
 // jsdom may not expose Node's native structuredClone
 if (typeof globalThis.structuredClone === 'undefined') {
@@ -52,9 +51,19 @@ jest.mock('@fontsource-variable/jetbrains-mono', () => ({
  * Mock helmet module
  */
 jest.mock('react-helmet-async', () => ({
-  Helmet: jest.fn(({ children }) => <div>{children}</div>),
-  HelmetProvider: () => jest.fn(),
+  Helmet: jest.fn(({ children }) => <>{children}</>),
+  HelmetProvider: ({ children }) => <>{children}</>,
 }));
+
+// Polyfill IntersectionObserver for tests
+if (typeof globalThis.IntersectionObserver === 'undefined') {
+  globalThis.IntersectionObserver = class IntersectionObserver {
+    constructor() {}
+    observe() {}
+    unobserve() {}
+    disconnect() {}
+  };
+}
 
 /**
  * Mock next-themes for test environment
@@ -66,4 +75,10 @@ jest.mock('next-themes', () => ({
     theme: 'dark',
     setTheme: jest.fn(),
   }),
+}));
+
+// React markdown preview mock.
+jest.mock('@uiw/react-markdown-preview', () => ({
+  __esModule: true,
+  default: ({ source }) => <div data-testid="markdown-preview">{source}</div>,
 }));

@@ -3,13 +3,13 @@
 exports[`SideNavBar should render collapsed in subcategory route 1`] = `
 <div>
   <nav
-    class="css-1qrux4l"
+    class="css-zew14h"
   >
     <div
       class="css-1v5akrw"
     >
       <div
-        class="css-1qlf0si"
+        class="css-150m7z3"
       >
         <a
           class=""
@@ -18,16 +18,16 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
           style="text-decoration: none; display: block;"
         >
           <div
-            class="css-11kfdtk"
+            class="css-r7jz06"
           >
             <span
               class="material-symbols-outlined"
-              style="font-size: 24px; transition: all 0.3s ease;"
+              style="font-size: 20px; transition: all 0.3s ease;"
             >
               terminal
             </span>
             <p
-              class="css-3fx4ux"
+              class="css-1dudv4b"
             >
               Infrastructure
             </p>
@@ -35,7 +35,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
         </a>
       </div>
       <div
-        class="css-1qlf0si"
+        class="css-150m7z3"
       >
         <a
           aria-current="page"
@@ -45,16 +45,16 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
           style="text-decoration: none; display: block;"
         >
           <div
-            class="css-2tf7yz"
+            class="css-1tbf82h"
           >
             <span
               class="material-symbols-outlined"
-              style="font-size: 24px; color: rgb(139, 92, 246); font-variation-settings: 'FILL' 1; transition: all 0.3s ease;"
+              style="font-size: 20px; font-variation-settings: 'FILL' 1; transition: all 0.3s ease;"
             >
               integration_instructions
             </span>
             <p
-              class="css-685aqs"
+              class="css-1q0f2tm"
             >
               Software
             </p>
@@ -62,7 +62,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
         </a>
       </div>
       <div
-        class="css-1qlf0si"
+        class="css-150m7z3"
       >
         <a
           class=""
@@ -71,16 +71,16 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
           style="text-decoration: none; display: block;"
         >
           <div
-            class="css-11kfdtk"
+            class="css-r7jz06"
           >
             <span
               class="material-symbols-outlined"
-              style="font-size: 24px; transition: all 0.3s ease;"
+              style="font-size: 20px; transition: all 0.3s ease;"
             >
               shield
             </span>
             <p
-              class="css-3fx4ux"
+              class="css-1dudv4b"
             >
               Security
             </p>
@@ -88,7 +88,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
         </a>
       </div>
       <div
-        class="css-1qlf0si"
+        class="css-150m7z3"
       >
         <a
           class=""
@@ -97,16 +97,16 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
           style="text-decoration: none; display: block;"
         >
           <div
-            class="css-11kfdtk"
+            class="css-r7jz06"
           >
             <span
               class="material-symbols-outlined"
-              style="font-size: 24px; transition: all 0.3s ease;"
+              style="font-size: 20px; transition: all 0.3s ease;"
             >
               school
             </span>
             <p
-              class="css-3fx4ux"
+              class="css-1dudv4b"
             >
               Learning
             </p>
@@ -114,7 +114,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
         </a>
       </div>
       <div
-        class="css-1qlf0si"
+        class="css-150m7z3"
       >
         <a
           class=""
@@ -123,16 +123,16 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
           style="text-decoration: none; display: block;"
         >
           <div
-            class="css-11kfdtk"
+            class="css-r7jz06"
           >
             <span
               class="material-symbols-outlined"
-              style="font-size: 24px; transition: all 0.3s ease;"
+              style="font-size: 20px; transition: all 0.3s ease;"
             >
               folder_zip
             </span>
             <p
-              class="css-3fx4ux"
+              class="css-1dudv4b"
             >
               Resources
             </p>
@@ -140,7 +140,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
         </a>
       </div>
       <div
-        class="css-1qlf0si"
+        class="css-150m7z3"
       >
         <a
           class=""
@@ -149,16 +149,16 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
           style="text-decoration: none; display: block;"
         >
           <div
-            class="css-11kfdtk"
+            class="css-r7jz06"
           >
             <span
               class="material-symbols-outlined"
-              style="font-size: 24px; transition: all 0.3s ease;"
+              style="font-size: 20px; transition: all 0.3s ease;"
             >
               build
             </span>
             <p
-              class="css-3fx4ux"
+              class="css-1dudv4b"
             >
               Tools
             </p>
@@ -214,7 +214,7 @@ exports[`SideNavBar should render correctly in default state 1`] = `
               terminal
             </span>
             <p
-              class="css-u9ov04"
+              class="css-of2xjv"
             >
               Infrastructure
             </p>
@@ -240,7 +240,7 @@ exports[`SideNavBar should render correctly in default state 1`] = `
               integration_instructions
             </span>
             <p
-              class="css-u9ov04"
+              class="css-of2xjv"
             >
               Software
             </p>
@@ -266,7 +266,7 @@ exports[`SideNavBar should render correctly in default state 1`] = `
               shield
             </span>
             <p
-              class="css-u9ov04"
+              class="css-of2xjv"
             >
               Security
             </p>
@@ -292,7 +292,7 @@ exports[`SideNavBar should render correctly in default state 1`] = `
               school
             </span>
             <p
-              class="css-u9ov04"
+              class="css-of2xjv"
             >
               Learning
             </p>
@@ -318,7 +318,7 @@ exports[`SideNavBar should render correctly in default state 1`] = `
               folder_zip
             </span>
             <p
-              class="css-u9ov04"
+              class="css-of2xjv"
             >
               Resources
             </p>
@@ -344,7 +344,7 @@ exports[`SideNavBar should render correctly in default state 1`] = `
               build
             </span>
             <p
-              class="css-u9ov04"
+              class="css-of2xjv"
             >
               Tools
             </p>

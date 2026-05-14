@@ -5,84 +5,191 @@ exports[`ContentViewer should render correctly for nodejs subcategory 1`] = `
   <div
     class="css-1115lm6"
   >
+    <aside
+      class="css-n8o6i4"
+    >
+      <div
+        class="css-2o4hrl"
+      >
+        <p
+          class="css-gvuzmc"
+        >
+          Software
+        </p>
+        <p
+          class="css-10n9ze3"
+        >
+          SYSTEM LIBRARIES
+        </p>
+      </div>
+      <div
+        class="chakra-stack css-9b4zvf"
+      >
+        <a
+          class=""
+          data-discover="true"
+          href="/software/systems"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-4zl2wt"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              terminal
+            </span>
+            <p
+              class="css-yvvvpc"
+            >
+              Systems Engineering
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/software/embedded"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-4zl2wt"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              memory
+            </span>
+            <p
+              class="css-yvvvpc"
+            >
+              Embedded Systems
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/software/fullstack"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-4zl2wt"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              layers
+            </span>
+            <p
+              class="css-yvvvpc"
+            >
+              Full-Stack Development
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/software/api"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-4zl2wt"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              webhook
+            </span>
+            <p
+              class="css-yvvvpc"
+            >
+              API Ecosystems
+            </p>
+          </div>
+        </a>
+      </div>
+    </aside>
     <div
       class="chakra-container css-1a9hjhw"
     >
       <div
-        class="chakra-stack css-80buma"
+        class="css-1f77ep"
       >
         <div
-          class="chakra-stack css-4kx5le"
+          class="chakra-stack css-10c7tj2"
         >
-          <a
-            data-discover="true"
-            href="/"
+          <div
+            class="chakra-stack css-4kx5le"
           >
-            <p
-              class="css-y9x6a7"
+            <a
+              data-discover="true"
+              href="/"
             >
-              SYSTEM
+              <p
+                class="css-y9x6a7"
+              >
+                SYSTEM
+              </p>
+            </a>
+            <p>
+              /
             </p>
-          </a>
-          <p>
-            /
-          </p>
-          <a
-            data-discover="true"
-            href="/software"
-          >
-            <p
-              class="css-253glj"
+            <a
+              data-discover="true"
+              href="/software"
             >
-              Software
+              <p
+                class="css-253glj"
+              >
+                Software
+              </p>
+            </a>
+            <p>
+              /
             </p>
-          </a>
-          <p>
-            /
-          </p>
+            <p
+              class="css-1v8u59e"
+            >
+              nodejs
+            </p>
+          </div>
           <p
-            class="css-1v8u59e"
-          >
-            nodejs
-          </p>
-        </div>
-        <div
-          class="chakra-stack css-14k3l4e"
-        >
-          <h2
-            class="chakra-heading css-9so6x0"
-          >
-            nodejs
-          </h2>
-          <p
-            class="css-zas7gb"
+            class="css-wqbqv0"
           >
             Deep dive into the nodejs ecosystem.
           </p>
-        </div>
-        <div
-          class="css-1fxghji"
-        >
           <div
-            class="chakra-stack css-oscz95"
+            class="css-1fxghji"
           >
-            <p
-              class="css-1mgf822"
-            >
-              The curated directory for 
-              <b>
-                nodejs
-              </b>
-               is currently in synchronization. Our engineers are finalizing the integration of industrial-grade resources, architectural patterns, and performance-optimized frameworks.
-            </p>
             <div
-              class="css-18ek48u"
+              class="chakra-stack css-oscz95"
             >
               <p
-                class="css-1o3rymz"
+                class="css-1mgf822"
               >
-                STATUS: SYNCHRONIZING_CONTENT
+                The curated directory for
+                 
+                <b>
+                  nodejs
+                </b>
+                 
+                is currently in synchronization. Our engineers are finalizing the integration of industrial-grade resources, architectural patterns, and performance-optimized frameworks.
               </p>
+              <div
+                class="css-18ek48u"
+              >
+                <p
+                  class="css-1o3rymz"
+                >
+                  STATUS: SYNCHRONIZING_CONTENT
+                </p>
+              </div>
             </div>
           </div>
         </div>
@@ -97,84 +204,191 @@ exports[`ContentViewer should render correctly for react subcategory 1`] = `
   <div
     class="css-1115lm6"
   >
+    <aside
+      class="css-n8o6i4"
+    >
+      <div
+        class="css-2o4hrl"
+      >
+        <p
+          class="css-gvuzmc"
+        >
+          Software
+        </p>
+        <p
+          class="css-10n9ze3"
+        >
+          SYSTEM LIBRARIES
+        </p>
+      </div>
+      <div
+        class="chakra-stack css-9b4zvf"
+      >
+        <a
+          class=""
+          data-discover="true"
+          href="/software/systems"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-4zl2wt"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              terminal
+            </span>
+            <p
+              class="css-yvvvpc"
+            >
+              Systems Engineering
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/software/embedded"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-4zl2wt"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              memory
+            </span>
+            <p
+              class="css-yvvvpc"
+            >
+              Embedded Systems
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/software/fullstack"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-4zl2wt"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              layers
+            </span>
+            <p
+              class="css-yvvvpc"
+            >
+              Full-Stack Development
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/software/api"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-4zl2wt"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              webhook
+            </span>
+            <p
+              class="css-yvvvpc"
+            >
+              API Ecosystems
+            </p>
+          </div>
+        </a>
+      </div>
+    </aside>
     <div
       class="chakra-container css-1a9hjhw"
     >
       <div
-        class="chakra-stack css-80buma"
+        class="css-1f77ep"
       >
         <div
-          class="chakra-stack css-4kx5le"
+          class="chakra-stack css-10c7tj2"
         >
-          <a
-            data-discover="true"
-            href="/"
+          <div
+            class="chakra-stack css-4kx5le"
           >
-            <p
-              class="css-y9x6a7"
+            <a
+              data-discover="true"
+              href="/"
             >
-              SYSTEM
+              <p
+                class="css-y9x6a7"
+              >
+                SYSTEM
+              </p>
+            </a>
+            <p>
+              /
             </p>
-          </a>
-          <p>
-            /
-          </p>
-          <a
-            data-discover="true"
-            href="/software"
-          >
-            <p
-              class="css-253glj"
+            <a
+              data-discover="true"
+              href="/software"
             >
-              Software
+              <p
+                class="css-253glj"
+              >
+                Software
+              </p>
+            </a>
+            <p>
+              /
             </p>
-          </a>
-          <p>
-            /
-          </p>
+            <p
+              class="css-1v8u59e"
+            >
+              react
+            </p>
+          </div>
           <p
-            class="css-1v8u59e"
-          >
-            react
-          </p>
-        </div>
-        <div
-          class="chakra-stack css-14k3l4e"
-        >
-          <h2
-            class="chakra-heading css-9so6x0"
-          >
-            react
-          </h2>
-          <p
-            class="css-zas7gb"
+            class="css-wqbqv0"
           >
             Deep dive into the react ecosystem.
           </p>
-        </div>
-        <div
-          class="css-1fxghji"
-        >
           <div
-            class="chakra-stack css-oscz95"
+            class="css-1fxghji"
           >
-            <p
-              class="css-1mgf822"
-            >
-              The curated directory for 
-              <b>
-                react
-              </b>
-               is currently in synchronization. Our engineers are finalizing the integration of industrial-grade resources, architectural patterns, and performance-optimized frameworks.
-            </p>
             <div
-              class="css-18ek48u"
+              class="chakra-stack css-oscz95"
             >
               <p
-                class="css-1o3rymz"
+                class="css-1mgf822"
               >
-                STATUS: SYNCHRONIZING_CONTENT
+                The curated directory for
+                 
+                <b>
+                  react
+                </b>
+                 
+                is currently in synchronization. Our engineers are finalizing the integration of industrial-grade resources, architectural patterns, and performance-optimized frameworks.
               </p>
+              <div
+                class="css-18ek48u"
+              >
+                <p
+                  class="css-1o3rymz"
+                >
+                  STATUS: SYNCHRONIZING_CONTENT
+                </p>
+              </div>
             </div>
           </div>
         </div>

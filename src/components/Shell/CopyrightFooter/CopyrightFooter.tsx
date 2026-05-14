@@ -2,14 +2,30 @@ import { Box, Flex, Text, Link, Stack, HStack } from '@chakra-ui/react';
 import { useTranslation } from 'react-i18next';
 import { Link as RouterLink } from 'react-router-dom';
 import { WEBSITE_URL, GITHUB_URL, TWITTER_URL } from '@data/constants';
+import { useLocation } from 'react-router-dom';
+import { useMemo } from 'react';
 
 const CopyrightFooter = () => {
   const { t } = useTranslation();
+  const location = useLocation();
+
+  const isSubcategoryRoute = useMemo(() => {
+    const segments = location.pathname.split('/').filter(Boolean);
+    return segments.length >= 2;
+  }, [location.pathname]);
+
+  const footerMarginLeft = useMemo(() => {
+    if (isSubcategoryRoute) {
+      // 16 (Main SideNav) + 64 (Subcategory SideNav) = 80
+      return { base: 0, md: 16, lg: 80 };
+    }
+    return { base: 0, md: 64 };
+  }, [isSubcategoryRoute]);
 
   return (
     <Box
       as="footer"
-      ml={{ base: 0, md: 64 }}
+      ml={footerMarginLeft}
       bg="surface"
       borderTopWidth={1}
       borderColor="outline"

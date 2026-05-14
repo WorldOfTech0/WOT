@@ -3,6 +3,8 @@ export type Subcategory = {
   titleKey: string;
   icon: string; // Material Symbol name
   path: string;
+  contentKey?: string;
+  docName?: string;
 };
 
 export type Category = {

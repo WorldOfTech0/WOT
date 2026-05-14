@@ -4,7 +4,6 @@ import { useTranslation } from 'react-i18next';
 import { CATEGORIES } from '@data/categories';
 import { useMemo } from 'react';
 
-
 const SideNavBar = () => {
   const { t } = useTranslation();
   const location = useLocation();
@@ -27,7 +26,7 @@ const SideNavBar = () => {
       gap={1}
       pt={8}
       h="100vh"
-      w={isSubcategoryRoute ? '24' : '64'}
+      w={isSubcategoryRoute ? '16' : '64'}
       position="fixed"
       left={0}
       top={16}
@@ -73,7 +72,7 @@ const SideNavBar = () => {
               : location.pathname.startsWith(item.path);
 
           return (
-            <Box key={item.label} px={isSubcategoryRoute ? 2 : 4}>
+            <Box key={item.label} px={isSubcategoryRoute ? 1 : 4}>
               <NavLink
                 to={item.path}
                 style={{ textDecoration: 'none', display: 'block' }}
@@ -82,10 +81,10 @@ const SideNavBar = () => {
                   direction={isSubcategoryRoute ? 'column' : 'row'}
                   align="center"
                   gap={isSubcategoryRoute ? 1 : 3}
-                  bg={isActive ? 'rgba(139, 92, 246, 0.15)' : 'transparent'}
+                  bg={isActive ? 'rgba(var(--chakra-colors-primary-rgb), 0.15)' : 'transparent'}
                   color={isActive ? 'primary' : 'onSurfaceVariant'}
-                  px={isSubcategoryRoute ? 2 : 4}
-                  py={isSubcategoryRoute ? 3 : 3.5}
+                  px={isSubcategoryRoute ? 1 : 4}
+                  py={isSubcategoryRoute ? 2 : 3.5}
                   borderRadius="xl"
                   transition="all 0.3s cubic-bezier(0.4, 0, 0.2, 1)"
                   position="relative"
@@ -93,10 +92,12 @@ const SideNavBar = () => {
                   textAlign="center"
                   _hover={{
                     bg: isActive
-                      ? 'rgba(139, 92, 246, 0.2)'
+                      ? 'rgba(var(--chakra-colors-primary-rgb), 0.2)'
                       : 'surfaceContainerHigh',
                     color: 'onSurface',
-                    transform: isSubcategoryRoute ? 'scale(1.05)' : 'translateX(4px)',
+                    transform: isSubcategoryRoute
+                      ? 'scale(1.05)'
+                      : 'translateX(4px)',
                   }}
                 >
                   {isActive && !isSubcategoryRoute && (
@@ -107,14 +108,14 @@ const SideNavBar = () => {
                       bottom="0"
                       width="4px"
                       bg="primary"
-                      boxShadow="0 0 15px #8b5cf6"
+                      boxShadow="0 0 15px var(--chakra-colors-primary)"
                     />
                   )}
                   <span
                     className="material-symbols-outlined"
                     style={{
-                      fontSize: isSubcategoryRoute ? '24px' : '20px',
-                      color: isActive ? '#8b5cf6' : 'inherit',
+                      fontSize: isSubcategoryRoute ? '20px' : '20px',
+                      color: isActive ? 'primary' : 'inherit',
                       fontVariationSettings: isActive ? "'FILL' 1" : undefined,
                       transition: 'all 0.3s ease',
                     }}
@@ -123,10 +124,12 @@ const SideNavBar = () => {
                   </span>
                   <Text
                     fontFamily="mono"
-                    fontSize={isSubcategoryRoute ? '10px' : 'xs'}
+                    fontSize={isSubcategoryRoute ? '8px' : 'xs'}
                     fontWeight={isActive ? 'black' : 'bold'}
                     letterSpacing="0.02em"
                     lineClamp={1}
+                    w="full"
+                    textAlign="center"
                   >
                     {item.label}
                   </Text>

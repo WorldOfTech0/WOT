@@ -28,7 +28,7 @@ describe('ContentViewer', () => {
   });
 
   it('should render placeholder for unknown subcategory', () => {
-    const { getByText } = renderWithParams('software', 'unknown-tech');
-    expect(getByText(/unknown tech/i)).toBeInTheDocument();
+    const { getAllByText } = renderWithParams('software', 'unknown-tech');
+    expect(getAllByText(/unknown-tech/i).length).toBeGreaterThan(0);
   });
 });

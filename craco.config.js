@@ -18,5 +18,19 @@ module.exports = {
       '@services': path.resolve(__dirname, './src/services'),
       '@testUtils': path.resolve(__dirname, './src/testUtils'),
     },
+    configure: (webpackConfig) => {
+      webpackConfig.module.rules.unshift({
+        test: /\.md$/,
+        type: 'asset/source',
+      });
+
+      // Ignore source map warnings from node_modules (e.g., parse5)
+      webpackConfig.ignoreWarnings = [
+        ...(webpackConfig.ignoreWarnings || []),
+        /Failed to parse source map/,
+      ];
+
+      return webpackConfig;
+    },
   },
 };

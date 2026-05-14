@@ -34,13 +34,13 @@ exports[`CategoryScreen should render correctly for infrastructure category 1`] 
             style="text-decoration: none;"
           >
             <div
-              class="css-1khn2kc"
+              class="css-hpcwbr"
             >
               <div
                 class="chakra-stack css-3og85p"
               >
                 <span
-                  class="material-symbols-outlined css-1dgypdd"
+                  class="material-symbols-outlined css-1qwkiiq"
                 >
                   dns
                 </span>
@@ -63,13 +63,13 @@ exports[`CategoryScreen should render correctly for infrastructure category 1`] 
             style="text-decoration: none;"
           >
             <div
-              class="css-1khn2kc"
+              class="css-hpcwbr"
             >
               <div
                 class="chakra-stack css-3og85p"
               >
                 <span
-                  class="material-symbols-outlined css-1dgypdd"
+                  class="material-symbols-outlined css-1qwkiiq"
                 >
                   database
                 </span>
@@ -92,13 +92,13 @@ exports[`CategoryScreen should render correctly for infrastructure category 1`] 
             style="text-decoration: none;"
           >
             <div
-              class="css-1khn2kc"
+              class="css-hpcwbr"
             >
               <div
                 class="chakra-stack css-3og85p"
               >
                 <span
-                  class="material-symbols-outlined css-1dgypdd"
+                  class="material-symbols-outlined css-1qwkiiq"
                 >
                   hub
                 </span>
@@ -121,13 +121,13 @@ exports[`CategoryScreen should render correctly for infrastructure category 1`] 
             style="text-decoration: none;"
           >
             <div
-              class="css-1khn2kc"
+              class="css-hpcwbr"
             >
               <div
                 class="chakra-stack css-3og85p"
               >
                 <span
-                  class="material-symbols-outlined css-1dgypdd"
+                  class="material-symbols-outlined css-1qwkiiq"
                 >
                   cloud
                 </span>
@@ -185,13 +185,13 @@ exports[`CategoryScreen should render correctly for software category 1`] = `
             style="text-decoration: none;"
           >
             <div
-              class="css-1khn2kc"
+              class="css-hpcwbr"
             >
               <div
                 class="chakra-stack css-3og85p"
               >
                 <span
-                  class="material-symbols-outlined css-1dgypdd"
+                  class="material-symbols-outlined css-1qwkiiq"
                 >
                   terminal
                 </span>
@@ -214,13 +214,13 @@ exports[`CategoryScreen should render correctly for software category 1`] = `
             style="text-decoration: none;"
           >
             <div
-              class="css-1khn2kc"
+              class="css-hpcwbr"
             >
               <div
                 class="chakra-stack css-3og85p"
               >
                 <span
-                  class="material-symbols-outlined css-1dgypdd"
+                  class="material-symbols-outlined css-1qwkiiq"
                 >
                   memory
                 </span>
@@ -243,13 +243,13 @@ exports[`CategoryScreen should render correctly for software category 1`] = `
             style="text-decoration: none;"
           >
             <div
-              class="css-1khn2kc"
+              class="css-hpcwbr"
             >
               <div
                 class="chakra-stack css-3og85p"
               >
                 <span
-                  class="material-symbols-outlined css-1dgypdd"
+                  class="material-symbols-outlined css-1qwkiiq"
                 >
                   layers
                 </span>
@@ -272,13 +272,13 @@ exports[`CategoryScreen should render correctly for software category 1`] = `
             style="text-decoration: none;"
           >
             <div
-              class="css-1khn2kc"
+              class="css-hpcwbr"
             >
               <div
                 class="chakra-stack css-3og85p"
               >
                 <span
-                  class="material-symbols-outlined css-1dgypdd"
+                  class="material-symbols-outlined css-1qwkiiq"
                 >
                   webhook
                 </span>

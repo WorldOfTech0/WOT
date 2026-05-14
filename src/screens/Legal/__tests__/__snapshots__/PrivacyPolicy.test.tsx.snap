@@ -1,3 +1,147 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`PrivacyPolicy should render correctly 1`] = `<div />`;
+exports[`PrivacyPolicy should render correctly 1`] = `
+<div>
+  <div
+    class="css-1688h3j"
+  >
+    <div
+      class="chakra-container css-r8xdkh"
+    >
+      <div
+        class="chakra-stack css-1nq9ppm"
+      >
+        <div
+          class="chakra-stack css-14k4qp8"
+        >
+          <h2
+            class="chakra-heading css-f6v1xp"
+          >
+            Privacy Policy
+          </h2>
+          <div
+            class="css-5vlmhj"
+          >
+            <p
+              class="css-1kj10bq"
+            >
+              Last updated: May 12, 2026
+            </p>
+          </div>
+          <p
+            class="css-1hpvl6r"
+          >
+            WorldOfTech ('we', 'our', or 'us') is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our platform. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
+          </p>
+        </div>
+        <div
+          class="chakra-stack css-1nj9xb0"
+        >
+          <div
+            class="css-4q6guf"
+          >
+            <div
+              class="css-cmwbqk"
+            />
+            <h2
+              class="chakra-heading css-jak30o"
+            >
+              1. Information Collection
+            </h2>
+            <p
+              class="css-wa113s"
+            >
+              We do not require users to create accounts or provide personal identification information (PII) to access our curated directory. However, we may collect non-identifying information such as browser type, operating system, and IP address for the purpose of maintaining platform stability and improving user experience.
+            </p>
+          </div>
+          <div
+            class="css-4q6guf"
+          >
+            <div
+              class="css-cmwbqk"
+            />
+            <h2
+              class="chakra-heading css-jak30o"
+            >
+              2. Cookies and Local Storage
+            </h2>
+            <p
+              class="css-wa113s"
+            >
+              We use essential cookies and browser local storage to remember your functional preferences, such as your selected theme (Light/Dark mode) and language settings. These technologies do not track your activity on external websites.
+            </p>
+          </div>
+          <div
+            class="css-4q6guf"
+          >
+            <div
+              class="css-cmwbqk"
+            />
+            <h2
+              class="chakra-heading css-jak30o"
+            >
+              3. External Resource Linking
+            </h2>
+            <p
+              class="css-wa113s"
+            >
+              Our platform serves as a gateway to third-party resources. When you click on an external link, you are leaving WorldOfTech. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+            </p>
+          </div>
+          <div
+            class="css-4q6guf"
+          >
+            <div
+              class="css-cmwbqk"
+            />
+            <h2
+              class="chakra-heading css-jak30o"
+            >
+              4. Data Security
+            </h2>
+            <p
+              class="css-wa113s"
+            >
+              We implement industry-standard security measures to protect the integrity of our platform. However, no method of transmission over the Internet or method of electronic storage is 100% secure, and we cannot guarantee absolute security.
+            </p>
+          </div>
+          <div
+            class="css-4q6guf"
+          >
+            <div
+              class="css-cmwbqk"
+            />
+            <h2
+              class="chakra-heading css-jak30o"
+            >
+              5. Children's Privacy
+            </h2>
+            <p
+              class="css-wa113s"
+            >
+              Our platform is not intended for children under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+            </p>
+          </div>
+          <div
+            class="css-4q6guf"
+          >
+            <div
+              class="css-cmwbqk"
+            />
+            <h2
+              class="chakra-heading css-jak30o"
+            >
+              6. Contact Us
+            </h2>
+            <p
+              class="css-wa113s"
+            >
+              If you have questions or comments about this Privacy Policy, please contact us at legal@worldoftech.co.in.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

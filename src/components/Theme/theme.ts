@@ -163,7 +163,7 @@ const customConfig = defineConfig({
           value: { base: '#64748b', _dark: colors.onSurfaceVariant },
         },
         outline: {
-          value: { base: '#e2e8f0', _dark: colors.outline },
+          value: { base: '#cbd5e1', _dark: colors.outline },
         },
         surface: {
           value: { base: '#ffffff', _dark: colors.surface },
