@@ -11,6 +11,7 @@ WorldOfTech is a premium React-based technical directory for free internet resou
 - **State Management**: Zustand v5
 - **UI Library**: Chakra UI v3
 - **Search**: Fuse.js (Modal-based)
+- **Documentation**: Markdown-based (react-markdown-preview)
 - **i18n**: i18next
 
 ## 📘 Primary Documentation
@@ -43,6 +44,11 @@ Advanced agent instructions are modularized in the `.claude/skills/` directory.
 - [Pull Request Skill](file:///.claude/skills/pr/SKILL.md)
 - [Frontend Design](file:///.claude/skills/frontend-design/SKILL.md)
 - [Web Development](file:///.claude/skills/web/SKILL.md)
+
+## 📜 Rules & Standards
+
+- [Project Rules](file:///.claude/rules/PROJECT.md) (Docs & Testing)
+- [Tool Preferences](file:///.claude/rules/TOOLS.md) (CLI Usage)
 
 ---
 *Note: Do not modify files in `skills/` or `agents/` unless explicitly requested.*
