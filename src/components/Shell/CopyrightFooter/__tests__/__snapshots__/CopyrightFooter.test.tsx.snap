@@ -1,3 +1,117 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`CopyrightFooter should render correctly 1`] = `<div />`;
+exports[`CopyrightFooter should render correctly 1`] = `
+<div>
+  <footer
+    class="css-17y9hbq"
+  >
+    <div
+      class="css-1ocneyr"
+    >
+      <div>
+        <a
+          class="chakra-link css-1w9d65j"
+          href="https://worldoftech.co.in"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          <p
+            class="css-psxnlr"
+          >
+            WorldOfTech
+          </p>
+        </a>
+        <p
+          class="css-1x7du1n"
+        >
+          Curating the finest technology resources for the modern developer elite.
+        </p>
+      </div>
+      <div
+        class="chakra-stack css-i5wwxt"
+      >
+        <div
+          class="chakra-stack css-16p2oxl"
+        >
+          <p
+            class="css-15lbfbi"
+          >
+            Connect
+          </p>
+          <a
+            class="chakra-link css-klqc50"
+            href="https://worldoftech.co.in"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            Website
+          </a>
+          <a
+            class="chakra-link css-klqc50"
+            href="https://github.com/WorldOfTech0/WOT"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            GitHub
+          </a>
+          <a
+            class="chakra-link css-klqc50"
+            href="#"
+          >
+            Twitter
+          </a>
+        </div>
+        <div
+          class="chakra-stack css-16p2oxl"
+        >
+          <p
+            class="css-15lbfbi"
+          >
+            Legal
+          </p>
+          <a
+            data-discover="true"
+            href="/privacy"
+            style="text-decoration: none;"
+          >
+            <p
+              class="css-15jvvgl"
+            >
+              Privacy
+            </p>
+          </a>
+          <a
+            data-discover="true"
+            href="/terms"
+            style="text-decoration: none;"
+          >
+            <p
+              class="css-15jvvgl"
+            >
+              Terms
+            </p>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      class="css-15qeq3o"
+    >
+      <div
+        class="css-1ujh7in"
+      >
+        <p
+          class="css-13k715q"
+        >
+          © 2026 WORLDOFTECH.CO.IN // ALL RIGHTS RESERVED.
+        </p>
+        <p
+          class="css-13k715q"
+        >
+          STAY CURIOUS. STAY ELITE.
+        </p>
+      </div>
+    </div>
+  </footer>
+</div>
+`;

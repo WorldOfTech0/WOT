@@ -1,3 +1,377 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Host should render correctly 1`] = `<div />`;
+exports[`Host should render correctly 1`] = `
+<div>
+  <div
+    class="css-8qdz7x"
+  >
+    <header
+      class="css-lkgpjt"
+    >
+      <div
+        class="chakra-stack css-1kydda"
+      >
+        <a
+          data-discover="true"
+          href="/"
+          style="text-decoration: none;"
+        >
+          <p
+            class="css-lwhv2b"
+          >
+            WorldOfTech
+          </p>
+        </a>
+      </div>
+      <div
+        class="chakra-stack css-465vsc"
+      >
+        <button
+          aria-label="Search"
+          class="chakra-button css-1cxguc5"
+          type="button"
+        >
+          <span
+            class="material-symbols-outlined"
+            style="font-size: 20px;"
+          >
+            search
+          </span>
+        </button>
+        <button
+          aria-label="toggle-color-mode"
+          class="chakra-button css-hjqm2w"
+          type="button"
+        >
+          <svg
+            color="primary"
+            fill="currentColor"
+            height="20"
+            viewBox="0 0 16 16"
+            width="20"
+          >
+            <path
+              d="M8 11a3 3 0 110-6 3 3 0 010 6zm0 1a4 4 0 100-8 4 4 0 000 8zM8 0a.5.5 0 01.5.5v2a.5.5 0 01-1 0v-2A.5.5 0 018 0zm0 13a.5.5 0 01.5.5v2a.5.5 0 01-1 0v-2A.5.5 0 018 13zm8-5a.5.5 0 01-.5.5h-2a.5.5 0 010-1h2a.5.5 0 01.5.5zM3 8a.5.5 0 01-.5.5h-2a.5.5 0 010-1h2A.5.5 0 013 8zm10.657-5.657a.5.5 0 010 .707l-1.414 1.415a.5.5 0 11-.707-.708l1.414-1.414a.5.5 0 01.707 0zm-9.193 9.193a.5.5 0 010 .707L3.05 13.657a.5.5 0 01-.707-.707l1.414-1.414a.5.5 0 01.707 0zm9.193 2.121a.5.5 0 01-.707 0l-1.414-1.414a.5.5 0 01.707-.707l1.414 1.414a.5.5 0 010 .707zM4.464 4.465a.5.5 0 01-.707 0L2.343 3.05a.5.5 0 11.707-.707l1.414 1.414a.5.5 0 010 .708z"
+            />
+          </svg>
+        </button>
+        <a
+          class="chakra-link css-2yvnes"
+          href="https://github.com/WorldOfTech0/WOT"
+          rel="noopener noreferrer"
+          style="text-decoration: none;"
+          target="_blank"
+        >
+          <button
+            aria-label="Code"
+            class="chakra-button css-1cxguc5"
+            type="button"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 20px;"
+            >
+              code
+            </span>
+          </button>
+        </a>
+      </div>
+    </header>
+    <nav
+      class="css-1w9x71j"
+    >
+      <div
+        class="css-19jgx3e"
+      >
+        <p
+          class="css-15fik6v"
+        >
+          Navigation
+        </p>
+        <div
+          class="css-81bkrc"
+        />
+        <p
+          class="css-11nhyxh"
+        >
+          SYSTEM LIBRARIES
+        </p>
+      </div>
+      <div
+        class="css-1v5akrw"
+      >
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/infrastructure"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-17zk0ji"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                terminal
+              </span>
+              <p
+                class="css-of2xjv"
+              >
+                Infrastructure
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/software"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-17zk0ji"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                integration_instructions
+              </span>
+              <p
+                class="css-of2xjv"
+              >
+                Software
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/security"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-17zk0ji"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                shield
+              </span>
+              <p
+                class="css-of2xjv"
+              >
+                Security
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/learning"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-17zk0ji"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                school
+              </span>
+              <p
+                class="css-of2xjv"
+              >
+                Learning
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/resources"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-17zk0ji"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                folder_zip
+              </span>
+              <p
+                class="css-of2xjv"
+              >
+                Resources
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-17zk0ji"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                build
+              </span>
+              <p
+                class="css-of2xjv"
+              >
+                Tools
+              </p>
+            </div>
+          </a>
+        </div>
+      </div>
+    </nav>
+    <main
+      class="css-115r48m"
+    />
+    <footer
+      class="css-17y9hbq"
+    >
+      <div
+        class="css-1ocneyr"
+      >
+        <div>
+          <a
+            class="chakra-link css-1w9d65j"
+            href="https://worldoftech.co.in"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <p
+              class="css-psxnlr"
+            >
+              WorldOfTech
+            </p>
+          </a>
+          <p
+            class="css-1x7du1n"
+          >
+            Curating the finest technology resources for the modern developer elite.
+          </p>
+        </div>
+        <div
+          class="chakra-stack css-i5wwxt"
+        >
+          <div
+            class="chakra-stack css-16p2oxl"
+          >
+            <p
+              class="css-15lbfbi"
+            >
+              Connect
+            </p>
+            <a
+              class="chakra-link css-klqc50"
+              href="https://worldoftech.co.in"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Website
+            </a>
+            <a
+              class="chakra-link css-klqc50"
+              href="https://github.com/WorldOfTech0/WOT"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              GitHub
+            </a>
+            <a
+              class="chakra-link css-klqc50"
+              href="#"
+            >
+              Twitter
+            </a>
+          </div>
+          <div
+            class="chakra-stack css-16p2oxl"
+          >
+            <p
+              class="css-15lbfbi"
+            >
+              Legal
+            </p>
+            <a
+              data-discover="true"
+              href="/privacy"
+              style="text-decoration: none;"
+            >
+              <p
+                class="css-15jvvgl"
+              >
+                Privacy
+              </p>
+            </a>
+            <a
+              data-discover="true"
+              href="/terms"
+              style="text-decoration: none;"
+            >
+              <p
+                class="css-15jvvgl"
+              >
+                Terms
+              </p>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="css-15qeq3o"
+      >
+        <div
+          class="css-1ujh7in"
+        >
+          <p
+            class="css-13k715q"
+          >
+            © 2026 WORLDOFTECH.CO.IN // ALL RIGHTS RESERVED.
+          </p>
+          <p
+            class="css-13k715q"
+          >
+            STAY CURIOUS. STAY ELITE.
+          </p>
+        </div>
+      </div>
+    </footer>
+  </div>
+</div>
+`;

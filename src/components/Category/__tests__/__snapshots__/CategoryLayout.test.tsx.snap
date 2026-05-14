@@ -1,5 +1,303 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`CategoryLayout should render correctly for infrastructure category 1`] = `<div />`;
+exports[`CategoryLayout should render correctly for infrastructure category 1`] = `
+<div>
+  <div
+    class="css-ca9xn9"
+  >
+    <div
+      class="chakra-container css-1a9hjhw"
+    >
+      <div
+        class="chakra-stack css-tnpn78"
+      >
+        <div
+          class="chakra-stack css-3og85p"
+        >
+          <h2
+            class="chakra-heading css-2jj4nw"
+          >
+            Infrastructure
+          </h2>
+          <p
+            class="css-15ahe7o"
+          >
+            High-performance tools for cloud architecture, deployment pipelines, and system monitoring.
+          </p>
+        </div>
+        <div
+          class="css-18z42r8"
+        >
+          <a
+            data-discover="true"
+            href="/infrastructure/server"
+            style="text-decoration: none;"
+          >
+            <div
+              class="css-hpcwbr"
+            >
+              <div
+                class="chakra-stack css-3og85p"
+              >
+                <span
+                  class="material-symbols-outlined css-1qwkiiq"
+                >
+                  dns
+                </span>
+                <h2
+                  class="chakra-heading css-d6brhe"
+                >
+                  Server Management
+                </h2>
+                <p
+                  class="css-19k74ug"
+                >
+                  Infrastructure.features.server.title.desc
+                </p>
+              </div>
+            </div>
+          </a>
+          <a
+            data-discover="true"
+            href="/infrastructure/data-infra"
+            style="text-decoration: none;"
+          >
+            <div
+              class="css-hpcwbr"
+            >
+              <div
+                class="chakra-stack css-3og85p"
+              >
+                <span
+                  class="material-symbols-outlined css-1qwkiiq"
+                >
+                  database
+                </span>
+                <h2
+                  class="chakra-heading css-d6brhe"
+                >
+                  Data Infrastructure
+                </h2>
+                <p
+                  class="css-19k74ug"
+                >
+                  Infrastructure.features.data.title.desc
+                </p>
+              </div>
+            </div>
+          </a>
+          <a
+            data-discover="true"
+            href="/infrastructure/network"
+            style="text-decoration: none;"
+          >
+            <div
+              class="css-hpcwbr"
+            >
+              <div
+                class="chakra-stack css-3og85p"
+              >
+                <span
+                  class="material-symbols-outlined css-1qwkiiq"
+                >
+                  hub
+                </span>
+                <h2
+                  class="chakra-heading css-d6brhe"
+                >
+                  Network Architecture
+                </h2>
+                <p
+                  class="css-19k74ug"
+                >
+                  Infrastructure.features.network.title.desc
+                </p>
+              </div>
+            </div>
+          </a>
+          <a
+            data-discover="true"
+            href="/infrastructure/cloud"
+            style="text-decoration: none;"
+          >
+            <div
+              class="css-hpcwbr"
+            >
+              <div
+                class="chakra-stack css-3og85p"
+              >
+                <span
+                  class="material-symbols-outlined css-1qwkiiq"
+                >
+                  cloud
+                </span>
+                <h2
+                  class="chakra-heading css-d6brhe"
+                >
+                  Cloud Operations
+                </h2>
+                <p
+                  class="css-19k74ug"
+                >
+                  Infrastructure.features.cloud.title.desc
+                </p>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
 
-exports[`CategoryLayout should render correctly for software category 1`] = `<div />`;
+exports[`CategoryLayout should render correctly for software category 1`] = `
+<div>
+  <div
+    class="css-ca9xn9"
+  >
+    <div
+      class="chakra-container css-1a9hjhw"
+    >
+      <div
+        class="chakra-stack css-tnpn78"
+      >
+        <div
+          class="chakra-stack css-3og85p"
+        >
+          <h2
+            class="chakra-heading css-2jj4nw"
+          >
+            Software
+          </h2>
+          <p
+            class="css-15ahe7o"
+          >
+            Elite productivity tools and IDE extensions.
+          </p>
+        </div>
+        <div
+          class="css-18z42r8"
+        >
+          <a
+            data-discover="true"
+            href="/software/systems"
+            style="text-decoration: none;"
+          >
+            <div
+              class="css-hpcwbr"
+            >
+              <div
+                class="chakra-stack css-3og85p"
+              >
+                <span
+                  class="material-symbols-outlined css-1qwkiiq"
+                >
+                  terminal
+                </span>
+                <h2
+                  class="chakra-heading css-d6brhe"
+                >
+                  Systems Engineering
+                </h2>
+                <p
+                  class="css-19k74ug"
+                >
+                  Software.features.systems.title.desc
+                </p>
+              </div>
+            </div>
+          </a>
+          <a
+            data-discover="true"
+            href="/software/embedded"
+            style="text-decoration: none;"
+          >
+            <div
+              class="css-hpcwbr"
+            >
+              <div
+                class="chakra-stack css-3og85p"
+              >
+                <span
+                  class="material-symbols-outlined css-1qwkiiq"
+                >
+                  memory
+                </span>
+                <h2
+                  class="chakra-heading css-d6brhe"
+                >
+                  Embedded Systems
+                </h2>
+                <p
+                  class="css-19k74ug"
+                >
+                  Software.features.embedded.title.desc
+                </p>
+              </div>
+            </div>
+          </a>
+          <a
+            data-discover="true"
+            href="/software/fullstack"
+            style="text-decoration: none;"
+          >
+            <div
+              class="css-hpcwbr"
+            >
+              <div
+                class="chakra-stack css-3og85p"
+              >
+                <span
+                  class="material-symbols-outlined css-1qwkiiq"
+                >
+                  layers
+                </span>
+                <h2
+                  class="chakra-heading css-d6brhe"
+                >
+                  Full-Stack Development
+                </h2>
+                <p
+                  class="css-19k74ug"
+                >
+                  Software.features.fullstack.title.desc
+                </p>
+              </div>
+            </div>
+          </a>
+          <a
+            data-discover="true"
+            href="/software/api"
+            style="text-decoration: none;"
+          >
+            <div
+              class="css-hpcwbr"
+            >
+              <div
+                class="chakra-stack css-3og85p"
+              >
+                <span
+                  class="material-symbols-outlined css-1qwkiiq"
+                >
+                  webhook
+                </span>
+                <h2
+                  class="chakra-heading css-d6brhe"
+                >
+                  API Ecosystems
+                </h2>
+                <p
+                  class="css-19k74ug"
+                >
+                  Software.features.api.title.desc
+                </p>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

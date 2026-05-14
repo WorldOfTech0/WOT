@@ -105,19 +105,23 @@
     "features": {
       "systems": {
         "title": "Systems Engineering",
-        "desc": "Developing high-performance core systems and low-level optimizations."
+        "desc": "Developing high-performance core systems and low-level optimizations.",
+        "content": "Our systems engineering practice focuses on kernel-level development, memory management, and high-performance computing architectures. We specialize in low-level optimizations that squeeze every bit of performance from the underlying hardware."
       },
       "embedded": {
         "title": "Embedded Systems",
-        "desc": "Hardware-software co-design for specialized computing environments."
+        "desc": "Hardware-software co-design for specialized computing environments.",
+        "content": "We design and develop robust embedded systems for diverse applications, from IoT sensors to complex industrial controllers. Our approach integrates real-time operating systems (RTOS) with specialized hardware to ensure reliability and deterministic behavior."
       },
       "fullstack": {
         "title": "Full-Stack Development",
-        "desc": "Building scalable, responsive, and data-driven web applications."
+        "desc": "Building scalable, responsive, and data-driven web applications.",
+        "content": "Our full-stack engineering team builds modern, high-performance web applications using industry-leading frameworks like React, Next.js, and Node.js. We focus on scalability, security, and exceptional user experiences from the database to the front-end."
       },
       "api": {
         "title": "API Ecosystems",
-        "desc": "Designing robust and developer-friendly integration interfaces."
+        "desc": "Designing robust and developer-friendly integration interfaces.",
+        "content": "We architect and implement scalable API ecosystems that empower developers and facilitate seamless integrations. Our designs prioritize security, documentation, and performance, ensuring that your services can grow and interoperate effectively."
       }
     }
   },
@@ -127,19 +131,23 @@
     "features": {
       "server": {
         "title": "Server Management",
-        "desc": "Enterprise-grade server orchestration and monitoring."
+        "desc": "Enterprise-grade server orchestration and monitoring.",
+        "content": "Manage and monitor your server fleets with enterprise-grade tools. We provide solutions for automated provisioning, configuration management, and real-time performance tracking to ensure 99.99% availability."
       },
       "data": {
         "title": "Data Infrastructure",
-        "desc": "Scalable data lakes and real-time processing pipelines."
+        "desc": "Scalable data lakes and real-time processing pipelines.",
+        "content": "Build robust data pipelines and scalable storage solutions. Our infrastructure patterns support real-time data ingestion, transformation, and analysis, enabling data-driven decision making at scale."
       },
       "network": {
         "title": "Network Architecture",
-        "desc": "High-availability low-latency global network design."
+        "desc": "High-availability low-latency global network design.",
+        "content": "Design high-performance network architectures for global scale. We specialize in software-defined networking (SDN), low-latency routing, and secure perimeter defense to protect your data in transit."
       },
       "cloud": {
         "title": "Cloud Operations",
-        "desc": "Multi-cloud strategy and automated resource provisioning."
+        "desc": "Multi-cloud strategy and automated resource provisioning.",
+        "content": "Optimize your cloud spend and operational efficiency with automated resource management. Our multi-cloud patterns ensure flexibility and resilience across AWS, Azure, and Google Cloud."
       }
     }
   },
@@ -149,19 +157,23 @@
     "features": {
       "intelligence": {
         "title": "Threat Intelligence",
-        "desc": "Proactive monitoring and real-time mitigation of emerging digital threats."
+        "desc": "Proactive monitoring and real-time mitigation of emerging digital threats.",
+        "content": "Stay ahead of adversaries with real-time threat feeds and automated response systems. Our intelligence frameworks leverage AI to detect and neutralize malicious activity before it impacts your operations."
       },
       "identity": {
         "title": "Identity & Access",
-        "desc": "Zero-trust architecture ensuring secure and audited access control."
+        "desc": "Zero-trust architecture ensuring secure and audited access control.",
+        "content": "Implement zero-trust identity management across your entire organization. We provide tools for multi-factor authentication (MFA), role-based access control (RBAC), and continuous session auditing."
       },
       "privacy": {
         "title": "Privacy Engineering",
-        "desc": "Data protection by design and compliance with global standards."
+        "desc": "Data protection by design and compliance with global standards.",
+        "content": "Embed privacy directly into your product lifecycle. Our engineering patterns ensure compliance with GDPR, CCPA, and other global standards through automated data masking and differential privacy."
       },
       "crypto": {
         "title": "Cryptographic Services",
-        "desc": "Advanced encryption and lifecycle management for critical secrets."
+        "desc": "Advanced encryption and lifecycle management for critical secrets.",
+        "content": "Secure your most sensitive data with industry-standard encryption protocols. We offer complete lifecycle management for keys and secrets, ensuring that your data remains confidential and tamper-proof."
       }
     }
   },
@@ -171,19 +183,23 @@
     "features": {
       "knowledge": {
         "title": "Knowledge Base",
-        "desc": "Curated technical documentation and deep-dive articles on modern tech."
+        "desc": "Curated technical documentation and deep-dive articles on modern tech.",
+        "content": "Access a deep well of technical expertise with our curated knowledge base. From architectural blueprints to implementation guides, we provide the insights you need to master modern technology."
       },
       "school": {
         "title": "Certification Paths",
-        "desc": "Guided learning journeys designed to master specific technology domains."
+        "desc": "Guided learning journeys designed to master specific technology domains.",
+        "content": "Accelerate your career with structured learning paths. Our curriculum covers cloud architecture, cybersecurity, and advanced software engineering, preparing you for professional certification."
       },
       "labs": {
         "title": "Interactive Labs",
-        "desc": "Hands-on coding environments to practice and validate your technical skills."
+        "desc": "Hands-on coding environments to practice and validate your technical skills.",
+        "content": "Bridge the gap between theory and practice in our interactive cloud-native labs. Build, deploy, and scale real-world applications in a safe, sandboxed environment designed for rapid learning."
       },
       "insights": {
         "title": "Innovation Insights",
-        "desc": "Thought leadership and trend analysis from industry experts."
+        "desc": "Thought leadership and trend analysis from industry experts.",
+        "content": "Stay informed on the future of technology with regular insights from industry leaders. We analyze emerging trends like quantum computing, AI ethics, and decentralized architectures."
       }
     }
   },
@@ -191,21 +207,49 @@
     "title": "Engineering Tools",
     "description": "Powerful utilities and specialized software for advanced technical workflows.",
     "features": {
-      "cli": {
-        "title": "CLI Utilities",
-        "desc": "Powerful command-line tools for automated workflows."
-      },
       "devTools": {
         "title": "Developer Tools",
         "desc": "Specialized debugging and performance analysis software."
       },
-      "frameworks": {
-        "title": "Core Frameworks",
-        "desc": "High-performance building blocks for technical ecosystems."
+      "system": {
+        "title": "System Tools",
+        "desc": "High-performance system monitoring and optimization utilities."
       },
-      "automation": {
-        "title": "Automation Engine",
-        "desc": "Low-code and script-based solutions for task orchestration."
+      "file": {
+        "title": "File Tools",
+        "desc": "Advanced file management, compression, and recovery systems."
+      },
+      "internet": {
+        "title": "Internet Tools",
+        "desc": "Network diagnostics, speed testing, and connectivity optimization."
+      },
+      "social": {
+        "title": "Social Media Tools",
+        "desc": "Content scheduling, analytics, and platform management automation."
+      },
+      "text": {
+        "title": "Text Tools",
+        "desc": "Markdown editors, formatters, and collaborative writing environments."
+      },
+      "gaming": {
+        "title": "Gaming Tools",
+        "desc": "Performance boosters, recording suites, and community integration."
+      },
+      "image": {
+        "title": "Image Tools",
+        "desc": "Vector editing, batch processing, and AI-powered enhancement."
+      },
+      "video": {
+        "title": "Video Tools",
+        "desc": "Non-linear editing, transcoding, and professional grading tools."
+      },
+      "audio": {
+        "title": "Audio Tools",
+        "desc": "DAWs, synthesizers, and spatial audio processing frameworks."
+      },
+      "educational": {
+        "title": "Educational Tools",
+        "desc": "Interactive learning platforms, LMS integrations, and research aids."
       }
     }
   },
