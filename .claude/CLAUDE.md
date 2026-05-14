@@ -13,7 +13,6 @@ WorldOfTech is a premium React-based technical directory for free internet resou
 - **Search**: Fuse.js (Modal-based)
 - **Documentation**: Markdown-based (react-markdown-preview)
 - **i18n**: i18next
-- **CI/CD**: Releases are automatically triggered upon PR merges to `production`.
 
 ## 📘 Primary Documentation
 

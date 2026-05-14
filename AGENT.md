@@ -95,11 +95,6 @@ The platform organizes resources into 13 primary verticals:
 - **Navigation**: Uses `TableOfContents` for automatic heading extraction and `SubcategorySideBar` for contextual tools navigation.
 - **Interactivity**: `LinkPreview` provides hover-based URL metadata for external resource links.
 
-### Release Workflow
-- **Trigger**: Automatic release generation occurs only when a Pull Request is successfully merged into the `production` branch.
-- **Mechanism**: Uses `conventional-changelog-action` to determine version bumps and generate changelogs based on commit history.
-- **Verification**: Releases are published to GitHub, which then triggers the `Deploy job` (`deploy.yaml`).
-
 ### TypeScript
 - All files use `.ts` or `.tsx`.
 - Strictly adhere to path aliases defined in `tsconfig.path.json` (e.g., `@screens`, `@components`, `@store`).
