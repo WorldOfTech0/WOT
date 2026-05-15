@@ -13,12 +13,27 @@
     "header": "Navigation",
     "subHeader": "SYSTEM LIBRARIES",
     "items": {
-      "resources": "Resources",
-      "software": "Software",
-      "infrastructure": "Infrastructure",
-      "security": "Security",
-      "learning": "Learning",
-      "tools": "Tools"
+      "media": "Media",
+      "ai": "AI",
+      "downloading": "Downloading",
+      "educational": "Educational",
+      "mobile": "Mobile",
+      "desktop": "Desktop",
+      "reading": "Reading",
+      "gaming": "Gaming",
+      "privacy": "Privacy",
+      "audio": "Audio",
+      "system-tools": "System Tools",
+      "file-tools": "File Tools",
+      "internet-tools": "Internet Tools",
+      "social-tools": "Social Tools",
+      "text-tools": "Text Tools",
+      "gaming-tools": "Gaming Tools",
+      "image-tools": "Image Tools",
+      "video-tools": "Video Tools",
+      "audio-tools": "Audio Tools",
+      "educational-tools": "Educational Tools",
+      "developer-tools": "Developer Tools"
     }
   },
   "LandingPage": {
@@ -34,29 +49,89 @@
       "techStack": "Tech Stack",
       "suffix": "/ ELITE STACK",
       "items": {
-        "infrastructure": {
-          "title": "DEVELOPER INFRASTRUCTURE",
-          "description": "High-performance tools for cloud architecture, deployment pipelines, and system monitoring."
+        "media": {
+          "title": "MEDIA RESOURCES",
+          "description": "Elite streaming, download, and media management platforms."
         },
-        "software": {
-          "title": "PREMIUM SOFTWARE",
-          "description": "Elite productivity tools and IDE extensions."
+        "ai": {
+          "title": "ARTIFICIAL INTELLIGENCE",
+          "description": "Elite AI models, generation tools, and machine learning benchmarks."
         },
-        "security": {
-          "title": "CYBERSECURITY",
-          "description": "Advanced protection and auditing tools."
+        "downloading": {
+          "title": "DOWNLOADING & TORRENTING",
+          "description": "Elite direct download sites, Usenet, and torrent tracking platforms."
         },
-        "learning": {
-          "title": "LEARNING RESOURCES",
-          "description": "Deep-dive tutorials and whitepapers for the modern engineer."
+        "educational": {
+          "title": "EDUCATIONAL RESOURCES",
+          "description": "Curated documentaries, courses, and specialized learning platforms."
         },
-        "resources": {
-          "title": "ELITE RESOURCES",
-          "description": "Curated collections of high-quality developer assets, documentation, and tools."
+        "mobile": {
+          "title": "MOBILE ECOSYSTEM",
+          "description": "Essential tools, APKs, and resources for iOS and Android devices."
         },
-        "tools": {
-          "title": "ENGINEERING TOOLS",
-          "description": "Powerful utilities and specialized software for advanced technical workflows."
+        "desktop": {
+          "title": "DESKTOP ECOSYSTEM",
+          "description": "Comprehensive guides and tools for Linux, macOS, and Unix-like systems."
+        },
+        "reading": {
+          "title": "BOOKS & READING",
+          "description": "Vast libraries of ebooks, comics, audiobooks, and specialized journals."
+        },
+        "gaming": {
+          "title": "GAMING & EMULATION",
+          "description": "Elite game repositories, emulation guides, and interactive entertainment."
+        },
+        "privacy": {
+          "title": "PRIVACY & SECURITY",
+          "description": "Essential adblocking, VPNs, and privacy-enhancing technologies."
+        },
+        "audio": {
+          "title": "MUSIC & AUDIO",
+          "description": "High-fidelity streaming, radio, and audio management resources."
+        },
+        "system-tools": {
+          "title": "SYSTEM TOOLS",
+          "description": "Elite OS utilities, hardware diagnostics, and customization frameworks."
+        },
+        "file-tools": {
+          "title": "FILE TOOLS",
+          "description": "Advanced file management, PDF processing, and cloud hosting utilities."
+        },
+        "internet-tools": {
+          "title": "INTERNET TOOLS",
+          "description": "Powerful web utilities, OSINT frameworks, and browsing enhancements."
+        },
+        "social-tools": {
+          "title": "SOCIAL MEDIA TOOLS",
+          "description": "Elite automation and management tools for global social platforms."
+        },
+        "text-tools": {
+          "title": "TEXT & MARKUP TOOLS",
+          "description": "Professional editors, markup processors, and typography resources."
+        },
+        "gaming-tools": {
+          "title": "GAMING UTILITIES",
+          "description": "Performance boosters, game trackers, and homebrew Minecraft tools."
+        },
+        "image-tools": {
+          "title": "IMAGE & DESIGN TOOLS",
+          "description": "Elite editing suites, 3D modeling, and creative design resources."
+        },
+        "video-tools": {
+          "title": "VIDEO & MEDIA TOOLS",
+          "description": "Professional players, media servers, and non-linear editing suites."
+        },
+        "audio-tools": {
+          "title": "AUDIO ENGINEERING",
+          "description": "DAWs, spatial audio tools, and system-wide audio processing."
+        },
+        "educational-tools": {
+          "title": "EDUCATIONAL UTILITIES",
+          "description": "Elite research aids, encyclopedia tools, and learning platforms."
+        },
+        "developer-tools": {
+          "title": "DEVELOPER ECOSYSTEM",
+          "description": "The ultimate stack for coding, web dev, hosting, and cybersecurity."
         }
       }
     }
@@ -77,179 +152,696 @@
     "copyright": "© {{year}} WORLDOFTECH.CO.IN // ALL RIGHTS RESERVED.",
     "tagline": "STAY CURIOUS. STAY ELITE."
   },
-  "Resources": {
-    "title": "Elite Resources",
-    "description": "Curated collections of high-quality developer assets, documentation, and research.",
+  "Media": {
+    "title": "Media Resources",
+    "description": "High-quality streaming, download, and media management resources.",
     "features": {
-      "documentation": {
-        "title": "Technical Documentation",
-        "desc": "Comprehensive guides and API references for modern stacks."
+      "streaming": {
+        "title": "Streaming Sites",
+        "desc": "Free movie, TV show, and anime streaming platforms."
       },
-      "caseStudies": {
-        "title": "Case Studies",
-        "desc": "Deep dives into successful engineering transformations."
+      "liveSport": {
+        "title": "Live Sports",
+        "desc": "Live event streaming for all major sports leagues."
       },
-      "whitepapers": {
-        "title": "Whitepapers",
-        "desc": "Research-backed analysis of emerging technologies."
+      "downloadSites": {
+        "title": "Download Sites",
+        "desc": "Direct download links for movies, software, and games."
       },
-      "assets": {
-        "title": "Design Assets",
-        "desc": "Premium UI kits, icons, and design systems for developers."
+      "torrent": {
+        "title": "Torrent Sites",
+        "desc": "Curated index of reliable public and private trackers."
+      },
+      "subtitleTools": {
+        "title": "Subtitle Tools",
+        "desc": "Subtitle downloaders, editors, and synchronization utilities."
+      },
+      "mediaTracking": {
+        "title": "Media Tracking",
+        "desc": "Platforms for tracking your movie, TV, and anime progress."
+      },
+      "misc": {
+        "title": "Miscellaneous",
+        "desc": "Other media-related tools and niche resource collections."
       }
     }
   },
-  "Software": {
-    "title": "Premium Software",
-    "description": "Innovative software engineering solutions and robust development frameworks.",
+  "AI": {
+    "title": "Artificial Intelligence",
+    "description": "High-performance AI models, generation tools, and research frameworks.",
     "features": {
-      "systems": {
-        "title": "Systems Engineering",
-        "desc": "Developing high-performance core systems and low-level optimizations.",
-        "content": "Our systems engineering practice focuses on kernel-level development, memory management, and high-performance computing architectures. We specialize in low-level optimizations that squeeze every bit of performance from the underlying hardware."
+      "chatbots": {
+        "title": "AI Chatbots",
+        "desc": "Next-generation conversational agents and LLM interfaces."
       },
-      "embedded": {
-        "title": "Embedded Systems",
-        "desc": "Hardware-software co-design for specialized computing environments.",
-        "content": "We design and develop robust embedded systems for diverse applications, from IoT sensors to complex industrial controllers. Our approach integrates real-time operating systems (RTOS) with specialized hardware to ensure reliability and deterministic behavior."
+      "writing": {
+        "title": "AI Writing Tools",
+        "desc": "Elite copywriting, editing, and content generation platforms."
       },
-      "fullstack": {
-        "title": "Full-Stack Development",
-        "desc": "Building scalable, responsive, and data-driven web applications.",
-        "content": "Our full-stack engineering team builds modern, high-performance web applications using industry-leading frameworks like React, Next.js, and Node.js. We focus on scalability, security, and exceptional user experiences from the database to the front-end."
+      "videoGen": {
+        "title": "Video Generation",
+        "desc": "AI-powered text-to-video and video editing suites."
       },
-      "api": {
-        "title": "API Ecosystems",
-        "desc": "Designing robust and developer-friendly integration interfaces.",
-        "content": "We architect and implement scalable API ecosystems that empower developers and facilitate seamless integrations. Our designs prioritize security, documentation, and performance, ensuring that your services can grow and interoperate effectively."
+      "imageGen": {
+        "title": "Image Generation",
+        "desc": "State-of-the-art text-to-image and artistic generation tools."
+      },
+      "audioGen": {
+        "title": "Audio Generation",
+        "desc": "AI music synthesis, voice cloning, and audio enhancement."
+      },
+      "coding": {
+        "title": "Coding Tools",
+        "desc": "AI pair programmers, code completion, and refactoring agents."
+      },
+      "indexes": {
+        "title": "AI Tools & Indexes",
+        "desc": "Curated directories of the latest AI software and services."
+      },
+      "benchmarks": {
+        "title": "AI Benchmarks",
+        "desc": "Performance tracking and evaluation for machine learning models."
       }
     }
   },
-  "Infrastructure": {
-    "title": "Developer Infrastructure",
-    "description": "Foundational architecture powering modern technological ecosystems with stability and scale.",
+  "Downloading": {
+    "title": "Downloading & Torrenting",
+    "description": "Elite direct download sites, Usenet, and torrent tracking platforms.",
     "features": {
-      "server": {
-        "title": "Server Management",
-        "desc": "Enterprise-grade server orchestration and monitoring.",
-        "content": "Manage and monitor your server fleets with enterprise-grade tools. We provide solutions for automated provisioning, configuration management, and real-time performance tracking to ensure 99.99% availability."
+      "dlSites": {
+        "title": "Download Sites",
+        "desc": "Direct download repositories for various media and software."
       },
-      "data": {
-        "title": "Data Infrastructure",
-        "desc": "Scalable data lakes and real-time processing pipelines.",
-        "content": "Build robust data pipelines and scalable storage solutions. Our infrastructure patterns support real-time data ingestion, transformation, and analysis, enabling data-driven decision making at scale."
+      "softwareSites": {
+        "title": "Software Sites",
+        "desc": "Verified sources for desktop and mobile applications."
       },
-      "network": {
-        "title": "Network Architecture",
-        "desc": "High-availability low-latency global network design.",
-        "content": "Design high-performance network architectures for global scale. We specialize in software-defined networking (SDN), low-latency routing, and secure perimeter defense to protect your data in transit."
+      "usenet": {
+        "title": "Usenet",
+        "desc": "High-speed binary newsgroups and retention-focused providers."
       },
-      "cloud": {
-        "title": "Cloud Operations",
-        "desc": "Multi-cloud strategy and automated resource provisioning.",
-        "content": "Optimize your cloud spend and operational efficiency with automated resource management. Our multi-cloud patterns ensure flexibility and resilience across AWS, Azure, and Google Cloud."
+      "debrid": {
+        "title": "Debrid & Leeches",
+        "desc": "Premium multi-hosters and unrestricted cloud downloading services."
+      },
+      "torrentSites": {
+        "title": "Torrent Sites",
+        "desc": "Curated public and private trackers for decentralized sharing."
+      },
+      "torrentClients": {
+        "title": "Torrent Clients",
+        "desc": "Performance-tuned software for efficient BitTorrent management."
+      },
+      "others": {
+        "title": "Others",
+        "desc": "Niche downloading tools and specialized sharing platforms."
       }
     }
   },
-  "Security": {
-    "title": "Cybersecurity",
-    "description": "Advanced security frameworks and defensive protocols protecting the digital frontier.",
+  "Educational": {
+    "title": "Educational Resources",
+    "description": "Curated documentaries, courses, and specialized learning platforms.",
     "features": {
-      "intelligence": {
-        "title": "Threat Intelligence",
-        "desc": "Proactive monitoring and real-time mitigation of emerging digital threats.",
-        "content": "Stay ahead of adversaries with real-time threat feeds and automated response systems. Our intelligence frameworks leverage AI to detect and neutralize malicious activity before it impacts your operations."
+      "documentaries": {
+        "title": "Documentaries",
+        "desc": "Non-fiction visual media and educational film repositories."
       },
-      "identity": {
-        "title": "Identity & Access",
-        "desc": "Zero-trust architecture ensuring secure and audited access control.",
-        "content": "Implement zero-trust identity management across your entire organization. We provide tools for multi-factor authentication (MFA), role-based access control (RBAC), and continuous session auditing."
+      "courses": {
+        "title": "Courses",
+        "desc": "Structured online learning programs and certification paths."
       },
-      "privacy": {
-        "title": "Privacy Engineering",
-        "desc": "Data protection by design and compliance with global standards.",
-        "content": "Embed privacy directly into your product lifecycle. Our engineering patterns ensure compliance with GDPR, CCPA, and other global standards through automated data masking and differential privacy."
+      "learningSites": {
+        "title": "Learning Sites",
+        "desc": "Interactive platforms for general and specialized education."
       },
-      "crypto": {
-        "title": "Cryptographic Services",
-        "desc": "Advanced encryption and lifecycle management for critical secrets.",
-        "content": "Secure your most sensitive data with industry-standard encryption protocols. We offer complete lifecycle management for keys and secrets, ensuring that your data remains confidential and tamper-proof."
+      "scienceMaths": {
+        "title": "Science / Maths",
+        "desc": "Advanced resources for STEM education and research."
+      },
+      "space": {
+        "title": "Space",
+        "desc": "Astronomy, aerospace, and cosmic exploration resources."
+      },
+      "history": {
+        "title": "History / Humanities",
+        "desc": "Extensive archives covering human history and social sciences."
+      },
+      "skillsDiy": {
+        "title": "Skills / Hobbies / DIY",
+        "desc": "Practical guides for craftsmanship and personal development."
+      },
+      "langLearning": {
+        "title": "Language Learning",
+        "desc": "Tools and platforms for mastering new languages."
+      },
+      "devLearning": {
+        "title": "Developer Learning",
+        "desc": "Elite resources for software engineering and technical skills."
+      },
+      "examPrep": {
+        "title": "Exam Preparation",
+        "desc": "Study materials and practice platforms for major certifications."
+      },
+      "eduTools": {
+        "title": "Educational Tools",
+        "desc": "Calculators, research aids, and academic productivity tools."
       }
     }
   },
-  "Learning": {
-    "title": "Learning Resources",
-    "description": "Comprehensive educational resources designed to accelerate technical growth and innovation.",
+  "Mobile": {
+    "title": "Mobile Ecosystem",
+    "description": "Essential tools, APKs, and resources for iOS and Android devices.",
     "features": {
-      "knowledge": {
-        "title": "Knowledge Base",
-        "desc": "Curated technical documentation and deep-dive articles on modern tech.",
-        "content": "Access a deep well of technical expertise with our curated knowledge base. From architectural blueprints to implementation guides, we provide the insights you need to master modern technology."
+      "androidApks": {
+        "title": "Android APKs",
+        "desc": "Verified repositories for Android application packages."
       },
-      "school": {
-        "title": "Certification Paths",
-        "desc": "Guided learning journeys designed to master specific technology domains.",
-        "content": "Accelerate your career with structured learning paths. Our curriculum covers cloud architecture, cybersecurity, and advanced software engineering, preparing you for professional certification."
+      "androidDevice": {
+        "title": "Android Device",
+        "desc": "Firmware, rooting guides, and hardware optimization tools."
       },
-      "labs": {
-        "title": "Interactive Labs",
-        "desc": "Hands-on coding environments to practice and validate your technical skills.",
-        "content": "Bridge the gap between theory and practice in our interactive cloud-native labs. Build, deploy, and scale real-world applications in a safe, sandboxed environment designed for rapid learning."
+      "androidCamera": {
+        "title": "Android Camera / Tools",
+        "desc": "Gcam ports and advanced mobile photography utilities."
       },
-      "insights": {
-        "title": "Innovation Insights",
-        "desc": "Thought leadership and trend analysis from industry experts.",
-        "content": "Stay informed on the future of technology with regular insights from industry leaders. We analyze emerging trends like quantum computing, AI ethics, and decentralized architectures."
+      "emulators": {
+        "title": "Emulators",
+        "desc": "Running mobile operating systems on cross-platform hardware."
+      },
+      "androidTorrent": {
+        "title": "Android Torrenting",
+        "desc": "Mobile-optimized clients and torrent management tools."
+      },
+      "androidAudio": {
+        "title": "Android Audio / Streaming",
+        "desc": "High-fidelity audio players and mobile streaming apps."
+      },
+      "iosTools": {
+        "title": "iOS Tools / iPAs",
+        "desc": "Sideloading utilities and iOS application management."
+      },
+      "iosAudio": {
+        "title": "iOS Audio / Streaming",
+        "desc": "Premium audio experiences for the Apple ecosystem."
+      },
+      "others": {
+        "title": "Others",
+        "desc": "Miscellaneous mobile resources and platform-specific tweaks."
+      }
+    }
+  },
+  "Desktop": {
+    "title": "Desktop Ecosystem",
+    "description": "Comprehensive guides and tools for Linux, macOS, and Unix-like systems.",
+    "features": {
+      "linuxGuide": {
+        "title": "Linux Guide",
+        "desc": "Documentation and community resources for Linux beginners and pros."
+      },
+      "linuxApps": {
+        "title": "Linux Apps & Distros",
+        "desc": "Curated software and distributions for the Linux ecosystem."
+      },
+      "linuxTools": {
+        "title": "Linux Tools",
+        "desc": "System customization and advanced terminal utilities."
+      },
+      "macApps": {
+        "title": "Mac Apps",
+        "desc": "Elite software designed for the macOS environment."
+      },
+      "macTools": {
+        "title": "Mac Tools",
+        "desc": "Optimization and power-user utilities for Mac hardware."
+      },
+      "unixLike": {
+        "title": "Unix-Like",
+        "desc": "Resources for BSD, Solaris, and other Unix-descendant systems."
+      }
+    }
+  },
+  "Reading": {
+    "title": "Books & Reading",
+    "description": "Vast libraries of ebooks, comics, audiobooks, and specialized journals.",
+    "features": {
+      "ebooks": {
+        "title": "Ebooks",
+        "desc": "Comprehensive digital book repositories across all genres."
+      },
+      "specialInterest": {
+        "title": "Special Interest",
+        "desc": "Niche publications, zines, and specialized reading materials."
+      },
+      "audiobooks": {
+        "title": "Audiobooks",
+        "desc": "Narrated literature and spoken-word audio platforms."
+      },
+      "visualMedia": {
+        "title": "Visual Media",
+        "desc": "Comics, manga, and graphic novel repositories."
+      },
+      "educationalBooks": {
+        "title": "Educational Books",
+        "desc": "Textbooks, academic papers, and technical manuals."
+      },
+      "documents": {
+        "title": "Document / Articles",
+        "desc": "Archival documents, journals, and long-form articles."
+      },
+      "others": {
+        "title": "Others",
+        "desc": "Miscellaneous reading resources and library management."
+      }
+    }
+  },
+  "Gaming": {
+    "title": "Gaming & Emulation",
+    "description": "Elite game repositories, emulation guides, and interactive entertainment.",
+    "features": {
+      "downloadGames": {
+        "title": "Download Games",
+        "desc": "Verified sources for desktop and console game downloads."
+      },
+      "specialInterest": {
+        "title": "Special Interest",
+        "desc": "Niche gaming communities, mods, and fan-made projects."
+      },
+      "emulations": {
+        "title": "Emulations",
+        "desc": "Cross-platform hardware emulation and retro gaming guides."
+      },
+      "puzzles": {
+        "title": "Puzzles & Tabletop",
+        "desc": "Digital puzzle platforms and tabletop gaming resources."
+      },
+      "browserGames": {
+        "title": "Browser Games",
+        "desc": "High-quality interactive games playable directly in the browser."
+      }
+    }
+  },
+  "Privacy": {
+    "title": "Privacy & Security",
+    "description": "Essential adblocking, VPNs, and privacy-enhancing technologies.",
+    "features": {
+      "adblocking": {
+        "title": "Adblocking",
+        "desc": "Elite tools for eliminating intrusive advertisements and trackers."
+      },
+      "antivirus": {
+        "title": "Antivirus / Antimalware",
+        "desc": "Advanced protection against malicious software and threats."
+      },
+      "privacySecurity": {
+        "title": "Privacy / Security",
+        "desc": "General security frameworks and privacy-first tools."
+      },
+      "webPrivacy": {
+        "title": "Web Privacy",
+        "desc": "Browser extensions and configurations for anonymous surfing."
+      },
+      "vpn": {
+        "title": "VPN",
+        "desc": "Virtual Private Networks for encrypted and unrestricted access."
+      },
+      "proxy": {
+        "title": "Proxy",
+        "desc": "Intermediary servers for bypassing geo-restrictions and filters."
+      }
+    }
+  },
+  "Audio": {
+    "title": "Music & Audio",
+    "description": "High-fidelity streaming, radio, and audio management resources.",
+    "features": {
+      "audioStreaming": {
+        "title": "Audio Streaming",
+        "desc": "Premium music and high-bitrate audio streaming platforms."
+      },
+      "specialityStreaming": {
+        "title": "Speciality Streaming",
+        "desc": "Podcasts, audiobooks, and niche audio content services."
+      },
+      "radioStreaming": {
+        "title": "Radio Streaming",
+        "desc": "Global live radio stations and internet broadcasts."
+      },
+      "spotifyTools": {
+        "title": "Spotify Tools",
+        "desc": "Utilities for enhancing the Spotify experience and management."
+      },
+      "audioRipping": {
+        "title": "Audio Ripping",
+        "desc": "Tools for capturing and converting audio from various sources."
+      },
+      "soundtrack": {
+        "title": "Media Sound Track",
+        "desc": "OSTs from movies, games, and television series."
+      },
+      "tracking": {
+        "title": "Tracking & Databases",
+        "desc": "Platforms for cataloging and reviewing your music collection."
       }
     }
   },
   "Tools": {
-    "title": "Engineering Tools",
-    "description": "Powerful utilities and specialized software for advanced technical workflows.",
-    "features": {
-      "devTools": {
-        "title": "Developer Tools",
-        "desc": "Specialized debugging and performance analysis software."
-      },
-      "system": {
-        "title": "System Tools",
-        "desc": "High-performance system monitoring and optimization utilities."
-      },
-      "file": {
-        "title": "File Tools",
-        "desc": "Advanced file management, compression, and recovery systems."
-      },
-      "internet": {
-        "title": "Internet Tools",
-        "desc": "Network diagnostics, speed testing, and connectivity optimization."
-      },
-      "social": {
-        "title": "Social Media Tools",
-        "desc": "Content scheduling, analytics, and platform management automation."
-      },
-      "text": {
-        "title": "Text Tools",
-        "desc": "Markdown editors, formatters, and collaborative writing environments."
-      },
-      "gaming": {
-        "title": "Gaming Tools",
-        "desc": "Performance boosters, recording suites, and community integration."
-      },
-      "image": {
-        "title": "Image Tools",
-        "desc": "Vector editing, batch processing, and AI-powered enhancement."
-      },
-      "video": {
-        "title": "Video Tools",
-        "desc": "Non-linear editing, transcoding, and professional grading tools."
-      },
-      "audio": {
-        "title": "Audio Tools",
-        "desc": "DAWs, synthesizers, and spatial audio processing frameworks."
-      },
-      "educational": {
-        "title": "Educational Tools",
-        "desc": "Interactive learning platforms, LMS integrations, and research aids."
+    "System": {
+      "title": "System Tools",
+      "items": {
+        "tools": {
+          "title": "System Tools",
+          "desc": "Essential OS utilities and optimization software."
+        },
+        "hardware": {
+          "title": "Hardware Tools",
+          "desc": "Component diagnostics and hardware monitoring suites."
+        },
+        "windows-isos": {
+          "title": "Windows ISOs",
+          "desc": "Official and curated Windows installation images."
+        },
+        "customization": {
+          "title": "Customization",
+          "desc": "Elite desktop enhancement and UI personalization."
+        }
+      }
+    },
+    "File": {
+      "title": "File Management",
+      "items": {
+        "tools": {
+          "title": "File Tools",
+          "desc": "Advanced file operations and management utilities."
+        },
+        "pdf": {
+          "title": "PDF Tools",
+          "desc": "Professional PDF editing, merging, and conversion."
+        },
+        "transfer": {
+          "title": "File Transfer",
+          "desc": "High-speed peer-to-peer and local transfer protocols."
+        },
+        "hosts": {
+          "title": "File Hosts",
+          "desc": "Reliable cloud storage and large file hosting services."
+        }
+      }
+    },
+    "Internet": {
+      "title": "Web Utilities",
+      "items": {
+        "tools": {
+          "title": "Internet Tools",
+          "desc": "Network diagnostics and web connectivity optimization."
+        },
+        "rss": {
+          "title": "RSS Tools",
+          "desc": "Advanced feed readers and content aggregators."
+        },
+        "search": {
+          "title": "Search Tools",
+          "desc": "Specialized search engines and meta-search platforms."
+        },
+        "url": {
+          "title": "URL Tools",
+          "desc": "Shorteners, redirects, and URL analysis utilities."
+        },
+        "email": {
+          "title": "Email Tools",
+          "desc": "Privacy-focused email clients and temporary mail services."
+        },
+        "browser": {
+          "title": "Browser Ecosystem",
+          "desc": "Elite extensions, startpages, and bookmark managers."
+        },
+        "archiving": {
+          "title": "Archiving Tools",
+          "desc": "Web page archiving and historical data preservation."
+        },
+        "osint": {
+          "title": "OSINT Frameworks",
+          "desc": "Elite open-source intelligence and investigation tools."
+        }
+      }
+    },
+    "Social": {
+      "title": "Social Infrastructure",
+      "items": {
+        "tools": {
+          "title": "Social Media Tools",
+          "desc": "Multi-platform management and automation suites."
+        },
+        "discord-reddit": {
+          "title": "Discord & Reddit",
+          "desc": "Community management and bot infrastructure."
+        },
+        "telegram-youtube": {
+          "title": "Telegram & YouTube",
+          "desc": "Content downloaders and platform-specific utilities."
+        },
+        "bilibili-twitch": {
+          "title": "Bilibili & Twitch",
+          "desc": "Streaming enhancements and regional platform tools."
+        },
+        "twitter-x": {
+          "title": "Twitter / X",
+          "desc": "Thread builders, analytics, and archival tools."
+        },
+        "facebook-instagram": {
+          "title": "Facebook & Instagram",
+          "desc": "Profile management and content export utilities."
+        },
+        "blogging": {
+          "title": "Blogging Tools",
+          "desc": "CMS platforms, static site generators, and writing aids."
+        },
+        "tumblr-fediverse": {
+          "title": "Tumblr & Fediverse",
+          "desc": "Decentralized social tools and Tumblr enhancements."
+        },
+        "4chan": {
+          "title": "4chan Tools",
+          "desc": "Imageboard browsers and community-made utilities."
+        }
+      }
+    },
+    "Text": {
+      "title": "Text & Processing",
+      "items": {
+        "tools": {
+          "title": "Text Tools",
+          "desc": "Advanced text manipulation and formatting utilities."
+        },
+        "editor": {
+          "title": "Text Editors",
+          "desc": "Lightweight and professional-grade writing environments."
+        },
+        "markup": {
+          "title": "Markup Tools",
+          "desc": "Markdown, LaTeX, and documentation processing suites."
+        },
+        "fonts": {
+          "title": "Typography",
+          "desc": "Elite font libraries and type management software."
+        }
+      }
+    },
+    "Gaming": {
+      "title": "Gaming Ecosystem",
+      "items": {
+        "tools": {
+          "title": "Gaming Tools",
+          "desc": "Performance optimization and system-level enhancements."
+        },
+        "steam-epic": {
+          "title": "Steam & Epic",
+          "desc": "Library management and storefront-specific utilities."
+        },
+        "databases": {
+          "title": "Tracking & Databases",
+          "desc": "Comprehensive game logs and community databases."
+        },
+        "multiplayer": {
+          "title": "Multiplayer Tools",
+          "desc": "Server hosting, VOIP, and community matchmaking."
+        },
+        "homebrew-minecraft": {
+          "title": "Homebrew & Minecraft",
+          "desc": "Modding frameworks and specialized server tools."
+        },
+        "genre-specific": {
+          "title": "Genre Specific",
+          "desc": "Utilities tailored for RPGs, RTS, and FPS titles."
+        },
+        "game-specific": {
+          "title": "Game Specific",
+          "desc": "Dedicated mods and tools for individual elite titles."
+        }
+      }
+    },
+    "Image": {
+      "title": "Image & Design",
+      "items": {
+        "editing": {
+          "title": "Image Editing",
+          "desc": "Professional-grade raster and vector editing suites."
+        },
+        "creation": {
+          "title": "Image Creation",
+          "desc": "AI generation and digital painting environments."
+        },
+        "design": {
+          "title": "Design Resources",
+          "desc": "Elite color palettes, icons, and UI/UX assets."
+        },
+        "download": {
+          "title": "Image Search",
+          "desc": "High-resolution stock and specialty image repositories."
+        },
+        "3d": {
+          "title": "3D & Modeling",
+          "desc": "Mesh editing, rendering, and CAD-level software."
+        },
+        "tools": {
+          "title": "Utility Tools",
+          "desc": "Batch processing, metadata editing, and conversion."
+        },
+        "camera": {
+          "title": "Photo & Camera",
+          "desc": "RAW processing and advanced photography workflows."
+        }
+      }
+    },
+    "Video": {
+      "title": "Video Engineering",
+      "items": {
+        "tools": {
+          "title": "Video Tools",
+          "desc": "Transcoding and professional playback utilities."
+        },
+        "players": {
+          "title": "Media Players",
+          "desc": "High-performance players for all elite codecs."
+        },
+        "servers": {
+          "title": "Media Servers",
+          "desc": "Self-hosted infrastructure for home cinema streaming."
+        },
+        "download": {
+          "title": "Video Download",
+          "desc": "Stream capture and archival-quality downloaders."
+        },
+        "editing": {
+          "title": "Video Editing",
+          "desc": "Non-linear editors and color grading frameworks."
+        }
+      }
+    },
+    "Audio": {
+      "title": "Audio Engineering",
+      "items": {
+        "tools": {
+          "title": "Audio Tools",
+          "desc": "Professional audio analysis and processing suites."
+        },
+        "editing": {
+          "title": "Audio Editing",
+          "desc": "DAWs, synthezisers, and spatial audio mastering."
+        },
+        "system": {
+          "title": "System Audio",
+          "desc": "Virtual cables, mixers, and system-wide EQ."
+        },
+        "android": {
+          "title": "Android Audio",
+          "desc": "Music players and audio mods for Android devices."
+        },
+        "ios": {
+          "title": "iOS Audio",
+          "desc": "Professional-grade audio apps for the iOS ecosystem."
+        }
+      }
+    },
+    "Educational": {
+      "title": "Educational Utilities",
+      "items": {
+        "tools": {
+          "title": "Educational Tools",
+          "desc": "Elite learning platforms and academic assistants."
+        },
+        "research": {
+          "title": "Study & Research",
+          "desc": "Citation managers and collaborative research tools."
+        },
+        "flashcards": {
+          "title": "Learning Aids",
+          "desc": "Anki-style flashcards and specialized calculators."
+        },
+        "dictionaries": {
+          "title": "Dictionaries",
+          "desc": "Comprehensive linguistic and specialty references."
+        },
+        "encyclopedia": {
+          "title": "Encyclopedia",
+          "desc": "Vast knowledge bases and historical archives."
+        },
+        "wikipedia": {
+          "title": "Wikipedia Tools",
+          "desc": "Advanced browsing and data mining for Wikipedia."
+        }
+      }
+    },
+    "Developer": {
+      "title": "Developer Ecosystem",
+      "items": {
+        "tools": {
+          "title": "Developer Tools",
+          "desc": "The foundational stack for modern software engineering."
+        },
+        "communities": {
+          "title": "Dev Communities",
+          "desc": "Elite forums and collaborative engineering hubs."
+        },
+        "news": {
+          "title": "Dev News",
+          "desc": "High-signal technology news and research feeds."
+        },
+        "learning": {
+          "title": "Dev Learning",
+          "desc": "Elite coding bootcamps and documentation hubs."
+        },
+        "game-dev": {
+          "title": "Game Development",
+          "desc": "Engines, asset pipelines, and game logic tools."
+        },
+        "ai": {
+          "title": "AI Development",
+          "desc": "Model training, LLM APIs, and neural network tools."
+        },
+        "ides": {
+          "title": "IDEs & Editors",
+          "desc": "Powerful integrated development environments."
+        },
+        "languages": {
+          "title": "Languages",
+          "desc": "Official compilers, runtimes, and documentation."
+        },
+        "web": {
+          "title": "Web Development",
+          "desc": "Frameworks, static site generators, and CSS tools."
+        },
+        "web-tools": {
+          "title": "Web Dev Tools",
+          "desc": "Browser debugging and performance auditing suites."
+        },
+        "hosting": {
+          "title": "Cloud & Hosting",
+          "desc": "Scalable infrastructure and deployment platforms."
+        },
+        "cybersecurity": {
+          "title": "Cybersecurity",
+          "desc": "Elite penetration testing and security auditing tools."
+        }
       }
     }
   },
