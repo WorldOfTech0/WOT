@@ -17,18 +17,18 @@ describe('ContentViewer', () => {
     );
   };
 
-  it('should render correctly for react subcategory', () => {
-    const { container } = renderWithParams('software', 'react');
+  it('should render correctly for streaming subcategory', () => {
+    const { container } = renderWithParams('media', 'streaming');
     expect(container).toMatchSnapshot();
   });
 
-  it('should render correctly for nodejs subcategory', () => {
-    const { container } = renderWithParams('software', 'nodejs');
+  it('should render correctly for dev_tools subcategory', () => {
+    const { container } = renderWithParams('tools', 'dev_tools');
     expect(container).toMatchSnapshot();
   });
 
   it('should render placeholder for unknown subcategory', () => {
-    const { getAllByText } = renderWithParams('software', 'unknown-tech');
+    const { getAllByText } = renderWithParams('tools', 'unknown-tech');
     expect(getAllByText(/unknown-tech/i).length).toBeGreaterThan(0);
   });
 });
