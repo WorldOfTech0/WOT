@@ -15,5 +15,6 @@ export type Category = {
   icon: string; // Material Symbol name
   path: string;
   isFeatured: boolean;
+  section?: 'information_library' | 'information_tools';
   subcategories: Subcategory[];
 };
