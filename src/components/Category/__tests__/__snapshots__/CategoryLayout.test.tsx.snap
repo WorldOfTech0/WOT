@@ -1,9 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`CategoryLayout should render correctly for infrastructure category 1`] = `
+exports[`CategoryLayout should render correctly for media category 1`] = `
 <div>
   <div
-    class="css-ca9xn9"
+    class="css-1115lm6"
   >
     <div
       class="chakra-container css-1a9hjhw"
@@ -12,135 +12,278 @@ exports[`CategoryLayout should render correctly for infrastructure category 1`] 
         class="chakra-stack css-tnpn78"
       >
         <div
-          class="chakra-stack css-3og85p"
+          class="css-bcgeba"
         >
-          <h2
-            class="chakra-heading css-2jj4nw"
+          <div
+            class="chakra-stack css-3og85p"
           >
-            Infrastructure
-          </h2>
-          <p
-            class="css-15ahe7o"
+            <h2
+              class="chakra-heading css-2jj4nw"
+            >
+              Media
+            </h2>
+            <p
+              class="css-15ahe7o"
+            >
+              Elite streaming, download, and media management platforms.
+            </p>
+          </div>
+          <div
+            class="chakra-stack css-1q685yr"
           >
-            High-performance tools for cloud architecture, deployment pipelines, and system monitoring.
-          </p>
+            <button
+              class="css-1tedx3k"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px;"
+              >
+                grid_view
+              </span>
+            </button>
+            <button
+              class="css-a7ol5o"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px;"
+              >
+                view_list
+              </span>
+            </button>
+          </div>
         </div>
         <div
           class="css-18z42r8"
         >
           <a
             data-discover="true"
-            href="/infrastructure/server"
+            href="/media/streaming"
             style="text-decoration: none;"
           >
             <div
               class="css-hpcwbr"
             >
               <div
-                class="chakra-stack css-3og85p"
+                class="css-1l58bbx"
               >
                 <span
-                  class="material-symbols-outlined css-1qwkiiq"
+                  class="material-symbols-outlined css-1doa38h"
                 >
-                  dns
+                  play_circle
                 </span>
-                <h2
-                  class="chakra-heading css-d6brhe"
+                <div
+                  class="chakra-stack css-10c7tj2"
                 >
-                  Server Management
-                </h2>
-                <p
-                  class="css-19k74ug"
-                >
-                  Infrastructure.features.server.title.desc
-                </p>
+                  <h2
+                    class="chakra-heading css-d6brhe"
+                  >
+                    Streaming Sites
+                  </h2>
+                  <p
+                    class="css-n9qw6r"
+                  >
+                    Free movie, TV show, and anime streaming platforms.
+                  </p>
+                </div>
               </div>
             </div>
           </a>
           <a
             data-discover="true"
-            href="/infrastructure/data-infra"
+            href="/media/live-sport"
             style="text-decoration: none;"
           >
             <div
               class="css-hpcwbr"
             >
               <div
-                class="chakra-stack css-3og85p"
+                class="css-1l58bbx"
               >
                 <span
-                  class="material-symbols-outlined css-1qwkiiq"
+                  class="material-symbols-outlined css-1doa38h"
                 >
-                  database
+                  sports_soccer
                 </span>
-                <h2
-                  class="chakra-heading css-d6brhe"
+                <div
+                  class="chakra-stack css-10c7tj2"
                 >
-                  Data Infrastructure
-                </h2>
-                <p
-                  class="css-19k74ug"
-                >
-                  Infrastructure.features.data.title.desc
-                </p>
+                  <h2
+                    class="chakra-heading css-d6brhe"
+                  >
+                    Live Sports
+                  </h2>
+                  <p
+                    class="css-n9qw6r"
+                  >
+                    Live event streaming for all major sports leagues.
+                  </p>
+                </div>
               </div>
             </div>
           </a>
           <a
             data-discover="true"
-            href="/infrastructure/network"
+            href="/media/download-sites"
             style="text-decoration: none;"
           >
             <div
               class="css-hpcwbr"
             >
               <div
-                class="chakra-stack css-3og85p"
+                class="css-1l58bbx"
               >
                 <span
-                  class="material-symbols-outlined css-1qwkiiq"
+                  class="material-symbols-outlined css-1doa38h"
                 >
-                  hub
+                  download
                 </span>
-                <h2
-                  class="chakra-heading css-d6brhe"
+                <div
+                  class="chakra-stack css-10c7tj2"
                 >
-                  Network Architecture
-                </h2>
-                <p
-                  class="css-19k74ug"
-                >
-                  Infrastructure.features.network.title.desc
-                </p>
+                  <h2
+                    class="chakra-heading css-d6brhe"
+                  >
+                    Download Sites
+                  </h2>
+                  <p
+                    class="css-n9qw6r"
+                  >
+                    Direct download links for movies, software, and games.
+                  </p>
+                </div>
               </div>
             </div>
           </a>
           <a
             data-discover="true"
-            href="/infrastructure/cloud"
+            href="/media/torrent"
             style="text-decoration: none;"
           >
             <div
               class="css-hpcwbr"
             >
               <div
-                class="chakra-stack css-3og85p"
+                class="css-1l58bbx"
               >
                 <span
-                  class="material-symbols-outlined css-1qwkiiq"
+                  class="material-symbols-outlined css-1doa38h"
                 >
-                  cloud
+                  file_download
                 </span>
-                <h2
-                  class="chakra-heading css-d6brhe"
+                <div
+                  class="chakra-stack css-10c7tj2"
                 >
-                  Cloud Operations
-                </h2>
-                <p
-                  class="css-19k74ug"
+                  <h2
+                    class="chakra-heading css-d6brhe"
+                  >
+                    Torrent Sites
+                  </h2>
+                  <p
+                    class="css-n9qw6r"
+                  >
+                    Curated index of reliable public and private trackers.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </a>
+          <a
+            data-discover="true"
+            href="/media/subtitle-tools"
+            style="text-decoration: none;"
+          >
+            <div
+              class="css-hpcwbr"
+            >
+              <div
+                class="css-1l58bbx"
+              >
+                <span
+                  class="material-symbols-outlined css-1doa38h"
                 >
-                  Infrastructure.features.cloud.title.desc
-                </p>
+                  subtitles
+                </span>
+                <div
+                  class="chakra-stack css-10c7tj2"
+                >
+                  <h2
+                    class="chakra-heading css-d6brhe"
+                  >
+                    Subtitle Tools
+                  </h2>
+                  <p
+                    class="css-n9qw6r"
+                  >
+                    Subtitle downloaders, editors, and synchronization utilities.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </a>
+          <a
+            data-discover="true"
+            href="/media/media-tracking"
+            style="text-decoration: none;"
+          >
+            <div
+              class="css-hpcwbr"
+            >
+              <div
+                class="css-1l58bbx"
+              >
+                <span
+                  class="material-symbols-outlined css-1doa38h"
+                >
+                  analytics
+                </span>
+                <div
+                  class="chakra-stack css-10c7tj2"
+                >
+                  <h2
+                    class="chakra-heading css-d6brhe"
+                  >
+                    Media Tracking
+                  </h2>
+                  <p
+                    class="css-n9qw6r"
+                  >
+                    Platforms for tracking your movie, TV, and anime progress.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </a>
+          <a
+            data-discover="true"
+            href="/media/misc"
+            style="text-decoration: none;"
+          >
+            <div
+              class="css-hpcwbr"
+            >
+              <div
+                class="css-1l58bbx"
+              >
+                <span
+                  class="material-symbols-outlined css-1doa38h"
+                >
+                  more_horiz
+                </span>
+                <div
+                  class="chakra-stack css-10c7tj2"
+                >
+                  <h2
+                    class="chakra-heading css-d6brhe"
+                  >
+                    Miscellaneous
+                  </h2>
+                  <p
+                    class="css-n9qw6r"
+                  >
+                    Other media-related tools and niche resource collections.
+                  </p>
+                </div>
               </div>
             </div>
           </a>
@@ -151,153 +294,4 @@ exports[`CategoryLayout should render correctly for infrastructure category 1`] 
 </div>
 `;
 
-exports[`CategoryLayout should render correctly for software category 1`] = `
-<div>
-  <div
-    class="css-ca9xn9"
-  >
-    <div
-      class="chakra-container css-1a9hjhw"
-    >
-      <div
-        class="chakra-stack css-tnpn78"
-      >
-        <div
-          class="chakra-stack css-3og85p"
-        >
-          <h2
-            class="chakra-heading css-2jj4nw"
-          >
-            Software
-          </h2>
-          <p
-            class="css-15ahe7o"
-          >
-            Elite productivity tools and IDE extensions.
-          </p>
-        </div>
-        <div
-          class="css-18z42r8"
-        >
-          <a
-            data-discover="true"
-            href="/software/systems"
-            style="text-decoration: none;"
-          >
-            <div
-              class="css-hpcwbr"
-            >
-              <div
-                class="chakra-stack css-3og85p"
-              >
-                <span
-                  class="material-symbols-outlined css-1qwkiiq"
-                >
-                  terminal
-                </span>
-                <h2
-                  class="chakra-heading css-d6brhe"
-                >
-                  Systems Engineering
-                </h2>
-                <p
-                  class="css-19k74ug"
-                >
-                  Software.features.systems.title.desc
-                </p>
-              </div>
-            </div>
-          </a>
-          <a
-            data-discover="true"
-            href="/software/embedded"
-            style="text-decoration: none;"
-          >
-            <div
-              class="css-hpcwbr"
-            >
-              <div
-                class="chakra-stack css-3og85p"
-              >
-                <span
-                  class="material-symbols-outlined css-1qwkiiq"
-                >
-                  memory
-                </span>
-                <h2
-                  class="chakra-heading css-d6brhe"
-                >
-                  Embedded Systems
-                </h2>
-                <p
-                  class="css-19k74ug"
-                >
-                  Software.features.embedded.title.desc
-                </p>
-              </div>
-            </div>
-          </a>
-          <a
-            data-discover="true"
-            href="/software/fullstack"
-            style="text-decoration: none;"
-          >
-            <div
-              class="css-hpcwbr"
-            >
-              <div
-                class="chakra-stack css-3og85p"
-              >
-                <span
-                  class="material-symbols-outlined css-1qwkiiq"
-                >
-                  layers
-                </span>
-                <h2
-                  class="chakra-heading css-d6brhe"
-                >
-                  Full-Stack Development
-                </h2>
-                <p
-                  class="css-19k74ug"
-                >
-                  Software.features.fullstack.title.desc
-                </p>
-              </div>
-            </div>
-          </a>
-          <a
-            data-discover="true"
-            href="/software/api"
-            style="text-decoration: none;"
-          >
-            <div
-              class="css-hpcwbr"
-            >
-              <div
-                class="chakra-stack css-3og85p"
-              >
-                <span
-                  class="material-symbols-outlined css-1qwkiiq"
-                >
-                  webhook
-                </span>
-                <h2
-                  class="chakra-heading css-d6brhe"
-                >
-                  API Ecosystems
-                </h2>
-                <p
-                  class="css-19k74ug"
-                >
-                  Software.features.api.title.desc
-                </p>
-              </div>
-            </div>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-`;
+exports[`CategoryLayout should render correctly for tools category 1`] = `<div />`;

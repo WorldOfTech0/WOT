@@ -2,13 +2,13 @@ import CategoryLayout from '../CategoryLayout';
 import { renderWithRouter } from '@testUtils';
 
 describe('CategoryLayout', () => {
-  it('should render correctly for software category', () => {
-    const { container } = renderWithRouter(<CategoryLayout categoryId="software" />);
+  it('should render correctly for media category', () => {
+    const { container } = renderWithRouter(<CategoryLayout categoryId="media" />);
     expect(container).toMatchSnapshot();
   });
 
-  it('should render correctly for infrastructure category', () => {
-    const { container } = renderWithRouter(<CategoryLayout categoryId="infrastructure" />);
+  it('should render correctly for tools category', () => {
+    const { container } = renderWithRouter(<CategoryLayout categoryId="tools" />);
     expect(container).toMatchSnapshot();
   });
 
