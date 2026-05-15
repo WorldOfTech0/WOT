@@ -1,120 +1,10 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`ContentViewer should render correctly for nodejs subcategory 1`] = `
+exports[`ContentViewer should render correctly for dev_tools subcategory 1`] = `
 <div>
   <div
     class="css-1115lm6"
   >
-    <aside
-      class="css-n8o6i4"
-    >
-      <div
-        class="css-2o4hrl"
-      >
-        <p
-          class="css-gvuzmc"
-        >
-          Software
-        </p>
-        <p
-          class="css-10n9ze3"
-        >
-          SYSTEM LIBRARIES
-        </p>
-      </div>
-      <div
-        class="chakra-stack css-9b4zvf"
-      >
-        <a
-          class=""
-          data-discover="true"
-          href="/software/systems"
-          style="text-decoration: none;"
-        >
-          <div
-            class="css-4zl2wt"
-          >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 18px; opacity: 0.7;"
-            >
-              terminal
-            </span>
-            <p
-              class="css-yvvvpc"
-            >
-              Systems Engineering
-            </p>
-          </div>
-        </a>
-        <a
-          class=""
-          data-discover="true"
-          href="/software/embedded"
-          style="text-decoration: none;"
-        >
-          <div
-            class="css-4zl2wt"
-          >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 18px; opacity: 0.7;"
-            >
-              memory
-            </span>
-            <p
-              class="css-yvvvpc"
-            >
-              Embedded Systems
-            </p>
-          </div>
-        </a>
-        <a
-          class=""
-          data-discover="true"
-          href="/software/fullstack"
-          style="text-decoration: none;"
-        >
-          <div
-            class="css-4zl2wt"
-          >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 18px; opacity: 0.7;"
-            >
-              layers
-            </span>
-            <p
-              class="css-yvvvpc"
-            >
-              Full-Stack Development
-            </p>
-          </div>
-        </a>
-        <a
-          class=""
-          data-discover="true"
-          href="/software/api"
-          style="text-decoration: none;"
-        >
-          <div
-            class="css-4zl2wt"
-          >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 18px; opacity: 0.7;"
-            >
-              webhook
-            </span>
-            <p
-              class="css-yvvvpc"
-            >
-              API Ecosystems
-            </p>
-          </div>
-        </a>
-      </div>
-    </aside>
     <div
       class="chakra-container css-1a9hjhw"
     >
@@ -140,29 +30,16 @@ exports[`ContentViewer should render correctly for nodejs subcategory 1`] = `
             <p>
               /
             </p>
-            <a
-              data-discover="true"
-              href="/software"
-            >
-              <p
-                class="css-253glj"
-              >
-                Software
-              </p>
-            </a>
-            <p>
-              /
-            </p>
             <p
               class="css-1v8u59e"
             >
-              nodejs
+              dev_tools
             </p>
           </div>
           <p
             class="css-wqbqv0"
           >
-            Deep dive into the nodejs ecosystem.
+            Deep dive into the dev_tools ecosystem.
           </p>
           <div
             class="css-1fxghji"
@@ -176,7 +53,7 @@ exports[`ContentViewer should render correctly for nodejs subcategory 1`] = `
                 The curated directory for
                  
                 <b>
-                  nodejs
+                  dev_tools
                 </b>
                  
                 is currently in synchronization. Our engineers are finalizing the integration of industrial-grade resources, architectural patterns, and performance-optimized frameworks.
@@ -199,7 +76,7 @@ exports[`ContentViewer should render correctly for nodejs subcategory 1`] = `
 </div>
 `;
 
-exports[`ContentViewer should render correctly for react subcategory 1`] = `
+exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
 <div>
   <div
     class="css-1115lm6"
@@ -213,7 +90,7 @@ exports[`ContentViewer should render correctly for react subcategory 1`] = `
         <p
           class="css-gvuzmc"
         >
-          Software
+          Media
         </p>
         <p
           class="css-10n9ze3"
@@ -225,31 +102,32 @@ exports[`ContentViewer should render correctly for react subcategory 1`] = `
         class="chakra-stack css-9b4zvf"
       >
         <a
-          class=""
+          aria-current="page"
+          class="active"
           data-discover="true"
-          href="/software/systems"
+          href="/media/streaming"
           style="text-decoration: none;"
         >
           <div
-            class="css-4zl2wt"
+            class="css-12lb1up"
           >
             <span
               class="material-symbols-outlined"
-              style="font-size: 18px; opacity: 0.7;"
+              style="font-size: 18px; opacity: 1;"
             >
-              terminal
+              play_circle
             </span>
             <p
-              class="css-yvvvpc"
+              class="css-1hgk9e1"
             >
-              Systems Engineering
+              Streaming Sites
             </p>
           </div>
         </a>
         <a
           class=""
           data-discover="true"
-          href="/software/embedded"
+          href="/media/live-sport"
           style="text-decoration: none;"
         >
           <div
@@ -259,19 +137,19 @@ exports[`ContentViewer should render correctly for react subcategory 1`] = `
               class="material-symbols-outlined"
               style="font-size: 18px; opacity: 0.7;"
             >
-              memory
+              sports_soccer
             </span>
             <p
               class="css-yvvvpc"
             >
-              Embedded Systems
+              Live Sports
             </p>
           </div>
         </a>
         <a
           class=""
           data-discover="true"
-          href="/software/fullstack"
+          href="/media/download-sites"
           style="text-decoration: none;"
         >
           <div
@@ -281,19 +159,19 @@ exports[`ContentViewer should render correctly for react subcategory 1`] = `
               class="material-symbols-outlined"
               style="font-size: 18px; opacity: 0.7;"
             >
-              layers
+              download
             </span>
             <p
               class="css-yvvvpc"
             >
-              Full-Stack Development
+              Download Sites
             </p>
           </div>
         </a>
         <a
           class=""
           data-discover="true"
-          href="/software/api"
+          href="/media/torrent"
           style="text-decoration: none;"
         >
           <div
@@ -303,12 +181,78 @@ exports[`ContentViewer should render correctly for react subcategory 1`] = `
               class="material-symbols-outlined"
               style="font-size: 18px; opacity: 0.7;"
             >
-              webhook
+              file_download
             </span>
             <p
               class="css-yvvvpc"
             >
-              API Ecosystems
+              Torrent Sites
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/media/subtitle-tools"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-4zl2wt"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              subtitles
+            </span>
+            <p
+              class="css-yvvvpc"
+            >
+              Subtitle Tools
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/media/media-tracking"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-4zl2wt"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              analytics
+            </span>
+            <p
+              class="css-yvvvpc"
+            >
+              Media Tracking
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/media/misc"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-4zl2wt"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              more_horiz
+            </span>
+            <p
+              class="css-yvvvpc"
+            >
+              Miscellaneous
             </p>
           </div>
         </a>
@@ -341,12 +285,12 @@ exports[`ContentViewer should render correctly for react subcategory 1`] = `
             </p>
             <a
               data-discover="true"
-              href="/software"
+              href="/media"
             >
               <p
                 class="css-253glj"
               >
-                Software
+                Media
               </p>
             </a>
             <p>
@@ -355,40 +299,28 @@ exports[`ContentViewer should render correctly for react subcategory 1`] = `
             <p
               class="css-1v8u59e"
             >
-              react
+              Streaming Sites
             </p>
           </div>
           <p
             class="css-wqbqv0"
           >
-            Deep dive into the react ecosystem.
+            Free movie, TV show, and anime streaming platforms.
           </p>
           <div
-            class="css-1fxghji"
+            class="css-qs0ke5"
           >
             <div
-              class="chakra-stack css-oscz95"
+              class="chakra-stack css-1cihsba"
             >
+              <span
+                class="chakra-spinner css-1i9lbwu"
+              />
               <p
-                class="css-1mgf822"
+                class="css-12nx1bf"
               >
-                The curated directory for
-                 
-                <b>
-                  react
-                </b>
-                 
-                is currently in synchronization. Our engineers are finalizing the integration of industrial-grade resources, architectural patterns, and performance-optimized frameworks.
+                LOADING_DOCUMENTATION...
               </p>
-              <div
-                class="css-18ek48u"
-              >
-                <p
-                  class="css-1o3rymz"
-                >
-                  STATUS: SYNCHRONIZING_CONTENT
-                </p>
-              </div>
             </div>
           </div>
         </div>

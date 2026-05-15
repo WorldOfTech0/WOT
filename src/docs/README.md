@@ -28,4 +28,5 @@ To add a new tool guide or update an existing one, follow these steps:
 The content is rendered using the `@uiw/react-markdown-preview` library with custom styling to match the WOT violet aesthetic. The `TableOfContents` component automatically extracts headings from these files to provide sticky navigation.
 
 ---
-*Help us build the most comprehensive free tool catalog on Earth.*
+
+_Help us build the most comprehensive free tool catalog on Earth._

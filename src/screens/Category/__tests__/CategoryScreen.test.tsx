@@ -17,13 +17,13 @@ describe('CategoryScreen', () => {
     );
   };
 
-  it('should render correctly for software category', () => {
-    const { container } = renderWithParams('software');
+  it('should render correctly for media category', () => {
+    const { container } = renderWithParams('media');
     expect(container).toMatchSnapshot();
   });
 
-  it('should render correctly for infrastructure category', () => {
-    const { container } = renderWithParams('infrastructure');
+  it('should render correctly for tools category', () => {
+    const { container } = renderWithParams('tools');
     expect(container).toMatchSnapshot();
   });
 
