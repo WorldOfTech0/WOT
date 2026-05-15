@@ -50,10 +50,17 @@ const ContentViewer = () => {
       if (subcategory?.docName) {
         setLoading(true);
         try {
-          // Dynamic import for markdown files
-          const module = await import(
-            `../../docs/tools/${subcategory.docName}.md`
-          );
+          // Dynamic import for markdown files based on section
+          let module;
+          if (category?.section === 'information_library') {
+            module = await import(
+              `../../docs/information_library/${categoryId}/${subcategory.docName}.md`
+            );
+          } else if (category?.section === 'information_tools') {
+            module = await import(
+              `../../docs/information_tools/${categoryId}/${subcategory.docName}.md`
+            );
+          }
           const rawContent = module.default;
 
           // If the loader returned a URL instead of content, fetch it
@@ -84,7 +91,7 @@ const ContentViewer = () => {
     };
 
     loadContent();
-  }, [subcategory, t]);
+  }, [subcategory, t, category?.section, categoryId]);
 
   const headings = useMemo(() => extractHeadings(mdContent), [mdContent]);
 
