@@ -6,32 +6,36 @@ This file serves as the primary source of truth for AI agents working on the **W
 
 ## 1. Project Overview
 
-| Core Stack | Technology |
-| :--- | :--- |
-| **Framework** | [React 18.3+](https://react.dev/) |
-| **UI Library** | [Chakra UI v3](https://chakra-ui.com/) |
-| **State Management** | [Zustand v5](https://zustand.docs.pmnd.rs/) |
-| **Routing** | [React Router v7](https://reactrouter.com/) |
-| **Styling** | Vanilla CSS + Chakra UI v3 (Panda CSS) |
-| **Language** | [TypeScript 5.x](https://www.typescriptlang.org/) |
-| **Testing** | Jest + React Testing Library (v16+) + Cypress |
-| **Markdown**  | [@uiw/react-markdown-preview](https://uiwjs.github.io/react-markdown-preview/) |
-| **Package Manager**| [Yarn 4 (Berry)](https://yarnpkg.com/) |
-| **Aesthetic**       | Utilitarian Minimalism / Terminal-Luxury |
-| **Brand Colors**    | Charcoal (#15111e) & Violet (#8b5cf6) |
+| Core Stack           | Technology                                                                     |
+| :------------------- | :----------------------------------------------------------------------------- |
+| **Framework**        | [React 18.3+](https://react.dev/)                                              |
+| **UI Library**       | [Chakra UI v3](https://chakra-ui.com/)                                         |
+| **State Management** | [Zustand v5](https://zustand.docs.pmnd.rs/)                                    |
+| **Routing**          | [React Router v7](https://reactrouter.com/)                                    |
+| **Styling**          | Vanilla CSS + Chakra UI v3 (Panda CSS)                                         |
+| **Language**         | [TypeScript 5.x](https://www.typescriptlang.org/)                              |
+| **Testing**          | Jest + React Testing Library (v16+) + Cypress                                  |
+| **Markdown**         | [@uiw/react-markdown-preview](https://uiwjs.github.io/react-markdown-preview/) |
+| **Package Manager**  | [Yarn 4 (Berry)](https://yarnpkg.com/)                                         |
+| **Aesthetic**        | Utilitarian Minimalism / Terminal-Luxury                                       |
+| **Brand Colors**     | Charcoal (#15111e) & Violet (#8b5cf6)                                          |
 
 ---
 
 ## 2. Design & Product Identity
 
 ### Visual Language
+
 - **Theme**: Dark mode by default. High contrast with subtle grain textures and glassmorphic overlays.
 - **Typography**: Geist (Sans-serif) for primary UI, Geist Mono for technical data and code.
 - **Components**: Crisp border-based separation and interactive micro-animations.
 
 ### Resource Taxonomy
-The platform organizes resources into 13 primary verticals:
-1. **AI & ML** | 2. **Privacy & Adblocking** | 3. **Streaming & Media** | 4. **Gaming & Emulation** | 5. **Education** | 6. **OS Specific (Linux/macOS/Mobile)** | 7. **Miscellaneous**.
+
+The platform organizes resources into 2 primary sections comprising 11 verticals:
+
+1. **Information Library**: Foundational knowledge (Media, AI, Downloading, Educational, Mobile, Desktop, Reading, Gaming, Privacy, Audio)
+2. **Information Tools**: Technical utility (System, File, Internet, Social, Text, Gaming, Image, Video, Audio, Educational, Developer Tools)
 
 ---
 
@@ -50,6 +54,8 @@ The platform organizes resources into 13 primary verticals:
 │   │   └── Theme/          # Chakra UI v3 theme configuration & tokens
 │   ├── data/               # Static data and mock JSONs
 │   ├── docs/               # Source Markdown guides and documentation
+│   │   ├── information_library/ # Foundational library docs (organized by category)
+│   │   └── information_tools/   # Engineering tool documentation (organized by category)
 │   ├── hooks/              # Global custom React hooks
 │   ├── localization/       # i18next configuration and locales (en/main.json)
 │   ├── providers/          # Context Providers (Theme, Localization, Router, Query)
@@ -72,35 +78,42 @@ The platform organizes resources into 13 primary verticals:
 ## 4. Development Patterns & Rules
 
 ### State Management (Zustand v5)
+
 - **Selectors**: Always use `useShallow` when selecting multiple state variables to prevent unnecessary re-renders.
 - **Testing**: State updates within tests MUST be wrapped in `act()` from `@testing-library/react`.
 - **Resetting**: Stores should implement a `reset` pattern for test isolation (see `__mocks__/zustand.ts`).
 
 ### UI & Styling (Chakra v3)
+
 - **Compound Components**: Use the standard v3 pattern (e.g., `<Dialog.Root>`, `<Menu.Content>`).
 - **Icons**: Centralized in `src/assets/icons/`. Use the `WorldOfTechIcon` enum system.
 - **Theme**: Tokens are managed in `src/components/Theme/theme.ts`. Avoid hardcoded colors.
 
 ### Routing (React Router v7)
+
 - Use standard `<Link>` and `useNavigate`.
 - Note: `TextEncoder` and `TextDecoder` polyfills in `jest.js` are required for RRv7 compatibility in JSDOM environments.
 
 ### Legal Content Pattern
+
 - **Screen**: Use the `LegalScreen` component for all compliance-related pages (Privacy, Terms).
 - **Structure**: Content is driven by `translationKey` pointing to `Legal.{Key}.sections` in `main.json`.
 - **UI**: Adheres to formal ergonomic standards with vertical primary accent bars and responsive spacing.
 
 ### Documentation Portal Pattern
+
 - **Rendering**: Uses `MdPreview` for safe and styled markdown rendering.
 - **Navigation**: Uses `TableOfContents` for automatic heading extraction and `SubcategorySideBar` for contextual tools navigation.
 - **Interactivity**: `LinkPreview` provides hover-based URL metadata for external resource links.
 
 ### Release Workflow
+
 - **Trigger**: Automatic release generation occurs only when a Pull Request is successfully merged into the `production` branch.
 - **Mechanism**: Uses `conventional-changelog-action` to determine version bumps and generate changelogs based on commit history.
 - **Verification**: Releases are published to GitHub, which then triggers the `Deploy job` (`deploy.yaml`).
 
 ### TypeScript
+
 - All files use `.ts` or `.tsx`.
 - Strictly adhere to path aliases defined in `tsconfig.path.json` (e.g., `@screens`, `@components`, `@store`).
 
@@ -117,6 +130,7 @@ The platform organizes resources into 13 primary verticals:
 ---
 
 ### Tool & CLI Preferences
+
 - **Content Search**: Prefer `git grep` over `rg` or `grep`.
 - **File Discovery**: Prefer `git ls-files` over `find`.
 - **Reference**: See [.claude/rules/TOOLS.md](file:///Users/mr.robot/z-stash/WorldOfTech/WOT/.claude/rules/TOOLS.md) for details.
@@ -130,4 +144,5 @@ The platform organizes resources into 13 primary verticals:
 5.  **Governance**: Follow Conventional Commits and link all changes to the `WOT` Jira project using `prefix/WOT-XXX` branch naming.
 
 ---
+
 © 2026 WorldOfTech | Confidential and Proprietary

@@ -17,7 +17,7 @@
 
 ## ✨ Features
 
-- 📚 **Curated Free Catalog**: A thoroughly vetted collection of programming frameworks, industrial-grade software, and learning documentation.
+- 📚 **Curated Free Catalog**: A thoroughly vetted collection of Media Resources, Artificial Intelligence tools, and Engineering software.
 - 🔍 **Intelligent Discovery**: A high-performance global search system powered by `Fuse.js` with full keyboard navigation support.
 - 📖 **Documentation Portal**: A comprehensive hub for tool guides, technical documentation, and interactive resource exploration.
 - 🎨 **Aesthetic Precision**: A premium "wow-factor" interface featuring glassmorphism, dynamic animations, and a curated violet design system.
