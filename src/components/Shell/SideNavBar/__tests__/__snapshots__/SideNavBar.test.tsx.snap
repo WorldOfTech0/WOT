@@ -3,167 +3,564 @@
 exports[`SideNavBar should render collapsed in subcategory route 1`] = `
 <div>
   <nav
-    class="css-zew14h"
+    class="css-5h8aok"
   >
     <div
-      class="css-1v5akrw"
+      class="css-ixqrcq"
     >
       <div
-        class="css-150m7z3"
+        class="css-6odjo7"
       >
-        <a
-          class=""
-          data-discover="true"
-          href="/infrastructure"
-          style="text-decoration: none; display: block;"
+        <div
+          class="css-150m7z3"
         >
-          <div
-            class="css-r7jz06"
+          <a
+            class=""
+            data-discover="true"
+            href="/media"
+            style="text-decoration: none; display: block;"
           >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 20px; transition: all 0.3s ease;"
+            <div
+              class="css-r7jz06"
             >
-              terminal
-            </span>
-            <p
-              class="css-1dudv4b"
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                movie
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Media
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/ai"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
             >
-              Infrastructure
-            </p>
-          </div>
-        </a>
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                psychology
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                AI
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/downloading"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                download_for_offline
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Downloading
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/educational"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                school
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Educational
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/mobile"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                smartphone
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Mobile
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/desktop"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                desktop_windows
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Desktop
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/reading"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                library_books
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Reading
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/gaming"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                sports_esports
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Gaming
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/privacy-security"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                admin_panel_settings
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Privacy
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/audio"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                podcasts
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Audio
+              </p>
+            </div>
+          </a>
+        </div>
       </div>
       <div
-        class="css-150m7z3"
+        class="css-6odjo7"
       >
-        <a
-          aria-current="page"
-          class="active"
-          data-discover="true"
-          href="/software"
-          style="text-decoration: none; display: block;"
+        <div
+          class="css-150m7z3"
         >
-          <div
-            class="css-1tbf82h"
+          <a
+            class=""
+            data-discover="true"
+            href="/system-tools"
+            style="text-decoration: none; display: block;"
           >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 20px; font-variation-settings: 'FILL' 1; transition: all 0.3s ease;"
+            <div
+              class="css-r7jz06"
             >
-              integration_instructions
-            </span>
-            <p
-              class="css-1q0f2tm"
-            >
-              Software
-            </p>
-          </div>
-        </a>
-      </div>
-      <div
-        class="css-150m7z3"
-      >
-        <a
-          class=""
-          data-discover="true"
-          href="/security"
-          style="text-decoration: none; display: block;"
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                settings_suggest
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                System Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
         >
-          <div
-            class="css-r7jz06"
+          <a
+            class=""
+            data-discover="true"
+            href="/file-tools"
+            style="text-decoration: none; display: block;"
           >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 20px; transition: all 0.3s ease;"
+            <div
+              class="css-r7jz06"
             >
-              shield
-            </span>
-            <p
-              class="css-1dudv4b"
-            >
-              Security
-            </p>
-          </div>
-        </a>
-      </div>
-      <div
-        class="css-150m7z3"
-      >
-        <a
-          class=""
-          data-discover="true"
-          href="/learning"
-          style="text-decoration: none; display: block;"
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                folder_zip
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                File Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
         >
-          <div
-            class="css-r7jz06"
+          <a
+            class=""
+            data-discover="true"
+            href="/internet-tools"
+            style="text-decoration: none; display: block;"
           >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 20px; transition: all 0.3s ease;"
+            <div
+              class="css-r7jz06"
             >
-              school
-            </span>
-            <p
-              class="css-1dudv4b"
-            >
-              Learning
-            </p>
-          </div>
-        </a>
-      </div>
-      <div
-        class="css-150m7z3"
-      >
-        <a
-          class=""
-          data-discover="true"
-          href="/resources"
-          style="text-decoration: none; display: block;"
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                language
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Internet Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
         >
-          <div
-            class="css-r7jz06"
+          <a
+            class=""
+            data-discover="true"
+            href="/social-tools"
+            style="text-decoration: none; display: block;"
           >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 20px; transition: all 0.3s ease;"
+            <div
+              class="css-r7jz06"
             >
-              folder_zip
-            </span>
-            <p
-              class="css-1dudv4b"
-            >
-              Resources
-            </p>
-          </div>
-        </a>
-      </div>
-      <div
-        class="css-150m7z3"
-      >
-        <a
-          class=""
-          data-discover="true"
-          href="/tools"
-          style="text-decoration: none; display: block;"
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                groups
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Social Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
         >
-          <div
-            class="css-r7jz06"
+          <a
+            class=""
+            data-discover="true"
+            href="/text-tools"
+            style="text-decoration: none; display: block;"
           >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 20px; transition: all 0.3s ease;"
+            <div
+              class="css-r7jz06"
             >
-              build
-            </span>
-            <p
-              class="css-1dudv4b"
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                text_fields
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Text Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/gaming-tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
             >
-              Tools
-            </p>
-          </div>
-        </a>
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                sports_esports
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Gaming Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/image-tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                image
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Image Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/video-tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                video_library
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Video Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/audio-tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                headphones
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Audio Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/educational-tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                school
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Educational Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-150m7z3"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/developer-tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-r7jz06"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                terminal
+              </span>
+              <p
+                class="css-1dudv4b"
+              >
+                Developer Tools
+              </p>
+            </div>
+          </a>
+        </div>
       </div>
     </div>
   </nav>
@@ -173,10 +570,10 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
 exports[`SideNavBar should render correctly in default state 1`] = `
 <div>
   <nav
-    class="css-1w9x71j"
+    class="css-1pe7mka"
   >
     <div
-      class="css-19jgx3e"
+      class="css-il2wov"
     >
       <p
         class="css-15fik6v"
@@ -193,163 +590,605 @@ exports[`SideNavBar should render correctly in default state 1`] = `
       </p>
     </div>
     <div
-      class="css-1v5akrw"
+      class="css-ixqrcq"
     >
       <div
-        class="css-rtymh1"
+        class="css-choygu"
       >
-        <a
-          class=""
-          data-discover="true"
-          href="/infrastructure"
-          style="text-decoration: none; display: block;"
+        <div
+          class="css-1lekzkb"
         >
-          <div
-            class="css-17zk0ji"
+          <p
+            class="css-z6fwwq"
           >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 20px; transition: all 0.3s ease;"
-            >
-              terminal
-            </span>
-            <p
-              class="css-of2xjv"
-            >
-              Infrastructure
-            </p>
-          </div>
-        </a>
+            Information Library
+          </p>
+          <span
+            class="material-symbols-outlined"
+            style="font-size: 16px; transform: rotate(180deg); transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);"
+          >
+            expand_more
+          </span>
+        </div>
+        <div
+          class="css-1xhv3dq"
+        />
       </div>
       <div
-        class="css-rtymh1"
+        class="css-6odjo7"
       >
-        <a
-          class=""
-          data-discover="true"
-          href="/software"
-          style="text-decoration: none; display: block;"
+        <div
+          class="css-rtymh1"
         >
-          <div
-            class="css-17zk0ji"
+          <a
+            class=""
+            data-discover="true"
+            href="/media"
+            style="text-decoration: none; display: block;"
           >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 20px; transition: all 0.3s ease;"
+            <div
+              class="css-4v5mcn"
             >
-              integration_instructions
-            </span>
-            <p
-              class="css-of2xjv"
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                movie
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Media
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/ai"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
             >
-              Software
-            </p>
-          </div>
-        </a>
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                psychology
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                AI
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/downloading"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                download_for_offline
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Downloading
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/educational"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                school
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Educational
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/mobile"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                smartphone
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Mobile
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/desktop"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                desktop_windows
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Desktop
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/reading"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                library_books
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Reading
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/gaming"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                sports_esports
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Gaming
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/privacy-security"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                admin_panel_settings
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Privacy
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/audio"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                podcasts
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Audio
+              </p>
+            </div>
+          </a>
+        </div>
       </div>
       <div
-        class="css-rtymh1"
+        class="css-choygu"
       >
-        <a
-          class=""
-          data-discover="true"
-          href="/security"
-          style="text-decoration: none; display: block;"
+        <div
+          class="css-1lekzkb"
         >
-          <div
-            class="css-17zk0ji"
+          <p
+            class="css-z6fwwq"
           >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 20px; transition: all 0.3s ease;"
-            >
-              shield
-            </span>
-            <p
-              class="css-of2xjv"
-            >
-              Security
-            </p>
-          </div>
-        </a>
+            Information Tools
+          </p>
+          <span
+            class="material-symbols-outlined"
+            style="font-size: 16px; transform: rotate(180deg); transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);"
+          >
+            expand_more
+          </span>
+        </div>
+        <div
+          class="css-1xhv3dq"
+        />
       </div>
       <div
-        class="css-rtymh1"
+        class="css-6odjo7"
       >
-        <a
-          class=""
-          data-discover="true"
-          href="/learning"
-          style="text-decoration: none; display: block;"
+        <div
+          class="css-rtymh1"
         >
-          <div
-            class="css-17zk0ji"
+          <a
+            class=""
+            data-discover="true"
+            href="/system-tools"
+            style="text-decoration: none; display: block;"
           >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 20px; transition: all 0.3s ease;"
+            <div
+              class="css-4v5mcn"
             >
-              school
-            </span>
-            <p
-              class="css-of2xjv"
-            >
-              Learning
-            </p>
-          </div>
-        </a>
-      </div>
-      <div
-        class="css-rtymh1"
-      >
-        <a
-          class=""
-          data-discover="true"
-          href="/resources"
-          style="text-decoration: none; display: block;"
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                settings_suggest
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                System Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
         >
-          <div
-            class="css-17zk0ji"
+          <a
+            class=""
+            data-discover="true"
+            href="/file-tools"
+            style="text-decoration: none; display: block;"
           >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 20px; transition: all 0.3s ease;"
+            <div
+              class="css-4v5mcn"
             >
-              folder_zip
-            </span>
-            <p
-              class="css-of2xjv"
-            >
-              Resources
-            </p>
-          </div>
-        </a>
-      </div>
-      <div
-        class="css-rtymh1"
-      >
-        <a
-          class=""
-          data-discover="true"
-          href="/tools"
-          style="text-decoration: none; display: block;"
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                folder_zip
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                File Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
         >
-          <div
-            class="css-17zk0ji"
+          <a
+            class=""
+            data-discover="true"
+            href="/internet-tools"
+            style="text-decoration: none; display: block;"
           >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 20px; transition: all 0.3s ease;"
+            <div
+              class="css-4v5mcn"
             >
-              build
-            </span>
-            <p
-              class="css-of2xjv"
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                language
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Internet Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/social-tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
             >
-              Tools
-            </p>
-          </div>
-        </a>
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                groups
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Social Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/text-tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                text_fields
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Text Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/gaming-tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                sports_esports
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Gaming Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/image-tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                image
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Image Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/video-tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                video_library
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Video Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/audio-tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                headphones
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Audio Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/educational-tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                school
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Educational Tools
+              </p>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-rtymh1"
+        >
+          <a
+            class=""
+            data-discover="true"
+            href="/developer-tools"
+            style="text-decoration: none; display: block;"
+          >
+            <div
+              class="css-4v5mcn"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; transition: all 0.3s ease;"
+              >
+                terminal
+              </span>
+              <p
+                class="css-5hra6z"
+              >
+                Developer Tools
+              </p>
+            </div>
+          </a>
+        </div>
       </div>
     </div>
   </nav>
