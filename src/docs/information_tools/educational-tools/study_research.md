@@ -1,2 +1,47 @@
-# study_research
-Resources and tools for study_research will be curated here.
+# ▷ Study / Research
+
+- 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [Scolary](https://scolary.com/) or [KausalFlow](https://tools.kausalflow.com/) - Research Tool Indexes
+- ↪️ **[Note-Taking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_note-taking)**
+- ↪️ **[Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)** / **[Academic Papers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_academic_papers)**
+- ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
+- ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** or [Wolfram Mobile](https://rentry.co/FMHYB64#wolfram-mobile) - Searchable Knowledge Base
+- ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
+- ⭐ **[StudyKit](https://studykit.app/)**, [Studocu](https://www.studocu.com/) / [Downloader](https://github.com/danieltyukov/studocuhack), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/) / [Show Hidden](https://greasyfork.org/en/scripts/423872), [Shmoop](https://www.shmoop.com/), [Bitesize](https://www.bbc.co.uk/bitesize) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material
+- ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
+- ⭐ **[Refseek](https://www.refseek.com/)**, [Explorer](https://explorer.globe.engineer/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
+- ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android, iOS
+- [⁠Helium](https://www.heliumedu.com/) - Class Schedule Tracker / Grade Tracker / Planner / Android, iOS, Web / [GitHub](https://github.com/HeliumEdu)
+- [Driftly](https://github.com/DP-Hridayan/Driftly) - Class Attendance Tracker / Android
+- [SciSpace](https://scispace.com/), [⁠Bohrium](https://www.bohrium.com/), [Scinito](https://ekb.scinito.ai/ai/chat) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Chatbots
+- [⁠Paper Trails](https://www.papertrailshq.com/) or [ResearchRabbit](https://www.researchrabbit.ai/) - Academic Article / Paper Trackers
+- [Co-STORM](https://storm.genie.stanford.edu/) or [SciArena](https://sciarena.allen.ai/) - Generate Scientific Articles
+- [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [⁠BibGuru](https://www.bibguru.com/), [Scribbr](https://www.scribbr.com/citation/generator/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Citation Generators / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
+- [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
+- [Inciteful](https://inciteful.xyz/) - Find Connected Literature via Citations
+- [PLText](https://pltext.com/), [PlagiarismDetector](https://plagiarismdetector.net/) or [Duplichecker](https://www.duplichecker.com/) - Plagiarism Checkers
+- [cb2bib](https://www.molspaces.com/cb2bib/) - Reference Extractors / Managers
+- [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX / [Discord](https://discord.gg/fPtQAQYmqq)
+- [GROBID](https://grobid.readthedocs.io) - Extract / Organize Scientific Document Info
+- [ExpertFile](https://expertfile.com/) or [ExpertiseFinder](https://expertisefinder.com/) - Industry / Academic Expert Search
+- [Foam](https://foambubble.github.io/) - Knowledge Management System
+- [Zotero](https://www.zotero.org/) - Research Assistant
+- [Catma](https://catma.de/) - Research Markup & Analysis Tool
+- [Scrible](https://www.scrible.com/) - Research / Writing Platform
+- [OpenRefine](https://openrefine.org/) - Data Cleaning
+- [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
+- [Lurnby](https://www.lurnby.com) - Research Highlighting Tool / [GitHub](https://github.com/Roznoshchik/Lurnby)
+- [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
+- [Papertag](https://www.papertag.app/) - Attach Digital Content to Paper
+- [Graded](https://nightdreamgames.com/#graded) - Grades Tracker / Android, iOS / [GitHub](https://github.com/NightDreamGames/Graded)
+- [GradesCalculator](https://calculatecgpa.com) - Calculate CGPA & GPA
+- [CalculateCGPA](https://cgpacalcs.com/) - Calculate GPA
+- [LearnedEasy](https://learnedeasy.com/) - Create Summaries / Quizzes from Books
+- [Brainly](https://brainly.com/) - Homework Help Bots / Communities / [Limit Bypass](https://greasyfork.org/en/scripts/430355)
+- [⁠Free Numerade Videos](https://discord.gg/nEYfaceEcU) - Homework Help Videos
+- [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory-Based Solutions
+- [⁠Modern Classroom](https://chromewebstore.google.com/detail/modern-classroom/bbeejocagpeechkgliijfedcbeggncne) - Improved Google Classroom Extension
+- [StudyStream](https://www.studystream.live/), [⁠Yeolpumta](https://www.yeolpumta.com/en) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
+- [Space Finder](https://spacefinder.lib.cam.ac.uk/) - UK Study Space Search
+- [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
+
+---

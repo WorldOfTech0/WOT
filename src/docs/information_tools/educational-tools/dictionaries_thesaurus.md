@@ -1,2 +1,31 @@
-# dictionaries_thesaurus
-Resources and tools for dictionaries_thesaurus will be curated here.
+# ▷ Dictionaries / Thesaurus
+
+- ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary / Thesaurus Search
+- ⭐ **[Wiktionary](https://www.wiktionary.org/)** - Dictionary
+- ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
+- ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - Dictionary
+- ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
+- ⭐ **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - Piracy Dictionary
+- ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** or [Slangit](https://slang.net/) - Slang Word / Phrase Dictionaries
+- [Wordnik](https://www.wordnik.com/) - Dictionary
+- [Oxford English Dictionary](https://oed.com/) - Dictionary / [Bypass](https://rentry.co/freeoed)
+- [Cambridge Dictionary](https://dictionary.cambridge.org/) - Dictionary
+- [PowerThesaurus](https://www.powerthesaurus.org/) - Thesaurus
+- [Historical Thesaurus of English](https://ht.ac.uk/) - Historical Thesaurus
+- [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
+- [Time Traveler](https://www.merriam-webster.com/time-traveler) - Find Words First Printed Usage
+- [EtymOnline](https://www.etymonline.com/) - Etymologies
+- [Ozdic](https://ozdic.com/) - Collocation Dictionary
+- [StarlingDB](https://starlingdb.org/) - Advanced Linguistics Dictionary
+- [Phrontistery](https://phrontistery.info/) - Obscure Word Dictionary
+- [Unionpedia](https://en.unionpedia.org/), [Lexipedia](https://www.lexipedia.com/) or [VisuWords](https://visuwords.com/) - Word Connections / Visualizers
+- [Eunoia](https://eunoia.world/) - Words with No Translation
+- [Affixes.org](https://www.affixes.org/) - Affixes
+- [Fraze.it](https://fraze.it/) - Sentence Search
+- [Feeels](https://feelu.vercel.app/) - Emotion Synonym Chart
+- [PrideFlags](https://www.prideflags.org/) - LGBT Flag Index
+- [TheDevilsDictionary](https://www.thedevilsdictionary.com/) - Cynical Dictionary
+- [WordSafety](http://wordsafety.com/) - Swear Word Indexes
+- [PyGlossary](https://github.com/ilius/pyglossary) or [DSL Converter](https://dictz.github.io/dsl_converter.html) - Convert Dictionary Files
+
+---
