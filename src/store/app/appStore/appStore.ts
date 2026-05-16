@@ -1,12 +1,14 @@
 import { create } from 'zustand';
-
 import { immer } from 'zustand/middleware/immer';
 import { createJSONStorage, persist } from 'zustand/middleware';
 import { AppStoreState } from './types';
+import createFavoriteSlice from '../slice/Favorite/Favorite.slice';
 
 export const appStore = create<AppStoreState>()(
   persist(
-    immer((..._api) => ({})),
+    immer((...api) => ({
+      Favorite: createFavoriteSlice(...api),
+    })),
     {
       name: 'appStore',
       storage: createJSONStorage(() => localStorage),
@@ -19,13 +21,21 @@ export const appStore = create<AppStoreState>()(
 /**
  * Function to merge the persisted state with the current state.
  *
- * @param _currentState current state
- * @param _persistedState persisted state
+ * @param currentState current state
+ * @param persistedState persisted state
  * @returns merged state
  */
 function deepMerge(
-  _currentState: AppStoreState,
-  _persistedState: AppStoreState,
+  currentState: AppStoreState,
+  persistedState: AppStoreState,
 ): AppStoreState {
-  return {};
+  return {
+    ...currentState,
+    ...persistedState,
+    Favorite: {
+      ...currentState.Favorite,
+      ...(persistedState?.Favorite || {}),
+      favorites: persistedState?.Favorite?.favorites || [],
+    },
+  };
 }
