@@ -1,0 +1,194 @@
+# ► Spanish / Español
+
+- 🌐 **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - Telegram Channel Index
+- [Minijuegos](https://www.minijuegos.com/) - Browser Games
+- [EmojiTool](https://emojitool.com/) - Emoji Database
+- [AIfindy](https://aifindy.com/) - AI Tools Index
+- [Diccionario RAE en un clic](https://chromewebstore.google.com/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension
+- [El Museo de los 8 bits](https://museo8bits.com/) - History of Computing
+- [Universia](https://www.universia.net) - Spanish University Search
+- [SubDivX](https://www.subdivx.com/) - Subtitles
+
+## ▷ Downloading / Descargar
+
+- ⭐ **[eMule](https://www.emule-project.com/home/perl/help.cgi?l=17&rm=show_topic&topic_id=586)** - Video / Audio / Reading / NSFW / Castilian
+- ⭐ **[Curso_vip](https://t.me/Curso_vip)** - Courses / Books
+- [identi](https://identi.io/) - Video / Audio / Reading / Latino / Castilian
+- [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Castilian
+- [Gun's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Castilian
+- [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Castilian
+- [latabernadelcangrejo](https://www.latabernadelcangrejo.eu/) - Video / Audio
+- [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW
+- [PelisEnHD](https://pelisenhd.org/) - Movies / TV / Anime / 4K / Latino / Castilian
+- [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / 4K / 1080p / Latino
+- [GDRIVELatinoHD](https://gdrivelatinohd.net), [2](https://gdrivelatino.net/) - Movies / TV / 4K / 1080p / Latino
+- [Hackstore.rs](https://www.hackstore.to/) - Movies / TV / Anime / 1080p / Latino
+- [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / 1080p / Latino
+- [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / 1080p / Latino
+- [DescargasDD](https://descargasdd.org/) - Video / Audio / Castilian / Latino / Requires Waitlist / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
+- [SeiresHD](https://seireshd.com/) - Movies / TV / Animation / 1080p / Latino
+- [mirandopeliculas](https://www.mirandopeliculas.com/) - Movies / TV / Latino
+- [Cine24h](https://cine24h.online/) - Movies / TV / Sub / Dub / 720p
+- [relampagomovies](https://relampagomovies.com/) - Movies / TV
+- [subtituladas.com](https://subtituladas.com/) - Movies / Sub / 720p
+- [Bajalo Gratis](https://bajalogratis.com/) - Movies / Latino
+- [Mega DVDRip](https://peliculas-dvdrip.com/) - Movies / TV / Latino / Castilian
+- [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino
+- [Gatonplayseries](https://gatonplayseries.com/) - Movies / TV / Latino / Anime
+- [Peliculas Google Drive](https://www.peliculasgd.net/) - Movies / Latino
+- [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino
+- [granpirata](https://granpirata.com/) - Movies / TV / Animation / Latino
+- [Mega Descargas](https://mega-descargas-serie.blogspot.com/) - TV / Latino
+- [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
+- [DCC](https://cineclasicodcc.com/) - Classical Movies / TV
+- [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
+- [RebeldeMule](https://www.rebeldemule.org/) - Movies / Classics / TV / Documentaries / Reading / ED2K Links / [Telegram](https://telegram.me/rebeldemule)
+- [exploradoresp2p](https://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links
+- [Shadow-Rangers](https://shadowrangers.net/) - Anime / Sub / Dub / Latino / Castilian
+- [Daemon Anime](https://www.daemonanime.net/) - Anime / Sub / Dub / Latino
+- [MandraAnime](https://mandranime.com/) - Anime / Sub
+- [Animegafirex](https://www.animegafirex.com/) - Anime / Sub
+- [japanpaw](https://japanpaw.com/) - Anime
+- [ivanime](https://www.ivanime.com/) - Anime / [Discord](https://discord.gg/PTbSKQbBJc)
+- [DW Anime](https://dw-anime.net/) - Anime
+- [AZ Anime](https://www.az-animex.com/) - Anime
+- [sphinxanime](https://sphinxanime.com/) - Anime
+- [CrisAnime](https://crisanimex.com/) - Anime / Sub / Dub
+- [TioDonghua](https://tiodonghua.com/) - Anime / Sub / Light Novels
+- [Japan Paw!](https://japan-paw.net/) - Anime / Sub
+- [Fukou-Da!](https://fukou-da.net/) - Anime / Sub / Light Novels
+- [Cursos En Mega](https://t.me/s/cursosenmega) - Courses
+- [punkconpunk](https://punkconpunk.blogspot.com/) - MP3 / Punk Music
+- [Hello-Python](https://github.com/mouredev/Hello-Python) or [python-web](https://github.com/mouredev/python-web) - Python Courses
+
+## ▷ Torrenting / Torrentear
+
+- ⭐ **[MejorTorrent](https://www36.mejortorrent.eu/)** - Movies / TV / Documentaries / Castilian / [Status](https://privacidad.me/@mejortorrent)
+- ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian
+- [DonTorrent](https://donproxies.com/) - Movies / TV / Documentaries / Castilian / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/) / [Telegram](https://t.me/s/DonTorrent)
+- [EliteTorrent](https://www.elitetorrent.wf/) - Movies / TV
+- [Wolfmax4k](https://wolfmax4k.com/) - Movies / TV / 4K / 1080p
+- [EsmeraldaTorrent](https://esmeraldatorrent.com/) - Movies / TV / Castilian
+- [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries / Castilian
+- [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries / Castilian
+- [MoviesDVDR](https://www.moviesdvdr.co/) - Movies / Castilian
+- [VivaTorrents](https://www.vivatorrents.org/) - Movies / TV / Castilian
+- [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV / Castilian
+- [DiXvA](https://www.dixva.com/), [2](https://www.sinsitio.site/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
+- [Hacktorrent](https://hacktorrent.men/) - Movies / TV / Anime / Latino
+- [Unionfansub](https://foro.unionfansub.com/index.php) - Anime
+- [Akiba-kei](http://akiba-team.org/) - Anime
+
+## ▷ Streaming / Streamear
+
+- ⭐ **[Cineby](https://www.cineby.gd/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
+- ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / Requires Sign-Up / Castilian / Latino
+- ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
+- [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
+- [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
+- [Tubepelis](https://www.tubepelis.com/) - Movies / TV
+- [PelisPlus](https://ww3.pelisplus.to/) - Movies / TV
+- [La Movie](https://la.movie/) - Movies / TV
+- [hackstore2](https://hackstore2.com/) - Movies / TV
+- [cineplus](https://www.cineplus.lat) - Movies / TV
+- [Cinezo](https://www.cinezo.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/Gx27YMK73d)
+- [RaroVHS](https://www.rarovhs.com/) - Rare Spanish Content
+- [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
+- [Tubi Spanish](https://tubitv.com/category/spanish_language) - Free w/ Ads / May Require VPN
+- [tele-libre](https://tele-libre.fans/) - Live TV
+- [rtvcplay](https://rtvcplay.co/) - Free Public Colombian TV
+- [la14hd](https://la14hd.com/) - Live Sports
+- [Streamtpmedia](https://streamtpmedia.com/) - Live Sports
+- [angulismotv](https://angulismotv-dnh.pages.dev/) - Live Sports
+- [librefutboltv](https://futbollibre.gg/) - Live Football
+- [Listas-IPTV](https://rentry.co/fmhyb64#iptv-playlists) - Spanish IPTV Resources
+- [Cinecalidad](https://www.cinecalidad.ec/) - Movies / TV / Animation / Latino
+- [detodopeliculas](https://detodopeliculas.nu/) - Movies / TV
+- [verpeliculasonline](https://verpeliculasonline.org/), [2](https://ver-peliculas-online.org/) - Movies / TV
+- [PelisPedia.is](https://pelispedia.is/) - Movies / TV
+- [Gnula.se](https://gnula.se/) - TV / Anime
+- [CineHDPlus](https://cinehdplus.org/) - Movies / TV
+- [PelisForte](https://pelisforte.se/) - Movies / TV
+- [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
+- [VerPeliculasUltra](https://verpeliculasultra.com/) - Movies
+- [Cinedeantes](https://cinedeantes2.weebly.com/) - Classic Films
+- [novelas360](https://novelas360.com/) - TV / Drama
+- [Tlnovelas](https://tlnovelas.net/) - TV / Drama
+- [gnulaseries](https://gnulaseries.nu/) - TV
+- [Series Peruanas](https://seriesperu.com/) - TV / Drama
+- [Asialiveaction](https://asialiveaction.com/) - Asian Drama
+- [Doramasyt](https://www.doramasyt.com/) - Asian Drama
+- [Vix](https://www.vix.com/tv/) - TV / LATAM Only
+- [AtresPlayer](https://www.atresplayer.com/) - Live TV / Movies / TV / Castilian
+- [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
+- [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine YouTube Movies
+- [Cine.Arplay](https://play.cine.ar/) - Argentinian Movies / TV
+- [Cinemargentino](https://www.cinemargentino.com/) - Movies / Documentaries
+- [CCLM](https://www.cclm.cl/cineteca-online) or [Platfo Filmo](https://filmo.platfo.es/pages/home) - Spanish Film Archives
+- [Naranjas de Hiroshima](https://www.naranjasdehiroshima.com/) - Documentaries / Archives
+- [DocumaniaTV](https://www.documaniatv.com/) - Documentaries
+- [Area Documental](https://www.area-documental.com/) - Documentaries
+- [Latanime](https://latanime.org/) - Anime / Sub / Dub / Latino
+- [JKAnime](https://jkanime.net/) - Anime / Sub
+- [TioAnime](https://tioanime.com/) - Anime / Sub
+- [jkanimeflv](https://jkanimeflv.com/) - Anime / Sub
+- [veranimes](https://wwv.veranimes.net/) - Anime
+- [animeav1](https://animeav1.com/) - Anime
+- [Animejara](https://animejara.com/) - Anime / Sub
+- [AnimeFLV.net](https://www3.animeflv.net/) - Anime / Sub
+- [mundodonghua](https://www.mundodonghua.com/) - Anime / Sub
+- [estrenosanime](https://estrenosanime.net/) - Anime
+- [animeonline](https://ww3.animeonline.ninja/) - Anime / Sub
+- [ytanime](https://ytanime.tv/) - Anime / Sub
+- [LACartoons](https://www.lacartoons.com/) - Cartoons
+- [LatinLucha](https://latinluchas.com/) - WWE / MMA Replays / Latino
+- [EventosHQ](https://www.eventoshq.me/) - WWE / MMA Replays / Latino
+- [Tangos78rpm](https://www.tangos78rpm.com/) - Classic Records
+- [⁠Streamflix](https://github.com/streamflix-reborn/streamflix) - Android Streaming App
+
+## ▷ Reading / Leer
+
+- ⭐ **[EpubLibre](https://www.epublibre.org/)** - Books / Torrents / May Require VPN
+- ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** - Multi-Site Book Search
+- [eBiblioteca](https://ebiblioteca.org/) - Books
+- [ePub Gratis](https://www.epubgratis.info/) - Books
+- [LectuEpub](https://lectuepub4.com/) - Books
+- [LectuEpubGratis](https://lectuepubgratis3.com/) - Books
+- [Lectulandia](https://ww3.lectulandia.com/), [2](https://ww3.lectulandia.co/) - Books
+- [Ebookelo](https://ww2.ebookelo.com/) - Books
+- [Bibliotecasecreta](http://bibliotecasecreta.nl/) - Telegram Book Bot
+- [Elejandría](https://www.elejandria.com/) - Books
+- [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
+- [FreeLibros](https://www.freelibros.net/) - Textbooks / Books / Audiobooks / Magazines / Courses / Documentaries
+- [Librotecarios](https://librotecarios.blogspot.com/) - Textbooks
+- [Libros de la Nube](https://librosdelanube.blogspot.com/) - Textbooks
+- [albalearning](https://albalearning.com/) - Audiobooks
+- [Manga en Español](https://t.me/manga_es) - Manga
+- [HeavenManga](https://heavenmanga.com/) - Manga
+- [InManga](https://inmanga.com/) - Manga
+- [absorbiendomangas2](https://absorbiendomangas2.blogspot.com/) - Manga
+- [lexmangas](https://www.lexmangas.com/) - Manga
+- [zonatmo](https://zonatmo.com/) - Manga
+- [anzmangashd](https://www.anzmangashd.com/) - Manga
+- [vermanhwa](https://vermanhwa.com/) - Manga
+- [faneo](https://www.faneo.es/) - Manga
+- [Nova](https://novelasligeras.net/) - Manga / Light Novels
+- [Izicomics](https://www.izicomics.com/) - Manga / Comics
+- [MegaComicsTV3](https://megacomicstv3.blogspot.com/) - Comics
+- [novenadimension](https://foro.novenadimension.com/) - Comics / Downloads
+- [tupropiaaventura_bot](https://t.me/tupropiaaventura_bot) - Text Adventure / Telegram
+- [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
+- [Manuales de instrucciones](https://www.manualpdf.es/) - Manuals
+- [SciELO Chile](https://scielo.conicyt.cl/) - Scientific Journals
+- [rincondelvago](https://www.rincondelvago.com/) - Academic Documents
+- [cervantesvirtual](https://www.cervantesvirtual.com/portales/literatura/multimedia_videoteca_signada/) - Signed Literature for Deaf Users
+
+---
+
+## ▷ Streaming
+
+- [SVT Play](https://www.svtplay.se/) - Movies / TV
+- [Filmarkivet](https://www.filmarkivet.se/) - Short Films
+- [Stockholmskallan](https://stockholmskallan.stockholm.se/sok/?cstids=6) - Public Domain Films
+
+---
