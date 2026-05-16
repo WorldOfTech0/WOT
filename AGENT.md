@@ -106,6 +106,10 @@ The platform organizes resources into 2 primary sections comprising 11 verticals
 - **Navigation**: Uses `TableOfContents` for automatic heading extraction and `SubcategorySideBar` for contextual tools navigation.
 - **Interactivity**: `LinkPreview` provides hover-based URL metadata for external resource links.
 
+### Favorite System Pattern
+- **Persistence**: Favorite state is managed by the persistent `appStore` and synced to `localStorage`.
+- **UI**: Toggled via the star icon in `ContentViewer` and accessed through the `FavoritesModal` in the `TopNavBar`.
+
 ### Release Workflow
 
 - **Trigger**: Automatic release generation occurs only when a Pull Request is successfully merged into the `production` branch.

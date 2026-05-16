@@ -1,4 +1,4 @@
-import { CATEGORIES, SUBCATEGORIES } from '../categories';
+import { CATEGORIES } from '../categories';
 
 export const searchItems = [
   ...CATEGORIES.map((c) => ({
@@ -9,7 +9,7 @@ export const searchItems = [
     path: c.path,
     type: 'category',
   })),
-  ...Object.values(SUBCATEGORIES).map((s) => ({
+  ...CATEGORIES.flatMap((c) => c.subcategories).map((s) => ({
     id: s.id,
     titleKey: s.titleKey,
     descriptionKey: '',

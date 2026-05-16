@@ -12,4 +12,5 @@ export enum IconHc {
   MENU = 'menu',
   NIGHT = 'night',
   ROBOT = 'robot',
+  GITHUB = 'github',
 }

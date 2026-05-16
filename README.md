@@ -19,6 +19,7 @@
 
 - 📚 **Curated Free Catalog**: A thoroughly vetted collection of Media Resources, Artificial Intelligence tools, and Engineering software.
 - 🔍 **Intelligent Discovery**: A high-performance global search system powered by `Fuse.js` with full keyboard navigation support.
+- ⭐ **Personalized Favorites**: Save and organize frequently used resources for quick access via a dedicated dashboard.
 - 📖 **Documentation Portal**: A comprehensive hub for tool guides, technical documentation, and interactive resource exploration.
 - 🎨 **Aesthetic Precision**: A premium "wow-factor" interface featuring glassmorphism, dynamic animations, and a curated violet design system.
 - 🌍 **Global Ready**: Engineered with `i18next` for seamless internationalization and multi-language support.
