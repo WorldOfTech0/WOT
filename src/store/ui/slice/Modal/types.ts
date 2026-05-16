@@ -1,6 +1,7 @@
 export enum ModalID {
   NONE = 'none',
   SEARCH = 'search',
+  FAVORITES = 'favorites',
 }
 
 export type ModalState = {

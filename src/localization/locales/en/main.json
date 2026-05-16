@@ -1,7 +1,11 @@
 {
   "Common": {
     "brandName": "WorldOfTech",
-    "search": "Search",
+    "search": "Search Resources",
+    "favorites": "Your Favorites",
+    "noFavorites": "No favorites yet. Start marking resources to see them here!",
+    "addToFavorites": "Add to Favorites",
+    "removeFromFavorites": "Remove from Favorites",
     "code": "Code",
     "execute": "EXECUTE",
     "noResultsFound": "No results found for your query.",
@@ -33,7 +37,9 @@
       "video-tools": "Video Tools",
       "audio-tools": "Audio Tools",
       "educational-tools": "Educational Tools",
-      "developer-tools": "Developer Tools"
+      "developer-tools": "Developer Tools",
+      "non-english": "Non-English",
+      "miscellaneous": "Miscellaneous"
     }
   },
   "LandingPage": {
@@ -48,6 +54,11 @@
       "featured": "Featured Category",
       "techStack": "Tech Stack",
       "suffix": "/ ELITE STACK",
+      "sections": {
+        "library": "Information Library",
+        "tools": "Engineering Tools",
+        "all": "Show All"
+      },
       "items": {
         "media": {
           "title": "MEDIA RESOURCES",
@@ -132,6 +143,14 @@
         "developer-tools": {
           "title": "DEVELOPER ECOSYSTEM",
           "description": "The ultimate stack for coding, web dev, hosting, and cybersecurity."
+        },
+        "non-english": {
+          "title": "NON-ENGLISH RESOURCES",
+          "description": "Global technology archives and curated resources in over 30 languages."
+        },
+        "miscellaneous": {
+          "title": "MISCELLANEOUS",
+          "description": "A diverse collection of lifestyle, utility, and elite niche resources."
         }
       }
     }
@@ -842,6 +861,202 @@
           "title": "Cybersecurity",
           "desc": "Elite penetration testing and security auditing tools."
         }
+      }
+    }
+  },
+  "NonEnglish": {
+    "title": "Non-English Resources",
+    "description": "Global technology archives and curated resources in over 30 languages.",
+    "features": {
+      "arabic": {
+        "title": "Arabic",
+        "desc": "Technology resources and software in Arabic."
+      },
+      "bangla": {
+        "title": "Bangla",
+        "desc": "Technology resources and software in Bangla."
+      },
+      "bulgarian": {
+        "title": "Bulgarian",
+        "desc": "Technology resources and software in Bulgarian."
+      },
+      "chinese": {
+        "title": "Chinese",
+        "desc": "Technology resources and software in Chinese."
+      },
+      "czech": {
+        "title": "Czech",
+        "desc": "Technology resources and software in Czech."
+      },
+      "filipino": {
+        "title": "Filipino / Finnish",
+        "desc": "Technology resources in Filipino and Finnish."
+      },
+      "french": {
+        "title": "French",
+        "desc": "Technology resources and software in French."
+      },
+      "german": {
+        "title": "German",
+        "desc": "Technology resources and software in German."
+      },
+      "greek": {
+        "title": "Greek",
+        "desc": "Technology resources and software in Greek."
+      },
+      "hebrew": {
+        "title": "Hebrew",
+        "desc": "Technology resources and software in Hebrew."
+      },
+      "hungarian": {
+        "title": "Hungarian",
+        "desc": "Technology resources and software in Hungarian."
+      },
+      "indian": {
+        "title": "Indian",
+        "desc": "Technology resources and software in Indian languages."
+      },
+      "indonesian": {
+        "title": "Indonesian",
+        "desc": "Technology resources and software in Indonesian."
+      },
+      "italian": {
+        "title": "Italian",
+        "desc": "Technology resources and software in Italian."
+      },
+      "japanese": {
+        "title": "Japanese",
+        "desc": "Technology resources and software in Japanese."
+      },
+      "korean": {
+        "title": "Korean",
+        "desc": "Technology resources and software in Korean."
+      },
+      "malay": {
+        "title": "Malay",
+        "desc": "Technology resources and software in Malay."
+      },
+      "persian": {
+        "title": "Persian",
+        "desc": "Technology resources and software in Persian."
+      },
+      "polish": {
+        "title": "Polish",
+        "desc": "Technology resources and software in Polish."
+      },
+      "portuguese": {
+        "title": "Portuguese",
+        "desc": "Technology resources and software in Portuguese."
+      },
+      "romanian": {
+        "title": "Romanian",
+        "desc": "Technology resources and software in Romanian."
+      },
+      "russian": {
+        "title": "Russian",
+        "desc": "Technology resources and software in Russian."
+      },
+      "slovak": {
+        "title": "Slovak",
+        "desc": "Technology resources and software in Slovak."
+      },
+      "spanish": {
+        "title": "Spanish",
+        "desc": "Technology resources and software in Spanish."
+      },
+      "swedish": {
+        "title": "Swedish",
+        "desc": "Technology resources and software in Swedish."
+      },
+      "thai": {
+        "title": "Thai",
+        "desc": "Technology resources and software in Thai."
+      },
+      "ukranian": {
+        "title": "Ukranian",
+        "desc": "Technology resources and software in Ukranian."
+      },
+      "uzbek": {
+        "title": "Uzbek",
+        "desc": "Technology resources and software in Uzbek."
+      },
+      "vietnamese": {
+        "title": "Vietnamese",
+        "desc": "Technology resources and software in Vietnamese."
+      },
+      "other": {
+        "title": "Other Language",
+        "desc": "Miscellaneous resources in other global languages."
+      }
+    }
+  },
+  "Miscellaneous": {
+    "title": "Miscellaneous Resources",
+    "description": "A diverse collection of lifestyle, utility, and elite niche resources.",
+    "features": {
+      "indexes": {
+        "title": "Indexes",
+        "desc": "Elite resource catalogs and link directories."
+      },
+      "freeStuff": {
+        "title": "Free stuff",
+        "desc": "Verified sources for free software and services."
+      },
+      "food": {
+        "title": "Food",
+        "desc": "Culinary resources, recipes, and food science."
+      },
+      "fashion": {
+        "title": "Fashion/Clothing",
+        "desc": "Style guides and apparel design resources."
+      },
+      "household": {
+        "title": "Household",
+        "desc": "Home improvement and household management."
+      },
+      "gardening": {
+        "title": "Gardening",
+        "desc": "Botanical guides and gardening techniques."
+      },
+      "vehicle": {
+        "title": "Vehicle",
+        "desc": "Automotive engineering and maintenance resources."
+      },
+      "sport": {
+        "title": "Sport",
+        "desc": "Athletic training and sports science resources."
+      },
+      "travel": {
+        "title": "Travel",
+        "desc": "Global travel guides and exploration tools."
+      },
+      "maps": {
+        "title": "Maps",
+        "desc": "Cartography and geographic information systems."
+      },
+      "news": {
+        "title": "News",
+        "desc": "Global news archives and elite reporting."
+      },
+      "health": {
+        "title": "Health",
+        "desc": "Medical research and wellness resources."
+      },
+      "career": {
+        "title": "Career",
+        "desc": "Professional development and career planning."
+      },
+      "shopping": {
+        "title": "Shopping",
+        "desc": "Elite e-commerce and shopping comparison tools."
+      },
+      "usefulSites": {
+        "title": "Useful sites",
+        "desc": "Productivity-enhancing web utilities."
+      },
+      "funSites": {
+        "title": "Fun sites",
+        "desc": "Interactive entertainment and niche interest sites."
       }
     }
   },
