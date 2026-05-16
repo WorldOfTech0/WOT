@@ -1,4 +1,4 @@
-import { useParams, Link as RouterLink } from 'react-router-dom';
+import { useParams, Link as RouterLink, useLocation } from 'react-router-dom';
 import {
   Box,
   Text,
@@ -8,11 +8,14 @@ import {
   Spinner,
   Center,
   Flex,
+  IconButton,
 } from '@chakra-ui/react';
 import { useTranslation } from 'react-i18next';
 import { useState, useEffect, useMemo } from 'react';
 import { CATEGORIES } from '../../data/categories/categories';
 import { MdPreview, SubcategorySideBar, TableOfContents } from '@components';
+import { appStore } from '@appStore';
+import { useShallow } from 'zustand/react/shallow';
 
 const extractHeadings = (markdown: string) => {
   const lines = markdown.split('\n');
@@ -95,6 +98,25 @@ const ContentViewer = () => {
 
   const headings = useMemo(() => extractHeadings(mdContent), [mdContent]);
 
+  const location = useLocation();
+  const toggleFavorite = appStore((state) => state.Favorite.toggleFavorite);
+  const isFavorited = appStore(
+    useShallow((state) =>
+      state.Favorite.favorites.some((f) => f.id === subcategoryId),
+    ),
+  );
+
+  const handleToggleFavorite = () => {
+    if (subcategory && categoryId) {
+      toggleFavorite({
+        id: subcategoryId!,
+        categoryId: categoryId!,
+        titleKey: subcategory.titleKey,
+        path: location.pathname,
+      });
+    }
+  };
+
   return (
     <Box minH="calc(100vh - 120px)" py={8}>
       {category && subcategoryId && (
@@ -111,30 +133,66 @@ const ContentViewer = () => {
               fontSize="xs"
               color="onSurfaceVariant"
               fontFamily="mono"
+              w="full"
+              justify="space-between"
             >
-              <RouterLink to="/">
-                <Text _hover={{ color: 'primary' }} cursor="pointer">
-                  SYSTEM
+              <HStack gap={2}>
+                <RouterLink to="/">
+                  <Text _hover={{ color: 'primary' }} cursor="pointer">
+                    SYSTEM
+                  </Text>
+                </RouterLink>
+                <Text>/</Text>
+                {category && (
+                  <>
+                    <RouterLink to={category.path}>
+                      <Text
+                        _hover={{ color: 'primary' }}
+                        cursor="pointer"
+                        textTransform="uppercase"
+                      >
+                        {t(category.navKey)}
+                      </Text>
+                    </RouterLink>
+                    <Text>/</Text>
+                  </>
+                )}
+                <Text
+                  color="primary"
+                  textTransform="uppercase"
+                  fontWeight="bold"
+                >
+                  {subcategory ? t(subcategory.titleKey) : subcategoryId}
                 </Text>
-              </RouterLink>
-              <Text>/</Text>
-              {category && (
-                <>
-                  <RouterLink to={category.path}>
-                    <Text
-                      _hover={{ color: 'primary' }}
-                      cursor="pointer"
-                      textTransform="uppercase"
-                    >
-                      {t(category.navKey)}
-                    </Text>
-                  </RouterLink>
-                  <Text>/</Text>
-                </>
-              )}
-              <Text color="primary" textTransform="uppercase" fontWeight="bold">
-                {subcategory ? t(subcategory.titleKey) : subcategoryId}
-              </Text>
+              </HStack>
+
+              <IconButton
+                aria-label={
+                  isFavorited
+                    ? t('Common.removeFromFavorites')
+                    : t('Common.addToFavorites')
+                }
+                variant="ghost"
+                size="sm"
+                color={isFavorited ? 'primary' : 'onSurfaceVariant'}
+                _hover={{
+                  color: isFavorited ? 'primary' : 'onSurface',
+                  bg: 'surfaceContainer',
+                }}
+                onClick={handleToggleFavorite}
+              >
+                <span
+                  className="material-symbols-outlined"
+                  style={{
+                    fontSize: '20px',
+                    fontVariationSettings: isFavorited
+                      ? '"FILL" 1'
+                      : '"FILL" 0',
+                  }}
+                >
+                  star
+                </span>
+              </IconButton>
             </HStack>
 
             <Text
@@ -152,7 +210,11 @@ const ContentViewer = () => {
               <Center w="full" py={20}>
                 <VStack gap={4}>
                   <Spinner size="xl" color="primary" borderWidth="4px" />
-                  <Text color="onSurfaceVariant" fontFamily="mono" fontSize="sm">
+                  <Text
+                    color="onSurfaceVariant"
+                    fontFamily="mono"
+                    fontSize="sm"
+                  >
                     LOADING_DOCUMENTATION...
                   </Text>
                 </VStack>
@@ -186,10 +248,13 @@ const ContentViewer = () => {
                 <VStack align="start" gap={6}>
                   <Text color="onSurface" fontSize="md" lineHeight="tall">
                     The curated directory for{' '}
-                    <b>{subcategory ? t(subcategory.titleKey) : subcategoryId}</b>{' '}
-                    is currently in synchronization. Our engineers are finalizing
-                    the integration of industrial-grade resources, architectural
-                    patterns, and performance-optimized frameworks.
+                    <b>
+                      {subcategory ? t(subcategory.titleKey) : subcategoryId}
+                    </b>{' '}
+                    is currently in synchronization. Our engineers are
+                    finalizing the integration of industrial-grade resources,
+                    architectural patterns, and performance-optimized
+                    frameworks.
                   </Text>
 
                   <Box
