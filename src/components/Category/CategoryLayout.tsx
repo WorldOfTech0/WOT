@@ -91,7 +91,7 @@ const CategoryLayout = ({ categoryId }: CategoryLayoutProps) => {
 
           <SimpleGrid
             columns={viewMode === 'grid' ? { base: 1, md: 2 } : 1}
-            gap={viewMode === 'grid' ? 6 : 3}
+            gap={viewMode === 'grid' ? 4 : 2}
             w="full"
           >
             {category.subcategories.map((sub) => (
@@ -105,7 +105,7 @@ const CategoryLayout = ({ categoryId }: CategoryLayoutProps) => {
                   backdropFilter="blur(24px)"
                   borderWidth="1px"
                   borderColor="outline"
-                  p={viewMode === 'grid' ? 8 : 4}
+                  p={viewMode === 'grid' ? 4 : 2.5}
                   borderRadius={viewMode === 'grid' ? '2xl' : 'xl'}
                   transition="all 0.3s cubic-bezier(0.4, 0, 0.2, 1)"
                   _hover={{
@@ -118,9 +118,10 @@ const CategoryLayout = ({ categoryId }: CategoryLayoutProps) => {
                   }}
                 >
                   <Flex
-                    direction={viewMode === 'grid' ? 'column' : 'row'}
-                    align={viewMode === 'grid' ? 'start' : 'center'}
+                    direction={viewMode === 'grid' ? 'row' : 'row'}
+                    align={viewMode === 'grid' ? 'center' : 'center'}
                     gap={viewMode === 'grid' ? 4 : 5}
+                    h={viewMode === 'grid' ? 16 : 10}
                   >
                     <Box
                       as="span"

@@ -1,9 +1,11 @@
-import { Flex, IconButton, HStack, Text, Link } from '@chakra-ui/react';
+import { Flex, IconButton, HStack, Text, Link, Box } from '@chakra-ui/react';
 import { ThemeIcon } from '../../Theme';
 import { useTranslation } from 'react-i18next';
 import { Link as RouterLink } from 'react-router-dom';
 import { appStore, ModalID } from '@uiStore';
 import { GITHUB_URL } from '@data/constants';
+import WorldOfTechIcon from '@assets/icons/IconExport';
+import { IconHc } from '@assets/icons/types';
 
 const TopNavBar = () => {
   const { t } = useTranslation();
@@ -53,6 +55,19 @@ const TopNavBar = () => {
             search
           </span>
         </IconButton>
+        <IconButton
+          aria-label={t('Common.favorites')}
+          variant="ghost"
+          _hover={{ color: 'onSurface', bg: 'surfaceContainer' }}
+          onClick={() => appStore.getState().Modal.openModal(ModalID.FAVORITES)}
+        >
+          <span
+            className="material-symbols-outlined"
+            style={{ fontSize: '20px' }}
+          >
+            star
+          </span>
+        </IconButton>
         <ThemeIcon />
         <Link
           href={GITHUB_URL}
@@ -61,16 +76,13 @@ const TopNavBar = () => {
           style={{ textDecoration: 'none' }}
         >
           <IconButton
-            aria-label={t('Common.code')}
+            aria-label="GitHub"
             variant="ghost"
             _hover={{ color: 'onSurface', bg: 'surfaceContainer' }}
           >
-            <span
-              className="material-symbols-outlined"
-              style={{ fontSize: '20px' }}
-            >
-              code
-            </span>
+            <Box w="20px" h="20px">
+              <WorldOfTechIcon icon={IconHc.GITHUB} />
+            </Box>
           </IconButton>
         </Link>
       </HStack>

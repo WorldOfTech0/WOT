@@ -10,15 +10,22 @@ const SideNavBar = () => {
   const [isLibraryExpanded, setIsLibraryExpanded] = useState(true);
   const [isToolsExpanded, setIsToolsExpanded] = useState(true);
 
-  const libraryCategories = CATEGORIES.filter(c => c.section === 'information_library');
-  const toolCategories = CATEGORIES.filter(c => c.section === 'information_tools');
+  const libraryCategories = CATEGORIES.filter(
+    (c) => c.section === 'information_library',
+  );
+  const toolCategories = CATEGORIES.filter(
+    (c) => c.section === 'information_tools',
+  );
 
   const isSubcategoryRoute = useMemo(() => {
     const segments = location.pathname.split('/').filter(Boolean);
     return segments.length >= 2;
   }, [location.pathname]);
 
-  const renderNavItems = (categories: typeof CATEGORIES, startNumber: number) => {
+  const renderNavItems = (
+    categories: typeof CATEGORIES,
+    startNumber: number,
+  ) => {
     return categories.map((category, index) => {
       const label = t(category.navKey);
       const icon = category.icon;
@@ -38,10 +45,14 @@ const SideNavBar = () => {
               direction={isSubcategoryRoute ? 'column' : 'row'}
               align="center"
               gap={isSubcategoryRoute ? 1 : 3}
-              bg={isActive ? 'rgba(var(--chakra-colors-primary-rgb), 0.15)' : 'transparent'}
+              bg={
+                isActive
+                  ? 'rgba(var(--chakra-colors-primary-rgb), 0.15)'
+                  : 'transparent'
+              }
               color={isActive ? 'primary' : 'onSurfaceVariant'}
               px={isSubcategoryRoute ? 1 : 4}
-              py={isSubcategoryRoute ? 2 : 2.5}
+              py={isSubcategoryRoute ? 1 : 1.5}
               borderRadius="xl"
               transition="all 0.3s cubic-bezier(0.4, 0, 0.2, 1)"
               position="relative"
@@ -112,21 +123,21 @@ const SideNavBar = () => {
     });
   };
 
-  const NavSectionHeader = ({ 
-    title, 
-    isCollapsible = false, 
-    isExpanded = true, 
-    onToggle 
-  }: { 
+  const NavSectionHeader = ({
+    title,
+    isCollapsible = false,
+    isExpanded = true,
+    onToggle,
+  }: {
     title: string;
     isCollapsible?: boolean;
     isExpanded?: boolean;
     onToggle?: () => void;
   }) => (
-    <Box 
-      px={6} 
-      mb={2} 
-      mt={4} 
+    <Box
+      px={6}
+      mb={2}
+      mt={4}
       cursor={isCollapsible ? 'pointer' : 'default'}
       onClick={onToggle}
       transition="all 0.2s ease"
@@ -186,13 +197,13 @@ const SideNavBar = () => {
       css={{
         '&::-webkit-scrollbar': { width: '4px' },
         '&::-webkit-scrollbar-track': { background: 'transparent' },
-        '&::-webkit-scrollbar-thumb': { 
+        '&::-webkit-scrollbar-thumb': {
           background: 'var(--chakra-colors-outline)',
-          borderRadius: '24px'
+          borderRadius: '24px',
         },
         '&::-webkit-scrollbar-thumb:hover': {
-          background: 'var(--chakra-colors-primary)'
-        }
+          background: 'var(--chakra-colors-primary)',
+        },
       }}
     >
       {!isSubcategoryRoute && (
@@ -222,33 +233,33 @@ const SideNavBar = () => {
 
       <Flex direction="column" gap={1} w="full">
         {!isSubcategoryRoute && (
-          <NavSectionHeader 
-            title="Information Library" 
-            isCollapsible 
+          <NavSectionHeader
+            title="Information Library"
+            isCollapsible
             isExpanded={isLibraryExpanded}
             onToggle={() => setIsLibraryExpanded(!isLibraryExpanded)}
           />
         )}
-        <Box 
-          overflow="hidden" 
-          maxH={isLibraryExpanded ? '2000px' : '0px'} 
+        <Box
+          overflow="hidden"
+          maxH={isLibraryExpanded ? '2000px' : '0px'}
           transition="all 0.5s cubic-bezier(0.4, 0, 0.2, 1)"
           opacity={isLibraryExpanded ? 1 : 0}
         >
           {renderNavItems(libraryCategories, 1)}
         </Box>
-        
+
         {!isSubcategoryRoute && (
-          <NavSectionHeader 
-            title="Information Tools" 
-            isCollapsible 
+          <NavSectionHeader
+            title="Information Tools"
+            isCollapsible
             isExpanded={isToolsExpanded}
             onToggle={() => setIsToolsExpanded(!isToolsExpanded)}
           />
         )}
-        <Box 
-          overflow="hidden" 
-          maxH={isToolsExpanded ? '2000px' : '0px'} 
+        <Box
+          overflow="hidden"
+          maxH={isToolsExpanded ? '2000px' : '0px'}
           transition="all 0.5s cubic-bezier(0.4, 0, 0.2, 1)"
           opacity={isToolsExpanded ? 1 : 0}
         >

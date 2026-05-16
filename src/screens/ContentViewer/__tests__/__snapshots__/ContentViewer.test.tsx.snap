@@ -15,26 +15,42 @@ exports[`ContentViewer should render correctly for dev_tools subcategory 1`] = `
           class="chakra-stack css-10c7tj2"
         >
           <div
-            class="chakra-stack css-4kx5le"
+            class="chakra-stack css-1gptjxp"
           >
-            <a
-              data-discover="true"
-              href="/"
+            <div
+              class="chakra-stack css-1x0y7ph"
             >
-              <p
-                class="css-y9x6a7"
+              <a
+                data-discover="true"
+                href="/"
               >
-                SYSTEM
+                <p
+                  class="css-y9x6a7"
+                >
+                  SYSTEM
+                </p>
+              </a>
+              <p>
+                /
               </p>
-            </a>
-            <p>
-              /
-            </p>
-            <p
-              class="css-1v8u59e"
+              <p
+                class="css-1v8u59e"
+              >
+                dev_tools
+              </p>
+            </div>
+            <button
+              aria-label="Add to Favorites"
+              class="chakra-button css-mlqauu"
+              type="button"
             >
-              dev_tools
-            </p>
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; font-variation-settings: "FILL" 0;"
+              >
+                star
+              </span>
+            </button>
           </div>
           <p
             class="css-wqbqv0"
@@ -268,39 +284,55 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
           class="chakra-stack css-10c7tj2"
         >
           <div
-            class="chakra-stack css-4kx5le"
+            class="chakra-stack css-1gptjxp"
           >
-            <a
-              data-discover="true"
-              href="/"
+            <div
+              class="chakra-stack css-1x0y7ph"
             >
-              <p
-                class="css-y9x6a7"
+              <a
+                data-discover="true"
+                href="/"
               >
-                SYSTEM
+                <p
+                  class="css-y9x6a7"
+                >
+                  SYSTEM
+                </p>
+              </a>
+              <p>
+                /
               </p>
-            </a>
-            <p>
-              /
-            </p>
-            <a
-              data-discover="true"
-              href="/media"
-            >
-              <p
-                class="css-253glj"
+              <a
+                data-discover="true"
+                href="/media"
               >
-                Media
+                <p
+                  class="css-253glj"
+                >
+                  Media
+                </p>
+              </a>
+              <p>
+                /
               </p>
-            </a>
-            <p>
-              /
-            </p>
-            <p
-              class="css-1v8u59e"
+              <p
+                class="css-1v8u59e"
+              >
+                Streaming Sites
+              </p>
+            </div>
+            <button
+              aria-label="Add to Favorites"
+              class="chakra-button css-mlqauu"
+              type="button"
             >
-              Streaming Sites
-            </p>
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; font-variation-settings: "FILL" 0;"
+              >
+                star
+              </span>
+            </button>
           </div>
           <p
             class="css-wqbqv0"

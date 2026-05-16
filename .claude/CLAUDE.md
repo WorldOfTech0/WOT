@@ -12,6 +12,7 @@ WorldOfTech is a premium React-based technical directory for free internet resou
 - **UI Library**: Chakra UI v3
 - **Search**: Fuse.js (Modal-based)
 - **Documentation**: Markdown-based (react-markdown-preview)
+- **Favorites**: Persistent user-curated resource list
 - **i18n**: i18next
 - **CI/CD**: Releases are automatically triggered upon PR merges to `production`.
 

@@ -4,11 +4,23 @@ This directory contains the source markdown files for the **WorldOfTech Document
 
 ## 📁 Directory Structure
 
-- `tools/`: Contains specialized guides for various tool categories.
-  - `audio_tools.md`: Curated audio editing and production tools.
-  - `video_tools.md`: Professional-grade video editing and processing software.
-  - `developer_tools.md`: Essential tools for software development and engineering.
-  - ... and other category-specific guides.
+- `information_tools/`: Specialized guides for various tool categories.
+  - `audio-tools/`: Audio editing, production, and system utilities.
+  - `video-tools/`: Professional-grade video editing, players, and downloaders.
+  - `developer-tools/`: Essential tools for software development, hosting, and learning.
+  - `image-tools/`: Image editing, creation, and design resources.
+  - `system-tools/`: Hardware diagnostics, OS customization, and system utilities.
+  - ... and others like `gaming-tools`, `file-tools`, `internet-tools`, and `social-tools`.
+
+- `information_library/`: Comprehensive resource lists and databases.
+  - `ai/`: AI chatbots, writing assistants, and generation tools.
+  - `audio/`: Streaming services, tracking, and audio ripping resources.
+  - `downloading/`: Software sites, torrent clients, and Usenet guides.
+  - `educational/`: Courses, learning platforms, and skill-building sites.
+  - `media/`: Subtitle tools, live sports, and media tracking.
+  - `mobile/`: Android APKs, emulators, and mobile-specific tools.
+  - `privacy-security/`: VPNs, adblocking, and web privacy resources.
+  - `miscellaneous/`: Shopping, travel, health, and other useful site indexes.
 
 ## ✍️ Contributing New Guides
 

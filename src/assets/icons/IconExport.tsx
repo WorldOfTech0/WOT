@@ -8,6 +8,7 @@ import {
   IconMenu,
   IconNight,
   IconRobot,
+  IconGithub,
 } from './IconsAssets';
 
 import { WorldOfTechIconProps, IconHc } from './types';
@@ -32,6 +33,8 @@ const WorldOfTechIcon = ({ icon, ...rest }: WorldOfTechIconProps) => {
       return <IconNight {...rest} />;
     case IconHc.ROBOT:
       return <IconRobot {...rest} />;
+    case IconHc.GITHUB:
+      return <IconGithub {...rest} />;
     default:
       return null;
   }

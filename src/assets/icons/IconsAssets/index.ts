@@ -7,3 +7,4 @@ export * from './WorldOfTech';
 export * from './Menu';
 export * from './Night';
 export * from './Robot';
+export { default as IconGithub } from './Github';
