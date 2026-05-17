@@ -5,10 +5,10 @@
 ---
 
 - 🌐 **[Adobe Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)** - Adobe Software Alternative Index
-- ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Satvrn](https://rentry.co/FMHYB64#satvrn) - Editing Software
+- ↪️ **[Editing Software](../downloading/torrent-sites)** or [Satvrn](https://rentry.co/gt8yat2y#satvrn) - Editing Software
 - ⭐ **[Virgil Software Search](https://virgil.samidy.com/Software/)**, [2](https://virgil-search.pages.dev/Software/) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Multi-Site Software Search
 - ⭐ **[CracksURL](https://cracksurl.com/)** / [Download Guide](https://cracksurl.com/how-to-download/)
-- ⭐ **[LRepacks](https://lrepacks.net/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+- ⭐ **[LRepacks](https://lrepacks.net/)** - Use [Translator](../text-tools/tools#-translators)
 - ⭐ **[Mobilism](https://forum.mobilism.org/)** - Requires Sign-Up
 - ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Requires Sign-Up
 - ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
@@ -25,7 +25,7 @@
 ## ▷ FOSS Sites
 
 - 🌐 **[Awesome Open Source](https://awesomeopensource.com/)**, [⁠definitive-opensource](https://github.com/mustbeperfect/definitive-opensource), [Awesome Useful Projects](https://github.com/Furthir/awesome-useful-projects) or [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives) - FOSS Indexes
-- ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
+- ↪️ **[Git Project Indexes](../uncategorised/git-projects#-git-projects)**
 - ⭐ **[new(releases)](https://newreleases.io/)** - Software Release Notifications / [GitHub](https://github.com/newreleasesio)
 - ⭐ **[Is It Really FOSS](https://isitreallyfoss.com)** - Determine if Software is FOSS / [Source Code](https://codeberg.org/danb/isitreallyfoss)
 - [SourceForge](https://sourceforge.net/) - FOSS Repositories
@@ -47,7 +47,7 @@
 
 - 🌐 **[Awesome Free Software](https://github.com/Axorax/awesome-free-apps)**, [Awesome Free Apps](https://github.com/Axorax/awesome-free-apps), [Windows Ultimate Collection](https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/) or [Free Lunch](https://github.com/auctors/free-lunch) - Freeware Indexes
 - 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
-- ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers)**
+- ↪️ **[Software Package Managers](../system-tools/tools#-package-managers)**
 - ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Alt Microsoft Store App / Windows
 - ⭐ **[DanStore](https://danstore-ms.vercel.app/)**, **[store.rg](https://store.rg-adguard.net/)** or [StoreWeb](https://msft-store.tplant.com.au/) / [GitHub](https://github.com/StoreDev) - Microsoft Store WebUIs / [Guide](https://rentry.co/paidAppsMsStore)
 - [MajorGeeks](https://www.majorgeeks.com/) - Freeware Downloads
@@ -66,16 +66,20 @@
 - [Suckless](https://suckless.org/) - Minimalist Software Ecosystem
 - [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
 - [OldVersion](http://www.oldversion.com/) - Old Versions of Software
-- [Vintage Software Collection](https://rentry.co/FMHYB64#the-vintage-software-collection) or [SCiZE's Classic Warez](https://scenelist.org/) - Retro Software
+- [Vintage Software Collection](https://rentry.co/gt8yat2y#the-vintage-software-collection) or [SCiZE's Classic Warez](https://scenelist.org/) - Retro Software
 - [⁠Commodore Software](https://commodore.software/search/) - Commodore 64 / Commodore 128 / VIC-20 Software
 
 ---
 
-## ▷ [Linux Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites)
+## ▷ Linux Software
+
+- [Linux Software](../desktop/linux-apps#-software-sites)
 
 ---
 
-## ▷ [Mac Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2)
+## ▷ Mac Software
+
+- [Mac Software](../desktop/mac-apps#-software-sites)
 
 ---
 
@@ -83,7 +87,7 @@
 
 - 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
 - 🌐 **[IRC Client Comparisons](https://wikipedia.org/wiki/Comparison_of_IRC_clients)**
-- [IRC Guide](https://rentry.org/ircfmhyguide), [Libera Guides](https://libera.chat/guides/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
+- [IRC Guide](https://rentry.co/9snpsk4z), [Libera Guides](https://libera.chat/guides/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
 - [AdiIRC](https://adiirc.com/), [KVIrc](https://github.com/kvirc/KVIrc), or [Halloy](https://github.com/squidowl/halloy) - IRC Clients / Windows, Mac, Linux
 - [Konversation](https://konversation.kde.org/) - IRC Client / Windows, Linux / [GitHub](https://github.com/KDE/konversation)
 - [Convos](https://convos.chat/) / [GitHub](https://github.com/convos-chat/convos/) or [TheLounge](https://thelounge.chat/) / [GitHub](https://github.com/thelounge) - Self-hosted IRC Client / Web
