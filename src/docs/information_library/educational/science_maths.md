@@ -1,6 +1,6 @@
 # ► Science / Math
 
-- ↪️ **[Science News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7science_news)**
+- ↪️ **[Science News](../miscellaneous/news#-science-news)**
 - [TIB AV-Portal](https://av.tib.eu/) - Science Videos
 - [LabXchange](https://www.labxchange.org/), [JavaLab](https://javalab.org/en/) or [EduMedia](https://www.edumedia.com/) - Interactive Science Simulations
 - [⁠MagnifiedSand](https://magnifiedsand.com/) - Microscopic Sand Magnification Database
@@ -41,15 +41,15 @@
 
 - 🌐 **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resources
 - 🌐 **[Math and Science Lectures](https://github.com/Developer-Y/math-science-video-lectures)** - Index of Math + Science Video Courses
-- ↪️ **[Calculators / Problem Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_calculators)**
-- ↪️ **[LaTeX Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_latex_tools)**
+- ↪️ **[Calculators / Problem Solvers](../educational/edu-tools#-calculators)**
+- ↪️ **[LaTeX Tools](../text-tools/markup#-latex-tools)**
 - ⭐ **[Number Academy](https://number.academy/)** - Encyclopedia of Numbers
 - ⭐ **[Wumbo](https://wumbo.net/)** - Math Reference Site
 - ⭐ **[Open Source Society University](https://github.com/ossu/math)** / [PT-BR](https://github.com/ossu/math-br) - Math Roadmap / [Discord](https://discord.gg/wuytwK5s9h)
 - ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)** or [MathDash](https://mathdash.com/) - Adaptive Problem Solving
 - ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
 - ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
-- ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+- ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](../mobile/android-apks#-modded-apks) (search)
 - [Wolfram MathWorld](https://mathworld.wolfram.com/) or [nLab Math](https://ncatlab.org/nlab/show/mathematics) - Mathematics Encyclopedias
 - [⁠Algebrica](https://algebrica.org/) - Mathematical Concepts Database
 - [⁠Immortal's Maths Problems](https://www.math.umd.edu/~immortal/), [⁠Evan Chen](https://web.evanchen.cc/), [Pauls Online Math Notes](https://tutorial.math.lamar.edu/) or [LibreTexts Math](https://math.libretexts.org/Bookshelves) - Math Practice / Guides
@@ -97,9 +97,9 @@
 - 🌐 **[Awesome Mecheng](https://github.com/m2n037/awesome-mecheng)** - Mechanical Engineering Resources
 - 🌐 **[Awesome Electronics](https://github.com/kitspace/awesome-electronics)** - Electronic Engineering Resources
 - 🌐 **[Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)** - Engineering Blogs
-- ↪️ **[Comp Sci Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
-- ↪️ **[Vehicle Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_vehicle)**
-- ↪️ **[3D Modeling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_3d_models) / [CAD Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_cad_engineering)**
+- ↪️ **[Comp Sci Resources](../educational/dev-learning#-computer-science)**
+- ↪️ **[Vehicle Resources](../miscellaneous/vehicle#-vehicle)**
+- ↪️ **[3D Modeling](../image-tools/3d) / [CAD Apps](../image-tools/3d#-cad-engineering)**
 - ⭐ **[r/AskEngineers](https://www.reddit.com/r/AskEngineers/)** / [Wiki](https://www.reddit.com/r/AskEngineers/wiki/), **[r/engineering](https://www.reddit.com/r/engineering/)** or [r/AutomotiveEngineering](https://www.reddit.com/r/AutomotiveEngineering/) - Engineering Subreddits
 - ⭐ **[NPTEL](https://nptel.ac.in/courses)** or [Sabin](https://www.youtube.com/@SabinCivil) - Engineering Courses
 - ⭐ **[KiCad](https://www.kicad.org/)** / [Libraries](https://kicad.github.io/) or [Horizon EDA](https://horizon-eda.org/) - Schematics Editor / PCB Creator / SPICE Integration
@@ -135,8 +135,8 @@
 
 - 🌐 **[Awesome Aerospace Engineering](https://github.com/mahran-sayed/awesome-aerospace-engineering/)** - Aerospace Engineering Learning Resources
 - 🌐 **[Awesome Flying FPV](https://github.com/Matthias84/awesome-flying-fpv)** - Remote Copter / Plane Resources
-- ↪️ **[Spacecraft Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_spacecraft)**
-- ↪️ **[Flight Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_flights)**
+- ↪️ **[Spacecraft Resources](../educational/space#-spacecraft)**
+- ↪️ **[Flight Resources](../miscellaneous/travel#-travel)**
 - [⁠r/AerospaceEngineering](https://www.reddit.com/r/AerospaceEngineering/) - Aerospace Engineering Community
 - [⁠AerospaceWeb](https://aerospaceweb.org/) - Aerospace Info Database / Calculators / Q&A
 - [⁠The Rocketry Forum](https://www.rocketryforum.com/) or [Ye Olde Rocket Forum](https://www.oldrocketforum.com/) - Rocketry Forums / Community
@@ -181,7 +181,7 @@
 ## ▷ Chemistry
 
 - 🌐 **[Wolfram Alpha Chemistry](https://wolframalpha.com/examples/science-and-technology/chemistry)** - Chemistry Calculators / Tools
-- ↪️ **[Periodic Tables](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_periodic_tables)**
+- ↪️ **[Periodic Tables](../educational/science-maths#-periodic-tables)**
 - ⭐ **[Lab Safety Guide / Intro](https://labmode.co.uk/)**
 - ⭐ **[LibreTexts Chemistry](https://chem.libretexts.org)** - Chemistry Texts
 - ⭐ **[Internet Chemistry](https://www.internetchemistry.com/search.php)** - Chemistry Search Index
@@ -273,7 +273,7 @@
 ## ▷ Med School
 
 - 🌐 **[r/MedicalSchool Wiki](https://www.reddit.com/r/medicalschool/wiki/resources)** - Med School Resources
-- ↪️ **[Health Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_health)**
+- ↪️ **[Health Resources](../miscellaneous/health)**
 - ⭐ **[Khan Academy](https://www.khanacademy.org/science/health-and-medicine)** - Physiology / Pathology Overviews
 - ⭐ **[Afratafreeh](https://afratafreeh.com/category/brands/)** - Medical Video Courses and Books
 - ⭐ **[Radiopaedia](https://radiopaedia.org/)**, [Radiology Assistant](https://radiologyassistant.nl/) or [Radiology Education](https://www.radiologyeducation.com/) - Radiology Resources

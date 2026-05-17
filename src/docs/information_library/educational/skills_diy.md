@@ -1,10 +1,9 @@
 # ► Skills / Hobbies / DIY
 
-- ↪️ **[Photography / Cameras](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_photography_.2F_cameras)**
-- ↪️ **[Fashion / Clothing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_fashion_.2F_clothing)**
-- ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
-- ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
-- ↪️ **[Puzzle Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_puzzle_games)**
+- ↪️ **[Photography / Cameras](../image-tools/camera)**
+- ↪️ **[Fashion / Clothing](../miscellaneous/fashion#-fashion--clothing)**
+- ↪️ **[Survival / Prepping](../uncategorised/survival)**
+- ↪️ **[Puzzle Games](../gaming/puzzles#-puzzle-games)**
 - ⭐ **[Knots 3D](https://knots3d.com/)**, [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 - [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 - [Make it Yourself](https://makeityourself.org/), [Instructables](https://www.instructables.com/) or [CreativePark](https://creativepark.canon/en/index.html) - DIY Projects / Crafts
@@ -37,7 +36,7 @@
 ## ▷ Music
 
 - 🌐 **[Awesome Music Theory](https://github.com/vpavlenko/study-music)** - Music Theory Resources
-- ↪️ **[Sheet Music / Notation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sheet_music_.2F_notation)**
+- ↪️ **[Sheet Music / Notation](../audio-tools/tools#-sheet-music--notation)**
 - ⭐ **[Muted](https://muted.io/)**, **[Open Music Theory](https://viva.pressbooks.pub/openmusictheory/)** / [2](https://openmusictheory.github.io/), [Chromatone](https://chromatone.center/), [Teoria](https://www.teoria.com/index.php), [SimplifyingTheory](https://www.simplifyingtheory.com/), [LightNote](https://www.lightnote.co/) or [Music Theory](https://www.musictheory.net/) - Music Theory
 - [LibreTexts Music](https://human.libretexts.org/Bookshelves/Music) - Music Learning
 - [⁠Z-Tonnetz](https://ztonnetz.com/) - Music Visualization Tool
@@ -80,7 +79,7 @@
 
 - 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
 - 🌐 **[AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch)** - Anime Machine Learning
-- ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
+- ↪️ **[Digital Art Collections](../uncategorised/digital-art-collections)**
 - ⭐ **[Art Study Guide](https://drive.google.com/file/d/1cK9q7oeFRE58MVaSgUql662iGqCXC8Ah/)** - Art Study Guides / Tips
 - ⭐ **[Drawabox](https://drawabox.com/)**, [Drawing Starter Pack Playlist](https://www.youtube.com/playlist?list=PL7KO8uN5A9PJsQIJzecnohhKjtMnSuFtR), [FarsiTuts](https://t.me/farsituts) or [Bill Martin's Guide to Drawing](https://www.guidetodrawing.com/) - Drawing Lessons
 - ⭐ **[Proko](https://www.youtube.com/user/ProkoTV/videos)** - Figure Drawing Lessons
@@ -129,7 +128,7 @@
 
 - 🌐 **[Cubing.net](https://www.cubing.net/)** - Cubing Tools
 - 🌐 **[Rubiks Cube Guide](https://rentry.co/cubingguide)** - ⁠Guide to Rubiks Cube / Resources
-- ↪️ **[Cube Simulators / Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25B7_rubiks_cube)**
+- ↪️ **[Cube Simulators / Solvers](../gaming/puzzles#-rubiks-cube)**
 - ⭐ **[J Perm](https://jperm.net/)**, [CubeSkills](https://www.cubeskills.com/), [RubiksTrainer](https://rubikstrainer.com/) or [Easiest Solve](https://easiestsolve.com/) - Cubing Tutorials / Practice Resources
 - ⭐ **[CubeDesk](https://cubedesk.io/)** or **[csTimer](https://cstimer.net/)** - Feature-Rich Cubing Timers
 - ⭐ **[SpeedCubeDB](https://speedcubedb.com/)** - Algorithm Database
@@ -154,7 +153,7 @@
 - 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)**, [⁠Immortal Chess Network](https://t.me/Immortal_Chess_Network), [⁠TheChessDirectory](https://thechessdirectory.com/) or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
 - 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [r/Chess](https://reddit.com/r/chess) - Chess Subreddits
 - 🌐 **[r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
-- ↪️ **[Play Chess Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_chess)**
+- ↪️ **[Play Chess Online](../gaming/puzzles#-chess)**
 - ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)** - Learn / Practice Chess
 - [ChessGames](https://www.chessgames.com/) - Chess Database / Community
 - [ChessLab](https://chesslab.me/) - Chess Lessons / [Discord](https://discord.com/invite/AA5G5f9wKC)
@@ -164,7 +163,7 @@
 - [HerculesChess](https://herculeschess.com/) - Learn / Practice Chess
 - [Chess Tempo](https://chesstempo.com/) - Chess Practice
 - [Lucas Chess](https://lucaschess.pythonanywhere.com/) - Chess Practice
-- [Chess Coach](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) - Chess Coaching App
+- [Chess Coach](../mobile/android-apks#-modded-apks) - Chess Coaching App
 - [⁠Chess OCR](https://helpman.komtera.lt/chessocr/) - Multi-Site Digital Chessboard Analysis
 - [⁠Shâh Kur](https://shahkur.specr.net/) - Blind Chess Practice / Improve Board Visualization
 - [WintrChess](https://wintrchess.com/), [2](https://chess.wintrcat.uk/) - Chess Game / Move Analysis
@@ -186,13 +185,13 @@
 
 ## ▷ Dungeons & Dragons
 
-- ↪️ **[D&D Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)** - Map Editors, Campaign Managers, Worldbuilding, etc.
+- ↪️ **[D&D Building Tools](../gaming-tools/genre-specific#-rpg-worldbuilding)** - Map Editors, Campaign Managers, Worldbuilding, etc.
 - ⭐ **[D&D Compendium](https://www.dnd-compendium.com/)** or [RPGBOT](https://rpgbot.net/) - D&D Tools & Learning Resources
 - ⭐ **[5etools](https://5e.tools/)**, [⁠DM Screen](https://www.linepup.com/dm-screen/) or [The Acaeum](https://www.acaeum.com/) - Rules & Content References
 - ⭐ **[D&D Beyond](https://www.dndbeyond.com/)** - Official Toolset for 5E
 - ⭐ **[Kobold+ Fight Club](https://koboldplus.club/)** - Encounter Builder & Balancer
 - [Avrae](https://avrae.io/) - D&D Automation Discord Bot
-- [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
+- [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](../text-tools/tools#-translators) - D&D 4E/5E Books
 - [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - D&D Worldbuilding Checklist
 - [⁠DiceCloud](https://dicecloud.com/) - D&D 5e Character Manager / [GitHub](https://github.com/ThaumRystra/DiceCloud/)
 - [⁠DMHeroes](https://dmheroes.com/) - D&D NPC Generator / [Classic](http://classic.dmheroes.com/)
