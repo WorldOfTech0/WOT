@@ -3,9 +3,9 @@
 ## ▷ Mac Adblock / Privacy
 
 - 🌐 **[Awesome OSX Security](https://github.com/ashishb/osx-and-ios-security-awesome)** - Mac Security Resources
-- ↪️ **[Mac 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
-- ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-- ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [ESET](https://rentry.co/FMHYB64#eset), [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
+- ↪️ **[Mac 2FA](../privacy-security/web-privacy#-password-privacy--2fa)**
+- ↪️ **[DNS Adblocking](../privacy-security/adblocking#-dns-adblocking)**
+- ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [ESET](https://rentry.co/gt8yat2y#eset), [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
 - [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698), [AdGuard Mini](https://adguard.com/en/adguard-safari/overview.html) / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/), [wBlock](https://apps.apple.com/app/wblock/id6746388723) / [GitHub](https://github.com/0xCUB3/wBlock) or [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblockers
 - [1Blocker](https://1blocker.com/) - DNS Adblocker
 - [Lockdown Privacy](https://lockdownprivacy.com/) - Block Trackers / Ads
@@ -34,7 +34,7 @@
 
 ## ▷ Mac Internet
 
-- ↪️ **[Mac Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)**
+- ↪️ **[Mac Torrent Clients](../downloading/torrent-clients)**
 - [KeePassXC](https://keepassxc.org/download/#macos) or [Strongbox](https://strongboxsafe.com/) - Password Managers
 - [What Route](https://whatroute.net/) - Network Diagnostic Tool
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Email Client
@@ -114,7 +114,7 @@
 - [Bruji](https://www.bruji.com/) - Media Cataloging Software Suite
 - [superfile](https://superfile.netlify.app/) - Terminal File Manager / [GitHub](https://github.com/yorukot/superfile)
 - [macFUSE](https://macfuse.github.io/) - Mac File Integration / [GitHub](https://github.com/macfuse/macfuse)
-- [JDownloader](https://jdownloader.org/jdownloader2) - File Download Manager / [Debloat](https://claraiscute.neocities.org/Guides/jdownloader2/) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)
+- [JDownloader](https://jdownloader.org/jdownloader2) - File Download Manager / [Debloat](https://claraiscute.neocities.org/Guides/jdownloader2/) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2)
 - [Go Speed](https://gopeed.com/) - File Download Manager / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
 - [Progressive Downloader](https://macpsd.net/) - File Download Manager
 - [Transnomino](https://www.transnomino.com/) or [Riffo](https://riffo.ai/rename) - Bulk File / Folder Renaming

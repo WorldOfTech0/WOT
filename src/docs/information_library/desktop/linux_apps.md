@@ -1,8 +1,8 @@
 # ► Linux Apps
 
 - 🌐 **[GNOME Shell Extensions](https://extensions.gnome.org/)**
-- ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
-- ↪️ **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_office_suites)**
+- ↪️ **[Multi-Platform Readers](../reading/ebooks#-ebook-readers)** - Ebook Reader Index
+- ↪️ **[Office Suites](../text-tools/editor#-office-suites)**
 - ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine containers / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs)
 - ⭐ **[WineHQ](https://appdb.winehq.org/)** - Wine Compatibility Database
 - ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
@@ -49,7 +49,7 @@
 - 🌐 **[Awesome KDE](https://github.com/francoism90/awesome-kde)** - FOSS KDE Software
 - 🌐 **[Awesome GNOME](https://github.com/Kazhnuz/awesome-gnome)** - FOSS GNOME Software
 - 🌐 **[FOSS Software Packages](https://wikipedia.org/wiki/List_of_free_and_open-source_software_packages)** - FOSS Software Packages Index
-- ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** - Linux Software / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+- ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** - Linux Software / Use [Translator](../text-tools/tools#-translators)
 - ⭐ **[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)**
 - ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
 - [⁠TuxMate](https://tuxmate.com/) - Bulk App Installer / [GitHub](https://github.com/abusoww/tuxmate)
@@ -122,11 +122,11 @@
 
 ## ▷ Linux Video
 
-- ↪️ **[Media Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
+- ↪️ **[Media Servers / Tools](../video-tools/servers)**
 - ⭐ **[mpv](https://mpv.io/)** or [VLC](https://www.videolan.org/) - Video Players
 - ⭐ **[Haruna](https://apps.kde.org/haruna/)** / [GitHub](https://github.com/KDE/haruna) or **[Celluloid](https://github.com/celluloid-player/celluloid)** - MPV Frontends
 - ⭐ **[Kdenlive](https://apps.kde.org/kdenlive/)** / [GitHub](https://github.com/KDE/kdenlive), [Pitivi](https://www.pitivi.org/), [⁠davincibox](https://github.com/zelikos/davincibox) or [Flowblade](https://jliljebl.github.io/flowblade/) / [GitHub](https://github.com/jliljebl/flowblade) - Video Editors
-- [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
+- [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use [VPN](../privacy-security/vpn#-vpn)
 - [MPV Shim](https://github.com/iwalton3/plex-mpv-shim) - Cast Plex to MPV
 - [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
 - [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio Editor
@@ -134,7 +134,7 @@
 - [4KTUBE](https://github.com/rishabh3354/4KTUBE) or [Video Downloader](https://github.com/Unrud/video-downloader) - Video Downloaders
 - [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
 - [AnymeX](https://anymex.vercel.app/) - Anime Streaming App / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)
-- [Hayase](https://hayase.watch/) - Anime Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase)
+- [Hayase](https://hayase.watch/) - Anime Torrent Streaming App / [Extensions](https://rentry.co/gt8yat2y#hayase)
 - [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal
 - [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
 - [LiveCaptions](https://github.com/abb128/LiveCaptions) - Real-Time Captions
@@ -145,7 +145,7 @@
 
 - 🌐 **[Awesome Linux Audio](https://gitlab.com/nodiscc/awesome-linuxaudio)** - Live Audio Resources
 - ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [spotify-adblock](https://github.com/abba23/spotify-adblock) - Spotify Adblockers
-- ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins/ / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
+- ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins/ / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli)
 - ⭐ **[Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave)** / [GitLab](https://gitlab.gnome.org/World/Shortwave) or [QMPlay2](https://github.com/zaps166/QMPlay2) - Radio Players
 - ⭐ **[SongRec](https://github.com/marin-m/SongRec)** or [Mousai](https://github.com/SeaDve/Mousai) - Song Identifiers
 - [puddletag](https://docs.puddletag.net/) - Metadata Organizer / [GitHub](https://github.com/puddletag/puddletag)
@@ -180,7 +180,7 @@
 
 ## ▷ Linux Image
 
-- ↪️ **[Linux Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_editing_software)**
+- ↪️ **[Linux Image Editors](../image-tools/editing#-editing-software)**
 - ⭐ **[Flameshot](https://flameshot.org/)**, [Gradia](https://gradia.alexandervanhee.be/) / [GitHub](https://github.com/AlexanderVanhee/Gradia) or [Scrot](https://github.com/resurrecting-open-source-projects/scrot) - Screenshot Tools
 - [v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - Create Virtual Cameras
 - [Drawing](https://maoschanz.github.io/drawing/) - Drawing App
@@ -211,12 +211,12 @@
 - ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine Containers / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs)
 - ⭐ **[ProtonPlus](https://github.com/Vysp3r/ProtonPlus)** or [ProtonUp-QT](https://davidotek.github.io/protonup-qt/) / [GitHub](https://github.com/DavidoTek/ProtonUp-Qt/) - Linux Compatibility Tool Managers
 - ⭐ **[GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom)** - Custom Proton Version / [Discord](https://discord.com/invite/6y3BdzC)
-- ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+- ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](../text-tools/tools#-translators)
 - ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games / Requires Sign-Up
-- ⭐ **[johncena141](https://rentry.co/FMHYB64#johncena141)** - Linux Games / [Support](https://gitlab.com/jc141x/portal) / [Launcher](https://github.com/AbdelrhmanNile/UnderTaker141)
+- ⭐ **[johncena141](https://rentry.co/gt8yat2y#johncena141)** - Linux Games / [Support](https://gitlab.com/jc141x/portal) / [Launcher](https://github.com/AbdelrhmanNile/UnderTaker141)
 - [CS.RIN.RU](https://cs.rin.ru/forum), [2](https://csrin.org/) - Linux Games / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
-- [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
-- [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
+- [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](../text-tools/tools#-translators) / [Tools](/downloading/torrent-sites)
+- [Native Linux Games](https://rentry.co/gt8yat2y#native-linux-games) - Linux Games
 - [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
 - [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
 - [⁠UMU](https://github.com/Open-Wine-Components/umu-launcher) - Run Windows Games on Linux

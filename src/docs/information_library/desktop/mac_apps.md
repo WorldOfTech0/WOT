@@ -1,7 +1,7 @@
 # ► Mac Apps
 
-- ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
-- ↪️ **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_office_suites)**
+- ↪️ **[Multi-Platform Readers](../reading/ebooks#-ebook-readers)** - Ebook Reader Index
+- ↪️ **[Office Suites](../text-tools/editor#-office-suites)**
 - ⭐ **[gibMacOS](https://github.com/corpnewt/gibMacOS)** or [Mist](https://github.com/ninxsoft/Mist) - Download macOS
 - ⭐ **[NearDrop](https://github.com/grishka/NearDrop)** or [maestral](https://maestral.app/) - File Sharing Apps
 - ⭐ **[shottr](https://shottr.cc/)** or [⁠Better Shot](https://www.bettershot.site/) / [GitHub](https://github.com/KartikLabhshetwar/better-shot) - Screenshot Tools
@@ -17,7 +17,7 @@
 - [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 - [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Mac VM in Docker
 - [Linux for T2](https://t2linux.org/) - Install Linux on Apple T2 Devices / [GitHub](https://github.com/t2linux)
-- [CrossOver](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2) (search) - Run Windows on Mac
+- [CrossOver](../desktop/linux-apps#-software-sites) (search) - Run Windows on Mac
 - [PortingKit](https://www.portingkit.com/) or [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games / Programs on Mac
 - [PlayCover](https://playcover.io/) - Run iOS Apps on Apple Silicon Macs / [GitHub](https://github.com/PlayCover/PlayCover)
 - [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
@@ -88,7 +88,7 @@
 ## ▷ Mac Video
 
 - [IINA](https://iina.io/) - Video Player
-- [Hayase](https://hayase.watch/) - Anime Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase) / [Wiki](https://wiki.hayase.watch/)
+- [Hayase](https://hayase.watch/) - Anime Torrent Streaming App / [Extensions](https://rentry.co/gt8yat2y#hayase) / [Wiki](https://wiki.hayase.watch/)
 - [AnymeX](https://anymex.vercel.app/) - Anime Streaming App / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)
 - [⁠Unwatched](https://apps.apple.com/app/unwatched-para-youtube/id6477287463) or [Yattee](https://github.com/yattee/yattee) - YouTube Players
 - [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
@@ -100,7 +100,7 @@
 ## ▷ Mac Audio
 
 - ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** - Spotify Adblockers
-- ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
+- ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli)
 - [foobar2000](https://www.foobar2000.org/mac) or [VOX Mac Music Player](https://vox.rocks/mac-music-player) - Audio Players
 - [cliamp](https://www.cliamp.stream/) - TUI Audio Player / [GitHub](https://github.com/bjarneo/cliamp)
 - [Silicio](https://apps.apple.com/us/app/silicio-mini-player/id933627574) - Audio Mini Player
@@ -139,7 +139,7 @@
 - ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** or [Mac Gaming DB](https://macgamingdb.app/) - Mac Game Fixes / Compatibility / [Discord](https://discord.gg/28CAAr6SpB)
 - [CS.RIN.RU](https://cs.rin.ru/forum), [2](https://csrin.org/) - Mac Games / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 - [SCNLOG](https://scnlog.me/games/mac/) - Mac Games
-- [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+- [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games / [Tools](/downloading/torrent-sites)
 - [MacintoshRepository](https://www.macintoshrepository.org/games/) - Oldschool Mac Games
 - [Mac Source Ports](https://www.macsourceports.com/) - Run Old Mac Games
 - [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic / GOG / Prime Games Launcher / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
