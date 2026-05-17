@@ -5,6 +5,74 @@ exports[`CategoryLayout should render correctly for media category 1`] = `
   <div
     class="css-1115lm6"
   >
+    <title>
+      Media | WorldOfTech
+    </title>
+    <meta
+      content="Elite streaming, download, and media management platforms."
+      name="description"
+    />
+    <meta
+      content="technology, tools, developer tools, system utilities, media streaming, ai resources, learning"
+      name="keywords"
+    />
+    <meta
+      content="index, follow"
+      name="robots"
+    />
+    <link
+      href="https://worldoftech.dev/media"
+      rel="canonical"
+    />
+    <meta
+      content="website"
+      property="og:type"
+    />
+    <meta
+      content="Media"
+      property="og:title"
+    />
+    <meta
+      content="Elite streaming, download, and media management platforms."
+      property="og:description"
+    />
+    <meta
+      content="https://worldoftech.dev/og-image.png"
+      property="og:image"
+    />
+    <meta
+      content="https://worldoftech.dev/media"
+      property="og:url"
+    />
+    <meta
+      content="WorldOfTech"
+      property="og:site_name"
+    />
+    <meta
+      content="summary_large_image"
+      name="twitter:card"
+    />
+    <meta
+      content="Media"
+      name="twitter:title"
+    />
+    <meta
+      content="Elite streaming, download, and media management platforms."
+      name="twitter:description"
+    />
+    <meta
+      content="https://worldoftech.dev/og-image.png"
+      name="twitter:image"
+    />
+    <meta
+      content="@worldoftech"
+      name="twitter:creator"
+    />
+    <script
+      type="application/ld+json"
+    >
+      {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://worldoftech.dev"},{"@type":"ListItem","position":2,"name":"Media","item":"https://worldoftech.dev/media"}]}
+    </script>
     <div
       class="chakra-container css-1a9hjhw"
     >

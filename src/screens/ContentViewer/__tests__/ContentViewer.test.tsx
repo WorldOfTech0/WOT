@@ -3,17 +3,20 @@ import { render } from '@testing-library/react';
 import { MemoryRouter, Route, Routes } from 'react-router-dom';
 import { ChakraProvider } from '@chakra-ui/react';
 import { system } from '@components';
+import { HelmetProvider } from 'react-helmet-async';
 
 describe('ContentViewer', () => {
   const renderWithParams = (categoryId: string, subcategoryId: string) => {
     return render(
-      <ChakraProvider value={system}>
-        <MemoryRouter initialEntries={[`/${categoryId}/${subcategoryId}`]}>
-          <Routes>
-            <Route path="/:category/:subcategory" element={<ContentViewer />} />
-          </Routes>
-        </MemoryRouter>
-      </ChakraProvider>,
+      <HelmetProvider>
+        <ChakraProvider value={system}>
+          <MemoryRouter initialEntries={[`/${categoryId}/${subcategoryId}`]}>
+            <Routes>
+              <Route path="/:category/:subcategory" element={<ContentViewer />} />
+            </Routes>
+          </MemoryRouter>
+        </ChakraProvider>
+      </HelmetProvider>,
     );
   };
 

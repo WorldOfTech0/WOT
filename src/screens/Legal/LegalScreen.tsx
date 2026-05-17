@@ -1,6 +1,7 @@
 import { Box, Container, Heading, Text, VStack } from '@chakra-ui/react';
 import { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
+import { SEO } from '@components';
 
 interface LegalSection {
   title: string;
@@ -22,8 +23,18 @@ const LegalScreen = ({ translationKey }: LegalScreenProps) => {
     returnObjects: true,
   }) as LegalSection[];
 
+  const pageTitle = t(`Legal.${translationKey}.title`);
+  const pageDescription = t(`Legal.${translationKey}.introduction`);
+  const pagePath = translationKey === 'Privacy' ? '/privacy' : '/terms';
+
   return (
     <Box minH="calc(100vh - 120px)" py={24}>
+      <SEO
+        title={pageTitle}
+        description={pageDescription}
+        canonicalUrl={pagePath}
+        robots="noindex, follow"
+      />
       <Container maxW="container.lg">
         <VStack align="start" gap={16}>
           <VStack align="start" gap={6} maxW="3xl">

@@ -12,6 +12,7 @@ import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 import { useState } from 'react';
 import { CATEGORIES } from '../../data/categories/categories';
+import SEO from '../SEO/SEO';
 
 interface CategoryLayoutProps {
   categoryId: string;
@@ -24,8 +25,36 @@ const CategoryLayout = ({ categoryId }: CategoryLayoutProps) => {
 
   if (!category) return null;
 
+  const categoryTitle = t(category.navKey);
+  const categoryDescription = t(category.subtitleKey);
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    'itemListElement': [
+      {
+        '@type': 'ListItem',
+        'position': 1,
+        'name': 'Home',
+        'item': 'https://worldoftech.dev',
+      },
+      {
+        '@type': 'ListItem',
+        'position': 2,
+        'name': categoryTitle,
+        'item': `https://worldoftech.dev/${categoryId}`,
+      },
+    ],
+  };
+
   return (
     <Box minH="calc(100vh - 120px)" py={8}>
+      <SEO
+        title={categoryTitle}
+        description={categoryDescription}
+        canonicalUrl={`/${categoryId}`}
+        schema={breadcrumbSchema}
+      />
       <Container maxW="container.xl">
         <VStack align="start" gap={12}>
           <Flex

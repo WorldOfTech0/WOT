@@ -5,6 +5,69 @@ exports[`TermsOfService should render correctly 1`] = `
   <div
     class="css-1688h3j"
   >
+    <title>
+      Terms of Service | WorldOfTech
+    </title>
+    <meta
+      content="By accessing or using WorldOfTech, you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site."
+      name="description"
+    />
+    <meta
+      content="technology, tools, developer tools, system utilities, media streaming, ai resources, learning"
+      name="keywords"
+    />
+    <meta
+      content="noindex, follow"
+      name="robots"
+    />
+    <link
+      href="https://worldoftech.dev/terms"
+      rel="canonical"
+    />
+    <meta
+      content="website"
+      property="og:type"
+    />
+    <meta
+      content="Terms of Service"
+      property="og:title"
+    />
+    <meta
+      content="By accessing or using WorldOfTech, you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site."
+      property="og:description"
+    />
+    <meta
+      content="https://worldoftech.dev/og-image.png"
+      property="og:image"
+    />
+    <meta
+      content="https://worldoftech.dev/terms"
+      property="og:url"
+    />
+    <meta
+      content="WorldOfTech"
+      property="og:site_name"
+    />
+    <meta
+      content="summary_large_image"
+      name="twitter:card"
+    />
+    <meta
+      content="Terms of Service"
+      name="twitter:title"
+    />
+    <meta
+      content="By accessing or using WorldOfTech, you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site."
+      name="twitter:description"
+    />
+    <meta
+      content="https://worldoftech.dev/og-image.png"
+      name="twitter:image"
+    />
+    <meta
+      content="@worldoftech"
+      name="twitter:creator"
+    />
     <div
       class="chakra-container css-r8xdkh"
     >

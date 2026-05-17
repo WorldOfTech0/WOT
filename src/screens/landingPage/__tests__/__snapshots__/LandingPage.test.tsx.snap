@@ -5,6 +5,74 @@ exports[`LandingPage should render correctly 1`] = `
   <div
     class="css-lfxbxi"
   >
+    <title>
+      WorldOfTech | Curated Technology Directory
+    </title>
+    <meta
+      content="The premium curated directory for tech resources, documentation, guides, and tools."
+      name="description"
+    />
+    <meta
+      content="technology, tools, developer tools, system utilities, media streaming, ai resources, learning"
+      name="keywords"
+    />
+    <meta
+      content="index, follow"
+      name="robots"
+    />
+    <link
+      href="https://worldoftech.dev/"
+      rel="canonical"
+    />
+    <meta
+      content="website"
+      property="og:type"
+    />
+    <meta
+      content="WorldOfTech | Curated Technology Directory"
+      property="og:title"
+    />
+    <meta
+      content="The premium curated directory for tech resources, documentation, guides, and tools."
+      property="og:description"
+    />
+    <meta
+      content="https://worldoftech.dev/og-image.png"
+      property="og:image"
+    />
+    <meta
+      content="https://worldoftech.dev/"
+      property="og:url"
+    />
+    <meta
+      content="WorldOfTech"
+      property="og:site_name"
+    />
+    <meta
+      content="summary_large_image"
+      name="twitter:card"
+    />
+    <meta
+      content="WorldOfTech | Curated Technology Directory"
+      name="twitter:title"
+    />
+    <meta
+      content="The premium curated directory for tech resources, documentation, guides, and tools."
+      name="twitter:description"
+    />
+    <meta
+      content="https://worldoftech.dev/og-image.png"
+      name="twitter:image"
+    />
+    <meta
+      content="@worldoftech"
+      name="twitter:creator"
+    />
+    <script
+      type="application/ld+json"
+    >
+      {"@context":"https://schema.org","@type":"WebSite","name":"WorldOfTech","url":"https://worldoftech.dev","description":"The premium curated directory for tech resources, documentation, guides, and tools."}
+    </script>
     <section
       class="css-w5tu5c"
     >
