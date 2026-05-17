@@ -19,20 +19,20 @@
 - [Akiba-Online](https://www.akiba-online.com/) - Video / Audio / Comics / NSFW / 1080p
 - [JPop Singles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
 - [Doujin Cafe (Discord)](https://discord.gg/doujincafe) - Music / MP3 / FLAC
-- [Doujin Music](https://rentry.co/FMHYB64#doujin-music) - Music / MP3
+- [Doujin Music](https://rentry.co/gt8yat2y#doujin-music) - Music / MP3
 - [DoujinStyle](https://doujinstyle.com/) - Music / MP3 / FLAC
 - [J-pop Music Download](https://jpop.xyz/) - Music / MP3 / FLAC
 - [Perfect Dark](https://perfectdark.benri-tool.net/) - P2P App
 
 ## ▷ Streaming / ストリーミング
 
-- ↪️ **[Anime Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_streaming)** - Anime Streaming Sites
+- ↪️ **[Anime Streaming](../media/streaming#-anime-streaming)** - Anime Streaming Sites
 - [sudatchi](https://sudatchi.com/) - Anime
 - [NicoVideo](https://www.nicovideo.jp/) - Japanese YouTube Alternative / [Desktop](https://github.com/tor4kichi/Hohoema)
 - [JP-Films](https://jp-films.com/) - Classic Japanese Movies / TV / 1080p
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
 - [Abema](https://abema.tv/) - Live TV
-- [iptv-jp](https://rentry.co/fmhyb64#iptv-playlists) - Japanese IPTV Resources
+- [iptv-jp](https://rentry.co/gt8yat2y#iptv-playlists) - Japanese IPTV Resources
 - [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Movie Archive
 - [SimulRadio](https://simulradio.info/) - Radio
 - [Kagakueizo](https://www.kagakueizo.org/) - Science Documentaries

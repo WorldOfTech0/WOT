@@ -37,12 +37,11 @@
 
 ## ▷ Great Firewall
 
-- **Note** - Keep in mind some VPNs claiming to bypass GFW are made by Chinese agencies as a way to get user info. We recommend avoiding any generic ones, and sticking to ones listed in the [VPN section](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn).
+- **Note** - Keep in mind some VPNs claiming to bypass GFW are made by Chinese agencies as a way to get user info. We recommend avoiding any generic ones, and sticking to ones listed in the [VPN section](../privacy-security/vpn).
 
 ---
 
-- ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
-- ⭐ **[Censorship Bypass Guide](https://cbg.fmhy.bid/)** or [Censorship Bypass](https://rentry.co/chinese-censorship-bypass-guide) - Censorship Bypass Guide
+- ↪️ **[Anti-Censorship Tools](../privacy-security/proxy#-anti-censorship)** / **[Proxy Tools](../privacy-security/proxy#-proxy-clients)**
 - [gfwlist](https://github.com/gfwlist/gfwlist) - Blocked Sites List
 - [r/dumbclub](https://www.reddit.com/r/dumbclub/) - GFW Discussion
 - [gfw.report](https://gfw.report/) - GFW Information
@@ -90,7 +89,7 @@
 - 🌐 **[Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Sites Index
 - 🌐 **[klyingshi](https://klyingshi.com/)** - Chinese Streaming Sites Index
 - ⭐ **[555dy](https://577938.vip/)** - Movies / TV / Anime / NSFW / Sub / 1080p
-- ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25BA_bilibili_tools)
+- ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) / [Resources / Tools](../social-tools/bilibili-twitch#-bilibili-tools)
 - [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
 - [MoMoVOD](https://momovod.app/) - Movies / TV / Anime / Sub / 1080p
 - [VidHub](https://vidhub.me/) - Movies / TV / Anime / Sub / 1080p
@@ -163,7 +162,7 @@
 
 ## ▷ Light Novels
 
-- [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+- [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use [Adblock](../privacy-security/adblocking)
 - [kanunu8](https://www.kanunu8.com/) - Light-Novels
 - [hetushu](https://hetushu.com/) - Light-Novels
 - [Zongheng](https://www.zongheng.com/) - Light-Novels

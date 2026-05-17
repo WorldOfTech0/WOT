@@ -11,7 +11,7 @@
 
 ## ▷ Russian Anti-Censorship
 
-- ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
+- ↪️ **[Anti-Censorship Tools](../privacy-security/proxy#-anti-censorship)** / **[Proxy Tools](../privacy-security/proxy)**
 - [⁠VPN Traffic Light](https://vpn.maximkatz.com/) - Russian VPN Status'
 - [rks_org_Bot](https://t.me/rks_org_bot) or [protocol_vpn](https://t.me/protocol_vpn) - Censorship Discussion Telegrams
 - [⁠EtoNeYa](https://tseya.a9fm.site/), [wl](https://github.com/zieng2/wl) or [⁠LowiK](https://lowik.gitverse.site/lowik/) - Mobile Network Censorship Bypass
@@ -27,7 +27,7 @@
 
 - 🌐 **[toptracker](https://toptracker.ru/)** - Torrent Site List
 - 🌐 **[UpTracker](https://www.uptracker.ru/)** - Torrent Tracker Index
-- ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Requires VPN / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+- ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Requires VPN / [Tools](/downloading/torrent-sites)
 - [UZTracker](https://uztracker.net/) - Video / Audio / Books
 - [krasfs](https://krasfs.ru/) or [torrent.by](https://torrent.by/) - Torrent Search
 - [rutor](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines

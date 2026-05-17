@@ -1,13 +1,4 @@
----
----
-
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-
----
-
----
-
-- **Note** - Use this section for media (movies, music, books). For installing software, games, or APKs, use the English sections unless the source is highly trusted (e.g., m0nkrus). Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked.
+- **Note** - Use this section for media (movies, music, books). For installing software, games, or APKs, use the English sections unless the source is highly trusted (e.g., m0nkrus). Try a [VPN](../privacy-security/vpn#-vpn) if sites are blocked.
 
 ---
 
@@ -35,7 +26,7 @@
 ## ▷ Streaming / البث
 
 - ⭐ **[Cimaleek](https://cimaleek.ws/)** - Movies / TV
-- ⭐ **[FaselHD](https://www.faselhds.biz/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+- ⭐ **[FaselHD](https://www.faselhds.biz/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](../privacy-security/adblocking)
 - ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p
 - [ArabLionz](https://arlionztv.ink/) - Movies / TV / Sub / 1080p
 - [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p
