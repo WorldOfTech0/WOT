@@ -32,10 +32,10 @@
 - [MuseBootlegs](https://www.musebootlegs.com/) - Bootleg Concert Recordings / Torrents
 - [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
 - [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
-- [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Livesets
+- [GOA PsyTrance Livesets](https://rentry.co/gt8yat2y#goa-psytrance-livesets) - DJ Livesets
 - [⁠BassBlog](https://bassblog.pro/) - DJ Mixes / Streaming
 - [⁠TestPressing](https://www.testpressing.org/) - Rare DJ Mixes / Streaming
-- [Rave Recording](https://rentry.co/FMHYB64#rave-library) - Rave Recordings / Archive
+- [Rave Recording](https://rentry.co/gt8yat2y#rave-library) - Rave Recordings / Archive
 - [Volume](https://volume.com/) - Live Cam Concerts
 - [ConcertArchives](https://www.concertarchives.org/) or [⁠EntertainMe](https://www.entertainme.fun/) - Concert Tracking / Database
 - [SongKick](https://www.songkick.com/), [ConcertArchives](https://www.concertarchives.org/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
@@ -45,7 +45,7 @@
 - [ToolDriveProject](https://tooldriveproject.net/) - Tool Live Archive
 - [RATM.live](https://ratm.live/) - Rage Against the Machine Live Archive
 - [RHCPLiveArchive](https://www.rhcplivearchive.com/) - Red Hot Chili Peppers Live Archive
-- [Radio Nowhere](https://rentry.co/FMHYB64#radio-nowhere) - Bruce Springsteen Concerts / Bootlegs
+- [Radio Nowhere](https://rentry.co/gt8yat2y#radio-nowhere) - Bruce Springsteen Concerts / Bootlegs
 - [Phish.in](https://phish.in/) - Phish Live Archive / [Mobile](https://play.google.com/store/apps/details?id=never.ending.splendor) / [Discord](https://discord.gg/KZWFsNN)
 - [setlist.fm](https://www.setlist.fm/) - Setlist Database
 
@@ -53,7 +53,7 @@
 
 ## ▷ Podcast Streaming
 
-- ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
+- ↪️ **[Android](../mobile/android-apks#-android-apks) / [iOS](../mobile/ios-tools#-ios-tools)** - Podcast / Radio Apps
 - ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [SponsorBlock](https://spotsponsorblock.org/), [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension) / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast) / [Audio Download](https://rentry.co/dlspotifypodcast)
 - ⭐ **[Pocket Casts](https://play.pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
 - [⁠PodcastToMP3](https://podcasttomp3.com/) - Podcast Downloads / Search
@@ -81,7 +81,7 @@
 
 ## ▷ Ambient / Relaxation
 
-- ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_relaxation)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_ios_relaxation)** - Ambient / Relaxation Mobile Apps
+- ↪️ **[Android](../mobile/android-audio#-android-relaxation)** / **[iOS](../mobile/ios-audio#-ios-relaxation)** - Ambient / Relaxation Mobile Apps
 - ⭐ **[Drone Zone](https://somafm.com/player/#/now-playing/dronezone)** or **[Music For Programming](https://musicforprogramming.net/latest/)** - Ambient Playlists
 - ⭐ **[myNoise](https://mynoise.net/)** - Customizable Ambient Sound Mixer
 - ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain

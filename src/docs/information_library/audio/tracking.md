@@ -1,7 +1,7 @@
 # ► Tracking / Databases
 
 - ⭐ **[RateYourMusic](https://rateyourmusic.com/)** - Ratings / Reviews / [Add Features](https://rateyourmusic.com/list/kknq/evenbetterrym-browser-extension/) / [Forum](https://rym.fm/)
-- ⭐ **[Last.fm](https://www.last.fm/home)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_last.fm_tools), [Libre.fm](https://libre.fm/) or [ListenBrainz](https://listenbrainz.org/) - Track Listening Habits / Songs
+- ⭐ **[Last.fm](https://www.last.fm/home)** / [Tools](../audio/tracking#-last-fm-tools), [Libre.fm](https://libre.fm/) or [ListenBrainz](https://listenbrainz.org/) - Track Listening Habits / Songs
 - ⭐ **[Muspy](https://muspy.com/)**, [⁠Midloop](https://midloop.net/) / [Discord](https://discord.gg/AvUxR59Yv5), [Drop Watch](https://drop-watch.ghost.io/), [MusicButler](https://www.musicbutler.io/) or [Brew.fm](https://www.brew.fm/) - Get Album Release Updates
 - ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV Shows
 - ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Set Database
@@ -79,7 +79,7 @@
 
 ---
 
-## ▷ Last.fm Tools
+## ▷ Last FM Tools
 
 - 🌐 **[Awesome Last.fm](https://github.com/jnguyen1098/awesome-lastfm)** or [Last.fm Tool List](https://redd.it/1h8ec76) - Last.fm Tool Indexes
 - ⭐ **[⁠bleh](https://bleh.katelyn.moe/)** - Last.fm Customization Script / [GitHub](https://github.com/katelyynn/bleh)
