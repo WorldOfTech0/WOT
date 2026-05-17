@@ -1,7 +1,6 @@
 # ► Tracking / Databases
 
 - ⭐ **[Simkl](https://simkl.com/)** - TV / Anime / Movies / [Apps](https://simkl.com/apps/) / [Import Tools](https://simkl.com/apps/import/)
-- ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_letterboxd_tools)
 - ⭐ **[ICheckMovies](https://www.icheckmovies.com/)** - Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)
 - ⭐ **[RatS](https://github.com/StegSchreck/RatS)** - Transfer Ratings between Services
 - ⭐ **[serializd](https://www.serializd.com/)** - TV / Anime / [Discord](https://discord.com/invite/xNt4CNG7jK)
@@ -11,7 +10,7 @@
 - [Rotten Tomatoes](https://www.rottentomatoes.com/) - Movies / TV / [Add to Sites](https://greasyfork.org/en/scripts/35443) / [Add to IMDb](https://greasyfork.org/en/scripts/15222)
 - [⁠Kinorium](https://en.kinorium.com/) - Movies / TV / Anime
 - [TMDb](https://www.themoviedb.org/) - Movies / TV / Anime
-- [Trakt](https://trakt.tv/) - TV / Anime / Movies / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_trakt_tools)
+- [Trakt](https://trakt.tv/) - TV / Anime / Movies / [Tools](http://localhost:3000/uncategorised/media-database-site-tools#trakt-tools)
 - [Movieo](https://movieo.me/) - Movies / TV / Anime
 - [AllMovie](https://www.allmovie.com/) - Movies / TV / Anime
 - [Box Office Mojo](https://www.boxofficemojo.com/) - Box Office Earnings
@@ -33,8 +32,8 @@
 
 ## ▷ Anime Tracking / Databases
 
-- ⭐ **[MAL](https://myanimelist.net/)** - Anime Ratings / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools) / [Discord](https://discord.com/invite/myanimelist)
-- ⭐ **[AniList](https://anilist.co/)** - Anime Ratings / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anilist_tools) / [Discord](https://discord.com/invite/TF428cr)
+- ⭐ **[MAL](https://myanimelist.net/)** - Anime Ratings / Reviews / [Tools](http://localhost:3000/uncategorised/media-database-site-tools#myanimelist-tools) / [Discord](https://discord.com/invite/myanimelist)
+- ⭐ **[AniList](https://anilist.co/)** - Anime Ratings / Reviews / [Tools](../media/media-tracking#-anime-tracking--databases) / [Discord](https://discord.com/invite/TF428cr)
 - [Taiga](https://taiga.moe/) - Anime Tracking Program
 - [Anime-Planet](https://www.anime-planet.com/) - Anime
 - [Kitsu](https://kitsu.io/) - Anime

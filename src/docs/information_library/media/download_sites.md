@@ -1,19 +1,19 @@
 # ► Download Sites
 
-- **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
+- **Note** - Use **[redirect bypassers](../internet-tools/url#-redirect-bypass)** to skip link shorteners.
 
 ---
 
-- ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
-- ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-- ⭐ **[111477](https://rentry.co/FMHYB64#directory-111477)** - Movies / TV / Anime / Directory / [Discord](https://discord.gg/YjkP4pANpg)
-- ⭐ **[Scloud](https://rentry.co/FMHYB64#sc)** - Movies / TV / 4K / Use Adblocker + [Linkbypasser](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass) / [Telegram](https://t.me/scloudmediahub)
-- ⭐ **[Acer Movies](https://rentry.co/FMHYB64#acer)** - Movies / TV / Anime / [Discord](https://discord.com/invite/hpkMqrwRCE)
+- ↪️ **[General DDL Sites](../downloading/dl-sites)**
+- ↪️ **[Video Download Tools](../video-tools/download)**
+- ⭐ **[111477](https://rentry.co/gt8yat2y#directory-111477)** - Movies / TV / Anime / Directory / [Discord](https://discord.gg/YjkP4pANpg)
+- ⭐ **[Scloud](https://rentry.co/gt8yat2y#sc)** - Movies / TV / 4K / Use Adblocker + [Linkbypasser](../internet-tools/url#-redirect-bypass) / [Telegram](https://t.me/scloudmediahub)
+- ⭐ **[Acer Movies](https://rentry.co/gt8yat2y#acer)** - Movies / TV / Anime / [Discord](https://discord.com/invite/hpkMqrwRCE)
 - ⭐ **[VegaMovies](https://vegamovies.market/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 4K / [Telegram](https://telegram.dog/vega_officials)
 - ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Ad-Bypass (Must Have)](https://greasyfork.org/en/scripts/443277) / [Discord](https://discord.gg/4AvaCsd2J4)
 - ⭐ **[DDLBase](https://ddlbase.com/)** - Movies / TV / 4K / 3D / Remuxes / [Use Bypass](https://pixeldrain-bypass.gamedrive.org/)
 - ⭐ **[⁠XDMovies](https://top.xdmovies.wtf/)** - Movies / TV / 4K / [Discord](https://discord.com/invite/Py5KKx28Bx)
-- ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / [Sign-Up Code (Important)](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movieparadise-code.md)
+- ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV
 - ⭐ **[Rive](https://www.rivestream.app/)**, [2](https://rivestream.ru/), [3](https://rivestream.top/) or [CorsFlix](https://watch.corsflix.net), [2](https://watch.corsflix.dpdns.org/), [3](https://corsflix.net) - Movies / TV / Anime / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 - ⭐ **[1Shows](https://www.1shows.org/)** - Movies / TV / Anime / [Discord](https://discord.gg/the-one)
 - ⭐ **[VidBox](https://vidbox.cc/)** - Movies / TV / Anime / [Discord](https://discord.gg/VGQKGPM9Ej)
@@ -21,23 +21,23 @@
 - ⭐ **[MKVDrama](https://mkvdrama.net/)** - Asian Drama
 - [PlayTorrio](https://playtorrio.xyz/) - Multi-Site Downloader / Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 - [GoatAPI Downloader](https://goatapi.imreallydagoatt.workers.dev/download) - Movies / TV
-- [LightDLMovies](https://rentry.co/FMHYB64#lightdl) - Movies / TV / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-- [Vadapav](https://rentry.co/FMHYB64#vadapav) - Movies / TV
+- [LightDLMovies](https://rentry.co/gt8yat2y#lightdl) - Movies / TV / Use [Adblock](../privacy-security/adblocking)
+- [Vadapav](https://rentry.co/gt8yat2y#vadapav) - Movies / TV
 - [⁠Medeberiya](https://medeberiya.net/) - Movie / TV
 - [Downloader2](https://downloader2.com/) - Movies / TV / Anime
-- [Ripper's Archive](https://rentry.co/FMHYB64#rippers-archive) - Movies / TV / Anime
+- [Ripper's Archive](https://rentry.co/gt8yat2y#rippers-archive) - Movies / TV / Anime
 - [ShuttleTV](https://shuttletv.su/) - Movies / TV / Anime / [Discord](https://discord.gg/wsPmVB7ZJZ)
-- [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / 4K / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)
+- [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / 4K / Use [Throwaway Gmail](../internet-tools/email#-temp-mail)
 - [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime
 - [⁠HindMoviez](https://hindmoviez.cafe/) - Movies / TV / Anime
 - [CineBolt](https://cinebolt.net/) - Movies / TV / Anime
-- [Sinflix](https://rentry.co/FMHYB64#sinflix) - Asian Drama
-- [DramaSuki](https://rentry.co/FMHYB64#dramasuki) - Asian Drama
+- [Sinflix](https://rentry.co/gt8yat2y#sinflix) - Asian Drama
+- [DramaSuki](https://rentry.co/gt8yat2y#dramasuki) - Asian Drama
 - [KimoiTV](https://kimoitv.com/) - Asian Drama
-- [OlaMovies](https://olamovies.dad/) - Movies / TV / 4K / Requires Google Account / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
+- [OlaMovies](https://olamovies.dad/) - Movies / TV / 4K / Requires Google Account / Use [Adblock](../privacy-security/adblocking) / [Requests](https://space.olamovies.dad/)
 - [PSArips](https://psa.wf/) - Movies / TV / 4K
 - [KiraStreams](https://kirastreamsv3.vercel.app/) - Movies / TV / Anime
-- [isaiDub](https://rentry.co/FMHYB64#isaidub) - Movies / TV / 720p
+- [isaiDub](https://rentry.co/gt8yat2y#isaidub) - Movies / TV / 720p
 - [TVSeries](https://www.tvseries.in/) - TV / Anime
 - [Vyla](https://vyla.pages.dev/) - Movies / TV / Anime / [Discord](https://discord.com/invite/5eqRhKeywG)
 - [Cinetaro](https://cinetaro.tv/) - Movies / TV / Anime / [Discord](https://discord.com/invite/4yGUxdz3h9)
@@ -75,7 +75,7 @@
 - [TVSBoy](https://tvsboy.com/) - TV / 720p
 - [TodayTVSeries](https://www.todaytvseries6.com/) - TV / 1080p
 - [⁠MP4Moviez](https://www.mp4moviez.talk/) or [HDMoviez](https://www.hdmoviez.name/) - Movies / TV
-- [GoDrivePlayer](https://godriveplayer.com/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+- [GoDrivePlayer](https://godriveplayer.com/) - Movies / TV / Anime / Use [Adblock](../privacy-security/adblocking)
 - [TvShows4Mobile](https://tvshows4mobile.org/) - TV / Anime / 480p / [Telegram](https://t.me/o2tvseries_new)
 - [Naijavault](https://www.naijavault.com/) - Movies / TV / 480p
 - [Waploaded](https://films.waploaded.com/movie) - Movies / TV / 480p
@@ -86,7 +86,7 @@
 - [RareDoramas](https://www.raredoramas.com/) - Rare JDrama / 480p
 - [Toku.fun](https://toku.fun/) - Japanese Superhero Movies / 360p
 - [Fanedit.org](https://fanedit.org/) or [FEC Database](https://docs.google.com/spreadsheets/d/18X0QzR904z94NZd7RXOaCuIa117fF0jnEmd7smmj7D0/) - Fanedits / DM Editors for Downloads
-- [HDEncode](https://hdencode.org/) / [Improvement Script](https://github.com/mikeymuis/hdencode-filter-suite), [RapidMoviez](https://rmz.cr/) / [Mirrors](https://rmzmirrors.com/) or [rlsDB](https://rlsdb.com/) - Movie & TV DDL Forums / Requires [Debrid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)
+- [HDEncode](https://hdencode.org/) / [Improvement Script](https://github.com/mikeymuis/hdencode-filter-suite), [RapidMoviez](https://rmz.cr/) / [Mirrors](https://rmzmirrors.com/) or [rlsDB](https://rlsdb.com/) - Movie & TV DDL Forums / Requires [Debrid](../downloading/debrid)
 - [mov-cli](https://mov-cli.github.io/) - Downloading CLI / [Plugins](https://github.com/topics/mov-cli-plugin) / [Discord](https://discord.gg/BMzC7ePsBV) / [GitHub](https://github.com/mov-cli/mov-cli)
 - [Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr) / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 
@@ -103,7 +103,7 @@
 
 ## ▷ Anime Downloading
 
-- **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
+- **Note** - Use **[redirect bypassers](../internet-tools/url#-redirect-bypass)** to skip link shorteners.
 
 ---
 
@@ -134,6 +134,6 @@
 
 ---
 
-## ▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)
+## ▷ [Educational Downloading](../educational/courses#-downloading)
 
 ---
