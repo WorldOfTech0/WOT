@@ -36,7 +36,7 @@
 
 ## ▷ Rubiks Cube
 
-- ↪️ **[Cubing Practice / Training](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_rubiks_cube)**
+- ↪️ **[Cubing Practice / Training](../educational/skills-diy#-rubiks-cube)**
 - ⭐ **[Grubiks](https://grubiks.com/)** or **[Rubikverse](https://rubikverse.com/)** - Multi-Cube Types Simulators
 - ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)** - 3x3 Cube Simulator
 - [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) - Multi-Cube Types App / Windows
@@ -112,7 +112,7 @@
 
 - 🌐 **[BoardGameGeek](https://boardgamegeek.com/)**, **[RPGGeek](https://rpggeek.com/)**, **[⁠EntertainMe](https://www.entertainme.fun/)**, **[Online Board Games](https://drive.google.com/file/d/1NO-05LM-SakbwqNajBXgIO4HuCSkBd6n/view)** or **[Kallax](https://kallax.io/)** - Board Game / TTRPG Databases
 - 🌐 **[Pub Meeple](https://www.pubmeeple.com/rankings)** - Community Board Game Rankings
-- ↪️ **[Tabletop Tools & Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_tabletop_tools)**
+- ↪️ **[Tabletop Tools & Resources](../gaming-tools/genre-specific#-tabletop-tools)**
 - ⭐ **[Roll20](https://roll20.net/)** / [Discord](https://discord.gg/roll20) or [Rolisteam](https://rolisteam.org/) / [Discord](https://discord.gg/MrMrQwX) - Online Virtual Tabletop Platforms
 - [⁠BoardGameplay](https://boardgameplay.com/) - Online Board Games / [Discord](https://discord.gg/EC5ZvQa7M5)
 - [FlyOrDie](https://www.flyordie.com/) - Online Board Games
@@ -141,7 +141,7 @@
 
 ## ▷ Chess
 
-- ↪️ **[Chess Learning / Practice](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_chess)**
+- ↪️ **[Chess Learning / Practice](../educational/skills-diy#-chess)**
 - ⭐ **[lichess](https://lichess.org/)** - Chess Platform / [Discord](https://discord.com/invite/lichess) / [GitHub](https://github.com/lichess-org)
 - ⭐ **lichess Tools** - [Mobile Apps](https://lichess.org/mobile) / [Prettier UI](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extra Functionality](https://lichess.org/page/extend)
 - ⭐ **[Print Chess](https://www.printchess.com/)** - Printable Paper Chess Set
@@ -161,7 +161,7 @@
 
 ## ▷ Card Games
 
-- ↪️ **[Tabletop Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_tabletop_tools)**
+- ↪️ **[Tabletop Tools](../gaming-tools/genre-specific#-tabletop-tools)**
 - ⭐ **[World of Card Games](https://worldofcardgames.com/)** - Multiplayer Card Games
 - ⭐ **[Codenames](https://codenames.game/)** - Party Card Game
 - [OCTGN](https://www.octgn.net/) - Virtual Multiplayer Card Games / Tabletop App / [Discord](https://discord.gg/Yn3Jrpj) / [GitHub](https://github.com/octgn/OCTGN)
@@ -177,16 +177,12 @@
 - [gTOONS Remastered](https://gtoons.app/) - Cartoon Network Strategy Card Game / [Discord](https://discord.gg/KM2ggJtkMr)
 - [Picture Cards](https://picturecards.online/) / [Discord](https://discord.gg/kJB4bxSksw), [Bad Cards](https://bad.cards/) or [Pretend You're Xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp) - Online Cards Against Humanity
 - [Cards Against Humanity](https://www.cardsagainsthumanity.com/) - Official CAH Site w/ Free Printable Set
-- [Secret Hitler](https://secret-hitler.online/) - Online Secret Hitler Game / [Ruleset](https://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf) / [GitHub](https://github.com/ShrimpCryptid/Secret-Hitler-Online/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sh-note.md)
+- [Secret Hitler](https://secret-hitler.online/) - Online Secret Hitler Game / [Ruleset](https://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf) / [GitHub](https://github.com/ShrimpCryptid/Secret-Hitler-Online/)
 - [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards Using Wikidata
 - [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/), [Solitaire Owl](https://solitaireowl.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Online Solitaire
 - [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, Mac, Linux / [GitHub](https://github.com/shlomif/PySolFC)
 - [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Online Blackjack
 - [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
-
----
-
-## ▷ [Dungeons & Dragons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_dungeons_.26amp.3B_dragons)
 
 ---
 
