@@ -6,6 +6,6 @@
 
 ---
 
-## ▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)
+## ▷ [Grammar Check](../text-tools/tools#-grammar-check)
 
 ---
