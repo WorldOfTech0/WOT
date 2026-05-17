@@ -1,11 +1,11 @@
 # ► Useful Sites
 
-- ↪️ **[Skills / Hobbies / DIY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA__skills_.2F_hobbies_.2F_diy)**
-- ↪️ **[Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manuals)** - Repair Articles / Manuals
-- ↪️ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_mind_mapping)**
-- ↪️ **[Presentation / Slideshare Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
-- ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
-- ↪️ **[Polling Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites)**
+- ↪️ **[Skills / Hobbies / DIY](../educational/skills-diy)**
+- ↪️ **[Manual Sites](../reading/educational-books#-manuals)** - Repair Articles / Manuals
+- ↪️ **[Mind Mapping](../text-tools/editor#-mind-mapping)**
+- ↪️ **[Presentation / Slideshare Tools](../uncategorised/presentation-tools)**
+- ↪️ **[Data Visualization](../uncategorised/data-visualization-tools)**
+- ↪️ **[Polling Sites](../uncategorised/poll-sites)**
 - ⭐ **[Versus](https://versus.com/)**, [SocialCompare](https://socialcompare.com/en) or [Diffen](https://www.diffen.com/) - Compare Anything
 - ⭐ **[endoflife.date](https://endoflife.date/)** - Tool / Tech End of Life Index
 - ⭐ **[USPS Shipping Supplies](https://store.usps.com/store/results/free-shipping-supplies/_/N-alnx4j)** - Free Shipping Supplies
@@ -76,8 +76,8 @@
 
 - 🌐 **[ProductivePrivacy](https://priductive.com/)** - Privacy-Focused Productivity Apps
 - 🌐 **[Time and Date](https://www.timeanddate.com/)** - Multiple Time Tracking Tools
-- ↪️ **[To-Do Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_to_do_lists)**
-- ↪️ **[Android Productivity / App Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_productivity_.2F_app_blockers)**
+- ↪️ **[To-Do Lists](../text-tools/editor#-to-do-lists)**
+- ↪️ **[Android Productivity / App Blocking](../mobile/android-camera#-android-adblocking)**
 - ⭐ **[Super Productivity](https://super-productivity.com/)** - Time Tracker / Productivity App / To-Do List
 - ⭐ **[Habitica](https://habitica.com/)** - Achievement Style Productivity App / [GitHub](https://github.com/HabitRPG/habitica)
 - [Zoneless](https://zoneless.tools/), [WorldTimeBuddy](https://www.worldtimebuddy.com/) or [EveryTimeZone](https://everytimezone.com/) - Time Zone Visualizers / Comparisons

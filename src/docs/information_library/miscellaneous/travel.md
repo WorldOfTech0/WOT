@@ -1,6 +1,6 @@
 # ► Travel
 
-- ↪️ **[Concerts / Live Shows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
+- ↪️ **[Concerts / Live Shows](../audio/speciality-streaming#-concerts--live-shows)**
 - ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [Mobile](https://app.atlasobscura.com/), [Wikivoyage](https://www.wikivoyage.org) or [WikiTravel](https://wikitravel.org/) - Travel Guides
 - [⁠CozyCozy](https://www.cozycozy.com/) - Compares 100+ Travel Accommodation Sites
 - [⁠Cultural Atlas](https://culturalatlas.sbs.com.au/) - World Culture / Religion Guides

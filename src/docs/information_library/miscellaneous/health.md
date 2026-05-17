@@ -3,7 +3,7 @@
 ## ▷ Mental Health
 
 - 🌐 **[Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
-- ↪️ **[Relaxation / Ambient](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_ambient_.2F_relaxation)**
+- ↪️ **[Relaxation / Ambient](../audio/speciality-streaming#-ambient--relaxation)**
 - ⭐ **[Medito](https://github.com/meditohq/medito-app)** - Meditation App
 - [Health Assessment Tools](https://www.nhs.uk/mental-health/) - General Health Tools
 - [/mental health/](https://rentry.co/mentalhealthy) - Mental Help Tips
@@ -143,7 +143,7 @@
 
 ## ▷ Porn Quitting
 
-- ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
+- ↪️ **[Site Blocking](../miscellaneous/useful-sites#-productivity--time-tracking)**
 - ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) / [Audiobook](https://youtu.be/ZktxO6adTnI) or [QuitPornEasily](https://quitporneasily.com/) - Painlessly Quit Pornography
 - [⁠FreeLife](https://rentry.org/FreeLife) - Porn Blocking Guide
 - [Plucky](https://pluckyfilter.com/) - Content Filter

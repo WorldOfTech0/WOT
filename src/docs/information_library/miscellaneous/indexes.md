@@ -2,8 +2,7 @@
 
 - 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [GitHub Topics](https://github.com/topics/awesome)** / [2](https://github.com/topics/awesome-list) - All Awesome Lists
 - 🌐 **[Lists](https://github.com/jnv/lists)** - List of Lists Index
-- ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
-- ⭐ **[FMHY Search](https://fmhy.net/posts/search)** - Search the Wiki
+- ↪️ **[AI Indexes](../ai/indexes#-indexes)**
 - ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
 - ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
 - ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
@@ -26,7 +25,7 @@
 - [The Hive Index](https://thehiveindex.com/) - Online Communities Index
 - [Gazetteer of Wikis](https://meta.miraheze.org/wiki/Gazetteer_of_wikis), [Wiki Stats](https://wikistats.wmcloud.org/display.php?t=mh) or [WikiDiscover](https://meta.miraheze.org/wiki/Special:WikiDiscover) - Miraheze Wiki Indexes
 - [NetSplit](https://netsplit.de/) - IRC Channel Index
-- [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
+  Content Sites
 - [sourcehut](https://sr.ht/) - Public Project Index
 
 ---

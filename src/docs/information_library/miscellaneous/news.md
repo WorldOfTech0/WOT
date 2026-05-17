@@ -1,8 +1,8 @@
 # ► News
 
 - 🌐 **[AllYouCanRead](https://www.allyoucanread.com/)** - Worldwide News Sites Index
-- ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
-- ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
+- ↪️ **[Newspaper Sites](../reading/special-interest#-newspapers)**
+- ↪️ **[Bypass Article Paywalls](../internet-tools/tools#-paywall-bypass)**
 - ⭐ **[TorrentFreak](https://torrentfreak.com/)** - Piracy News / [Telegram](https://t.me/torrentfreaks)
 - ⭐ **[Current Events Wiki](https://wikipedia.org/wiki/Portal:Current_events)** - Breaking News
 - ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
@@ -14,7 +14,7 @@
 - [Anime Corner](https://animecorner.me/) - Anime / Manga News
 - [ArtDaily](https://artdaily.com) - Art News
 - [Codrops](https://tympanus.net/codrops/) - Design News
-- [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+- [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](../internet-tools/tools#-paywall-bypass) / [Mobile](../mobile/android-apks#-modded-apks) (search)
 - [EventMap](https://rsoe-edis.org/eventMap) - Emergency and Disaster Maps
 - [Interactive News Map](https://usa.liveuamap.com/) - Geolocated News Alerts / Headlines U.S.
 - [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/), [Medicalxpress](https://medicalxpress.com/) or [WebMD](https://www.webmd.com/) - Health News
@@ -57,9 +57,9 @@
 
 ## ▷ Tech News
 
-- ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
+- ↪️ **[Dev / Cybersecurity News](../developer-tools/news#-dev-news)**
 - ⭐ **[⁠GamersNexus](https://gamersnexus.net/)** - PC Gaming News
-- ⭐ **[Hacker News](https://news.ycombinator.com/)** - Tech News / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)
+- ⭐ **[Hacker News](https://news.ycombinator.com/)** - Tech News / [Tools](../miscellaneous/news#-tech-news)
 - [World Monitor](https://tech.worldmonitor.app/) - Real-Time Tech News Aggregator / Monitor / Map / [GitHub](https://github.com/koala73/worldmonitor)
 - [AlternativeTo Aggregator](https://alternativeto.net/news/all/) - Tech News Aggregator
 - [⁠DeadStack](https://deadstack.net/) - Tech / AI News Aggregator
