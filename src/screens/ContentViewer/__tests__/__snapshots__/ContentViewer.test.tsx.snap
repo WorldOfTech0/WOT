@@ -98,10 +98,10 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
     class="css-1115lm6"
   >
     <aside
-      class="css-n8o6i4"
+      class="css-11qsya6"
     >
       <div
-        class="css-2o4hrl"
+        class="css-1ts0ngf"
       >
         <p
           class="css-gvuzmc"
@@ -115,7 +115,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
         </p>
       </div>
       <div
-        class="chakra-stack css-9b4zvf"
+        class="chakra-stack css-11np1li"
       >
         <a
           aria-current="page"
@@ -125,7 +125,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
           style="text-decoration: none;"
         >
           <div
-            class="css-12lb1up"
+            class="css-1amsbtd"
           >
             <span
               class="material-symbols-outlined"
@@ -134,7 +134,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
               play_circle
             </span>
             <p
-              class="css-1hgk9e1"
+              class="css-1jm8lwb"
             >
               Streaming Sites
             </p>
@@ -147,7 +147,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
           style="text-decoration: none;"
         >
           <div
-            class="css-4zl2wt"
+            class="css-7ctwjg"
           >
             <span
               class="material-symbols-outlined"
@@ -156,7 +156,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
               sports_soccer
             </span>
             <p
-              class="css-yvvvpc"
+              class="css-1n4ep0s"
             >
               Live Sports
             </p>
@@ -169,7 +169,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
           style="text-decoration: none;"
         >
           <div
-            class="css-4zl2wt"
+            class="css-7ctwjg"
           >
             <span
               class="material-symbols-outlined"
@@ -178,7 +178,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
               download
             </span>
             <p
-              class="css-yvvvpc"
+              class="css-1n4ep0s"
             >
               Download Sites
             </p>
@@ -191,7 +191,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
           style="text-decoration: none;"
         >
           <div
-            class="css-4zl2wt"
+            class="css-7ctwjg"
           >
             <span
               class="material-symbols-outlined"
@@ -200,7 +200,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
               file_download
             </span>
             <p
-              class="css-yvvvpc"
+              class="css-1n4ep0s"
             >
               Torrent Sites
             </p>
@@ -213,7 +213,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
           style="text-decoration: none;"
         >
           <div
-            class="css-4zl2wt"
+            class="css-7ctwjg"
           >
             <span
               class="material-symbols-outlined"
@@ -222,7 +222,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
               subtitles
             </span>
             <p
-              class="css-yvvvpc"
+              class="css-1n4ep0s"
             >
               Subtitle Tools
             </p>
@@ -235,7 +235,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
           style="text-decoration: none;"
         >
           <div
-            class="css-4zl2wt"
+            class="css-7ctwjg"
           >
             <span
               class="material-symbols-outlined"
@@ -244,7 +244,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
               analytics
             </span>
             <p
-              class="css-yvvvpc"
+              class="css-1n4ep0s"
             >
               Media Tracking
             </p>
@@ -257,7 +257,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
           style="text-decoration: none;"
         >
           <div
-            class="css-4zl2wt"
+            class="css-7ctwjg"
           >
             <span
               class="material-symbols-outlined"
@@ -266,7 +266,7 @@ exports[`ContentViewer should render correctly for streaming subcategory 1`] = `
               more_horiz
             </span>
             <p
-              class="css-yvvvpc"
+              class="css-1n4ep0s"
             >
               Miscellaneous
             </p>

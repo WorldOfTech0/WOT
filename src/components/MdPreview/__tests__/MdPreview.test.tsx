@@ -16,9 +16,9 @@ describe('MdPreview', () => {
 
   it('should add target="_blank" to links on mouse over', () => {
     const { container } = renderWithRouter(
-      <MdPreview mdString={'[Link](https://google.com)'} />
+      <MdPreview mdString={'[Link](https://google.com)'} />,
     );
-    
+
     // We need to simulate the markdown-preview rendering a link
     // Since it's mocked, we have to manually add a link to the container for testing the effect
     const box = container.firstChild as HTMLElement;

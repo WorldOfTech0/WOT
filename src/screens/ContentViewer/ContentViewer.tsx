@@ -63,6 +63,10 @@ const ContentViewer = () => {
             module = await import(
               `../../docs/information_tools/${categoryId}/${subcategory.docName}.md`
             );
+          } else if (category?.section === 'more') {
+            module = await import(
+              `../../docs/more/${categoryId}/${subcategory.docName}.md`
+            );
           }
           const rawContent = module.default;
 

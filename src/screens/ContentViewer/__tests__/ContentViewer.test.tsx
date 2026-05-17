@@ -13,7 +13,7 @@ describe('ContentViewer', () => {
             <Route path="/:category/:subcategory" element={<ContentViewer />} />
           </Routes>
         </MemoryRouter>
-      </ChakraProvider>
+      </ChakraProvider>,
     );
   };
 

@@ -22,16 +22,19 @@ To democratize access to high-quality technical tools by providing a "Gold Stand
 ## 4. Core Features & Modality
 
 ### 4.1 Global Intelligent Search
+
 - **Centralized Engine**: Powered by `Fuse.js` for fuzzy matching.
 - **Modal First**: A dedicated search modality accessible from anywhere in the app via hotkeys or action buttons.
 - **Keyboard Navigation**: Full support for `ArrowUp`, `ArrowDown`, and `Enter` for a power-user experience.
 
 ### 4.2 Resource Discovery
+
 - **Hero Entry**: A stunning, animated landing section focused on immediate intent.
 - **Category Grid**: A high-impact visual grid showcasing the 13 primary tech verticals.
 - **Dynamic Content**: Data-driven subcategories that scale as the free resource ecosystem grows.
 
 ### 4.3 Technical Stack
+
 - **Frontend**: React 18+ with TypeScript 5.x.
 - **State**: Zustand v5 for lightweight, high-performance global state.
 - **Routing**: React Router v7 for seamless client-side navigation.
@@ -45,4 +48,4 @@ To democratize access to high-quality technical tools by providing a "Gold Stand
 
 ---
 
-© 2026 WorldOfTech | *Innovating the Open Web.*
+© 2026 WorldOfTech | _Innovating the Open Web._

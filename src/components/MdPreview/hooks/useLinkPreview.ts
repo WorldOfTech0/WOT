@@ -44,13 +44,13 @@ export const useLinkPreview = () => {
         }
       }, HOVER_DELAY_MS);
     },
-    [clearTimer]
+    [clearTimer],
   );
 
   const handleMouseLeave = useCallback(() => {
     clearTimer();
     currentUrlRef.current = '';
-    setPreview(prev => ({ ...prev, visible: false }));
+    setPreview((prev) => ({ ...prev, visible: false }));
   }, [clearTimer]);
 
   return { preview, handleMouseEnter, handleMouseLeave };

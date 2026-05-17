@@ -27,7 +27,11 @@
   margin-top: 1rem !important;
   padding-bottom: 0.3rem !important;
   border-bottom: 1px solid var(--chakra-colors-outline) !important;
-  background: linear-gradient(to right, var(--chakra-colors-on-surface), var(--chakra-colors-primary)) !important;
+  background: linear-gradient(
+    to right,
+    var(--chakra-colors-on-surface),
+    var(--chakra-colors-primary)
+  ) !important;
   -webkit-background-clip: text !important;
   background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
@@ -98,7 +102,9 @@
   font-size: 1rem !important;
   line-height: 1.5 !important;
   border-radius: 0.6rem !important;
-  transition: background-color 0.2s ease, color 0.2s ease !important;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease !important;
 }
 
 .markdown li:hover {
@@ -196,7 +202,11 @@
   margin: 2.5rem 0 !important;
   padding: 2rem !important;
   border-left: 4px solid var(--chakra-colors-primary) !important;
-  background: linear-gradient(to right, var(--chakra-colors-surface-container), transparent) !important;
+  background: linear-gradient(
+    to right,
+    var(--chakra-colors-surface-container),
+    transparent
+  ) !important;
   border-radius: 0 1.5rem 1.5rem 0 !important;
   font-style: italic !important;
   position: relative;
@@ -236,7 +246,12 @@
   left: 0;
   right: 0;
   height: 2px;
-  background: linear-gradient(to right, transparent, var(--chakra-colors-primary), transparent);
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--chakra-colors-primary),
+    transparent
+  );
   opacity: 0.3;
 }
 
@@ -289,7 +304,12 @@
   margin: 0.5rem 0 !important;
   border: none !important;
   height: 1px !important;
-  background: linear-gradient(to right, transparent, var(--chakra-colors-outline), transparent) !important;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--chakra-colors-outline),
+    transparent
+  ) !important;
 }
 
 /* Responsiveness */
@@ -297,11 +317,11 @@
   .markdown {
     line-height: 1.6;
   }
-  
+
   .markdown blockquote {
     padding: 1.5rem !important;
   }
-  
+
   .markdown table {
     display: block !important;
     overflow-x: auto !important;

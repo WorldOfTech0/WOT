@@ -28,7 +28,11 @@ const ThemeIcon = () => {
           {...ICON_SIZE_STYLE}
         />
       ) : (
-        <WorldOfTechIcon color={'primary'} icon={IconHc.NIGHT} {...ICON_SIZE_STYLE} />
+        <WorldOfTechIcon
+          color={'primary'}
+          icon={IconHc.NIGHT}
+          {...ICON_SIZE_STYLE}
+        />
       )}
     </IconButton>
   );

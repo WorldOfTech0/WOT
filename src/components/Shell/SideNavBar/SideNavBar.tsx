@@ -9,6 +9,7 @@ const SideNavBar = () => {
   const location = useLocation();
   const [isLibraryExpanded, setIsLibraryExpanded] = useState(true);
   const [isToolsExpanded, setIsToolsExpanded] = useState(true);
+  const [isMoreExpanded, setIsMoreExpanded] = useState(true);
 
   const libraryCategories = CATEGORIES.filter(
     (c) => c.section === 'information_library',
@@ -16,6 +17,7 @@ const SideNavBar = () => {
   const toolCategories = CATEGORIES.filter(
     (c) => c.section === 'information_tools',
   );
+  const moreCategories = CATEGORIES.filter((c) => c.section === 'more');
 
   const isSubcategoryRoute = useMemo(() => {
     const segments = location.pathname.split('/').filter(Boolean);
@@ -184,7 +186,7 @@ const SideNavBar = () => {
       w={isSubcategoryRoute ? '16' : '64'}
       position="fixed"
       left={0}
-      top={16}
+      top={12}
       bg="bg"
       backdropFilter="blur(16px)"
       borderRightWidth={1}
@@ -207,7 +209,7 @@ const SideNavBar = () => {
       }}
     >
       {!isSubcategoryRoute && (
-        <Box px={6} mb={6} transition="opacity 0.2s ease" opacity={1}>
+        <Box px={6} mb={2} transition="opacity 0.2s ease" opacity={1}>
           <Text
             fontFamily="mono"
             fontSize="2xs"
@@ -264,6 +266,26 @@ const SideNavBar = () => {
           opacity={isToolsExpanded ? 1 : 0}
         >
           {renderNavItems(toolCategories, libraryCategories.length + 1)}
+        </Box>
+
+        {!isSubcategoryRoute && (
+          <NavSectionHeader
+            title="More"
+            isCollapsible
+            isExpanded={isMoreExpanded}
+            onToggle={() => setIsMoreExpanded(!isMoreExpanded)}
+          />
+        )}
+        <Box
+          overflow="hidden"
+          maxH={isMoreExpanded ? '500px' : '0px'}
+          transition="all 0.5s cubic-bezier(0.4, 0, 0.2, 1)"
+          opacity={isMoreExpanded ? 1 : 0}
+        >
+          {renderNavItems(
+            moreCategories,
+            libraryCategories.length + toolCategories.length + 1,
+          )}
         </Box>
       </Flex>
     </Flex>

@@ -1,6 +1,12 @@
 import { createSystem, defaultConfig, defineConfig } from '@chakra-ui/react';
 import colors from './colors';
-import { breakpoints, fontSize, fontWeight, lineHeight, zIndices } from './fonts';
+import {
+  breakpoints,
+  fontSize,
+  fontWeight,
+  lineHeight,
+  zIndices,
+} from './fonts';
 import '@fontsource-variable/outfit';
 import '@fontsource-variable/inter';
 import '@fontsource-variable/jetbrains-mono';
@@ -154,7 +160,10 @@ const customConfig = defineConfig({
           value: { base: '#8b5cf6', _dark: colors.primary },
         },
         'primaryAlpha.200': {
-          value: { base: 'rgba(139, 92, 246, 0.1)', _dark: 'rgba(139, 92, 246, 0.2)' },
+          value: {
+            base: 'rgba(139, 92, 246, 0.1)',
+            _dark: 'rgba(139, 92, 246, 0.2)',
+          },
         },
         onSurface: {
           value: { base: '#1e293b', _dark: colors.onSurface },

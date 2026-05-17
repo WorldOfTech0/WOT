@@ -7,7 +7,9 @@ describe('FavoritesModal', () => {
   it('should render empty state correctly', () => {
     const { getByText } = renderWithRouter(<FavoritesModal />);
     expect(getByText('Your Favorites')).toBeInTheDocument();
-    expect(getByText('No favorites yet. Start marking resources to see them here!')).toBeInTheDocument();
+    expect(
+      getByText('No favorites yet. Start marking resources to see them here!'),
+    ).toBeInTheDocument();
   });
 
   it('should render favorites list correctly', () => {

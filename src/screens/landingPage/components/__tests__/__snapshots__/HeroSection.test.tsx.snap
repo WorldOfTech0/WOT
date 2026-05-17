@@ -37,7 +37,7 @@ exports[`HeroSection should render correctly 1`] = `
         <p
           class="css-19pl9ou"
         >
-          Beta Version
+          v0.2.0
         </p>
       </div>
     </div>

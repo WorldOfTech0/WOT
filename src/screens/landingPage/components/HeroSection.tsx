@@ -12,6 +12,7 @@ import { motion } from 'framer-motion';
 import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { appStore, ModalID } from '@uiStore';
+import packageJson from '../../../../package.json';
 
 const BackgroundAnimation = () => {
   return (
@@ -159,7 +160,7 @@ const HeroSection = () => {
             letterSpacing="0.2em"
             fontWeight="black"
           >
-            {t('LandingPage.Hero.version')}
+            {t('LandingPage.Hero.version', { version: packageJson.version })}
           </Text>
         </Flex>
       </motion.div>
@@ -181,7 +182,12 @@ const HeroSection = () => {
             color="onSurface"
           >
             {t('LandingPage.Hero.headingMain')} <br />
-            <Text as="span" color="primary" fontSize={{ base: '4xl', md: '8xl' }} opacity={0.7}>
+            <Text
+              as="span"
+              color="primary"
+              fontSize={{ base: '4xl', md: '8xl' }}
+              opacity={0.7}
+            >
               {t('LandingPage.Hero.headingAccent')}
             </Text>
           </Heading>
@@ -275,7 +281,9 @@ const HeroSection = () => {
               onChange={(e) => setSearch(e.target.value)}
               onKeyDown={(e) => {
                 if (e.key === 'Enter') {
-                  appStore.getState().Modal.openModal(ModalID.SEARCH, { searchQuery: search });
+                  appStore
+                    .getState()
+                    .Modal.openModal(ModalID.SEARCH, { searchQuery: search });
                 }
               }}
               _placeholder={{ color: 'onSurfaceVariant', opacity: 0.5 }}
@@ -300,7 +308,9 @@ const HeroSection = () => {
               _active={{ transform: 'scale(0.98)' }}
               transition="all 0.2s"
               onClick={() => {
-                appStore.getState().Modal.openModal(ModalID.SEARCH, { searchQuery: search });
+                appStore
+                  .getState()
+                  .Modal.openModal(ModalID.SEARCH, { searchQuery: search });
               }}
             >
               {t('Common.execute')}

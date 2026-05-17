@@ -2352,6 +2352,105 @@ exports[`CategoryGrid should render correctly 1`] = `
           </div>
         </a>
       </div>
+      <div
+        class="css-1pms3ts"
+        style="opacity: 0; will-change: opacity,transform; transform: scale(0.9);"
+      >
+        <a
+          data-discover="true"
+          href="/uncategorised"
+          style="text-decoration: none; display: block; height: 100%;"
+        >
+          <div
+            class="css-1496l24"
+            role="group"
+          >
+            <div
+              class="css-e7tv5z"
+            />
+            <div
+              class="css-11f8q1m"
+            >
+              <div
+                class="css-cmph9f"
+              >
+                <div
+                  class="css-2wuqlq"
+                >
+                  <div
+                    class="css-1p860i"
+                  >
+                    <span
+                      class="material-symbols-outlined"
+                      style="font-size: 20px;"
+                    >
+                      folder_open
+                    </span>
+                  </div>
+                  <div>
+                    <p
+                      class="css-m2i5yq"
+                    >
+                      Tech Stack
+                    </p>
+                    <p
+                      class="css-1iab9o6"
+                    >
+                      24
+                       
+                      // 
+                       
+                      35
+                       
+                       RESOURCES
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="css-1yqqwe7"
+                >
+                  <h3
+                    class="chakra-heading css-ilvt5x"
+                  >
+                    UNCATEGORISED
+                  </h3>
+                  <p
+                    class="css-wu7933"
+                  >
+                    Curated collections of niche technology resources, developer libraries, and specialized tools.
+                  </p>
+                </div>
+              </div>
+              <div
+                class="css-1xsgqyo"
+              >
+                <div
+                  class="chakra-stack css-1x0y7ph"
+                >
+                  <div
+                    class="css-idhj6b"
+                  />
+                  <p
+                    class="css-v5jli6"
+                  >
+                    / ELITE STACK
+                  </p>
+                </div>
+                <div
+                  class="css-1fj2by5"
+                >
+                  <span
+                    class="material-symbols-outlined"
+                    style="font-size: 24px;"
+                  >
+                    arrow_forward
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
     </div>
   </section>
 </div>

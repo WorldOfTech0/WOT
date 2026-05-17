@@ -2,7 +2,7 @@ const colors = {
   transparent: 'transparent',
   black: '#0a0b0a',
   white: '#f1f1f1',
-  
+
   // WorldOfTech Elite Theme Colors
   background: '#0f0c18',
   onBackground: '#f8fafc',
@@ -17,15 +17,15 @@ const colors = {
   onSurface: '#f8fafc',
   onSurfaceVariant: '#94a3b8',
   outline: '#332e44',
-  
+
   primary: '#8b5cf6',
   onPrimary: '#ffffff',
   primaryContainer: '#a78bfa',
   onPrimaryContainer: '#1e1b4b',
-  
+
   secondary: '#06b6d4',
   onSecondary: '#ffffff',
-  
+
   tertiary: '#f43f5e',
   onTertiary: '#ffffff',
 

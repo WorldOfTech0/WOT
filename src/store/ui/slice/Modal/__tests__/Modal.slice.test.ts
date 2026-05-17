@@ -20,7 +20,9 @@ describe('Modal slice', () => {
     const { result } = renderHook(() => appStore());
 
     act(() => {
-      result.current.Modal.openModal(ModalID.SEARCH, { onModalClose: onModalCloseMock });
+      result.current.Modal.openModal(ModalID.SEARCH, {
+        onModalClose: onModalCloseMock,
+      });
       jest.runAllTimers();
     });
 
@@ -31,7 +33,9 @@ describe('Modal slice', () => {
     const { result } = renderHook(() => appStore());
 
     act(() => {
-      result.current.Modal.openModal(ModalID.SEARCH, { onModalClose: onModalCloseMock });
+      result.current.Modal.openModal(ModalID.SEARCH, {
+        onModalClose: onModalCloseMock,
+      });
     });
 
     expect(result.current.Modal.modalID).toEqual(ModalID.SEARCH);

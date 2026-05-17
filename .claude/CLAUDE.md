@@ -53,4 +53,5 @@ Advanced agent instructions are modularized in the `.claude/skills/` directory.
 - [Tool Preferences](file:///.claude/rules/TOOLS.md) (CLI Usage)
 
 ---
-*Note: Do not modify files in `skills/` or `agents/` unless explicitly requested.*
+
+_Note: Do not modify files in `skills/` or `agents/` unless explicitly requested._
