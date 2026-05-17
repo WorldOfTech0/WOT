@@ -1,7 +1,7 @@
 # ► Download Images
 
 - 🌐 **[designer](https://start.me/p/jj0JAp/designer)** - Image Download Site Indexes
-- ↪️ **[PNG Images / Clipart](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_png_images_.2F_clipart)**
+- ↪️ **[PNG Images / Clipart](../uncategorised/png-images-clipart)**
 - ⭐ **[gallery-dl](https://codeberg.org/mikf/gallery-dl)** / [Discord](https://discord.gg/rSzQwRvGnE), [RipMe](https://github.com/RipMeApp/ripme), [WFDownloader](https://www.wfdownloader.xyz/), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) / [Discord](https://discord.gg/uFNUXvFFmg) or [Image Extractor](https://extract.pics/) - Image Download Tools
 - [same.energy](https://same.energy/) - Visual Search Engine
 - [Dezoomify](https://dezoomify.ophir.dev/) - Download Zoomable Images
@@ -87,8 +87,8 @@
 
 ## ▷ Art / Illustrations
 
-- ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
-- ⭐ **[Kemono](https://kemono.cr/posts?tag=)** - Patreon Content / Some NSFW / [Patreon Redirect](https://sleazyfork.org/en/scripts/483259), [2](https://greasyfork.org/en/scripts/553616) / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+- ↪️ **[Digital Art Collections](../uncategorised/digital-art-collections)**
+- ⭐ **[Kemono](https://kemono.cr/posts?tag=)** - Patreon Content / Some NSFW / [Patreon Redirect](https://sleazyfork.org/en/scripts/483259), [2](https://greasyfork.org/en/scripts/553616) / Use [Adblock](../privacy-security/adblocking)
 - ⭐ **[ArtStation](https://www.artstation.com/)** - User-Made Art / Fanart
 - ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
 - ⭐ **Pixiv Tools** - [Downloader](https://github.com/Nandaka/PixivUtil2), [2](https://github.com/xuejianxianzun/PixivBatchDownloader) / [Rankings](https://pixiv.navirank.com/) / [Official Frontend](https://pixiv.perennialte.ch/) / [Frontend List](https://pixivfe-docs.pages.dev/instance-list/) / [Preview](https://github.com/NightLancer/PixivPreview), [2](https://github.com/ppixiv/ppixiv) / [Android](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md)
@@ -134,13 +134,13 @@
 ## ▷ Download Extensions
 
 - [Download all Images](https://webextension.org/listing/save-images.html) / [GitHub](https://github.com/belaviyo/save-images/)
-- [Cute Save Button](https://github.com/Dezaimasu/cute-button) / [Changing the Save Icon](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cute-save-button-icon.md)
+- [Cute Save Button](https://github.com/Dezaimasu/cute-button)
 - [svgexport](https://svgexport.io/)
 - [SVG Gobbler](https://github.com/rossmoody/svg-gobbler)
 - [Image Picka](https://github.com/eight04/image-picka)
 
 ---
 
-## ▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_wallpapers)
+## ▷ [Wallpapers](http://localhost:3000/system-tools/customization#-wallpapers)
 
 ---

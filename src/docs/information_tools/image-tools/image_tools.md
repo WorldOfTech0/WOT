@@ -2,7 +2,7 @@
 
 - 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art / Animation Resources
 - 🌐 **[Awesome Colab Notebooks](https://github.com/amrzv/awesome-colab-notebooks)** - Image Colab Resources
-- ↪️ **[Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes)**
+- ↪️ **[Color Scheme Tools](../developer-tools/web-tools#-color-schemes)**
 - ⭐ **[ImgOps](https://imgops.com/)** - Image Operations Meta-Tool
 - ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
 - ⭐ **[Slowpoke Pics](https://slow.pics/)**, [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Image Comparisons
@@ -63,7 +63,7 @@
 
 ## ▷ Image Converters
 
-- ↪️ **[File Converter](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_converters)** - Multi-Format Converters
+- ↪️ **[File Converter](../file-tools/tools#-file-converters)** - Multi-Format Converters
 - [RedKetchup](https://redketchup.io/)
 - [Knvrt](https://www.knvrt.one/)
 - [Convertmyimage](https://convert-my-image.com/)
@@ -91,7 +91,7 @@
 
 ## ▷ Image to Text / OCR
 
-- **Note** - Keep in mind most [AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots) have built-in image to text, and in many cases are even more accurate than OCR tools. Note that these can also hallucinate content that may not actually be there.
+- **Note** - Keep in mind most [AI Chatbots](../ai/chatbots) have built-in image to text, and in many cases are even more accurate than OCR tools. Note that these can also hallucinate content that may not actually be there.
 
 ---
 
@@ -150,7 +150,7 @@
 ---
 
 - 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
-- ↪️ **[Android Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_galleries)**
+- ↪️ **[Android Galleries](../mobile/android-camera#-image-galleries)**
 - [Immich](https://immich.app/) / [Storage Server](https://pixelunion.eu/) / [Bulk Uploader](https://github.com/simulot/immich-go) / [GitHub](https://github.com/immich-app/immich)
 - [Damselfly](https://github.com/Webreaper/Damselfly)
 - [HomeGallery](https://home-gallery.org/)
@@ -186,7 +186,7 @@
 - [Ente](https://ente.com/) - Unlimited / 10GB Cloud
 - [Piczel](https://piczel.tv/) - 10MB / Forever / Requires Sign-Up
 - [TurboImageHost](https://www.turboimagehost.com/) - 20MB / Forever
-- [⁠gotohp](https://rentry.co/FMHYB64#gotohp) - Save Morphe Session for Unlimited Google Photo Uploads
+- [⁠gotohp](https://rentry.co/gt8yat2y#gotohp) - Save Morphe Session for Unlimited Google Photo Uploads
 - [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
 - [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/Xentraxx/GooglePhotosTakeoutHelper)
 - [Google Photos EXIF](https://github.com/mattwilson1024/google-photos-exif) - Populate Missing EXIF metadata in Google Photos
@@ -197,7 +197,7 @@
 
 - ⭐ **[ImgBB](https://imgbb.com/)** - 32MB / Forever
 - ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/) / [ShareX Config](https://files.catbox.moe/w4ztcf.sxcu) / [Tools / Extensions](https://catbox.moe/tools.php)
-- [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Requires Sign-Up / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
+- [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Requires Sign-Up / [Tools](../social-tools/tumblr-fediverse#-pixelfed-tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
 - [sxcu.net](https://sxcu.net/) - Free ShareX Uploader Service / 95MB / N/A
 - [FreeImage.Host](https://freeimage.host/) - 64MB (128MB W/ Account) / Forever
 - [imgbox](https://imgbox.com/) - 10MB / Forever
@@ -219,7 +219,7 @@
 
 ## ▷ Screenshot Tools
 
-- ⭐ **[ShareX](https://getsharex.com/)** - Screenshot & Screen Recorder Tool / Windows / [Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_hosts) / [File Manager](https://xbackbone.app/) / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
+- ⭐ **[ShareX](https://getsharex.com/)** - Screenshot & Screen Recorder Tool / Windows / [Image Hosts](../image-tools/tools#-image-hosts) / [File Manager](https://xbackbone.app/) / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
 - ⭐ **[Flameshot](https://flameshot.org/)** / Windows, Mac, Linux / [GitHub](https://github.com/flameshot-org/flameshot)
 - ⭐ **[Zipline](https://zipline.diced.sh/)** - Self-Hosted ShareX Server / [GitHub](https://github.com/diced/zipline)
 - [Greenshot](https://getgreenshot.org/) / Windows, Mac / [GitHub](https://github.com/greenshot/greenshot)

@@ -1,6 +1,6 @@
 # ► Design Resources / Ideas
 
-- ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources)**
+- ↪️ **[Design Resources](../uncategorised/design-resources)**
 - ⭐ **[archives.design](https://archives.design/)** - Graphic Design Archive
 - ⭐ **[Muzli](https://search.muz.li/)** or [⁠Cosmos](https://www.cosmos.so/) - Design Inspiration Sites
 - [CARI](https://cari.institute/) or [CARI Are.na](https://www.are.na/consumer-aesthetics-research-institute/channels) - Design Aesthetics History
@@ -15,7 +15,7 @@
 ## ▷ Design Apps
 
 - ⭐ **[Figma](https://www.figma.com/)** - Design Collab App / Web
-- [Canva](https://www.canva.com/) - Design App / Windows, Mac, Web / [Invites](https://rentry.co/FMHYB64#canva)
+- [Canva](https://www.canva.com/) - Design App / Windows, Mac, Web / [Invites](https://rentry.co/gt8yat2y#canva)
 - [lunacy](https://icons8.com/lunacy) - Design App / Windows, Mac, Linux
 - [VistaCreate](https://create.vista.com/) - Design App / Web
 - [Penpot](https://penpot.app/) - Design App & Prototyping Platform / [GitHub](https://github.com/penpot/penpot)
@@ -28,7 +28,7 @@
 
 ## ▷ Icons / Avatars
 
-- ↪️ **[SVG Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)** / **[SVG Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_svg_tools)**
+- ↪️ **[SVG Icons](../uncategorised/svg-icons)** / **[SVG Tools](../developer-tools/web-tools#-svg-tools)**
 - ⭐ **[Alphacoders Avatars](https://avatars.alphacoders.com/)** - PFPs / Avatars
 - ⭐ **[Picrew](https://picrew.me/en/)** - Avatar Creator
 - [⁠Icon Gen](https://icon-gen.netlify.app/) - Logo to Avatar / Icon Generator
