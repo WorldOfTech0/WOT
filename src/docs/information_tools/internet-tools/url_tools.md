@@ -1,6 +1,6 @@
 # ► URL Tools
 
-- ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
+- ↪️ **[Encode / Decode URLs](../text-tools/tools#-encode--decode)**
 - ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Multi-Tool Firefox Extension for URLs / [Full Tools List](https://files.catbox.moe/s7s4pv.png)
 - ⭐ **[HTTPStatus](https://httpstatus.io/)** - Check URL Status Codes / Redirect Chains
 - ⭐ **[lychee](https://lychee.cli.rs/)** - URL Scanner / [GitHub](https://github.com/lycheeverse/lychee/)
@@ -27,7 +27,7 @@
 - [Bypass-Links](https://bypass-links.vercel.app) - Bypass Links / [GitHub](https://github.com/amitsingh-007/bypass-links)
 - [Yuumari](https://yuumari.com/bypass/) - Convert Shortened Links / [Script](https://yuumari.com/m-links/#js-code)
 - [UploadHEaven](https://greasyfork.org/en/scripts/442019) - Bypass Uploadhaven Time Restriction
-- [Bypass FREEdlink](https://greasyfork.org/en/scripts/522735) - Bypass FREEdlink "frdl" Timers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/bypass-freedlink.md)
+- [Bypass FREEdlink](https://greasyfork.org/en/scripts/522735) - Bypass FREEdlink "frdl" Timers
 
 ---
 
@@ -50,7 +50,7 @@
 - ⭐ **[T.LY](https://t.ly/)** - `t.ly/qqH6`
 - [is.gd](https://www.is.gd/) - `is.gd/9dkISG`
 - [SmartLnks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
-- [TinyURL](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tinyurl-note.md)
+- [TinyURL](https://tinyurl.com/) - `tinyurl.com/twgf2ks`
 - [refer.is](https://refer.is/) - `refer.is/gpdvk7zf`
 - [X.gd](https://x.gd/) - `x.gd/rcg0Z`
 - [Bom.so](https://bom.so/) - `bom.so/VevMJv`

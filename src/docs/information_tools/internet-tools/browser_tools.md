@@ -2,8 +2,8 @@
 
 - 🌐 **[Browser Comparisons](https://privacytests.org/)**, [Eylenburg Comparisons](https://eylenburg.github.io/browser_comparison.htm) or [ATH Comparisons](https://browsers.avoidthehack.com/) - Compare Popular Browsers
 - 🌐 **[Desktop Browser List](https://github.com/nerdyslacker/desktop-web-browsers)** - Desktop Browser Index
-- ↪️ **[Recommended Browsers](https://fmhy.net/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
-- ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
+- ↪️ [1](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](../privacy-security/web-privacy#-browser-privacy)**
+- ↪️ **[Android Browsers](../mobile/android-camera#-android-browsers)**
 - ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 - [⁠Browser Tamer](https://www.aloneguid.uk/projects/bt/) - Multi-Browser Link Redirector & Profile Switcher / [GitHub](https://github.com/aloneguid/bt)
 - [⁠Just the Browser](https://justthebrowser.com/) - Browser Debloat Script / Guide / [GitHub](https://github.com/corbindavenport/just-the-browser)
@@ -22,10 +22,10 @@
 
 ## ▷ Firefox Tools
 
-- ↪️ **[Firefox Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_firefox_extensions)**
+- ↪️ **[Firefox Extensions](../internet-tools/browser#-firefox-extensions)**
 - ⭐ **[Firefox](https://www.firefox.com/)** / [Nightly](https://www.firefox.com/channel/desktop/#nightly) / [Beta](https://www.firefox.com/channel/desktop/#beta) / [GitHub](https://github.com/mozilla-firefox/firefox)
 - ⭐ **[Firefox Trains](https://whattrainisitnow.com/)** - Official Release Tracker / [GitHub](https://github.com/mozilla/releases_insights)
-- ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/) or [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
+- ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/) or [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks
 - [Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
 - [⁠Sine](https://github.com/CosmoCreeper/Sine) - Firefox Mod / Theme Manager
 - [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/-/blob/master/firefox.md) - Firefox Hidden Settings
@@ -41,14 +41,14 @@
 ## ▷ Browser Extensions
 
 - 🌐 **[WebExtension.org](https://webextension.org/)** or [MyBrowserAddon](https://mybrowseraddon.com/) - Open-Source Extension Indexes
-- ↪️ **[Adblocking Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)**
-- ↪️ **[Translation Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
-- ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_download_managers)**
-- ↪️ **[Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-- ↪️ **[Image Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_download_extensions)**
-- ↪️ **[Productivity / Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
-- ↪️ **[Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_bookmark_managers)**
-- ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
+- ↪️ **[Adblocking Extensions](../privacy-security/adblocking)**
+- ↪️ **[Translation Extensions](../text-tools/tools#-translators)**
+- ↪️ **[Download Managers](../file-tools/tools#-download-managers)**
+- ↪️ **[Video Downloaders](../video-tools/download)**
+- ↪️ **[Image Downloaders](../image-tools/download)**
+- ↪️ **[Productivity / Site Blocking](../miscellaneous/useful-sites#-productivity--time-tracking)**
+- ↪️ **[Bookmark Managers](../internet-tools/browser#-bookmark-managers)**
+- ↪️ **[Tab Managers](../uncategorised/tab-managers)**
 - ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes
 - ⭐ **Stylus Styles** - [User Styles](https://userstyles.world/), [2](https://uso.kkx.one/) / [OLED](https://github.com/zettaexa/userstyles) / [Oldschool](https://forum.spacehey.com/topic?id=90895) / [Catppuccin](https://github.com/catppuccin/userstyles)
 - ⭐ **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/) or [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) - Dark Mode
@@ -195,7 +195,7 @@
 
 - 🌐 **[Greasy Fork](https://greasyfork.org/)** / [GitHub](https://github.com/greasyfork-org/greasyfork/), [OpenUserJS](https://openuserjs.org/), [ScriptCat](https://scriptcat.org/en) or [Userscripts](https://userscripts-mirror.org/) - Userscript Stores
 - 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript) (use translator) or [Userscript.zone](https://www.userscript.zone/) - Curated Userscript Indexes
-- ↪️ **[Google Search Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_google_search_tools)**
+- ↪️ **[Google Search Userscripts](../internet-tools/search#-google-search-tools)**
 - ⭐ **[⁠ScriptCat](https://docs.scriptcat.org/en/)** / [Discord](https://discord.gg/JF76nHCCM7) / [GitHub](https://github.com/scriptscat/scriptcat/blob/main/README.md), **[Violentmonkey](https://violentmonkey.github.io/)** / [Discord](https://discord.gg/XHtUNSm6Xc) / [GitHub](https://github.com/violentmonkey/violentmonkey) or [FireMonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) / [GitHub](https://github.com/erosman/firemonkey) - Userscript Managers
 - ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/473830) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336)
 - ⭐ **[Picviewer CE+](https://greasyfork.org/en/scripts/24204)** - Image Viewing Tool
@@ -266,7 +266,6 @@
 - [Pearltrees](https://www.pearltrees.com/)
 - [Nextcloud](https://apps.nextcloud.com/apps/bookmarks)
 - [Cling](https://cling.com/)
-- [FMHY Startpage](https://fmhy.net/startpage)
 - [⁠Re-Start](https://github.com/refact0r/re-start)
 - [Symbaloo](https://www.symbaloo.com/)
 - [Tixio](https://tixio.io/)

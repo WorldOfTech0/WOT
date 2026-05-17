@@ -1,8 +1,7 @@
 # ► Open Source Intelligence
 
 - 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - Awesome OSINT
-- ↪️ **[Domain / DNS Info](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_domain_.2F_dns)**
-- ↪️ **[Search Engine OSINT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_search_tools)**
+- ↪️ **[Search Engine OSINT](../internet-tools/osint)**
 - ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
 - ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** - Tools and Resources
 - [Osintracker](https://www.osintracker.com/) - Track Your Investigations
