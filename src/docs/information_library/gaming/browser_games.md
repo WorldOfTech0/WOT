@@ -1,10 +1,10 @@
 # ► Browser Games
 
-- ↪️ **[Browser Toys / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_random)** - Browser Toys / Game Indexes
+- ↪️ **[Browser Toys / Games](../miscellaneous/shopping#-toys--collectibles)** - Browser Toys / Game Indexes
 - ⭐ **[Allchemy](https://allchemy.io/)**, [Little Alchemy](https://littlealchemy.com/), [Little Alchemy 2](https://littlealchemy2.com/) or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
 - ⭐ **[The World's Biggest Pac-Man](https://worldsbiggestpacman.com/)** - Infinite Custom Pac-Man
 - ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser SNES Style Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
-- ⭐ **[Super Monkey Ball Web](https://rentry.co/FMHYB64#mb-online)** - Browser Super Monkey Ball
+- ⭐ **[Super Monkey Ball Web](https://rentry.co/gt8yat2y#mb-online)** - Browser Super Monkey Ball
 - ⭐ **[Marble Blast Gold Web](https://marbleblast.vaniverse.io/)** / [GitHub](https://github.com/Vanilagy/MarbleBlast) or [Marble Blast Ultra](https://marbleblastultra.randomityguy.me/) / [GitHub](https://github.com/RandomityGuy/MBHaxe) - Browser Marble Blast
 - ⭐ **[Slope Plus](https://coweggs.itch.io/slope-plus)** - Downhill Ball Game
 - ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
@@ -14,13 +14,13 @@
 - [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 - [⁠Cut the Rope Home](https://ctrhome.github.io/play/) - Cut the Rope Games
 - [Club Penguin Legacy](https://play.cplegacy.com/) or [Club Penguin Journey](https://cpjourney.net/) - ⁠Club Penguin Revivals / [Servers](https://penguintrack.com/)
-- [Snubby](https://rentry.co/FMHYB64#sr-game) - Browser Slime Rancher
+- [Snubby](https://rentry.co/gt8yat2y#sr-game) - Browser Slime Rancher
 - [CelesteClassic](https://maddymakesgamesinc.itch.io/celesteclassic) - Full Classic Celeste
 - [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 - [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
 - [PlayAnyPage](https://playanypage.com/) or [KickassApp](https://kickassapp.com/) - Turn Webpages into Games
 - [Google Snake Mods](https://googlesnakemods.com/) / [Discord](https://discord.gg/NA6vHg62An) / [GitHub](https://github.com/DarkSnakeGang/GoogleSnakeModLoader), [Fluppy](https://fluppy.pages.dev/), [Play Snake](https://playsnake.org/) or [Snake-Game](https://www.onemotion.com/snake-game/)- Snake Style Games
-- [⁠LEGO Island Web Port](https://rentry.co/FMHYB64#bli) - Browser LEGO Island
+- [⁠LEGO Island Web Port](https://rentry.co/gt8yat2y#bli) - Browser LEGO Island
 - [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
 - [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
 - [You Have Not Died Of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery) - Oregon Trail with Alt Dysentery Mechanics
@@ -32,8 +32,8 @@
 - [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
 - [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
 - [Dino Swords](https://dinoswords.gg/) - Chrome Dino With Weapons
-- [Web osu!mania](https://rentry.co/FMHYB64#wosu) - Browser osu!mania Beatmaps / [Discord](https://discord.com/invite/8zfxCdkfTx)
-- [Taiko Web](https://rentry.co/FMHYB64#tnt) - Taiko no Tatsujin / Rhythm Game
+- [Web osu!mania](https://rentry.co/gt8yat2y#wosu) - Browser osu!mania Beatmaps / [Discord](https://discord.com/invite/8zfxCdkfTx)
+- [Taiko Web](https://rentry.co/gt8yat2y#tnt) - Taiko no Tatsujin / Rhythm Game
 - [Rhythm Plus](https://rhythm-plus.com), [2](https://rhythmplus.io/) - Rhythm Game / [Discord](https://discord.com/invite/ZGhnKp4) / [GitHub](https://github.com/henryzt/Rhythm-Plus-Music-Game)
 - [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Discord](https://discord.gg/aB6ucmx) / [GitHub](https://github.com/bemusic/bemuse)
 - [Pulsus](https://www.pulsus.cc/play/) - 3x3 Letter Tile Rhythm Game
@@ -65,7 +65,7 @@
 - [Andkon](https://andkon.com/arcade/) - Browser Game Aggregator
 - [Addicting Games](https://www.addictinggames.com/) - Browser Game Aggregator
 - [Game-Game](https://game-game.com/) - Browser Game Aggregator
-- [Flash Library](https://rentry.co/FMHYB64#software-library-flash) - Browser Game Aggregator
+- [Flash Library](https://rentry.co/gt8yat2y#software-library-flash) - Browser Game Aggregator
 - [Y8](https://www.y8.com/) - Browser Game Aggregator
 - [Alfy](https://www.alfy.com/) - Browser Game Aggregator
 - [Miniplay](https://www.miniplay.com/) - Browser Game Aggregator
@@ -185,7 +185,7 @@
 
 ## ▷ Text Adventures
 
-- **Note** - Oldschool text adventure games are known for being [unforgiving](https://www.ifwiki.org/Cruelty_scale), but you can usually find solutions / guides online. You can also try feeding the text to [AI chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots), which can be both helpful and amusing.
+- **Note** - Oldschool text adventure games are known for being [unforgiving](https://www.ifwiki.org/Cruelty_scale), but you can usually find solutions / guides online. You can also try feeding the text to [AI chatbots](../ai/chatbots), which can be both helpful and amusing.
 
 ---
 
@@ -268,8 +268,8 @@
 
 ## ▷ RPGs
 
-- ↪️ **[RPG / TTRPG Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
-- ↪️ **[ARPG / MMORPG Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_arpg_.2F_mmorpg_tools)**
+- ↪️ **[RPG / TTRPG Builders](../gaming-tools/genre-specific#-rpg-worldbuilding)**
+- ↪️ **[ARPG / MMORPG Tools](../gaming-tools/genre-specific#-arpg--mmorpg-tools)**
 - [Fallen London](https://www.fallenlondon.com/) - Text-Based RPG
 - [Yume Nikki Online Project](https://ynoproject.net/) - Multiplayer Yume Nikki / [Discord](https://discord.com/invite/fRG3AxUeKN)
 - [Dynast](https://dynast.io/) - Survival Browser Game
@@ -401,7 +401,7 @@
 
 ## ▷ Pokemon
 
-- ↪️ **[Pokémon Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_pokemon_tools)**
+- ↪️ **[Pokémon Resources / Tools](../gaming-tools/game-specific#-pokemon-tools)**
 - ⭐ **[PokéRogue](https://pokerogue.net/)** - Pokémon Roguelike / [Wiki](https://wiki.pokerogue.net/start) / [Mobile](https://github.com/Admiral-Billy/Pokerogue-App) / [Subreddit](https://reddit.com/r/pokerogue/) / [Discord](https://discord.com/invite/uWpTfdKG49)
 - ⭐ **[PokeMMO](https://pokemmo.com/)** - Pokémon MMO
 - ⭐ **[Pokémon Showdown](https://pokemonshowdown.com/)** - Online Pokémon Battles

@@ -7,17 +7,17 @@
 - 🌐 **[Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators)** - Emulators with Multiple Consoles
 - 🌐 **[RedSquirrel Project List](https://redsquirrel87.com/doku.php/projects-list)** - Emulator Tools
 - 🌐 **[Multiplayer Emulation](https://emulation.gametechwiki.com/index.php/Netplay)** - Multiplayer Emulation Tools
-- ↪️ **[Emulators on Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_emulators_on_android)**
+- ↪️ **[Emulators on Android](../mobile/emulators#-emulators-on-android)**
 - ⭐ **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
 - ⭐ **[Emulator BIOS Files](https://emulation.gametechwiki.com/)** - Search for "Emulator Files"
-- ⭐ **[RetroAchievements](https://retroachievements.org/)** - Achievements for Emulators / [Compatible Games](https://retroachievements.vercel.app/) / [DAT Files](https://rentry.co/FMHYB64#ra-dat)
+- ⭐ **[RetroAchievements](https://retroachievements.org/)** - Achievements for Emulators / [Compatible Games](https://retroachievements.vercel.app/) / [DAT Files](https://rentry.co/gt8yat2y#ra-dat)
 - ⭐ **[Dolphin Guides](https://dolphin-emu.org/docs/guides/)** or [Dolphin Performance Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide) - Dolphin Setup / Performance Guides
 - ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - Wii U / BOTW Setup Guides
-- [Switch Emulation](https://rentry.co/FMHYB64#switch-emulation) - Switch Emulator Setup Guides
+- [Switch Emulation](https://rentry.co/gt8yat2y#switch-emulation) - Switch Emulator Setup Guides
 - [Wiki of Axekin](https://wiki.axekin.com/) - Emulation Guides / [Discord](https://discord.gg/CUpf57y5Vg)
 - [Handhelds Wiki](https://handhelds.wiki/) - Retro Handhelds Wiki / Emulation Guides⁠
 - [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Emulation Compatibility / Info
-- [TOSEC](https://rentry.co/FMHYB64#tosec) - The Old School Emulation Center
+- [TOSEC](https://rentry.co/gt8yat2y#tosec) - The Old School Emulation Center
 - [CloudRetro](https://cloudretro.io/) - Cloud Gaming Service for Emulators / [GitHub](https://github.com/giongto35/cloud-game)
 - [Two-Torial](https://two-torial.maimaidxprism.plus/) - Arcade Game Emulation Guides
 - [Emulation Collective](https://discord.com/invite/7pcAbZzpXj) - Xbox One/Series X|S UWP Emulation Discord
@@ -25,7 +25,7 @@
 - [SaveFileConverter](https://savefileconverter.com/) - Convert Console Saves to Emulator Saves
 - [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
 - [ns-emu-mod-downloader](https://github.com/exefer/ns-emu-mod-downloader) - Download Switch Emulator Mods
-- [TOTK Optimization](https://rentry.co/FMHYB64#totk-optimization) - TOTK Optimization / Fixes
+- [TOTK Optimization](https://rentry.co/gt8yat2y#totk-optimization) - TOTK Optimization / Fixes
 - [UniversalDynamicInput](https://github.com/Venomalia/UniversalDynamicInput) - Custom Dolphin Button Pack
 - [Prime Hack](https://github.com/Kekun/primehack) or [Prime Hunter Hack](https://github.com/IBreakGames/PrimeHunterHack) - Add Mouse Support to Metroid Games
 - [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
@@ -62,10 +62,10 @@
 - 🌐 **[r/ROMs Mega](https://r-roms.github.io/)** - ROMs
 - ⭐ **[Axekin](https://www.axekin.com/)** - ROMs / [Discord](https://discord.gg/CUpf57y5Vg)
 - ⭐ **[Vimm's Lair](https://vimm.net/)** - ROMs / [Discord](https://discord.com/invite/XReX2ZGNcV)
-- ⭐ **[No-Intro Archive](https://rentry.co/FMHYB64#no-intro)** - ROMs / Unofficial
+- ⭐ **[No-Intro Archive](https://rentry.co/gt8yat2y#no-intro)** - ROMs / Unofficial
 - ⭐ **[ROM Heaven](https://romheaven.com/)** - ROMs
 - ⭐ **[Ziperto](https://ziperto.com/)** - ROMs
-- ⭐ **[RuTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+- ⭐ **[RuTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use [VPN](../privacy-security/vpn#-vpn) / [Tools](/downloading/torrent-sites)
 - ⭐ **[RetroGameTalk](https://retrogametalk.com/)** (sign-up required) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/), [CDRomance](https://cdromance.org/), [⁠ROMHack.ing](https://www.romhack.ing/) / [Discord](https://discord.gg/uAufcgz), [⁠ROMHacking.com](https://romhacking.com/), [ROMhacking](https://www.romhacking.net/), [⁠ROMHack Plaza](https://romhackplaza.org/) / [Discord](https://discord.gg/5CKzeWmZZU) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations / Hacks
 - [WowROMs](https://wowroms.com/en) - ROMs
 - [Retro Game Champion](https://www.retrogamechampion.com/) - Retro Game ROMs, Magazines, Music & more / [Discord](https://discord.gg/zueusZt)
@@ -75,8 +75,8 @@
 - [BlueRoms](https://www.blueroms.ws/) - ROMs / Torrents
 - [ROMsFun](https://romsfun.com/) or [ROMsPURE](https://ROMspure.cc/) - ROMs
 - [⁠EpicROMs](https://epicroms.net/roms/) - ROMs / [Subreddit](https://www.reddit.com/r/EpicRoms/)
-- [Arquivista ROMs](https://rentry.co/FMHYB64#arquivista) - ROMs
-- [FinalBurn Neo](https://rentry.co/FMHYB64#finalburn-neo) - ROMs / Zip
+- [Arquivista ROMs](https://rentry.co/gt8yat2y#arquivista) - ROMs
+- [FinalBurn Neo](https://rentry.co/gt8yat2y#finalburn-neo) - ROMs / Zip
 - [Romsie](https://roms2000.com/) - ROMs
 - [Retrostic](https://www.retrostic.com/) - ROMs
 - [ROMsGames](https://www.romsgames.net/roms/) - ROMs
@@ -86,9 +86,9 @@
 - [Player One](https://player1.eu/) - ROMs
 - [HexRom](https://hexrom.com/) - ROMs / [Telegram](https://t.me/Hexrom_Com)
 - [The Old Computer](https://www.theoldcomputer.com/) - ROMs
-- [Myrient Archive](https://rentry.co/FMHYB64#myrient-backup) - ROMs / [Subreddit](https://www.reddit.com/r/savemyrient/)
+- [Myrient Archive](https://rentry.co/gt8yat2y#myrient-backup) - ROMs / [Subreddit](https://www.reddit.com/r/savemyrient/)
 - [Emuparadise](https://www.emuparadise.me/) - ROMs / [Forum](https://www.epforums.org/) / [Fix Downloads](https://gist.github.com/infval/c69b479ff0bd590f2dd7e1975fe2fcad/raw/8be1b17f03837939c8baab3b2247eb60a22fa89a/emuparadise.download.user.js)
-- [ROM-Collections](https://rentry.co/FMHYB64#rom-collections) - ROMs
+- [ROM-Collections](https://rentry.co/gt8yat2y#rom-collections) - ROMs
 - [Romspedia](https://www.romspedia.com/) - ROMs
 - [TechToROMs](https://techtoroms.com/) - ROMs
 - [RPGOnly](https://rpgonly.com) - ROMs
@@ -100,10 +100,10 @@
 - [DLXbGame](https://dlxbgame.com/) - ROMs / Xbox 360 / Avoid PC Games
 - [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
 - [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
-- [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+- [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs / Use [Translator](../text-tools/tools#-translators)
 - [AtariMania](https://www.atarimania.com/) - ROMs / Atari Consoles
 - [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/), [⁠MDK](https://mdk.cab/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
-- [PICOwesome](https://rentry.co/FMHYB64#picowesome) - PICO-8 ROMs
+- [PICOwesome](https://rentry.co/gt8yat2y#picowesome) - PICO-8 ROMs
 - [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
 - [⁠FFHacktics](https://ffhacktics.com/smf/) - Final Fantasy Tactics Mods / [Discord](https://discord.gg/xpXa8VEV2k)
 - [SAGE](https://sagexpo.org/) / [Discord](https://discord.sonicfangameshq.com/) or [Sonic Retro](https://forums.sonicretro.org/) / [GitHub](https://github.com/sonicretro/) - Sonic Fan Games + Mods
@@ -124,21 +124,21 @@
 - [ROMSim](https://romsim.com/) - ROMs / Switch / [Discord](https://discord.gg/Zgdhq7xDcd)
 - [ROMSLAB](https://romslab.com/) - ROMs / Switch
 - [NXbrew](https://nxbrew.net/) - ROMs / Switch
-- [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch
+- [GNS](https://rentry.co/gt8yat2y#gns) - ROMs / Switch
 - [SwitchROMS](https://switchroms.io/) - ROMs / Switch
 - [SwitchGamesMall](https://switchgamesmall.icu/), [2](https://smallgames.ch/) - ROMs / Switch
 - [RetroNDS](https://t.me/retronds) - ROMs / Switch / Requires Telegram
 - [⁠NSWTL](https://nswtl.info/) - ROMs / Switch / Torrents / Requires Telegram
 - [NSWDB](https://www.nswdb.com) - Switch Release Tracker
 - [3DSDB](https://3dsdb.com/) - 3DS Release Tracker
-- [SM64ROMHacks](https://rentry.co/FMHYB64#sm64romhacks) - Super Mario 64 Mods / [Discord](https://discord.com/invite/BYrpMBG)
+- [SM64ROMHacks](https://rentry.co/gt8yat2y#sm64romhacks) - Super Mario 64 Mods / [Discord](https://discord.com/invite/BYrpMBG)
 - [MFGG](https://mfgg.net/) - Super Mario Fan Games / Mods / [Discord](https://discord.gg/jchgfw5)
 - [Newer Team](https://newerteam.com/) or [NSMBHD](https://nsmbhd.net/) / [Discord](https://discord.gg/x7gr3M9) - Super Mario Bros. DS / Wii Mods
-- [SMW Hacks](https://rentry.co/FMHYB64#smw-hacks) or [SMWCentral](https://smwcentral.net/) - Super Mario World ROM Mods
+- [SMW Hacks](https://rentry.co/gt8yat2y#smw-hacks) or [SMWCentral](https://smwcentral.net/) - Super Mario World ROM Mods
 - [Wario Land Vault](https://wario-land.github.io/HackVault/index.html) - Wario Land ROM Mods
-- [Pokémon ROM Mods](https://rentry.co/FMHYB64#poke) - Pokémon ROM Mods
+- [Pokémon ROM Mods](https://rentry.co/gt8yat2y#poke) - Pokémon ROM Mods
 - [OOTMM](https://ootmm.com/) - Randomize + Merge Ocarina of Time with Majora's Mask
-- [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Levels](https://rentry.co/FMHYB64#smbx-preservation) / [Discord](https://discord.com/invite/aCZqadJ)
+- [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Levels](https://rentry.co/gt8yat2y#smbx-preservation) / [Discord](https://discord.com/invite/aCZqadJ)
 - [⁠Super Mario Bros Remastered](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) - Super Mario Bros. Remake / [Discord](https://discord.com/invite/A68uRsnja3)
 - [⁠SMB Arena](https://www.smbarena.com/) - Super Mario Bros. 1 Mods
 - [Super Mario and the Rainbow Stars](https://superstarshi.github.io/smatrs/) - Super Mario Mod / [Discord](https://discord.gg/GBXUa7NF2J)
@@ -154,12 +154,12 @@
 
 - ⭐ **[NoPayStation](https://nopaystation.com/)** - ROMs / PS3 / PSP / PSVita / [Discord](https://discord.com/invite/rNGrkUY)
 - ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSVita
-- [AlvRo](https://rentry.co/FMHYB64#alvro) - ROMs / PS2 / PW: `ByAlvRo`
+- [AlvRo](https://rentry.co/gt8yat2y#alvro) - ROMs / PS2 / PW: `ByAlvRo`
 - [Super PSX](https://www.superpsx.com/) - ROMs / PS3 / PS4 / PS5 / **Avoid PC Games** / [Discord](https://discord.gg/BVc63GqV7Y)
 - [DLPSGame](https://dlpsgame.com/) - ROMs / PS2 / PS3 / PS4 / PS5 / **Avoid PC Games**
 - [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
 - [PS3R](https://ps3r.com/) - ROMs / PS3
-- [PS Network Database](https://rentry.co/FMHYB64#ps-content) - ROMs / PS3
+- [PS Network Database](https://rentry.co/gt8yat2y#ps-content) - ROMs / PS3
 - [PSXROMs](https://psxroms.pro/) - ROMs / PS2 / PSP
 - [DownloadGamePSP](https://downloadgamepsp.org/) - ROMs / PSP / PSVita / **Avoid PC Games**
 - [PS1 Covers](https://github.com/xlenore/psx-covers) or [PS2 Covers](https://github.com/xlenore/ps2-covers) - Cover Downloaders
@@ -169,7 +169,7 @@
 ## ▷ Browser Emulators
 
 - 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
-- ↪️ **[EmulatorJS / NeptunJS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_emulatorjs_.2F_neptunjs)** - Frontends for EmulatorJS / NeptuneJS
+- ↪️ **[EmulatorJS / NeptunJS](../uncategorised/emulatorjs-neptunjs)** - Frontends for EmulatorJS / NeptuneJS
 - ⭐ **[GAM.ONL](https://gam.onl/)**, [2](https://www.retrogames.onl/) - Multi-Console
 - ⭐ **[webЯcade](https://play.webrcade.com/)** - Retro Consoles / [Discord](https://discord.gg/C4gXN2HJAv) / [GitHub](https://github.com/webrcade)
 - ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console / Archive.org
