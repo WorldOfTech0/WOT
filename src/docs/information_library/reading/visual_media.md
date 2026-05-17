@@ -1,6 +1,6 @@
 # ► Visual Media
 
-- ↪️ **[Visual Novel Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_visual_novel_tools)**
+- ↪️ **[Visual Novel Resources](../gaming-tools/genre-specific#-visual-novel-tools)**
 
 ## ▷ Comics
 
@@ -43,8 +43,8 @@
 - 🌐 **[The Index](https://theindex.moe/library/manga)** - Manga Sites Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 - 🌐 **[EverythingMoe](https://everythingmoe.com/section/manga)**, [2](https://everythingmoe.org/#section-manga) - Manga Sites Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 - 🌐 **[Rawmangaz](https://claraiscute.neocities.org/Guides/rawmangaz/)**, [2](https://claraiscute.pages.dev/Guides/rawmangaz/) - List of Raw Manga Sites
-- ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
-- ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
+- ↪️ **[Manga Readers / Managers](../uncategorised/manga-readers)**
+- ↪️ **[Manga Downloaders](../uncategorised/manga-downloaders)**
 - ⭐ **[Weeb Central](https://weebcentral.com/)** / Use Adblocker
 - ⭐ **[⁠Comix](https://comix.to/)** / [Subreddit](https://reddit.com/r/comix) / [Discord](https://discord.com/invite/kZgWWHUj22)
 - ⭐ **[MangaFire](https://mangafire.to/)** / [Subreddit](https://www.reddit.com/r/Mangafire/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
@@ -66,10 +66,10 @@
 - [MangaTown](https://www.mangatown.com/)
 - [ComiKuro](https://comikuro.to/)
 - [All Manga](https://allmanga.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
-- [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
+- [The Manga Library](https://rentry.co/gt8yat2y#the-manga-library)
 - [MangaHub](https://mangahub.io/)
 - [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
-- [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+- [MangaBerri](https://mangaberri.com/) - Use [Adblock](../privacy-security/adblocking)
 - [⁠Mgeko](https://www.mgeko.cc/) - Manhwa / Manhua
 - [Webtoon](https://www.webtoons.com/) - Manhwa / [Discord](https://discord.com/invite/webtoonofficial)
 - [Toonily](https://toonily.com/) - Manhwa / Some NSFW
@@ -77,7 +77,7 @@
 - [⁠AquaReader](https://aquareader.net/) - Manhua
 - [⁠SysManhua](https://sysmanhua.com/) - Manhua
 - [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
-- [Madokami](https://wotaku.wiki/guides/manga/madokami) - Makokami Download Guide / [Archive](https://rentry.co/FMHYB64#madokami)
+- [Madokami](https://wotaku.wiki/guides/manga/madokami) - Makokami Download Guide / [Archive](https://rentry.co/gt8yat2y#madokami)
 - [MediaBang](https://medibang.com/mpc/) or [⁠NamiComi](https://namicomi.com/en) - User-Created Manga
 - [MP4DIRECTS](https://mp4directs.com/) or [⁠jnovels](https://jnovels.com/) - Manga Downloads
 - [MangaUpdates](https://www.mangaupdates.com/) - Manga Database / Releases Updates
@@ -92,7 +92,7 @@
 
 ## ▷ Magazines
 
-- ⭐ **[Mobilism Magazines](https://forum.mobilism.org/viewforum.php?f=123)** - Multi-Host / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
+- ⭐ **[Mobilism Magazines](https://forum.mobilism.org/viewforum.php?f=123)** - Multi-Host
 - ⭐ **[PDFMagazines](https://pdfmagazines.club/news/)** - Novafile / Some NSFW
 - ⭐ **[DownMagaz](https://downmagaz.net/)** - Novafile
 - ⭐ **[MagazineLib](https://magazinelib.com/)** - VK

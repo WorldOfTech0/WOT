@@ -1,6 +1,6 @@
 # ► Documents / Articles
 
-- ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
+- ↪️ **[Bypass Article Paywalls](../internet-tools/tools#-paywall-bypass)**
 - ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 - ⭐ **[Nexus Search](https://t.me/nexus_search/214)**, [2](https://t.me/libgen_scihub_science_nexus_bot) - Science / Articles
 - [Heystacks](https://heystacks.com/) - Public Google Docs

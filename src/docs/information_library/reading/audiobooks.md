@@ -2,8 +2,8 @@
 
 ## ▷ Downloading
 
-- ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**, [2](https://forum.mobilism.me/viewforum.php?f=124) / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
-- ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / [Frontend](https://voxlu.me/) / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md)**
+- ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**, [2](https://forum.mobilism.me/viewforum.php?f=124)
+- ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / [Frontend](https://voxlu.me/)
 - ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Invites](https://www.myanonamouse.net/inviteapp.php)
 - ⭐ **[Rave Search](https://ravebooksearch.com/index-audiobooks)** or **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Multi-Site Audiobook Search
 - [AudioBooksBee](https://audiobooksbee.com/)
@@ -14,7 +14,7 @@
 - [Book Radio](https://bookradio.vercel.app/)
 - [Audiobooks For Soul](https://audiobooks4soul.com/)
 - [AppAudiobooks](https://appaudiobooks.net/)
-- [LitGu.ru](https://litgu.ru/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+- [LitGu.ru](https://litgu.ru/) - Use [Translator](../text-tools/tools#-translators)
 - [audiobooks_English](https://t.me/audiobooks_English) - Telegram
 - [Audible (selected)](https://t.me/+GV_tJ_U7em04YjU9) - Telegram
 - [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - Classic Audiobooks
@@ -45,7 +45,7 @@
 
 ## ▷ Audiobook Tools
 
-- ↪️ **[Audiobook Generators / TTS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
+- ↪️ **[Audiobook Generators / TTS](../ai/audio-gen#-text-to-speech)**
 - [⁠AudiobookCovers](https://audiobookcovers.com/) - Download Audiobook Covers
 - [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Format Converter
 - [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Audible DRM Remover / Manager
