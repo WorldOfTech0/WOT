@@ -1,6 +1,6 @@
 # ► Live TV / Sports
 
-- **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
+- **Note** - Make sure to install an [adblocker](../privacy-security/adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](../privacy-security/vpn#-vpn) if sites are blocked, and remember to use [throwaway](../internet-tools/email#-temp-mail) or [alias](../internet-tools/email#-email-aliasing) emails when signing up for sites.
 
 ---
 
@@ -59,11 +59,11 @@
 
 ## ▷ Live Sports
 
-- **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
+- **Note** - Make sure to install an [adblocker](../privacy-security/adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](../privacy-security/vpn#-vpn) if sites are blocked, and remember to use [throwaway](../internet-tools/email#-temp-mail) or [alias](../internet-tools/email#-email-aliasing) emails when signing up for sites.
 
 ---
 
-- ↪️ **[Sports Calendars / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_sports)**
+- ↪️ **[Sports Calendars / Resources](../miscellaneous/sport)**
 - ⭐ **[Streamed](https://streamed.pk/)** / [Mirrors](https://strmd.link/) / [Discord](https://discord.gg/KHC4xTYZgv), [2](https://streami.su/), [3](https://streamed.st/) - Stream Aggregator
 - ⭐ **[SportyHunter](https://sportyhunter.space/)**, [2](https://nflhunter.com/), [3](https://mlbgamepass.com/) / Community Aggregator / [Discord](https://discord.gg/zbxWcejadm)
 - ⭐ **[StreamSports99](https://streamsports99.su)** / [Mirrors](https://streamsports99.website/) / [Bypass Blocks](https://streamsports99.su/vpns) / [Discord](https://discord.gg/sUwU528aRn)
@@ -143,7 +143,7 @@
 - [Time Soccer TV](https://timesoccertv.com/) - Football Replays
 - [SoccerFull](https://soccerfull.net/) - Football Replays
 - [⁠HooFoot](https://hoofoot.com/) or [⁠MySoccerPulse](https://mysoccerpulse.com/) - Football Highlights
-- [RuTracker Sports](https://rutracker.org/forum/index.php?c=28) - Sports Replays / Torrents / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+- [RuTracker Sports](https://rutracker.org/forum/index.php?c=28) - Sports Replays / Torrents / [Tools](/downloading/torrent-sites)
 - [Sport Video](https://www.sport-video.org.ua/) - Sports Replays / Torrents
 - [WatchProWrestling](https://watchprowrestlings.live/) - MMA / Wrestling Replays
 - [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays
@@ -165,8 +165,8 @@
 ## ▷ IPTV Tools
 
 - 🌐 **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** - IPTV Resources
-- 🌐 **[IPTV Playlists](https://rentry.co/FMHYB64#iptv-playlists)** - List of Playlists
-- ↪️ **[Android IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_live_tv)**
+- 🌐 **[IPTV Playlists](https://rentry.co/gt8yat2y#iptv-playlists)** - List of Playlists
+- ↪️ **[Android IPTV Players](../mobile/android-audio#-android-live-tv)**
 - ⭐ **[IPTVNator](https://4gray.github.io/iptvnator/)** - IPTV Player / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
 - ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player
 - [ynoTV](https://github.com/tbeezy/ynotv/) - IPTV Player / [Docs](https://tbeezy.github.io/ynotvdoc/)

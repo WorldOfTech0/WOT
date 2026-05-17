@@ -44,7 +44,7 @@
 - [CinemaCity](https://cinemacity.cc/) - Movies / TV / Anime / Requires Sign-Up
 - [RidoMovies](https://ridomovies.tv/) - Movies / TV
 - [OnionPlay](https://onionplay.io/) - Movies / TV / Anime / [Discord](https://discord.com/invite/RjJgF755Pa)
-- [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)
+- [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / Use [Throwaway Gmail](../internet-tools/email#-temp-mail)
 - [UniqueStream](https://uniquestream.net/) - Movies / TV / Anime / 720p
 - [FshareTV](https://fsharetv.co/) - Movies
 - [YesMovie](https://ww1.yesmovies.ag/) - Movies / TV / 720p
@@ -180,13 +180,13 @@
 
 - ⭐ **[VK](https://vkvideo.ru/)** / [Enhancement Extension](https://vknext.net/)
 - ⭐ **[OK](https://ok.ru/video)**
-- ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced Search](https://playlists.at/youtube/search/) / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_youtube_tools) / [Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)
+- ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced Search](https://playlists.at/youtube/search/) / [Resources / Tools](../social-tools/telegram-youtube#-youtube-tools) / [Download Tools](../social-tools/telegram-youtube#-youtube-downloaders)
 - ⭐ **[Dailymotion](https://www.dailymotion.com/)**
-- ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25BA_bilibili_tools)
+- ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) / [Resources / Tools](../social-tools/bilibili-twitch#-bilibili-tools)
 - ⭐ **[Niconico](https://www.nicovideo.jp/)** / [Desktop](https://github.com/tor4kichi/Hohoema)
 - ⭐ **[Video Search CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)** - Multi-Site Video Search
 - [MotionBox](https://omega.gg/MotionBox/) - Online Video Aggregation App
-- [PeerTube](https://joinpeertube.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools)
+- [PeerTube](https://joinpeertube.org/) / [Tools](../social-tools/tumblr-fediverse#-peertube-tools)
 - [Vimeo](https://vimeo.com/watch)
 - [rutube](https://rutube.ru)
 - [Videa](https://videa.hu/)
@@ -202,8 +202,8 @@
 
 # ► Specialty Streaming
 
-- ↪️ **[Documentary Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_documentaries)**
-- ↪️ **[Courses / Lectures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_streaming)**
+- ↪️ **[Documentary Sites](../educational/documentaries)**
+- ↪️ **[Courses / Lectures](../educational/courses#-streaming)**
 - ⭐ **[RareFilmm](https://rarefilmm.com/)** - Rare Movies
 - ⭐ **[JP-Films](https://jp-films.com/)** - Japanese Movies / TV
 - ⭐ **[Tokuzilla](https://tokuzilla.net/)** - Tokuzilla Movies / Shows
@@ -221,7 +221,7 @@
 - [0xDB](https://0xdb.org/) - Rare Movies
 - [HomeMovies101](https://www.homemovies100.it/en/) - Home Movies
 - [Prelinger Archives](https://www.panix.com/~footage/) - Ephemeral Films / [Archive](https://archive.org/details/prelinger)
-- [3DS Movies](https://rentry.co/FMHYB64#3dsm) - 3D Movies for 3DS Handhelds
+- [3DS Movies](https://rentry.co/gt8yat2y#3dsm) - 3D Movies for 3DS Handhelds
 - [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
 - [TVARK](https://tvark.org/) or [Daily Commercials](https://dailycommercials.com/) - Commercial / TV Promo Archives
 - [MovieCommentaries](https://www.youtube.com/@moviecommentaries) - Movie / TV Director Commentaries
@@ -356,7 +356,7 @@
 
 ## ▷ Classics / Public Domain
 
-- ⭐ **[Internet Archive](https://archive.org/details/moviesandfilms)** - Classic / Silent Films / [Spreadsheet](https://rentry.co/FMHYB64#archive-films)
+- ⭐ **[Internet Archive](https://archive.org/details/moviesandfilms)** - Classic / Silent Films / [Spreadsheet](https://rentry.co/gt8yat2y#archive-films)
 - ⭐ **[WikiFlix](https://wikiflix.toolforge.org/)** - Classic Films
 - [Classic Cinema Online](https://classiccinemaonline.com/) - Classic Films
 - [The Classic Movies](https://www.the-classic-movies.com/) - Classic Films
