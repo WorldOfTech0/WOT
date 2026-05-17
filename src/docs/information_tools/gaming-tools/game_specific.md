@@ -33,7 +33,7 @@
 
 - 🌐 **[Awesome Pokémon](https://github.com/tobiasbueschel/awesome-pokemon)** - Pokémon Resources
 - 🌐 **[r/PTCGP Resource Guide](https://redd.it/1gf94ey)** - Pokémon TCG Pocket Resources
-- ↪️ **[Pokémon Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_pokemon)**
+- ↪️ **[Pokémon Browser Games](../gaming/browser-games#-pokemon)**
 - ⭐ **[Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)** - Pokémon Wiki
 - ⭐ **[Serebii.net](https://www.serebii.net/)**, [Pokémon Awesome](https://pokemon-awesome.vercel.app/), [PocketMonsters.net](https://pocketmonsters.net/) or [Pokémon Database](https://pokemondb.net/) - Pokémon Databases
 - ⭐ **[PokeList](https://pokemonlist.netlify.app/)** or [PokeAPI](https://pokeapi.co/) - Pokédexes
@@ -102,7 +102,7 @@
 - [Freedoom](https://freedoom.github.io/) - Open-Source Doom Assets
 - [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - Doom 64 PC Port
 - [dhewm3](https://dhewm3.org/) - Doom 3 Source Port
-- [Doom WADs Indexes](https://rentry.co/FMHYB64#doom-wads), [DoomsHack](https://doomshack.org/) or [Doom Wad Station](https://www.doomwadstation.net/) - Doom WADs
+- [Doom WADs Indexes](https://rentry.co/gt8yat2y#doom-wads), [DoomsHack](https://doomshack.org/) or [Doom Wad Station](https://www.doomwadstation.net/) - Doom WADs
 - [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - Doom SNES Source Code
 - [UltimateDoomBuilder](https://ultimatedoombuilder.github.io/) - Doom Map Builder
 
@@ -142,7 +142,7 @@
 ## ▷ Geometry Dash Tools
 
 - 🌐 **[GD Colon](https://gdcolon.com/)** - GD Tools Index
-- ↪️ **[GD Demon Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_geometry_dash_demon_lists)**
+- ↪️ **[GD Demon Lists](../uncategorised/geometry-dash-demon-lists)**
 - ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu / Modding Framework
 - ⭐ **[GDDP](https://gddp.pro/)** or **[GD Demon Ladder](https://gdladder.com/)** - Practice & Improve Your Skills
 - [⁠Geometry Dash Wiki](https://geometrydash.wiki.gg/) - ⁠Geometry Dash Wiki
@@ -210,11 +210,5 @@
 - [CreateYourFrisk (CYF)](https://github.com/RhenaudTheLukark/CreateYourFrisk) - Lua-Moddable Undertale Battle Engine / Unitale Fork / [Deltarune Mod](https://github.com/RhenaudTheLukark/CreateYourKris) / [Docs](https://rhenaudthelukark.github.io/CreateYourFrisk/) / [Subreddit](https://www.reddit.com/r/Unitale/)
 - [Kristal](https://kristal.cc/) - DELTARUNE Fangame & Battle Engine / [GitHub](https://github.com/KristalTeam/Kristal)
 - [Unitale](https://jevilhumor.itch.io/undertale-engine) - Original Lua-Moddable Undertale Engine
-
----
-
----
-
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 
 ---
