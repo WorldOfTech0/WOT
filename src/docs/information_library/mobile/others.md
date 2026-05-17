@@ -1,6 +1,6 @@
 # ► Android Reading
 
-- ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)**
+- ↪️ **[Multi-Platform Readers](../reading/ebooks#-ebook-readers)**
 - ⭐ **[Librera](https://librera.mobi/)** - Ebook Reader
 - ⭐ **[Moon+ Reader](https://www.moondownload.com/)** - Ebook Reader / [Theme Guide](https://claraiscute.neocities.org/Guides/moontheme/), [2](https://claraiscute.pages.dev/Guides/moontheme)
 - ⭐ **[Legado](https://github.com/gedoor/legado/blob/master/English.md)** or [Legado MD3](https://github.com/HapeLee/legado-with-MD3/releases) - Ebook Reader
@@ -37,7 +37,7 @@
 - [Futon](https://landing-futon.pages.dev) - Manga Reader / [Discord](https://discord.gg/9sqBHXhwzz) / [GitHub](https://github.com/AppFuton/Futon/)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) - Manga Reader / [Discord](https://discord.com/invite/EjfBuYahsP)
 - [⁠Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) - Manga Reader / [Discord](https://discord.com/invite/sfPJSQNxfW)
-- [Perfect Viewer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Manga File Viewer
+- [Perfect Viewer](../mobile/android-apks#-modded-apks) (search) - Manga File Viewer
 - [Manga Tag](https://www.mangatag.com/) - Manga File Viewer
 - [Kinoko](https://github.com/gsioteam/kinoko) - Manga File Viewer
 - [Kitsune](https://github.com/Drumber/Kitsune) - Manga Tracker
@@ -46,7 +46,7 @@
 
 # ► iOS Reading
 
-- ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
+- ↪️ **[Multi-Platform Readers](../reading/ebooks#-ebook-readers)** - Ebook Reader Index
 - ⭐ **[Paperback](https://paperback.moe/)** - Manga Reader / [Extensions](https://discord.gg/rmf6jQpMU9) / [Discord](https://discord.paperback.moe/)
 - ⭐ **[Aidoku](https://aidoku.app/)** - Manga Reader / [GitHub](https://github.com/Aidoku/Aidoku)
 - ⭐ **[Tachimanga](https://tachimanga.app/)** - Manga Reader / Freemium / [Discord](https://discord.gg/8aMcdYdaBz)

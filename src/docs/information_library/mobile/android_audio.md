@@ -1,16 +1,16 @@
 # ► Android Audio
 
-- ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
+- ↪️ **[Song Identification Apps](../audio-tools/tools#-song-identification)**
 - ⭐ **[Seal](https://github.com/JunkFood02/Seal)** or [⁠Seal+](https://github.com/MaheshTechnicals/Sealplus) - Multi-Site Audio Downloader
 - ⭐ **[ytdlnis](https://ytdlnis.org/)** - Multi-Site Audio Downloader / [GitHub](https://github.com/deniscerri/ytdlnis)
 - ⭐ **[SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)** - Multi-Site Audio Downloader / Playlists / Converts from Spotify / [Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension)
 - ⭐ **[Seeker](https://github.com/jackBonadies/SeekerAndroid)** - Audio Downloader / Soulseek Frontend
-- ⭐ **[Poweramp Equalizer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) / [Forum](https://forum.powerampapp.com/), **[RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP)** / [Guide](https://rentry.co/rootlessjamesdsp-guide), [FlowEQ](https://play.google.com/store/apps/details?id=com.floweq.equalizer), [⁠Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift), [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
+- ⭐ **[Poweramp Equalizer](../mobile/android-apks#-modded-apks)** (search) / [Forum](https://forum.powerampapp.com/), **[RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP)** / [Guide](https://rentry.co/rootlessjamesdsp-guide), [FlowEQ](https://play.google.com/store/apps/details?id=com.floweq.equalizer), [⁠Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift), [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
 - ⭐ **[AutomaTag](http://automatag.com/)** - Metadata Organizer
-- ⭐ **[AudioRelay](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) or [Audio Share](https://github.com/mkckr0/audio-share) - Stream Audio Between Devices
+- ⭐ **[AudioRelay](../mobile/android-apks#-modded-apks)** (search) or [Audio Share](https://github.com/mkckr0/audio-share) - Stream Audio Between Devices
 - ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
 - ⭐ **[CApod](https://github.com/d4rken-org/capod)**, [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPod Monitors / Battery Trackers
-- [Modded Spotify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [⁠SpotiCap](https://gitlab.com/spotihater/spoticap) or [Spotify (official)](https://play.google.com/store/apps/details?id=com.spotify.music) - Spotify Apps / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/android-spotify-note.md)
+- [Modded Spotify](../mobile/android-apks#-modded-apks) (search), [⁠SpotiCap](https://gitlab.com/spotihater/spoticap) or [Spotify (official)](https://play.google.com/store/apps/details?id=com.spotify.music) - Spotify Apps
 - Spotify Tools - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/) / [Improved Lyrics](https://github.com/WXRIW/Lyricify-App), [2](https://github.com/LeNerd46/SpotifyPlus)
 - [⁠LibrePods](https://github.com/kavishdevar/librepods) - Add AirPod Features to Android / [Root Requirments](https://github.com/kavishdevar/librepods#root-requirement)
 - [SongSync](https://github.com/Lambada10/SongSync) - Lyrics App
@@ -39,12 +39,12 @@
 
 ## ▷ Android Audio Players
 
-- ⭐ **[Poweramp](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search)
+- ⭐ **[Poweramp](../mobile/android-apks#-modded-apks)** (search)
 - ⭐ **[Musicolet Music Player](https://krosbits.in/musicolet/)**
 - ⭐ **[Namida](https://github.com/namidaco/namida)**
 - ⭐ **[VLC for Android](https://www.videolan.org/vlc/download-android.html)**
 - ⭐ **[Foobar2000](https://www.foobar2000.org/android)**
-- ⭐ **[tempus](https://github.com/eddyizm/tempus)** or [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) - Subsonic Clients / [Audio Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_servers)
+- ⭐ **[tempus](https://github.com/eddyizm/tempus)** or [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) - Subsonic Clients / [Audio Servers](../audio-tools/tools#-audio-servers)
 - [AIMP](https://www.aimp.ru/?do=download&os=android)
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [⁠Eclipse](https://eclipsemusic.app/) / [Discord](https://discord.gg/sNG37F27eY)
@@ -70,7 +70,7 @@
 
 - ⭐ **[Metrolist](https://metrolist.meowery.eu/)** - YouTube Music Player / [Discord](https://discord.com/invite/zrdbeRG2Mt) / [GitHub](https://github.com/MetrolistGroup/Metrolist)
 - ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/revanced-morphe-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://redd.it/1ta0bek) / [GitHub](https://github.com/MorpheApp/morphe-manager)
-- [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
+- [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](../mobile/android-apks#-morphe--revanced-tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 - [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
 - [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - YouTube Music Player
 - [⁠Meld](https://github.com/FrancescoGrazioso/Meld) - YouTube Music Player / Spotify Integration
@@ -102,7 +102,7 @@
 
 ## ▷ Android Relaxation
 
-- ⭐ **[Calm](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - Relaxation / Sleep App
+- ⭐ **[Calm](../mobile/android-apks#-modded-apks)** (search) - Relaxation / Sleep App
 - ⭐ **[Medito](https://meditofoundation.org/medito-app)** - Meditation / Sleep Sounds
 - [Waking Up](https://app.wakingup.com/scholarship) - Sam Harris' Mindfulness Platform
 - [Rain Sounds](https://sleeprelaxapps.github.io/rainsounds/) - Ambient Rain
@@ -120,30 +120,30 @@
 
 # ► Android Streaming
 
-- ↪️ **[Android TV / Firestick](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_android_tv_.2F_firestick)**
-- ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
-- ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+- ↪️ **[Android TV / Firestick](../media/streaming#-tv-streaming)**
+- ↪️ **[Free w/ Ads Streaming](../media/streaming#-free-w-ads)**
+- ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Tools](../media/torrent#-stremio-tools)
 - ⭐ **[Nuvio](https://nuvioapp.space/)** - Movies / TV / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming)
 - ⭐ **[PlayTorrio](https://playtorrio.xyz/)** - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 - ⭐ **[CloudStream](https://github.com/recloudstream/cloudstream)** - Movies / TV / Anime
 - ⭐ **CloudStream Resources** - [Docs](https://cloudstream.miraheze.org/wiki/Main_Page), [2](https://recloudstream.github.io/csdocs/) / [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos), [3](https://cloudstream.miraheze.org/wiki/List_of_extensions) / [Discord](https://discord.com/invite/5Hus6fM)
 - ⭐ **[Kodi](https://kodi.tv/)** - [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
-- ⭐ **[HDO Box](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - Movies / TV / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Discord](https://discord.gg/VPRJVExUVD) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hdo-box-note.md)
+- ⭐ **[HDO Box](../mobile/android-apks#-modded-apks)** (search) - Movies / TV / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Discord](https://discord.gg/VPRJVExUVD)
 - ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
 - ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp)** or [Macast](https://xfangfang.github.io/Macast/) - Media Servers
 - [CineHD](https://cinehd.xyz/) - Movies / TV / Anime / Drama / Live TV
 - [⁠FlixQuest](https://flixquest.beamlak.dev/) - Movies / TV / [GitHub](https://github.com/BeamlakAschalew/flixquest)
-- [Movie HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires AMPlayer
-- [VivaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
-- [OnStream](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires SPlayer
-- [FilmPlus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires BPlayer
+- [Movie HD](../mobile/android-apks#-modded-apks) (search) - Movies / TV / Requires AMPlayer
+- [VivaTV](../mobile/android-apks#-modded-apks) (search) - Movies / TV / Requires TPlayer
+- [OnStream](../mobile/android-apks#-modded-apks) (search) - Movies / TV / Requires SPlayer
+- [FilmPlus](../mobile/android-apks#-modded-apks) (search) - Movies / TV / Requires BPlayer
 - [Flixclusive](https://github.com/flixclusiveorg/Flixclusive) - Movies / TV / [Plugins](https://discord.com/invite/7yPSPveReu)
 - [Vega App](https://github.com/Zenda-Cross/vega-app) - Movies / TV
 - [Nxsha](https://nxsha.app/) - Movies / TV
 - [⁠Uriel](https://uriel-app.vercel.app/) - Movies / TV / Anime / [Discord](https://discord.gg/dM2RUMdSZV)
-- [Flixoid](https://rentry.co/FMHYB64#flixoid) - Movies / TV
-- [BeeTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV
-- [TeaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
+- [Flixoid](https://rentry.co/gt8yat2y#flixoid) - Movies / TV
+- [BeeTV](../mobile/android-apks#-modded-apks) (search) - Movies / TV
+- [TeaTV](../mobile/android-apks#-modded-apks) (search) - Movies / TV / Requires TPlayer
 - [Flixeon](https://flixeon.me/) - Movies / TV
 - [LokLok](https://loklok.com/download) - Movies / TV
 - [DigilogTV](https://github.com/aldrinzigmundv/digilogtv) - News TV Channels
@@ -152,7 +152,7 @@
 - [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - Improved Bilibili Client
 - [GrayJay](https://grayjay.app/) - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
 - [ShowCase](https://github.com/WirelessAlien/MovieDB) - TMDB App
-- [Great Courses Plus Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Courses
+- [Great Courses Plus Premium](../mobile/android-apks#-modded-apks) (search) - Courses
 - [Showly](https://github.com/michaldrabik/showly) - TV Trackers
 
 ---
@@ -165,7 +165,7 @@
 - ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
 - [Just Player](https://github.com/moneytoo/Player)
 - [⁠Night Video Player](https://play.google.com/store/apps/details?id=com.rz.night.player)
-- [MX Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Codec](https://github.com/USBhost/MX_FFmpeg)
+- [MX Player](../mobile/android-apks#-modded-apks) (search) / [Codec](https://github.com/USBhost/MX_FFmpeg)
 - [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
 - [Next Player](https://github.com/anilbeesetti/nextplayer)
 - [⁠Arc Video Player](https://www.arctechstudio.com/)
@@ -185,22 +185,22 @@
 - [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh) / [Source Code](https://git.rebelonion.dev/rebelonion/Dantotsu/)
 - [Animiru](https://github.com/Quickdesh/Animiru)
 - [AnimeTV](https://discord.com/invite/zD6URsM4ms)
-- [Hayase](https://hayase.watch/) - Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase) / [Wiki](https://wiki.hayase.watch/)
+- [Hayase](https://hayase.watch/) - Torrent Streaming App / [Extensions](https://rentry.co/gt8yat2y#hayase) / [Wiki](https://wiki.hayase.watch/)
 
 ---
 
 ## ▷ Android Live TV
 
-- [Perfect IPTV Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - IPTV Player
+- [Perfect IPTV Player](../mobile/android-apks#-modded-apks) (search) - IPTV Player
 - [OTTRun](https://www.ottrun.com/) - IPTV Player
-- [OTT Navigator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_untouched_apks) (search) - IPTV Player
+- [OTT Navigator](../mobile/android-apks#-untouched-apks) (search) - IPTV Player
 - [Tiwee](https://github.com/neffex97/Tiwee) - IPTV Player
 - [iMPlayer](https://implayer.tv/) - IPTV Player
 - [IPTV Smarters Pro](https://www.iptvsmarters.com/) - IPTV Player
 - [PlayTorrio](https://playtorrio.xyz/) - TV / Sports / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 - [M3U8 Downloader](https://play.google.com/store/apps/details?id=com.leavjenn.m3u8downloader) - M3U8 Download App
-- [Live Sports HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Sports
-- [RBTV77](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Sports
+- [Live Sports HD](../mobile/android-apks#-modded-apks) (search) - Sports
+- [RBTV77](../mobile/android-apks#-modded-apks) (search) - Sports
 - [FreeTV](https://github.com/phstudio2/FreeTV) - Live TV App / [GitHub](https://github.com/phstudio2/FreeTV)
 
 ---
@@ -211,8 +211,8 @@
 - ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
 - ⭐ **[LibreTube](https://libretube.dev/)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes / [GitHub](https://github.com/libre-tube/LibreTube)
 - ⭐ **[PipePipe](https://github.com/InfinityLoop1308/PipePipe)** - Ad-Free YouTube / Peertube / media.ccc.de / Rumble / Bitchute / BiliBili / NikoNiko / SponsorBlock / ReturnYTDislikes
-- ⭐ **[ytdlnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [SnapTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
-- [ReVanced Manager](https://revanced.app/) or [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
+- ⭐ **[ytdlnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [SnapTube](../mobile/android-apks#-modded-apks) (search) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
+- [ReVanced Manager](https://revanced.app/) or [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Ad-Free YouTube Patcher / [Tools](../mobile/android-apks#-morphe--revanced-tools) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 - [NewPipe](https://newpipe.net/) - Ad-Free YouTube / Peertube / media.ccc.de / [GitHub](https://github.com/TeamNewPipe/NewPipe/)
 - [FluxTube](https://github.com/mu-fazil-vk/FluxTube) - Ad-Free YouTube
 - [⁠Litube](https://github.com/HydeYYHH/litube) - Ad-Free YouTube
@@ -223,7 +223,7 @@
 
 ---
 
-- ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
+- ↪️ **[Multi-Platform Readers](../reading/ebooks#-ebook-readers)** - Ebook Reader Index
 - ⭐ **[Paperback](https://paperback.moe/)** - Manga Reader / [Extensions](https://discord.gg/rmf6jQpMU9) / [Discord](https://discord.paperback.moe/)
 - ⭐ **[Aidoku](https://aidoku.app/)** - Manga Reader / [GitHub](https://github.com/Aidoku/Aidoku)
 - ⭐ **[Tachimanga](https://tachimanga.app/)** - Manga Reader / Freemium / [Discord](https://discord.gg/8aMcdYdaBz)
