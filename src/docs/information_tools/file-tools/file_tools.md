@@ -1,6 +1,6 @@
 # ► File Tools
 
-- ↪️ **[File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_file_scanners)**
+- ↪️ **[File Scanners](../privacy-security/antivirus#-file-scanners)**
 - ⭐ **[czkawka](https://github.com/qarmin/czkawka)** or [dupeGuru](https://dupeguru.voltaicideas.net/) - Duplicate File Finders
 - [UnLock IT](https://emcosoftware.com/unlock-it/download) or [Lock Hunter](https://lockhunter.com/) - File Unlocker / Deleter
 - [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
@@ -21,7 +21,7 @@
 - ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / Windows, Mac, Linux, Android / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
 - ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / Windows, Mac, Linux
 - ⭐ **JDownloader Tools** - [Debloat Guide](https://claraiscute.neocities.org/Guides/jdownloader2/), [2](https://claraiscute.pages.dev/Guides/jdownloader2/) / [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
-- ⭐ **[IDM](https://rentry.co/FMHYB64#idm)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites), [3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) / Windows
+- ⭐ **[IDM](https://rentry.co/gt8yat2y#idm)**, [2](../downloading/software-sites), [3](../gaming/download-games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) / Windows
 - [Go Speed](https://gopeed.com/) - Download Manager / All Platforms / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
 - [⁠Brisk](https://github.com/BrisklyDev/brisk) - Download Manager / [Extension](https://github.com/BrisklyDev/brisk-browser-extension) / Windows, Mac, Linux / [Discord](https://discord.gg/hGBDWNDHG3)
 - [imFile](https://imfile.org/) / Windows, Mac, Linux / [GitHub](https://github.com/imfile-io/imfile-desktop)
@@ -80,7 +80,7 @@
 
 ## ▷ File Managers
 
-- ⭐ **[Directory Opus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)** (search) - Windows File Manager
+- ⭐ **[Directory Opus](../downloading/software-sites)** (search) - Windows File Manager
 - [DoubleCMD](https://doublecmd.sourceforge.io/) / [GitHub](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
 - [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
 - [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based File Manager
@@ -170,8 +170,8 @@
 
 ## ▷ File Info / Metadata
 
-- ↪️ **[Image Metadata Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata)**
-- ↪️ **[Audio Metadata Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_metadata)**
+- ↪️ **[Image Metadata Tools](../image-tools/camera#-photo-forensics--metadata)**
+- ↪️ **[Audio Metadata Tools](../audio-tools/tools#-audio-metadata)**
 - ⭐ **[Fileinfo](https://fileinfo.com/)**, [Filext](https://filext.com/) or [OpenMyFiles](https://www.openmyfiles.com/) - File Extension Libraries
 - ⭐ **[Phockup](https://github.com/ivandokov/phockup)** - Organize Photos / Videos by EXIF Date
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / Metadata Viewer / [Online](https://mediaarea.net/MediaInfoOnline)
@@ -190,7 +190,7 @@
 
 - ⭐ **[SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete)** - File Deletion CLI
 - [Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [Alternate File Shredder](https://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG), [Permadelete](https://developerstree.github.io/permadelete/) or [Delapp](https://github.com/differentrain/Delapp) - File Shredding
-- [Parted Magic](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) - Disk Partitioning / Data Recovery
+- [Parted Magic](../downloading/software-sites) (search) - Disk Partitioning / Data Recovery
 - [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm) - File Shredder with Disk Burning
 - [Low Level Format](https://www.lowlevelformat.info/), [nwipe](https://github.com/martijnvanbrummelen/nwipe) or [ShredOS](https://github.com/PartialVolume/shredos.x86_64) - Complete Hard Drive Erasers
 - [RED](https://www.jonasjohn.de/red.htm) - Remove Empty Directories

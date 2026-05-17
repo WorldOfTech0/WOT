@@ -5,8 +5,8 @@
 ---
 
 - 🌐 **[Awesome File Hosts](https://fhhy.vercel.app/)** / [GitHub](https://github.com/FahadBinHussain/awesome-file-hosts) or **[PolyUpload File Hosts](https://github.com/spel987/PolyUploader?tab=readme-ov-file#-hosts)** - File Host Indexes
-- ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
-- ↪️ **[Image File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts)**
+- ↪️ **[Video File Hosts](../video-tools/tools#-video-file-hosts)**
+- ↪️ **[Image File Hosts](../image-tools/tools#-image-hosts)**
 - ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
 - ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.org/)
 - ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / Use Adblocker / [Discord](https://discord.gg/EPEFC6KkpF)
@@ -94,7 +94,7 @@
 ---
 
 - 🌐 **[Eylenburg Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** or [ComparisonTabl.es](https://comparisontabl.es/cloud-storage/) - Compare Cloud Storage Sites
-- ↪️ **[Self-Hosted Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_server_.2F_selfhosting)**
+- ↪️ **[Self-Hosted Cloud Storage](../desktop/linux-tools#-server--selfhosting)**
 - ⭐ **[Google Drive](https://drive.google.com/)** - 5GB (15GB w/ Phone) / 2 Years / ~$3.33 (5TB Google AI Pro)
 - ⭐ **[MEGA](https://mega.io/)** - 20GB / 3 Months / ~$1.72 (20TB Pro III) / [GitHub](https://github.com/meganz)
 - [disk.yandex](https://disk.yandex.com/) - 5GB / 2 Years / ~$2.61 (4TB Personal)
@@ -144,7 +144,7 @@
 - [Google Drive CLI](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
 - [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
 - [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
-- [ISAAC](https://rentry.co/FMHYB64#gservice-gen) - Google Service Account Generators
+- [ISAAC](https://rentry.co/gt8yat2y#gservice-gen) - Google Service Account Generators
 - [goindex-extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/) or [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) - Google Drive Indexers
 - [gdurl](https://gdurl.com/), [GDrive Link Generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/) or [GDriveWebAppPublic](https://github.com/CloudflareHackers/GDriveWebAppPublic) - GDrive Link Generators / Host Direct Links
 - [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/) - Copy Google Drives / [GitHub](https://github.com/jsmsj/GdriveCloneBot)
@@ -157,6 +157,6 @@
 ## ▷ MEGA Tools
 
 - ⭐ **[Megabasterd](https://github.com/tonikelope/megabasterd)** - Download Quota Bypass
-- ⭐ **[MEGA Account Generators](https://rentry.co/FMHYB64#mega-gen)** - Account Gen / Unlimited Upload Size / [Fix](https://rentry.co/mega_account_generator)
+- ⭐ **[MEGA Account Generators](https://rentry.co/gt8yat2y#mega-gen)** - Account Gen / Unlimited Upload Size / [Fix](https://rentry.co/mega_account_generator)
 - [MEGA Desktop](https://mega.io/desktop) - Official GUI App / [GitHub](https://github.com/meganz/MEGAsync)
 - [MEGA CMD](https://mega.io/cmd) - Official CLI App / [GitHub](https://github.com/meganz/MEGAcmd)
