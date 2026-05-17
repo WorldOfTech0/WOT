@@ -28,8 +28,8 @@
 - [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
 - [⁠GokuHD](https://www.gokuhd.com/) - Movies / TV / Anime / 1080p
 - [⁠Cinemalux](https://cinemalux.zip/) - Movies / TV / 1080p
-- [isaiDub](https://rentry.co/FMHYB64#isaidub) - Movies / TV / 720p
-- [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
+- [isaiDub](https://rentry.co/gt8yat2y#isaidub) - Movies / TV / 720p
+- [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](../privacy-security/adblocking) / [Requests](https://space.olamovies.dad/)
 - [Paidnaija](https://paidnaija.net/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
 - [DesireMovies](https://desiremovies.my/) - Movies / TV / Sub / Dub / 1080p
 - [KatDrama](https://katdrama.com/) - Korean Drama

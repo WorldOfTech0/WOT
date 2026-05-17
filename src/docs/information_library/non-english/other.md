@@ -1,7 +1,7 @@
 # ► Other Languages
 
 - 🌐 **[Non-English Ebook & Audiobook Sites](https://redd.it/gehkl0)**
-- ↪️ **[Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)**
+- ↪️ **[Asian Drama Sites](../media/streaming#-drama-streaming)**
 - [kool.to](https://www.kool.to/) - Multilingual / Live TV
 - [Keyman](https://keyman.com/) - Multilingual / Keyboard Files
 - [⁠Albkanale](https://albkanale.com/) - Albanian Live TV Android App
@@ -12,7 +12,7 @@
 - [lupiteam](https://lupiteam.net/) - Corsican / Manga
 - [BalkanDownload](https://balkandownload.org/) - Croatian / Serbian / Slovene / Download / Video / Audio / Games / Books / Comics
 - [WarezHR](https://www.warezhr.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
-- [JockanTV](https://jockantv.com/) - Croatian / Streaming / Dubbed Cartoons / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+- [JockanTV](https://jockantv.com/) - Croatian / Streaming / Dubbed Cartoons / Use [Adblock](../privacy-security/adblocking)
 - [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
 - [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Danish Cybersecurity Discord
 - [tegnsprog](https://www.tegnsprog.dk/) - Danish Sign Language Dictionary
@@ -43,7 +43,7 @@
 - [zoom.lk](https://zoom.lk/) or [Cineru.lk](https://cineru.lk/) - Sinhalese / Subtitles
 - [Najdi.si](https://www.najdi.si/) - Slovene / Search
 - [BSF](https://bsf.si/) - Slovene Film Database
-- [iptv-ch](https://rentry.co/fmhyb64#iptv-playlists) - Swiss / IPTV Resources
+- [iptv-ch](https://rentry.co/gt8yat2y#iptv-playlists) - Swiss / IPTV Resources
 - [Segoideas](https://segoideas.com/) - Taiwanese / Streaming / TV
 - [wlext](https://wlext.is/) - Turkish / Filipino / Thai / Streaming / Movies
 - [Machine Learning ka Chilla](https://www.youtube.com/playlist?list=PL9XvIvvVL50HHzaLPtFBOuikAWa0JdhMW) - Urdu / Machine Learning Course

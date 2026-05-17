@@ -101,7 +101,7 @@
 - [Streamtpmedia](https://streamtpmedia.com/) - Live Sports
 - [angulismotv](https://angulismotv-dnh.pages.dev/) - Live Sports
 - [librefutboltv](https://futbollibre.gg/) - Live Football
-- [Listas-IPTV](https://rentry.co/fmhyb64#iptv-playlists) - Spanish IPTV Resources
+- [Listas-IPTV](https://rentry.co/gt8yat2y#iptv-playlists) - Spanish IPTV Resources
 - [Cinecalidad](https://www.cinecalidad.ec/) - Movies / TV / Animation / Latino
 - [detodopeliculas](https://detodopeliculas.nu/) - Movies / TV
 - [verpeliculasonline](https://verpeliculasonline.org/), [2](https://ver-peliculas-online.org/) - Movies / TV

@@ -14,10 +14,10 @@
 
 ## ▷ Streaming
 
-- [UASERIAL](https://uaserial.tv/) - Movies / TV / Anime / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Telegram](https://t.me/uaserialchannel)
+- [UASERIAL](https://uaserial.tv/) - Movies / TV / Anime / Use [VPN](../privacy-security/vpn#-vpn) / [Telegram](https://t.me/uaserialchannel)
 - [UAKino-Bay](https://uakino-bay.net/) - Movies / TV / Anime
 - [UASerials](https://uaserials.pro/) - Movies / TV / Anime
-- [KinoUKR](https://kinoukr.com/) - Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
+- [KinoUKR](https://kinoukr.com/) - Movies / TV / Use [VPN](../privacy-security/vpn#-vpn)
 - [anitube](https://anitube.in.ua/) - Anime
 - [sweet.tv](https://sweet.tv/pl/) - Free w/ Ads / Channels Only / [Login Bypass](https://github.com/Julmik647/sweet-tv-no-login)
 

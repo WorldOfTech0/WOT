@@ -6,7 +6,7 @@
 
 - [xCinema.ro](https://www.xcinema.ro/) - Movies / TV / Sub / 720p
 - [FilmePeAlese](https://www.filmepealese.com/) - Movies / TV / Sub / 720p
-- [lib2life](https://rentry.co/FMHYB64#lib2life) - Historical Books
+- [lib2life](https://rentry.co/gt8yat2y#lib2life) - Historical Books
 
 ## ▷ Streaming
 
