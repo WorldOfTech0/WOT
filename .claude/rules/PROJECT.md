@@ -18,6 +18,11 @@ These are the mandatory rules for all development work in the **WorldOfTech** pr
 
 - **Verification**: All tests MUST pass locally (`yarn test`) before submitting a Pull Request.
 
+## 3. Sitemap & Search Engine Optimization (SEO)
+
+- **Mandatory Sitemap Re-generation**: Before making any commit or submitting a Pull Request, you **MUST** run the sitemap generator script (`node scripts/generate-sitemap.js`) locally.
+- **Verification**: Ensure that the script runs successfully, compiles the categories configuration without errors, dynamically maps all 250+ routes, and updates `public/sitemap.xml` and `public/robots.txt` correctly.
+
 ---
 
 _Failure to follow these rules may result in PR rejection._

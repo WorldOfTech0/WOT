@@ -130,6 +130,7 @@ The platform organizes resources into 2 primary sections comprising 11 verticals
   - Snapshots are located in `__snapshots__` directories adjacent to tests.
   - RTL `renderHook` is natively imported from `@testing-library/react`.
 - **E2E**: `yarn cy:open`
+- **Sitemap**: `node scripts/generate-sitemap.js` (Run to compile dynamic categories and re-generate `sitemap.xml` and `robots.txt`).
 - **Build**: `yarn build` (Always verify build compatibility after dependency updates).
 
 ---
@@ -143,7 +144,7 @@ The platform organizes resources into 2 primary sections comprising 11 verticals
 ## 6. Agent Workflow
 
 1.  **Understand**: Review this file and [.claude/CLAUDE.md](file:///Users/mr.robot/z-stash/WorldOfTech/WOT/.claude/CLAUDE.md).
-2.  **Verify**: Always run `yarn lint:fix` and `yarn test` before declaring a task complete.
+2.  **Verify**: Always run `node scripts/generate-sitemap.js`, `yarn lint:fix`, and `yarn test` before declaring a task complete.
 3.  **Documentation**: Always update `README.md`, `CLAUDE.md`, and `AGENT.md` for every change.
 4.  **Testing**: Always write tests for new files and changes in existing files.
 5.  **Governance**: Follow Conventional Commits and link all changes to the `WOT` Jira project using `prefix/WOT-XXX` branch naming.
