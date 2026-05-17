@@ -1,9 +1,8 @@
 # ► Audio Editing
 
 - 🌐 **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** or [AFreeStudio](https://www.afreestudio.com/) - Music Production Indexes
-- ↪️ **[AI Audio Generation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_audio_generation)**
-- ↪️ **[Separate Voice / Instrumentals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_removal_.2F_separation)**
-- ⭐ **[AudioSEX](https://audiosex.pro/)**, [KVR Audio](https://www.kvraudio.com/) or [VI-CONTROL](https://vi-control.net/community/) - Audio Production Forums / News
+- ↪️ **[AI Audio Generation](../ai/audio-gen)**
+- ↪️ **[Separate Voice / Instrumentals](../ai/audio-gen#-voice-removal--separation)**, [KVR Audio](https://www.kvraudio.com/) or [VI-CONTROL](https://vi-control.net/community/) - Audio Production Forums / News
 - [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials
 - [⁠Beat Battle](https://beat-battle.net/) - Browser Beat Battle Game / [Discord](https://discord.com/invite/beatbattle)
 - [⁠OpenUtau](https://www.openutau.com/) - Vocal Synth / Singing Platform / [Guides](https://utauguides.carrd.co/) / [GitHub](https://github.com/stakira/OpenUtau)
@@ -17,9 +16,9 @@
 ## ▷ Audio Editors
 
 - ⭐ **[Tenacity](https://tenacityaudio.org/)** / [Source Code](https://codeberg.org/tenacityteam/tenacity), [Audacity](https://www.audacityteam.org/) / [GitHub](https://github.com/audacity/audacity) or [ocenaudio](https://www.ocenaudio.com/) - Audio Editors
-- ⭐ **[FL Studio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)** (search), **[Reaper](https://www.reaper.fm/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/reaper-note.md)**, [Zrythm](https://www.zrythm.org/en/index.html) / [GitLab](https://gitlab.zrythm.org/zrythm/zrythm), [Waveform](https://www.tracktion.com/products/waveform-free) or [LMMS](https://lmms.io/) / [Discord](https://discord.com/invite/PruNxpG) / [GitHub](https://github.com/LMMS) - Digital Audio Workstations
+- ⭐ **[FL Studio](/downloading/torrent-sites)** (search), \*\*[Reaper](https://www.reaper.fm/), [Zrythm](https://www.zrythm.org/en/index.html) / [GitLab](https://gitlab.zrythm.org/zrythm/zrythm), [Waveform](https://www.tracktion.com/products/waveform-free) or [LMMS](https://lmms.io/) / [Discord](https://discord.com/invite/PruNxpG) / [GitHub](https://github.com/LMMS) - Digital Audio Workstations
 - ⭐ **[OpenMPT](https://openmpt.org/)** / [Source Code](https://source.openmpt.org/) / [GitHub](https://github.com/OpenMPT/openmpt/), [Schism Tracker](https://schismtracker.org/) / [GitHub](https://github.com/schismtracker/schismtracker), [Furnace](https://tildearrow.org/furnace/) / [Discord](https://discord.gg/QhA26dXD23) / [GitHub](https://github.com/tildearrow/furnace), [16-Bits](https://16-bits.org/) / [GitHub](https://github.com/8bitbubsy?tab=repositories) or [MilkyTracker](https://milkytracker.org/) / [GitHub](https://github.com/milkytracker/MilkyTracker) - Music Trackers
-- [Team V.R releases](https://rentry.co/FMHYB64#team-vr), [G-MEH](https://g-meh.com/) / [Discord](https://discord.com/invite/g-meh) or [AudioZ](https://audioz.download/) / [Forum](https://audiosex.pro/) - Audio Editor Indexes
+- [Team V.R releases](https://rentry.co/gt8yat2y#team-vr), [G-MEH](https://g-meh.com/) / [Discord](https://discord.com/invite/g-meh) or [AudioZ](https://audioz.download/) / [Forum](https://audiosex.pro/) - Audio Editor Indexes
 - [Ossia](https://ossia.io/) - Intermedia Sequencer / [GitHub](https://github.com/ossia/score)
 - [Mixxx](https://mixxx.org/), [VirtualDJ](https://www.virtualdj.com/) or [Serato](https://serato.com/) - DJ Software
 - [Moises](https://moises.ai/) - Live Music Mixer
@@ -67,7 +66,7 @@
 ## ▷ Audio Plugins
 
 - ⭐ **[AudioZ](https://audioz.download/)** - Download / [Forum](https://audiosex.pro/)
-- ⭐ **[Team V.R releases](https://rentry.co/FMHYB64#team-vr)** - Download
+- ⭐ **[Team V.R releases](https://rentry.co/gt8yat2y#team-vr)** - Download
 - [G-MEH](https://g-meh.com/) - Download / [Discord](https://discord.com/invite/g-meh)
 - [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
 
@@ -97,7 +96,7 @@
 - ⭐ **[Kits4Beats](https://kits4beats.com/)** - Samples / [Telegram](https://t.me/kits4beats)
 - ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Samples / Telegram / [VK](https://vk.com/pluggsupply)
 - ⭐ **[OrangeFreeSounds](https://orangefreesounds.com/)** - Sound Effects
-- [Stash](https://rentry.co/FMHYB64#dkl) - Samples / Drumkits / Presets
+- [Stash](https://rentry.co/gt8yat2y#dkl) - Samples / Drumkits / Presets
 - [FreeSoundsLibrary](https://www.freesoundslibrary.com/) - Sound Effects
 - [BandLab Samples](https://www.bandlab.com/sounds/free-samples) - Samples
 - [SoundGator](https://www.soundgator.com/) - Sound Effects

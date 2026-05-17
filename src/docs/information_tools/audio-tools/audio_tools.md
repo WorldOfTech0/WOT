@@ -1,9 +1,9 @@
 # ► Audio Tools
 
 - 🌐 **[Binaural Audio](https://binaural-audio.slite.page/p/i38zsD7728/Binaural-Audio)** - Binaural / 3D Audio Resources
-- ↪️ **[System Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_system_audio)**
-- ↪️ **[Voice Change / Clone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_change_.2F_clone)**
-- ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
+- ↪️ **[System Audio Tools](../system-tools/hardware#-system-audio)**
+- ↪️ **[Voice Change / Clone](../ai/audio-gen#-voice-change--clone)**
+- ↪️ **[Text to Speech](../ai/audio-gen#-text-to-speech)**
 - ⭐ **[Audio Glossary](https://wotaku.wiki/glossary/audio)** - Audio Terms Glossary
 - ⭐ **[FFmpeg](https://ffmpeg.org/)**, [fre:ac](https://www.freac.org/) / [GitHub](https://github.com/enzo1982/freac), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/) or [Sox](https://sourceforge.net/projects/sox/) - Audio Converters
 - [⁠Hydrogenaudio Knowledgebase](https://wiki.hydrogenaudio.org/) - Audio Technology Wiki / Guides
@@ -18,7 +18,7 @@
 
 ## ▷ Audio Players
 
-- ↪️ **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_audio_players)**
+- ↪️ **[Android Audio Players](../mobile/android-audio#-android-audio-players)**
 - ⭐ **[Foobar2000](https://www.foobar2000.org/)** / Feature-Rich Audio Player / All Platforms
 - ⭐ **Foobar2000 Tools** - [Components](https://audio-file.org/foobar2000-list-of-components/), [2](https://www.foobar2000.org/components) / [VU Meter](https://audio-file.org/foobar2000-vu-meter-skins-gallery/) / [Lyric Sync](https://rentry.co/FB2K-SyncedLyrics) / [Wiki](https://wiki.hydrogenaudio.org/index.php?title=Foobar2000:Foobar2000)
 - ⭐ **[WACUP](https://getwacup.com/)** - Winamp Update Project / [Forum](https://getwacup.com/community/) / Windows / [Discord](https://discord.gg/5pVTdbj)
@@ -39,7 +39,7 @@
 - [Snowify](https://snowify.cc/) - Audio Player / Windows, Mac, Linux / [Discord](https://discord.gg/JHDZraE5TD) / [GitHub](https://github.com/nyakuoff/Snowify)
 - [Museeks](https://museeks.io/) - Simple Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/martpie/museeks)
 - [Audacious](https://audacious-media-player.org/) - Lightweight Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/audacious-media-player/audacious)
-- [Strawberry](https://www.strawberrymusicplayer.org/) - Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/strawberrymusicplayer/strawberry) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/strawberry-note.md)
+- [Strawberry](https://www.strawberrymusicplayer.org/) - Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/strawberrymusicplayer/strawberry)
 - [Exaile](https://exaile.org/) - Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/exaile/exaile)
 - [quodlibet](https://github.com/quodlibet/quodlibet/) - Audio Manager & Player / Windows, Mac, Linux
 - [deadbeef](https://deadbeef.sourceforge.io/) - Audio Player / [Plugins](https://deadbeef.sourceforge.io/plugins.html) / Windows, Mac, Linux / [GitHub](https://github.com/DeaDBeeF-Player/deadbeef)
@@ -60,7 +60,7 @@
 - ⭐ **[Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced)** / [Web UI](https://github.com/tamland/airsonic-refix)
 - ⭐ **[koel](https://koel.dev/)**
 - ⭐ **[iBroadcast](https://ibroadcast.com)**
-- ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream Audio Between Devices / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+- ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream Audio Between Devices / [Mobile](../mobile/android-apks#-modded-apks) (search)
 - [Lyrion](https://lyrion.org/) / [Extensions](https://lyrion.org/extensions/applications/)
 - [SnapCast](https://github.com/badaix/snapcast) or [SonoBus](https://sonobus.net/) - Sound System Sync
 - [mStream](https://mstream.io/)
@@ -101,8 +101,8 @@
 
 ## ▷ Song Identification
 
-- ⭐ **[Google Song Identification](https://support.google.com/websearch/answer/7554088)** / Android, iOS / [Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/google-song-identification.md)
-- ⭐ **[Shazam](https://www.shazam.com/)** / Android, iOS, Web / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Extensions](https://github.com/FoxRefire/Librezam)
+- ⭐ **[Google Song Identification](https://support.google.com/websearch/answer/7554088)** / Android, iOS
+- ⭐ **[Shazam](https://www.shazam.com/)** / Android, iOS, Web / [Features](../mobile/android-apks#-modded-apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Extensions](https://github.com/FoxRefire/Librezam)
 - ⭐ **[WatZatSong](https://www.watzatsong.com/en)** or [r/NameThatSong](https://reddit.com/r/NameThatSong) - Song ID Communities
 - [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg) / Windows
 - [AudioTag](https://audiotag.info/) / Web
@@ -147,7 +147,7 @@
 
 - 🌐 **[Awesome Music](https://github.com/noteflakes/awesome-music)** - Music / Notation Tools Index
 - 🌐 **[Awesome Sheet Music](https://github.com/ad-si/awesome-sheet-music)** - Sheet Music Software & Resources
-- ↪️ **[Music Sheet Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_sheet_collections)**
+- ↪️ **[Music Sheet Collections](../uncategorised/music-sheet-collections)**
 - ⭐ **[MuseScore](https://musescore.org/)**, [MC Musiceditor](https://www.mcmusiceditor.com/) or [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/) - Music Scoring Software
 - [The ABC Music Project](https://abc.sourceforge.net/) / [Editor](https://sourceforge.net/projects/toadflax/), [2](https://runabc.sourceforge.io/), [3](https://easyabc.sourceforge.net/) / [PNG Convert](https://sourceforge.net/projects/abccairo/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/) - Notation Markup Language
 - [Chordly](https://chordly.co.uk/) - Chord Sheet Creator / [GitHub](https://github.com/stufro/chordly)
@@ -179,10 +179,14 @@
 
 ---
 
-## ▷ [Linux Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_audio)
+## ▷ Linux audio tools
+
+- [Linux Audio Tools](../desktop/linux-apps#-linux-audio)
 
 ---
 
-## ▷ [Mac Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_audio)
+## ▷ Mac audio tools
+
+- [Mac Audio Tools](../desktop/mac-apps#-mac-audio)
 
 ---
