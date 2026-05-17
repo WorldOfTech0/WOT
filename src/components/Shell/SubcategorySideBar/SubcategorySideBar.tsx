@@ -8,7 +8,10 @@ interface SubcategorySideBarProps {
   currentSubcategoryId: string;
 }
 
-const SubcategorySideBar = ({ category, currentSubcategoryId }: SubcategorySideBarProps) => {
+const SubcategorySideBar = ({
+  category,
+  currentSubcategoryId,
+}: SubcategorySideBarProps) => {
   const { t } = useTranslation();
 
   return (
@@ -20,7 +23,7 @@ const SubcategorySideBar = ({ category, currentSubcategoryId }: SubcategorySideB
       w="64"
       position="fixed"
       left="16" // Positioned right of the main 16-width sidebar
-      top={16}
+      top={12}
       bg="surfaceContainer/40"
       backdropFilter="blur(24px)"
       borderRightWidth={1}
@@ -29,7 +32,7 @@ const SubcategorySideBar = ({ category, currentSubcategoryId }: SubcategorySideB
       display={{ base: 'none', lg: 'flex' }}
       transition="all 0.4s cubic-bezier(0.4, 0, 0.2, 1)"
     >
-      <Box px={6} mb={8}>
+      <Box px={6} mb={4}>
         <Text
           fontFamily="mono"
           fontSize="2xs"
@@ -52,11 +55,21 @@ const SubcategorySideBar = ({ category, currentSubcategoryId }: SubcategorySideB
         </Text>
       </Box>
 
-      <VStack align="stretch" gap={1} px={3} overflowY="auto" css={{
-        '&::-webkit-scrollbar': { width: '4px' },
-        '&::-webkit-scrollbar-track': { background: 'transparent' },
-        '&::-webkit-scrollbar-thumb': { background: 'rgba(var(--chakra-colors-primary-rgb), 0.2)', borderRadius: '2px' },
-      }}>
+      <VStack
+        align="stretch"
+        gap={0}
+        px={3}
+        pb={24}
+        overflowY="auto"
+        css={{
+          '&::-webkit-scrollbar': { width: '4px' },
+          '&::-webkit-scrollbar-track': { background: 'transparent' },
+          '&::-webkit-scrollbar-thumb': {
+            background: 'rgba(var(--chakra-colors-primary-rgb), 0.2)',
+            borderRadius: '2px',
+          },
+        }}
+      >
         {category.subcategories.map((sub) => {
           const isActive = sub.id === currentSubcategoryId;
 
@@ -68,15 +81,21 @@ const SubcategorySideBar = ({ category, currentSubcategoryId }: SubcategorySideB
             >
               <Flex
                 align="center"
-                gap={3}
-                bg={isActive ? 'rgba(var(--chakra-colors-primary-rgb), 0.1)' : 'transparent'}
+                gap={2}
+                bg={
+                  isActive
+                    ? 'rgba(var(--chakra-colors-primary-rgb), 0.1)'
+                    : 'transparent'
+                }
                 color={isActive ? 'primary' : 'onSurfaceVariant'}
                 px={4}
-                py={3}
+                py={2}
                 borderRadius="lg"
                 transition="all 0.2s ease"
                 _hover={{
-                  bg: isActive ? 'rgba(var(--chakra-colors-primary-rgb), 0.15)' : 'surfaceContainerHigh/40',
+                  bg: isActive
+                    ? 'rgba(var(--chakra-colors-primary-rgb), 0.15)'
+                    : 'surfaceContainerHigh/40',
                   color: 'onSurface',
                   transform: 'translateX(4px)',
                 }}
@@ -93,7 +112,7 @@ const SubcategorySideBar = ({ category, currentSubcategoryId }: SubcategorySideB
                 <Text
                   fontSize="sm"
                   fontWeight={isActive ? 'bold' : 'medium'}
-                  lineClamp={1}
+                  lineClamp={2}
                 >
                   {t(sub.titleKey)}
                 </Text>

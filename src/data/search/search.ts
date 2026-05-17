@@ -26,4 +26,3 @@ export const fuseOptions = {
   threshold: 0.3,
   keys: ['title', 'description', 'id'],
 };
-

@@ -35,18 +35,18 @@ const CategoryCard = ({
       layout="position"
       initial={{ opacity: 0, scale: 0.9 }}
       animate={{ opacity: 1, scale: 1 }}
-      exit={{ 
-        opacity: 0, 
+      exit={{
+        opacity: 0,
         scale: 0.9,
-        transition: { duration: 0.2 } 
+        transition: { duration: 0.2 },
       }}
-      colSpan={isList ? 1 : (isFeatured ? { base: 1, md: 2 } : 1)}
-      rowSpan={isList ? 1 : (isFeatured ? { base: 1, md: 2 } : 1)}
+      colSpan={isList ? 1 : isFeatured ? { base: 1, md: 2 } : 1}
+      rowSpan={isList ? 1 : isFeatured ? { base: 1, md: 2 } : 1}
       whileHover={{ y: isList ? 0 : -8, scale: 1.01 }}
-      transition={{ 
+      transition={{
         layout: { duration: 0.4, ease: [0.23, 1, 0.32, 1] },
         opacity: { duration: 0.4, delay: index * 0.04 },
-        scale: { duration: 0.4, delay: index * 0.04 }
+        scale: { duration: 0.4, delay: index * 0.04 },
       }}
     >
       <Link
@@ -63,7 +63,7 @@ const CategoryCard = ({
           borderWidth="1px"
           borderColor="outline"
           overflow="hidden"
-          p={isList ? { base: 4, md: 6 } : (isFeatured ? { base: 8, md: 12 } : 8)}
+          p={isList ? { base: 4, md: 6 } : isFeatured ? { base: 8, md: 12 } : 8}
           transition="all 0.4s cubic-bezier(0.4, 0, 0.2, 1)"
           role="group"
           _hover={{
@@ -112,9 +112,9 @@ const CategoryCard = ({
                   align="center"
                   justify="center"
                   flexShrink={0}
-                  w={isList ? 12 : (isFeatured ? 14 : 10)}
-                  h={isList ? 12 : (isFeatured ? 14 : 10)}
-                  borderRadius={isList ? 'xl' : (isFeatured ? '2xl' : 'xl')}
+                  w={isList ? 12 : isFeatured ? 14 : 10}
+                  h={isList ? 12 : isFeatured ? 14 : 10}
+                  borderRadius={isList ? 'xl' : isFeatured ? '2xl' : 'xl'}
                   bg="primary/10"
                   borderWidth="1px"
                   borderColor="primary/20"
@@ -128,7 +128,9 @@ const CategoryCard = ({
                 >
                   <span
                     className="material-symbols-outlined"
-                    style={{ fontSize: isList ? '24px' : (isFeatured ? '28px' : '20px') }}
+                    style={{
+                      fontSize: isList ? '24px' : isFeatured ? '28px' : '20px',
+                    }}
                   >
                     {icon}
                   </span>
@@ -160,7 +162,13 @@ const CategoryCard = ({
               <Box flex={1} mt={isList ? 0 : 0}>
                 <Heading
                   as="h3"
-                  fontSize={isList ? 'lg' : (isFeatured ? { base: '2xl', md: '3xl' } : '2xl')}
+                  fontSize={
+                    isList
+                      ? 'lg'
+                      : isFeatured
+                        ? { base: '2xl', md: '3xl' }
+                        : '2xl'
+                  }
                   fontFamily="heading"
                   fontWeight="black"
                   lineHeight="shorter"
@@ -175,7 +183,7 @@ const CategoryCard = ({
 
                 <Text
                   fontFamily="body"
-                  fontSize={isList ? 'sm' : (isFeatured ? 'lg' : 'sm')}
+                  fontSize={isList ? 'sm' : isFeatured ? 'lg' : 'sm'}
                   color="onSurfaceVariant"
                   maxW={isFeatured ? 'lg' : 'full'}
                   lineHeight={isList ? 'shorter' : 'tall'}
@@ -187,9 +195,9 @@ const CategoryCard = ({
               </Box>
             </Flex>
 
-            <Flex 
-              align="center" 
-              justify="space-between" 
+            <Flex
+              align="center"
+              justify="space-between"
               mt={isList ? 2 : 12}
               minW={isList ? { base: 'full', md: '200px' } : 'auto'}
             >
@@ -343,11 +351,15 @@ const ViewModeToggle = ({ viewMode, setViewMode }: any) => {
           bg={viewMode === mode.id ? 'primaryAlpha.200' : 'transparent'}
           color={viewMode === mode.id ? 'primary' : 'onSurfaceVariant'}
           _hover={{
-            bg: viewMode === mode.id ? 'primaryAlpha.300' : 'surfaceContainer/60',
+            bg:
+              viewMode === mode.id ? 'primaryAlpha.300' : 'surfaceContainer/60',
             color: viewMode === mode.id ? 'primary' : 'onSurface',
           }}
         >
-          <span className="material-symbols-outlined" style={{ fontSize: '20px' }}>
+          <span
+            className="material-symbols-outlined"
+            style={{ fontSize: '20px' }}
+          >
             {mode.icon}
           </span>
         </Button>
@@ -384,13 +396,20 @@ const FilterBar = ({
 
 const CategoryGrid = () => {
   const { t } = useTranslation();
-  const [activeSection, setActiveSection] = useState<'all' | 'library' | 'tools'>('all');
+  const [activeSection, setActiveSection] = useState<
+    'all' | 'library' | 'tools'
+  >('all');
   const [viewMode, setViewMode] = useState<'grid' | 'list'>('grid');
 
   const filteredCategories = CATEGORIES.filter((category) => {
     if (activeSection === 'all') return true;
-    if (activeSection === 'library') return category.section === 'information_library';
-    if (activeSection === 'tools') return category.section === 'information_tools';
+    if (activeSection === 'library')
+      return (
+        category.section === 'information_library' ||
+        category.section === 'more'
+      );
+    if (activeSection === 'tools')
+      return category.section === 'information_tools';
     return true;
   });
 
@@ -411,7 +430,9 @@ const CategoryGrid = () => {
       />
 
       <Grid
-        templateColumns={viewMode === 'grid' ? { base: '1fr', md: 'repeat(4, 1fr)' } : '1fr'}
+        templateColumns={
+          viewMode === 'grid' ? { base: '1fr', md: 'repeat(4, 1fr)' } : '1fr'
+        }
         gap={6}
         autoRows="minmax(min-content, max-content)"
       >

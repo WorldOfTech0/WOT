@@ -17,7 +17,9 @@ export const LazyPublicHost = () => (
 
 const LandingPage = lazy(() => import('@screens/landingPage/LandingPage'));
 const CategoryScreen = lazy(() => import('@screens/Category/CategoryScreen'));
-const ContentViewer = lazy(() => import('@screens/ContentViewer/ContentViewer'));
+const ContentViewer = lazy(
+  () => import('@screens/ContentViewer/ContentViewer'),
+);
 
 export const LazyLandingPage = () => (
   <LazyProvider>

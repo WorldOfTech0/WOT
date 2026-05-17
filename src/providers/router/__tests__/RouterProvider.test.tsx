@@ -3,7 +3,9 @@ import RouterProvider from '../RouterProvider';
 
 jest.mock('react-router-dom', () => ({
   ...jest.requireActual('react-router-dom'),
-  RouterProvider: ({ router }: any) => <div data-testid="router-provider">{router && 'Router Passed'}</div>,
+  RouterProvider: ({ router }: any) => (
+    <div data-testid="router-provider">{router && 'Router Passed'}</div>
+  ),
 }));
 
 describe('RouterProvider', () => {

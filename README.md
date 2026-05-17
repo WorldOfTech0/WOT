@@ -40,20 +40,24 @@
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - [Node.js](https://nodejs.org/) (Latest LTS)
 - [Yarn 4.x (Berry)](https://yarnpkg.com/)
 
 ### Installation
+
 ```bash
 yarn install
 ```
 
 ### Development
+
 ```bash
 yarn start
 ```
 
 ### Build & Production
+
 ```bash
 yarn build
 ```
@@ -79,6 +83,7 @@ yarn healthier
 ## ⚖️ Governance & Agent Standards
 
 This project maintains strict governance rules for AI-assisted development:
+
 - **Project Rules**: Mandatory documentation synchronization and test coverage ([.claude/rules/PROJECT.md](file:///.claude/rules/PROJECT.md)).
 - **Tooling Standards**: Optimized git-aware CLI tool preferences ([.claude/rules/TOOLS.md](file:///.claude/rules/TOOLS.md)).
 - **Release Automation**: Releases are automatically generated via GitHub Actions upon successful Pull Request merges into the `production` branch.
@@ -86,10 +91,22 @@ This project maintains strict governance rules for AI-assisted development:
 ---
 
 ## 📜 Legal & Rights
+
 © 2026 worldoftech.com | All rights reserved.
 Resources listed are the property of their respective creators and are shared under their original licenses.
 
 ---
+
 <div align="center">
 *Empowering the next generation of technologists with the best free tools on Earth.*
 </div>
+
+<!--
+https://rentry.co/gt8yat2y/edit
+rentry edit code:
+PTAx6APH
+
+https://rentry.co/9snpsk4z
+rentry edit code:
+4xxdRD3P
+-->

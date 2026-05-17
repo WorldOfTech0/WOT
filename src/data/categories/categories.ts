@@ -22,7 +22,8 @@ import {
   PRIVACY_SECURITY_SUBS,
   AUDIO_SUBS,
   NON_ENGLISH_SUBS,
-  MISCELLANEOUS_SUBS
+  MISCELLANEOUS_SUBS,
+  UNCATEGORISED_SUBS,
 } from './subcategories';
 
 export const CATEGORIES: Category[] = [
@@ -35,7 +36,7 @@ export const CATEGORIES: Category[] = [
     path: '/media',
     isFeatured: false,
     section: 'information_library',
-    subcategories: Object.values(MEDIA_SUBS)
+    subcategories: Object.values(MEDIA_SUBS),
   },
   {
     id: 'ai',
@@ -158,6 +159,7 @@ export const CATEGORIES: Category[] = [
     section: 'information_library',
     subcategories: Object.values(MISCELLANEOUS_SUBS),
   },
+
   {
     id: 'system-tools',
     titleKey: 'LandingPage.Categories.items.system-tools.title',
@@ -278,5 +280,16 @@ export const CATEGORIES: Category[] = [
     isFeatured: false,
     section: 'information_tools',
     subcategories: Object.values(DEVELOPER_TOOLS_SUBS),
+  },
+  {
+    id: 'uncategorised',
+    titleKey: 'LandingPage.Categories.items.uncategorised.title',
+    navKey: 'Navigation.items.uncategorised',
+    subtitleKey: 'LandingPage.Categories.items.uncategorised.description',
+    icon: 'folder_open',
+    path: '/uncategorised',
+    isFeatured: false,
+    section: 'more',
+    subcategories: Object.values(UNCATEGORISED_SUBS),
   },
 ];

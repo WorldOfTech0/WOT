@@ -21,7 +21,9 @@ describe('useIsLandingPage', () => {
   });
 
   it('should return false for category path', () => {
-    (useLocation as jest.Mock).mockReturnValue({ pathname: '/category/software' });
+    (useLocation as jest.Mock).mockReturnValue({
+      pathname: '/category/software',
+    });
     const { result } = renderHook(() => useIsLandingPage());
     expect(result.current).toBe(false);
   });

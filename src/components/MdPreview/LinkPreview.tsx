@@ -70,7 +70,8 @@ const LinkPreview = ({ url, x, y }: LinkPreviewProps) => {
         background: 'rgba(15, 10, 25, 0.92)',
         backdropFilter: 'blur(24px)',
         border: '1px solid rgba(192, 132, 252, 0.25)',
-        boxShadow: '0 8px 40px rgba(0,0,0,0.6), 0 0 0 1px rgba(192,132,252,0.08)',
+        boxShadow:
+          '0 8px 40px rgba(0,0,0,0.6), 0 0 0 1px rgba(192,132,252,0.08)',
         animation: 'linkPreviewFadeIn 0.18s cubic-bezier(0.4, 0, 0.2, 1)',
         pointerEvents: 'none',
       }}
@@ -151,7 +152,9 @@ const LinkPreview = ({ url, x, y }: LinkPreviewProps) => {
           width={14}
           height={14}
           style={{ borderRadius: '2px', flexShrink: 0 }}
-          onError={e => ((e.target as HTMLImageElement).style.display = 'none')}
+          onError={(e) =>
+            ((e.target as HTMLImageElement).style.display = 'none')
+          }
         />
         <span
           style={{

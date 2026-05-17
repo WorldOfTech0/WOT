@@ -8,8 +8,12 @@ import { useShallow } from 'zustand/react/shallow';
 const FavoritesModal = () => {
   const { t } = useTranslation();
   const resetModalState = uiAppStore((state) => state.Modal.resetModalState);
-  const favorites = appStore(useShallow((state: AppStoreState) => state.Favorite.favorites));
-  const removeFavorite = appStore((state: AppStoreState) => state.Favorite.removeFavorite);
+  const favorites = appStore(
+    useShallow((state: AppStoreState) => state.Favorite.favorites),
+  );
+  const removeFavorite = appStore(
+    (state: AppStoreState) => state.Favorite.removeFavorite,
+  );
 
   const handleClose = () => {
     resetModalState();
@@ -77,7 +81,12 @@ const FavoritesModal = () => {
                 <Link
                   to={item.path}
                   onClick={handleClose}
-                  style={{ display: 'flex', flex: 1, alignItems: 'center', gap: '16px' }}
+                  style={{
+                    display: 'flex',
+                    flex: 1,
+                    alignItems: 'center',
+                    gap: '16px',
+                  }}
                 >
                   <Box
                     p={2}
@@ -97,7 +106,11 @@ const FavoritesModal = () => {
                       {t(item.titleKey)}
                     </Text>
                     <Text color="onSurfaceVariant" fontSize="xs">
-                      {item.path.split('/').filter(Boolean).join(' / ').toUpperCase()}
+                      {item.path
+                        .split('/')
+                        .filter(Boolean)
+                        .join(' / ')
+                        .toUpperCase()}
                     </Text>
                   </VStack>
                 </Link>

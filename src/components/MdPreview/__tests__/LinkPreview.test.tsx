@@ -3,7 +3,9 @@ import LinkPreview from '../LinkPreview';
 import { renderWithRouter } from '../../../testUtils/renderUtils';
 
 describe('LinkPreview', () => {
-  const renderPreview = (props = { url: 'https://example.com', x: 100, y: 100 }) => {
+  const renderPreview = (
+    props = { url: 'https://example.com', x: 100, y: 100 },
+  ) => {
     return renderWithRouter(<LinkPreview {...props} />);
   };
 

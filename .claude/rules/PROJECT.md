@@ -13,8 +13,11 @@ These are the mandatory rules for all development work in the **WorldOfTech** pr
 ## 2. Testing Requirements
 
 - **New Files**: Every newly added component, hook, or utility file MUST have a corresponding test file (e.g., `__tests__/FileName.test.tsx`).
+
 * **Existing Changes**: Any modification to existing logic MUST be accompanied by updated or new tests to prevent regressions.
+
 - **Verification**: All tests MUST pass locally (`yarn test`) before submitting a Pull Request.
 
 ---
-*Failure to follow these rules may result in PR rejection.*
+
+_Failure to follow these rules may result in PR rejection._

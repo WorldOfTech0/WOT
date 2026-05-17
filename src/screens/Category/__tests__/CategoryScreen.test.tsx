@@ -13,7 +13,7 @@ describe('CategoryScreen', () => {
             <Route path="/:categoryId" element={<CategoryScreen />} />
           </Routes>
         </MemoryRouter>
-      </ChakraProvider>
+      </ChakraProvider>,
     );
   };
 

@@ -97,10 +97,10 @@ exports[`Host should render correctly 1`] = `
       </div>
     </header>
     <nav
-      class="css-1pe7mka"
+      class="css-5wk5xm"
     >
       <div
-        class="css-il2wov"
+        class="css-tk89gm"
       >
         <p
           class="css-15fik6v"
@@ -764,6 +764,58 @@ exports[`Host should render correctly 1`] = `
                   class="css-5hra6z"
                 >
                   Developer Tools
+                </p>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div
+          class="css-choygu"
+        >
+          <div
+            class="css-1lekzkb"
+          >
+            <p
+              class="css-z6fwwq"
+            >
+              More
+            </p>
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 16px; transform: rotate(180deg); transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);"
+            >
+              expand_more
+            </span>
+          </div>
+          <div
+            class="css-1xhv3dq"
+          />
+        </div>
+        <div
+          class="css-1xr1fxk"
+        >
+          <div
+            class="css-rtymh1"
+          >
+            <a
+              class=""
+              data-discover="true"
+              href="/uncategorised"
+              style="text-decoration: none; display: block;"
+            >
+              <div
+                class="css-1jav04l"
+              >
+                <span
+                  class="material-symbols-outlined"
+                  style="font-size: 20px; transition: all 0.3s ease;"
+                >
+                  folder_open
+                </span>
+                <p
+                  class="css-5hra6z"
+                >
+                  Uncategorised
                 </p>
               </div>
             </a>

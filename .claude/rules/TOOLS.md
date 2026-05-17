@@ -13,4 +13,5 @@ To ensure maximum efficiency and consistency, follow these tool-specific prefere
 - **Rationale**: It only lists tracked files, avoiding `node_modules` or build artifacts without complex exclusion flags.
 
 ---
-*Optimizing for speed and repository context.*
+
+_Optimizing for speed and repository context._

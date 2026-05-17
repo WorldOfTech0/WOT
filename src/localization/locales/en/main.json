@@ -39,12 +39,13 @@
       "educational-tools": "Educational Tools",
       "developer-tools": "Developer Tools",
       "non-english": "Non-English",
-      "miscellaneous": "Miscellaneous"
+      "miscellaneous": "Miscellaneous",
+      "uncategorised": "Uncategorised"
     }
   },
   "LandingPage": {
     "Hero": {
-      "version": "Beta Version",
+      "version": "v{{version}}",
       "headingMain": "CURATING THE",
       "headingAccent": "TECH ELITE.",
       "subtext": "Explore an extensive library of resources, software, infrastructure patterns, and security protocols designed for high-performance engineering teams.",
@@ -151,6 +152,10 @@
         "miscellaneous": {
           "title": "MISCELLANEOUS",
           "description": "A diverse collection of lifestyle, utility, and elite niche resources."
+        },
+        "uncategorised": {
+          "title": "UNCATEGORISED",
+          "description": "Curated collections of niche technology resources, developer libraries, and specialized tools."
         }
       }
     }
@@ -1057,6 +1062,156 @@
       "funSites": {
         "title": "Fun sites",
         "desc": "Interactive entertainment and niche interest sites."
+      }
+    }
+  },
+  "Uncategorised": {
+    "title": "Uncategorised",
+    "description": "Curated collections of niche technology resources, developer libraries, and specialized tools.",
+    "features": {
+      "appSiteMockups": {
+        "title": "App / Site Mockups",
+        "desc": "High-fidelity mockups, UI wireframes, and design templates."
+      },
+      "cssFrameworkTools": {
+        "title": "CSS Framework Tools",
+        "desc": "CSS utilities, tailwind config builders, and layout frameworks."
+      },
+      "dataVisualizationTools": {
+        "title": "Data Visualization Tools",
+        "desc": "Advanced charts, mapping suites, and data graphing toolkits."
+      },
+      "designResources": {
+        "title": "Design Resources",
+        "desc": "Stock photos, asset bundles, design systems, and visual tools."
+      },
+      "digitalArtCollections": {
+        "title": "Digital Art Collections",
+        "desc": "Stunning pixel art, wallpapers, and concept art collections."
+      },
+      "digitalBrushes": {
+        "title": "Digital Brushes",
+        "desc": "Brushes for Photoshop, Procreate, Krita, and digital painting."
+      },
+      "dynamicDns": {
+        "title": "Dynamic DNS Services / Subdomains",
+        "desc": "Free dynamic DNS hosts and custom subdomain registration."
+      },
+      "emulatorjsNeptunjs": {
+        "title": "EmulatorJS / NeptunJS",
+        "desc": "Web-based classic game console emulator setups."
+      },
+      "freeDnsResolvers": {
+        "title": "Free DNS Resolvers",
+        "desc": "High-speed, privacy-first alternative DNS services."
+      },
+      "freeVpnConfigs": {
+        "title": "Free VPN Configs",
+        "desc": "WireGuard and OpenVPN files for secure browsing."
+      },
+      "geometryDashDemonLists": {
+        "title": "Geometry Dash Demon Lists",
+        "desc": "Demon level challenges, record lists, and custom rankings."
+      },
+      "gitProjects": {
+        "title": "Git Projects",
+        "desc": "Curated git libraries, scripts, and open-source project structures."
+      },
+      "internetArchiveTools": {
+        "title": "Internet Archive Tools",
+        "desc": "Wayback Machine downloaders, scrapers, and archive tools."
+      },
+      "japaneseLearningSites": {
+        "title": "Japanese Learning Sites",
+        "desc": "Grammar guides, vocab builders, and immersive learning platforms."
+      },
+      "libgenMirrors": {
+        "title": "LibGen Mirrors",
+        "desc": "Direct download mirrors for books, journals, and literature."
+      },
+      "libgenTools": {
+        "title": "LibGen Tools",
+        "desc": "Bulk downloaders, desktop library managers, and mirrors searchers."
+      },
+      "mangaDownloaders": {
+        "title": "Manga Downloaders",
+        "desc": "Command-line tools, desktop wrappers, and scrapers for manga."
+      },
+      "mangaReaders": {
+        "title": "Manga Readers",
+        "desc": "Ad-free web and desktop reading clients for manga."
+      },
+      "mediaDatabaseSiteTools": {
+        "title": "Media Database Site Tools",
+        "desc": "Scrapers, database queries, and media tracking clients."
+      },
+      "anilistTools": {
+        "title": "AniList Tools",
+        "desc": "AniList custom clients, CSS editors, and automation scripts."
+      },
+      "minecraft": {
+        "title": "Minecraft",
+        "desc": "Server plugins, mods, custom client setups, and resource packs."
+      },
+      "multireddits": {
+        "title": "Multireddits",
+        "desc": "Combined feed collections and specialized subreddits groupings."
+      },
+      "musicSheetCollections": {
+        "title": "Music Sheet Collections",
+        "desc": "Free sheet music PDFs, tabs, and interactive composition files."
+      },
+      "pngImagesClipart": {
+        "title": "PNG Images / Clipart",
+        "desc": "High-quality transparent PNGs, vectors, and design clipart."
+      },
+      "pollSites": {
+        "title": "Poll Sites",
+        "desc": "Simple, registration-free online polling and voting tools."
+      },
+      "presentationTools": {
+        "title": "Presentation Tools",
+        "desc": "Slideshow designs, rich web-based presentation frameworks."
+      },
+      "proxyLists": {
+        "title": "Proxy Lists",
+        "desc": "HTTP, HTTPS, SOCKS4, and SOCKS5 free proxy directories."
+      },
+      "selfHostedWikiAlts": {
+        "title": "Self-Hosted Wiki Alts",
+        "desc": "Knowledgebases, personal wikis, and documentation managers."
+      },
+      "searxInstances": {
+        "title": "Searx Instances",
+        "desc": "Metasearch engines that do not track user activity."
+      },
+      "smsVerificationSites": {
+        "title": "SMS Verification Sites",
+        "desc": "Disposable phone numbers for receiving SMS activations."
+      },
+      "survival": {
+        "title": "Survival",
+        "desc": "First aid, emergency prep, bushcraft guides, and manuals."
+      },
+      "svgIcons": {
+        "title": "SVG Icons",
+        "desc": "Minimalist icon packs, scalable design elements, and formats."
+      },
+      "tabManagers": {
+        "title": "Tab Managers",
+        "desc": "Extensions for workspace optimization and saving system memory."
+      },
+      "telegramEbookDownload": {
+        "title": "Telegram eBook Download",
+        "desc": "Telegram bot directories and channels for free book delivery."
+      },
+      "typescriptTools": {
+        "title": "TypeScript Tools",
+        "desc": "Compilers, playground alternatives, AST builders, and bundlers."
+      },
+      "udemyCoupons": {
+        "title": "Udemy Coupons",
+        "desc": "100% off coupon directories for premium online courses."
       }
     }
   },

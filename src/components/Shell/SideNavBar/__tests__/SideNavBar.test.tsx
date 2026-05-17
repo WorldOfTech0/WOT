@@ -11,7 +11,7 @@ describe('SideNavBar', () => {
         <MemoryRouter initialEntries={initialEntries}>
           <SideNavBar />
         </MemoryRouter>
-      </ChakraProvider>
+      </ChakraProvider>,
     );
   };
 
