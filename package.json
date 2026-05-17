@@ -5,7 +5,7 @@
   "main": "index.tsx",
   "scripts": {
     "start": "craco start",
-    "build": "craco build",
+    "build": "node scripts/generate-sitemap.js && craco build",
     "test": "TZ=UTC jest --config jest.config.js",
     "test:cov": "TZ=UTC jest --config jest.config.js --coverage ",
     "test:craco": "TZ=UTC craco test --silent --watchAll=false",

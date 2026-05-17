@@ -5,6 +5,69 @@ exports[`PrivacyPolicy should render correctly 1`] = `
   <div
     class="css-1688h3j"
   >
+    <title>
+      Privacy Policy | WorldOfTech
+    </title>
+    <meta
+      content="WorldOfTech ('we', 'our', or 'us') is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our platform. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site."
+      name="description"
+    />
+    <meta
+      content="technology, tools, developer tools, system utilities, media streaming, ai resources, learning"
+      name="keywords"
+    />
+    <meta
+      content="noindex, follow"
+      name="robots"
+    />
+    <link
+      href="https://worldoftech.dev/privacy"
+      rel="canonical"
+    />
+    <meta
+      content="website"
+      property="og:type"
+    />
+    <meta
+      content="Privacy Policy"
+      property="og:title"
+    />
+    <meta
+      content="WorldOfTech ('we', 'our', or 'us') is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our platform. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site."
+      property="og:description"
+    />
+    <meta
+      content="https://worldoftech.dev/og-image.png"
+      property="og:image"
+    />
+    <meta
+      content="https://worldoftech.dev/privacy"
+      property="og:url"
+    />
+    <meta
+      content="WorldOfTech"
+      property="og:site_name"
+    />
+    <meta
+      content="summary_large_image"
+      name="twitter:card"
+    />
+    <meta
+      content="Privacy Policy"
+      name="twitter:title"
+    />
+    <meta
+      content="WorldOfTech ('we', 'our', or 'us') is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our platform. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site."
+      name="twitter:description"
+    />
+    <meta
+      content="https://worldoftech.dev/og-image.png"
+      name="twitter:image"
+    />
+    <meta
+      content="@worldoftech"
+      name="twitter:creator"
+    />
     <div
       class="chakra-container css-r8xdkh"
     >

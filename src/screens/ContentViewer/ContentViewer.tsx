@@ -13,7 +13,7 @@ import {
 import { useTranslation } from 'react-i18next';
 import { useState, useEffect, useMemo } from 'react';
 import { CATEGORIES } from '../../data/categories/categories';
-import { MdPreview, SubcategorySideBar, TableOfContents } from '@components';
+import { MdPreview, SubcategorySideBar, TableOfContents, SEO } from '@components';
 import { appStore } from '@appStore';
 import { useShallow } from 'zustand/react/shallow';
 
@@ -35,6 +35,23 @@ const extractHeadings = (markdown: string) => {
     }
   }
   return headings;
+};
+
+const getCleanDescription = (markdown: string, fallback: string) => {
+  if (!markdown) return fallback;
+  // Remove markdown headers, bold, links, code blocks
+  const clean = markdown
+    .replace(/#{1,6}\s+/g, '') // remove headers
+    .replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1') // remove links keep text
+    .replace(/`{1,3}[^`]*`{1,3}/g, '') // remove code snippets
+    .replace(/[*_~`\-+]/g, '') // remove markdown characters
+    .replace(/\s+/g, ' ') // normalize spacing
+    .trim();
+
+  if (clean.length > 155) {
+    return clean.slice(0, 152) + '...';
+  }
+  return clean || fallback;
 };
 
 const ContentViewer = () => {
@@ -121,8 +138,67 @@ const ContentViewer = () => {
     }
   };
 
+  const articleTitle = subcategory ? t(subcategory.titleKey) : '';
+  const articleDescription = useMemo(() => {
+    return getCleanDescription(
+      mdContent,
+      articleTitle || 'Technology directory article',
+    );
+  }, [mdContent, articleTitle]);
+
+  const seoSchemas = useMemo(() => {
+    if (!category || !subcategory) return undefined;
+
+    const categoryTitle = t(category.navKey);
+    const subcategoryTitle = t(subcategory.titleKey);
+
+    const breadcrumbSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      'itemListElement': [
+        {
+          '@type': 'ListItem',
+          'position': 1,
+          'name': 'Home',
+          'item': 'https://worldoftech.dev',
+        },
+        {
+          '@type': 'ListItem',
+          'position': 2,
+          'name': categoryTitle,
+          'item': `https://worldoftech.dev/${categoryId}`,
+        },
+        {
+          '@type': 'ListItem',
+          'position': 3,
+          'name': subcategoryTitle,
+          'item': `https://worldoftech.dev${subcategory.path}`,
+        },
+      ],
+    };
+
+    const techArticleSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'TechArticle',
+      'headline': subcategoryTitle,
+      'description': articleDescription,
+      'url': `https://worldoftech.dev${subcategory.path}`,
+      'inLanguage': 'en',
+    };
+
+    return [breadcrumbSchema, techArticleSchema];
+  }, [category, subcategory, categoryId, articleDescription, t]);
+
   return (
     <Box minH="calc(100vh - 120px)" py={8}>
+      {subcategory && (
+        <SEO
+          title={articleTitle}
+          description={articleDescription}
+          canonicalUrl={subcategory.path}
+          schema={seoSchemas}
+        />
+      )}
       {category && subcategoryId && (
         <SubcategorySideBar
           category={category}
