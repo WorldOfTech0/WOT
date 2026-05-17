@@ -14,7 +14,7 @@
 ## ▷ CSS
 
 - 🌐 **[Awesome CSS](https://github.com/awesome-css-group/awesome-css)** - CSS Resources
-- ↪️ **[CSS Framework Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_css_framework_tools)**
+- ↪️ **[CSS Framework Tools](../uncategorised/css-framework-tools)**
 - ⭐ **[You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)** - CSS Demos
 - [CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/) or [CSS Tricks](https://css-tricks.com/snippets/) - CSS Cheat Sheets
 - [⁠WhatUnit](https://whatunit.com/) - CSS Length Unit Chart
@@ -41,7 +41,7 @@
 
 - 🌐 **[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)** - JavaScript Resources
 - 🌐 **[Awesome UIKit](https://github.com/jaywcjlove/awesome-uikit/)** - JS Frameworks / Web Component Index
-- ↪️ **[TypeScript Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_typescript_tools)**
+- ↪️ **[TypeScript Tools](../uncategorised/typescript-tools)**
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - JavaScript Cheat Sheet / [GitHub](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Vanilla List](https://vanillalist.top/) - Vanilla JavaScript Repository
 - [Component Party](https://component-party.dev/) - Web Component JS Frameworks Overview / [GitHub](https://github.com/matschik/component-party.dev)

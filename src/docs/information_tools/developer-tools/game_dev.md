@@ -4,8 +4,8 @@
 - 🌐 **[EnginesDatabase](https://enginesdatabase.com/)** - Game Engines Database
 - 🌐 **[Awesome Game Dev](https://github.com/Calinou/awesome-gamedev)** - Game Dev Resources
 - 🌐 **[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production)** - Game Production Resources
-- ↪️ **[Learn Game Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_game_development)**
-- ↪️ **[Sound Effect Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sfx_.2F_loops)**
+- ↪️ **[Learn Game Development](../educational/dev-learning#-game-development)**
+- ↪️ **[Sound Effect Sites](../audio-tools/editing#-sfx--samples)**
 - [⁠GameDev Torch](https://gamedevtorch.com/) - Multi-Site Game Dev Search Engine
 - [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
 - [Tommti Systems](https://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
@@ -43,11 +43,11 @@
 
 ## ▷ Asset Creation
 
-- ↪️ **[3D Models / Modeling Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_3d_models)**
-- ↪️ **[Design Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/)**
-- ↪️ **[Art Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_art_.2F_editing)**
-- ↪️ **[Animation Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools/#wiki_.25B7_animation_tools)**
-- ↪️ **[Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_writing_tools)**
+- ↪️ **[3D Models / Modeling Tools](../image-tools/3d#-3d-models)**
+- ↪️ **[Design Tools / Resources](../image-tools)**
+- ↪️ **[Art Resources](../educational/skills-diy#-art--editing)**
+- ↪️ **[Animation Resources](../video-tools/editing#-animation-tools)**
+- ↪️ **[Writing Tools](../text-tools/editor#-writing-tools)**
 - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Game GUI Creator
 - [HUDSxGUIS](https://www.hudsandguis.com/) - UI Design Concepts
 - [SPARTAN Procedural](https://pnjeffries.itch.io/spartan-procjam-edition) - Procedural Tile Generator
@@ -61,7 +61,7 @@
 
 ## ▷ Map Creators / Editors
 
-- ↪️ **[RPG / Fantasy Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
+- ↪️ **[RPG / Fantasy Building Tools](../gaming-tools/genre-specific#-rpg-worldbuilding)**
 - ⭐ **[Sprite Fusion](https://www.spritefusion.com/)** / [Discord](https://discord.gg/8sCEAspmBV), [Tiled](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Tilemap Editors
 - [LDtk](https://ldtk.io/) or [OGMO Editor](https://ogmo-editor-3.github.io/) - 2D Level Editors
 - [CharPad](https://subchristsoftware.itch.io/charpad-c64-free) - Commodore 64 Graphics Editor

@@ -1,8 +1,8 @@
 # ► Developer Tools
 
-- ↪️ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_data_visualization_tools)**
-- ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
-- ↪️ **[Markup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_markup_tools)**
+- ↪️ **[Data Visualization Tools](../uncategorised/data-visualization-tools)**
+- ↪️ **[Machine / Deep Learning](../ai/benchmarks#-machine-learning)**
+- ↪️ **[Markup Tools](../text-tools/markup#-markup-tools)**
 - 🌐 **[⁠Awesome Minimalist](https://github.com/neiesc/awesome-minimalist)** - Curated Minimal Dev Frameworks
 - ⭐ **[DevToys](https://devtoys.app/)** - Dev Multi-Tool App / [GitHub](https://github.com/DevToys-app/DevToys)
 - ⭐ **[DevDocs](https://devdocs.io/)** / [GitHub](https://github.com/freeCodeCamp/devdocs) or [ZealDocs](https://zealdocs.org/) - Dev Documentation
@@ -79,7 +79,7 @@
 
 - 🌐 **[Awesome iOS](https://github.com/vsouza/awesome-ios)** - iOS Development Resources
 - 🌐 **[UXArchive](https://uxarchive.com/)**, [Mobbin](https://mobbin.com/) or [UISources](https://uisources.com/) - Mobile UI Resources
-- ↪️ **[App Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
+- ↪️ **[App Mockups](../uncategorised/app-site-mockups)**
 - ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
 - [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
 - [IconKitchen](https://icon.kitchen/) - App Icon Generator
@@ -123,7 +123,7 @@
 
 - 🌐 **[Console](https://console.substack.com/)** - Search Projects on OpenSourceHub.io
 - 🌐 **[Forge Comparison](https://git.sdf.org/humanacollaborator/humanacollabora/src/branch/master/forge_comparison.md)**, [Forgejo](https://forgejo.org/compare/#only-develops-free-software) or [Forgeperf.org](https://forgeperf.org/) - Git Collab Tool Comparison
-- ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
+- ↪️ **[Git Project Indexes](../uncategorised/git-projects)**
 - ⭐ **[Fork](https://git-fork.com/)** or [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git Desktop Clients
 - ⭐ **[Codeberg](https://codeberg.org/)** / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [⁠git.gay](https://git.gay/), [⁠Tangled](https://tangled.org/) / [Discord](https://discord.com/invite/W7SRR4xHhd), [Drift](https://drift.lol/), [GitLab](https://about.gitlab.com/), [⁠Upd.dev](https://upd.dev/), [sourcehut](https://sourcehut.org/), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting Services
 - [Gitea](https://about.gitea.com/) or [Forgejo](https://forgejo.org/) - Self-Hosted Repository Platforms
@@ -204,7 +204,7 @@
 
 ## ▷ CLI Tools
 
-- ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_cli_cheat_sheets)**
+- ↪️ **[CLI Cheat Sheets](../desktop/linux-guide#-cli-cheat-sheets)**
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
 - [⁠VHS](https://github.com/charmbracelet/vhs) - Write Terminal GIFs as Code
 - [Charm](https://charm.sh/) - Add Backend to Terminal-Based Apps
@@ -227,7 +227,7 @@
 
 - 🌐 **[Public APIs](https://github.com/public-apis/public-apis)**, [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [APIsList](https://apislist.com/), [APIs Guru](https://apis.guru/), [FreePublicAPIs](https://www.freepublicapis.com/), [Public API Lists](https://github.com/public-api-lists/public-api-lists), [⁠PublicAPIs](https://publicapis.io/), [APIVault](https://apivault.dev/) or [Any API](https://any-api.com/) - API Indexes
 - 🌐 **[Awesome API Security](https://github.com/arainho/awesome-api-security)** or [APIKit](https://github.com/API-Security/APIKit) - API Security Resources
-- 🌐 **[Streaming Site APIs](https://rentry.co/FMHYB64#streaming-apis)**
+- 🌐 **[Streaming Site APIs](https://rentry.co/gt8yat2y#streaming-apis)**
 - 🌐 **[Manga APIs](https://rentry.co/manga-apis)** - Manga Site APIs
 - 🌐 **[Dev Scraping APIs](https://github.com/cporter202/scraping-apis-for-devs)** - ⁠Scraping APIs for Developers
 - 🌐 **[⁠awesome-transit](https://github.com/MobilityData/awesome-transit)** - Transit Focused APIs

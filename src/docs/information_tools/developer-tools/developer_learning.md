@@ -1,3 +1,5 @@
-# ► [Developer Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_developer_learning)
+# ► Developer Learning
+
+- [Developer Learnign resource](../educational/dev-learning)
 
 ---
