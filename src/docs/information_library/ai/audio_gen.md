@@ -79,7 +79,7 @@
 ## ▷ Voice Removal / Separation
 
 - 🌐 **[MultiSong Leaderboard](https://mvsep.com/quality_checker/multisong_leaderboard)** - Music & Voice Separation AI Leaderboards
-- ⭐ **[MVSEP](https://mvsep.com/)** - 50 Daily / [Decrease Queue Time](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mvsep-note.md)
+- ⭐ **[MVSEP](https://mvsep.com/)** - 50 Daily
 - [Splitter](https://www.bandlab.com/splitter) / Requires Sign-Up
 - [MDX23](https://github.com/jarredou/MVSEP-MDX23-Colab_v2)
 - [Music-Source-Separation](https://github.com/jarredou/Music-Source-Separation-Training-Colab-Inference)
