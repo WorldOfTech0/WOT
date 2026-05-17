@@ -26,8 +26,8 @@
 
 ## ▷ Windows Activation
 
-- ⭐ **[MAS](https://rentry.co/FMHYB64#mas)** - Windows & Office Activation / [Discord](https://discord.gg/gjJEfq7ux8)
-- [OfficeRTool](https://rentry.co/FMHYB64#officertool-project) - Office Activation / Offline
+- ⭐ **[MAS](https://rentry.co/gt8yat2y#mas)** - Windows & Office Activation / [Discord](https://discord.gg/gjJEfq7ux8)
+- [OfficeRTool](https://rentry.co/gt8yat2y#officertool-project) - Office Activation / Offline
 
 ---
 
