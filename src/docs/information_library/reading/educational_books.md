@@ -1,8 +1,8 @@
 # ► Educational Books
 
-- ↪️ **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_language_learning)**
-- ↪️ **[Dictionaries / Thesaurus'](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_dictionaries_.2F_thesaurus)**
-- ↪️ **[Encyclopedias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_encyclopedias)**
+- ↪️ **[Language Learning Resources](../educational/lang-learning#-language-learning)**
+- ↪️ **[Dictionaries / Thesaurus'](../educational/edu-tools#-dictionaries--thesaurus)**
+- ↪️ **[Encyclopedias](../educational/edu-tools#-encyclopedias)**
 - ⭐ **[Openstax](https://openstax.org/)**
 - ⭐ **[AcademicTorrents](https://academictorrents.com/)**
 - [Institutional Access](https://www.facebook.com/groups/850609558335839) - Request Institutional Access PDFs
@@ -55,7 +55,7 @@
 
 ## ▷ Textbooks
 
-- ↪️ **[JEE / NEET Textbooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_jee_.2F_neet)**
+- ↪️ **[JEE / NEET Textbooks](../educational/exam-prep#-jee--neet)**
 - 🌐 **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - Open-Source Textbooks
 - [Textbook Search Engine](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers), [2](https://cse.google.com/cse?cx=001639227550064093264:dznewka3cca) - Search for Textbooks
 - [Open Textbook Library](https://open.umn.edu/opentextbooks/) - Textbooks
@@ -169,8 +169,8 @@
 
 ## ▷ Academic Papers
 
-- ↪️ **[Study / Research Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
-- ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
+- ↪️ **[Study / Research Tools](../educational/edu-tools#-study--research)**
+- ↪️ **[Research Paper Chatbots](../ai/chatbots#-specialized-chatbots)**
 - ⭐ **[Sci-Hub](https://sci-hub.ru/)** - Science Articles / Research Papers / [Mirrors](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down) / [VK](https://vk.com/sci_hub) / [Subreddit](https://reddit.com/r/scihub)
 - ⭐ **Sci-Hub Tools** - [Official TG Bot](https://t.me/scihubot), [2](https://t.me/freescience) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/en/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Dumps](https://redd.it/edwi9b) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
 - ⭐ **[arXiv](https://arxiv.org/)** or [ChinaRxiv](https://chinarxiv.org/) - Research Papers

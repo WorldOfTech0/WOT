@@ -1,6 +1,6 @@
 # ► Special Interest
 
-- ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
+- ↪️ **[Survival / Prepping](../uncategorised/survival)**
 - ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
 - [FreeSFOnline](https://www.freesfonline.net/) - Sci-Fi / Fantasy
 - [eBookHunter.net](https://www.ebookhunter.net/) or [EpubPuB](https://www.epub.pub/) - Romance / Fantasy
@@ -39,7 +39,7 @@
 - [WTR-LAB](https://wtr-lab.com/) - Online Reading / Requires Sign-Up for AI Translations
 - [Vynovel](https://vynovel.com/) - Online Reading
 - [Novel Bin](https://novelbin.com/), [2](https://novelbin.me/) - Online Reading
-- [Translated Light Novels](https://rentry.co/FMHYB64#translated-light-novels) - Downloads
+- [Translated Light Novels](https://rentry.co/gt8yat2y#translated-light-novels) - Downloads
 - [⁠jnovels](https://jnovels.com/) - Downloads
 - [MP4DIRECTS](https://mp4directs.com/) - Downloads
 - [⁠Light Novel World](https://lightnovelworld.org/) - Online Reading
@@ -108,9 +108,9 @@
 ## ▷ Newspapers
 
 - 🌐 **[Veridian](https://veridiansoftware.com/collections/)** - Newspaper Archive List
-- ↪️ **[Bypass Newspaper Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-- ↪️ **[Worldwide News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_news)**
-- ⭐ **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)** / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
+- ↪️ **[Bypass Newspaper Paywalls](../internet-tools/tools#-paywall-bypass)**
+- ↪️ **[Worldwide News Sites](../miscellaneous/news#-news)**
+- ⭐ **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)**
 - ⭐ **[Google Newspaper Search](https://news.google.com/newspapers)**
 - [SoftArchive](https://softarchive.download/newspapers)
 - [Meta-Press](https://www.meta-press.es/) - Newspaper Search
@@ -123,7 +123,7 @@
 - [Newspapers](https://newspapers.com/)
 - [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
 - [Library of Congress Newspapers](https://guides.loc.gov/foreign-newspapers/digital-resources)
-- [Archive.org Newspapers](https://rentry.co/FMHYB64#archiveorg-newspapers)
+- [Archive.org Newspapers](https://rentry.co/gt8yat2y#archiveorg-newspapers)
 - [World-Newspapers](https://world-newspapers.com/), [NewsPaperIndex](https://www.newspaperindex.com/) or [Paperboy](https://www.thepaperboy.com/) - Online Newspaper Indexes
 - [LA Times](https://latimes.newspapers.com/)
 - [Front Pages](https://www.frontpages.com/) - Newspaper Front Pages
