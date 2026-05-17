@@ -1,6 +1,6 @@
 # ► Markup Tools
 
-- ↪️ **[HTML Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_html)**
+- ↪️ **[HTML Tools](../developer-tools/web#-html)**
 - ⭐ **[Markdown Guide](https://www.markdownguide.org/)** - Guide for Markdown (.md)
 - ⭐ **[generatedata.com](https://generatedata.com/)** - Generate Test Data in Markup Formats
 - [markup.rocks](https://markup.rocks/) - Online Markup Editor

@@ -2,8 +2,8 @@
 
 - 🌐 **[List of Text Editors](https://wikipedia.org/wiki/List_of_text_editors)** - Text Editor / Notepad Index
 - 🌐 **[⁠TextEditors](http://texteditors.org/)** - Text Editor Index + Reviews
-- ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_text_tools)**
-- ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
+- ↪️ **[Android Text Editor](../mobile/android-camera#-android-text-tools)**
+- ↪️ **[Code Editors / IDEs](../developer-tools/ides#-ides--code-editors)**
 - ⭐ **[Notepad++](https://notepad-plus-plus.org/)** - Notepad & Code Editor / Windows / [GitHub](https://github.com/notepad-plus-plus/notepad-plus-plus)
 - [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor / Windows, Mac, Linux
 - [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor / Windows, Mac, Linux / [GitHub](https://github.com/evpo/EncryptPad)
@@ -19,7 +19,7 @@
 
 ## ▷ Note-Taking
 
-- ↪️ **[Android Note-Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_text_tools)**
+- ↪️ **[Android Note-Taking](../mobile/android-camera#-android-text-tools)**
 - ⭐ **[Obsidian](https://obsidian.md/)** - Markdown Note-Taking / All Platforms / [Discord](https://discord.gg/obsidianmd)
 - ⭐ **Obsidian Tools** - [Publish Notes](https://dg-docs.ole.dev/) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Google Drive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [Guides](https://help.obsidian.md/Home) / [Forum](https://forum.obsidian.md/)
 - ⭐ **[AnyType](https://anytype.io/)** - Note-Taking / E2EE / All Platforms / [Telegram](https://t.me/anytype) / [GitHub](https://github.com/anyproto/anytype-ts)
@@ -27,7 +27,7 @@
 - ⭐ **[Logseq](https://logseq.com/)** - Outlining / All Platforms / [Discord](https://discord.com/invite/VNfUaTtdFb) / [GitHub](https://github.com/logseq/logseq)
 - ⭐ **[Notesnook](https://notesnook.com/)** - Note-Taking / E2EE / All Platforms + Web / [Discord](https://discord.com/invite/zQBK97EE22) / [GitHub](https://github.com/streetwriters/notesnook)
 - [Simplenote](https://simplenote.com/) - Note-Taking / All Platforms / [GitHub](https://github.com/Automattic/simplenote-electron)
-- [AFFiNE](https://affine.pro/) - Note-Taking / All Platforms + Web / [GitHub](https://github.com/toeverything/AFFiNE) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/affine-note.md)
+- [AFFiNE](https://affine.pro/) - Note-Taking / All Platforms + Web / [GitHub](https://github.com/toeverything/AFFiNE)
 - [Notion](https://www.notion.com/) - Note-Taking / All Platforms + Web
 - Notion Tools - [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/) / [Web Clipper](https://www.notion.com/web-clipper)
 - [Lokus](https://www.lokusmd.com/) - Markdown Note-Taking / Windows, Mac, Linux / [GitHub](https://github.com/lokus-ai/lokus)
@@ -60,7 +60,7 @@
 
 ## ▷ Office Suites
 
-- ↪️ **[Office Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** / [Custom Install Guide](https://massgrave.dev/office_c2r_custom)
+- ↪️ **[Office Activation](../system-tools/windows-isos#-windows-activation)** / [Custom Install Guide](https://massgrave.dev/office_c2r_custom)
 - ⭐ **[LibreOffice](https://www.libreoffice.org/)** - FOSS Office Suite
 - ⭐ **[OnlyOffice](https://www.onlyoffice.com/)** - Office Suite
 - ⭐ **[Microsoft Office](https://massgrave.dev/office_c2r_links)** / [Linux](https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b) - Office Suite / [Hotkeys](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd) / [Removal Tool](https://github.com/abbodi1406/WHD/blob/master/scripts/OfficeScrubber_14.zip), [2](https://gitlab.com/stdout12/batutil/-/tree/master/OfficeScrubber), [3](https://codeberg.org/stdout12/BatUtil/src/branch/master/OfficeScrubber)
@@ -170,8 +170,8 @@
 
 ## ▷ Writing Tools
 
-- ↪️ **[AI Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_writing_tools)**
-- ↪️ **[RPG / Fantasy Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
+- ↪️ **[AI Writing Tools](../ai/writing)**
+- ↪️ **[RPG / Fantasy Writing Tools](../http://localhost:3000/gaming-tools/genre-specific#-rpg-worldbuilding)**
 - ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/), [Aurelius](https://aurelius.ink), [ZenPen](https://zenpen.io/), [Write.as](https://write.as/), [Owri](https://owri.netlify.app/), [WriteSpace](https://www.writespace.app/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
 - ⭐ **[Manuskript](https://www.theologeek.ch/manuskript/)** - Writing Organizer / Planner
 - ⭐ **[NovelWriter](https://novelwriter.io/)** or [Bibisco](https://bibisco.com/) - Novel Editors
@@ -198,9 +198,9 @@
 
 ## ▷ To Do Lists
 
-- ↪️ **[Android To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_to-do_apps)**
+- ↪️ **[Android To-Do Apps](../mobile/android-camera#-to-do-apps)**
 - ⭐ **[Goblin.tools](https://goblin.tools/ToDo)** - Automatic Task Breakdown
-- ⭐ **[TickTick](https://www.ticktick.com/)** / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2) (search)
+- ⭐ **[TickTick](https://www.ticktick.com/)** / [Features](../desktop/linux-apps#-software-sites) (search)
 - ⭐ **[Super Productivity](https://super-productivity.com/)**
 - [Columns](https://columns.app/) - Checklists
 - [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
