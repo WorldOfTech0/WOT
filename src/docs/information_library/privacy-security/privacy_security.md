@@ -1,10 +1,10 @@
 # ► Privacy / Security
 
-- ↪️ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)**
-- ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_encryption)**
-- ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_formatting_.2F_deletion)**
-- ↪️ **[Photo Forensics / Metadata](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata)**
-- ↪️ **[Privacy-Focused Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_operating_systems)**
+- ↪️ **[SMS Verification Sites](../uncategorised/sms-verification-sites)**
+- ↪️ **[File Encryption](../file-tools/tools#-file-encryption)**
+- ↪️ **[Drive Formatting / File Deletion](../file-tools/tools#-formatting--deletion)**
+- ↪️ **[Photo Forensics / Metadata](../image-tools/camera#-photo-forensics--metadata)**
+- ↪️ **[Privacy-Focused Android Operating Systems](../mobile/android-device#-operating-systems)**
 - ⭐ **[Whonix](https://www.whonix.org/)** / [Telegram](https://t.me/s/Whonix) / [GitHub](https://github.com/Whonix), **[Qubes](https://www.qubes-os.org/)** / [GitHub](https://github.com/QubesOS) or **[Tails](https://tails.net/)** / [Telegram](https://t.me/torproject) / [GitHub](https://github.com/torproject) - Privacy-Focused Operating Systems
 - [W10Privacy](https://www.w10privacy.de/english-home/) - Privacy and Data Protection Tools
 - [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Windows 10/11 Telemetry
@@ -68,18 +68,26 @@
 
 ---
 
-## ▷ [Linux Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_adblock_.2F_privacy)
+## ▷ Linux Privacy
+
+- [Linux Privacy](../desktop/linux-tools#-adblock--privacy)
 
 ---
 
-## ▷ [Mac Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_adblock_.2F_privacy)
+## ▷ Mac Privacy
+
+- [Mac Privacy](../desktop/mac-tools#-mac-adblock--privacy)
 
 ---
 
-## ▷ [Android Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_privacy)
+## ▷ Android Privacy
+
+- [Android Privacy](../mobile/android-camera#-android-adblocking)
 
 ---
 
-## ▷ [iOS Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_privacy)
+## ▷ iOS Privacy
+
+- [iOS Privacy](../mobile/ios-tools#-ios-privacy)
 
 ---
