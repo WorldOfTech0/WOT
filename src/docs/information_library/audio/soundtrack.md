@@ -25,7 +25,7 @@
 - [Chip Player JS](https://chiptune.app/) - Retro Game Soundtracks / Web / [GitHub](https://github.com/mmontag/chip-player-js)
 - [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
 - [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
-- [HCS Forum](https://rentry.co/FMHYB64#hcs-forum) - Game Soundtracks
+- [HCS Forum](https://rentry.co/gt8yat2y#hcs-forum) - Game Soundtracks
 - [GameOST](https://gameost.net/) - Game Soundtracks / MP3
 - [exotica](https://www.exotica.org.uk/) - Amiga Games Soundtracks
 - [⁠OC Remix](https://ocremix.org/) - Game Music Remixes / Download / Torrent

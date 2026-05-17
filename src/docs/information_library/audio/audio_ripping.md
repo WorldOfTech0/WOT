@@ -24,10 +24,10 @@
 
 ## ▷ Audio Ripping Tools
 
-- ↪️ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
+- ↪️ **[YouTube Downloaders](../social-tools/telegram-youtube#-youtube-downloaders)**
 - ⭐ **[Nicotine+](https://nicotine-plus.org/)** or [Soulseek](https://slsknet.org/) - P2P Audio Sharing Networks / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch](https://github.com/fiso64/sldl)
 - ⭐ **[Exact Audio Copy](https://www.exactaudiocopy.de/)** / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
-- ⭐ **[Firehawk52](https://rentry.co/FMHYB64#firehawk)** - Deezer / Qobuz / Tidal / Requires Sign-Up / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
+- ⭐ **[Firehawk52](https://rentry.co/gt8yat2y#firehawk)** - Deezer / Qobuz / Tidal / Requires Sign-Up / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
 - [OnTheSpot](https://github.com/justin025/onthespot) - Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal / [Discord](https://discord.com/invite/hz4mAwSujH)
 - [⁠Antra](https://github.com/anandprtp/Antra) - Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites / [Telegram](https://t.me/antraaverse)
 - [Votify](https://github.com/GladistonXD/votify-fix) - Spotify / 160kb Free / 320kb Premium / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
@@ -62,7 +62,7 @@
 
 ## ▷ Download Sites
 
-- **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying link shorteners.
+- **Note** - Use **[redirect bypassers](../internet-tools/url#-redirect-bypass)** to skip annoying link shorteners.
 
 ---
 
@@ -144,12 +144,12 @@
 - [1Trance](https://1trance.org/) - Trance / MP3
 - [1Techno](https://1techno.org/) - Techno / MP3
 - [GlobalDJMix](https://globaldjmix.com/) - DJ Mixes / MP3
-- [oVPN DJ Mixes](https://rentry.co/FMHYB64#ovpn-dj-mixes) - DJ Mixes
+- [oVPN DJ Mixes](https://rentry.co/gt8yat2y#ovpn-dj-mixes) - DJ Mixes
 - [⁠TestPressing](https://www.testpressing.org/) - Rare DJ Mixes
 - [LOA2K](https://loa2k.neocities.org/) or [Nu Guide](https://nuvaporwave.neocities.org/mirrors.html) - Vaporwave
 - [inconstant sol](https://inconstantsol.blogspot.com/), [David W. Niven Collection](https://archive.org/details/davidwnivenjazz) or [JazznBlues](https://jazznblues.club/) - Jazz / MP3
 - [EssentialHouse](https://essentialhouse.club/) - House / MP3
-- [Bluegrass Archive](https://rentry.co/FMHYB64#bluegrass-archive) - Bluegrass / FLAC
+- [Bluegrass Archive](https://rentry.co/gt8yat2y#bluegrass-archive) - Bluegrass / FLAC
 - [BurningTheGround](https://burningtheground.net/) - 80s / 90s / FLAC
 - [aboutdisco](https://aboutdiscowithlove.blogspot.com/) - Disco / MP3
 - [ProgRockVintage](https://www.progrockvintage.com/) - Classic Rock / MP3
@@ -164,9 +164,9 @@
 - [Rap War](https://rap-war-fam.blogspot.com/) - Hip Hop / MP3
 - [Dez Flight Underground](https://dezflight-underground.com/) - Underground Hip Hop
 - [⁠Certified Mixtapez](https://www.certifiedmixtapez.com/) - Mixtapes / MP3
-- [Mixtape Collections](https://rentry.co/FMHYB64#mixtape-collections) - Mixtape Collections
+- [Mixtape Collections](https://rentry.co/gt8yat2y#mixtape-collections) - Mixtape Collections
 - [The Noise-Arch Archive](https://archive.org/details/noise-arch) - Underground Cassette Tapes
-- [Bootleg Radioclash](https://rentry.co/FMHYB64#bootleg-radioclash) - Mashups / MP3
+- [Bootleg Radioclash](https://rentry.co/gt8yat2y#bootleg-radioclash) - Mashups / MP3
 - [Tom Lehrer Songs](https://tomlehrersongs.com/) - All Tom Lehrer Songs / Public Domain
 - [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
 - [KPopFLAC](https://www.kpopflac.xyz/) - K-Pop / FLAC
@@ -179,11 +179,11 @@
 
 # ► Audio Torrenting
 
-- **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind it to your client](https://wispydocs.pages.dev/torrenting/) if it allows.
+- **Note** - Remember to get a [VPN](../privacy-security/vpn) before torrenting and [bind it to your client](https://wispydocs.pages.dev/torrenting/) if it allows.
 
 ---
 
-- ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
+- ↪️ **[General Torrent Sites](../downloading/torrent-sites)**
 - ⭐ **[Redacted](https://redacted.sh/)** - MP3 / FLAC / [Interviews](https://interviewfor.red/), [2](https://igwiki.lyci.de/wiki/Redacted.sh_Guide)
 - ⭐ **[New-Team](https://new-team.org/)** - MP3 / FLAC
 - ⭐ **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / [Interviews](https://interview.orpheus.network/)
@@ -194,9 +194,9 @@
 - [Metal Tracker](https://en.metal-tracker.com/) or [RockBox](https://rawkbawx.rocks/) - Metal / MP3 320kb / FLAC
 - [BlackTorrent](https://blacktorrent.ru/) or [iPlayMetal](https://metal.iplay.ro/) - Metal / MP3 / FLAC
 - [MixtapeTorrent](http://www.mixtapetorrent.com/) - Mixtapes / MP3 / Various Bitrates
-- [TorrentTech](https://torrents.torrentech.org/) - Electronic / MP3 320kb / Requires Sign-Up / [Zip File](https://rentry.co/FMHYB64#torrenttech-zip)
+- [TorrentTech](https://torrents.torrentech.org/) - Electronic / MP3 320kb / Requires Sign-Up / [Zip File](https://rentry.co/gt8yat2y#torrenttech-zip)
 - [TribalMixes](https://www.tribalmixes.com/) - Forum / DJ Mixes / MP3
-- [the /kpg/ torrent](https://rentry.co/FMHYB64#kpop-torrent) - K-Pop / MP3 320kb / FLAC
+- [the /kpg/ torrent](https://rentry.co/gt8yat2y#kpop-torrent) - K-Pop / MP3 320kb / FLAC
 - [PandaCD](https://pandacd.io/) - User-Made Music / MP3 / FLAC
 - [NFO DB](https://nfodb.net.ru/) - MP3 NFO Database
 - [PreDB.eu](https://predb.eu) - Music PreDB

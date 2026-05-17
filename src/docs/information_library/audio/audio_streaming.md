@@ -3,9 +3,9 @@
 ## ▷ Streaming Apps
 
 - 🌐 **[/music streaming/](https://rentry.co/musicstreaming)** or [Wiki Comparisons](https://wikipedia.org/wiki/Comparison_of_music_streaming_services) - Streaming Service Comparisons
-- ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools)**
-- ↪️ **[YouTube Music Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)**
-- ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
+- ↪️ **[Spotify Clients](../audio/spotify-tools)**
+- ↪️ **[YouTube Music Tools](../audio/audio-streaming#-youtube-music-tools)**
+- ↪️ **[YouTube Music Mobile](../mobile/android-audio#-youtube-music)**
 - ⭐ **[Pear Desktop](https://github.com/pear-devs/pear-desktop)** - YouTube Music Client w/ Adblock
 - [Moosync](https://moosync.app/) - YouTube / Spotify / [Discord](https://discord.gg/HsbqbRune3) / [GitHub](https://github.com/Moosync/Moosync)
 - [Audion](https://audionplayer.com/) - Streaming / Plugin-Based / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
@@ -23,7 +23,7 @@
 
 ## ▷ Streaming Sites
 
-- ⭐ **[YouTube Music](https://music.youtube.com/)** - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
+- ⭐ **[YouTube Music](https://music.youtube.com/)** - YouTube Music WebUIs / [Tools](../audio/audio-streaming#-youtube-music-tools)
 - ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev), [4](https://lossless.wtf/) - Browser Music / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 - ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 - ⭐ **[SoundCloud](https://soundcloud.com/)** - User-Made & User-Uploaded Songs
@@ -36,7 +36,7 @@
 - [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 - [BeatBoss](https://beatboss-web.thevolecitor.qzz.io/) - Browser Music / Plugin-Based / [GitHub](https://github.com/TheVolecitor/BeatBoss)
 - [Mixupload](https://mixupload.com/) - Browser Music
-- [zvu4no](https://zvu4no.org/) or [Tancpol](https://tancpol.net/) - Russian Music / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+- [zvu4no](https://zvu4no.org/) or [Tancpol](https://tancpol.net/) - Russian Music / Use [Translator](../text-tools/tools#-translators)
 - [jiosaavn](https://www.jiosaavn.com/) or [Hayasaka](https://hayasaka.vercel.app/) - Browser Music / [API](https://cyberboysumanjay.github.io/JioSaavnAPI/)
 - [MTV REWIND](https://wantmymtv.xyz/) / [2](https://wantmymtv.vercel.app/) - Recreates MTV Experience from Different Eras
 - [The 120 Minutes Archive](https://120minutes.org/) - MTV's 120 Minutes Archive
