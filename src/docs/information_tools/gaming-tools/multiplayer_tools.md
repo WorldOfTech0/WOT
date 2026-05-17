@@ -1,7 +1,7 @@
 # ► Multiplayer Tools
 
 - ⭐ **[Nucleus Co-op](https://github.com/SplitScreen-Me/splitscreenme-nucleus)** - Local Split-Screen PC Multiplayer / [Subreddit](https://www.reddit.com/r/nucleuscoop/)
-- [Fightcade](https://www.fightcade.com/) - Retro Multiplayer Game Matchmaking Tool / [Automation Guide](https://rentry.co/FMHYB64#fightcade) / [Discord](https://discord.gg/EyERRSg)
+- [Fightcade](https://www.fightcade.com/) - Retro Multiplayer Game Matchmaking Tool / [Automation Guide](https://rentry.co/gt8yat2y#fightcade) / [Discord](https://discord.gg/EyERRSg)
 - [⁠GameDate](https://www.gamedate.org/) - Game Session Scheduling Platform / [Subreddit](https://www.reddit.com/r/GameDate/)
 - [⁠bo3.gg](https://bo3.gg/) - Track ESport Matches, Scores and Streams
 - [Liquipedia](https://liquipedia.net/) - Competitive Gaming / ESports Wiki / [Discord](https://discord.com/invite/liquipedia)
@@ -37,14 +37,14 @@
 - [IW4x](https://iw4x.io/) - COD Modern Warfare 2 (2009) Multiplayer Client / Requires Clean Files / [Discord](https://discord.com/invite/pV2qJscTXf) / [GitHub](https://github.com/iw4x/iw4x-client)
 - [Aurora](https://auroramod.dev/) - Modern Warfare Remastered + Infinite Warfare Multiplayer Client / Requires Clean Files / [Discord](https://discord.com/invite/6pSNTjtTCG) / [GitHub](https://github.com/auroramod/h1-mod)
 - [HorizonMW](https://discord.gg/horizonmw) - Modern Warfare Remastered Multiplayer Client / [Guide](https://youtu.be/BgfTZMXeQ8E) / [Servers / Info](https://master.iw4.zip/)
-- [Ezz-BOIII](https://rentry.co/FMHYB64#boiii) - COD Black Ops 3 Multiplayer Client
+- [Ezz-BOIII](https://rentry.co/gt8yat2y#boiii) - COD Black Ops 3 Multiplayer Client
 - [CoD4x Mod](https://cod4x.ovh/) - COD4 (2007) Multiplayer Project / Requires MP Key / [Discord](https://discord.cod4x.ovh/)
 - [Venice Unleashed](https://veniceunleashed.net/) / [Discord](https://discord.com/invite/dpJwaVZ) or [Warsaw Revamped](https://warsaw.gg/) / [Discord](https://discord.com/invite/C9Zrh4G) - Battlefield Mod Projects
 - [SM64 Coop Deluxe](https://sm64coopdx.com/) - Super Mario 64 Co-Op / [Discord](https://discord.gg/TJVKHS4) / [GitHub](https://github.com/coop-deluxe/sm64coopdx)
 - [Smash64](https://smash64.online/) - Super Smash Bros 64 Online / [Discord](https://discord.gg/ssb64)
 - [Marne](https://marne.io/) - BF1 Multiplayer Project / [Discord](https://marne.io/discord)
 - [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online / [Discord](https://discord.com/invite/pPfEaW5)
-- [MBAACC](https://rentry.co/FMHYB64#mbaacc) - Melty Blood Community Edition / Improved Netcode / [Discord](https://discord.gg/KeuSaJ5My8)
+- [MBAACC](https://rentry.co/gt8yat2y#mbaacc) - Melty Blood Community Edition / Improved Netcode / [Discord](https://discord.gg/KeuSaJ5My8)
 - [Tilted Online](https://wiki.tiltedphoques.com/tilted-online/) - Multiplayer Skyrim & Fallout 4 / [Setup Guide](https://youtu.be/ytSftFoQQHA) / [Discord](https://discord.gg/skyrimtogether) / [GitHub](https://github.com/tiltedphoques/TiltedEvolution)
 - [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer / [Discord](https://discord.com/invite/mKVdhmEDrW)
 - [Nitrox](https://nitrox.rux.gg/) - Subnautica Multiplayer Mod / [Subreddit](https://www.reddit.com/r/SubnauticaNitrox/) / [Discord](https://discord.gg/E8B4X9s) / [GitHub](https://github.com/SubnauticaNitrox/Nitrox)
@@ -82,7 +82,7 @@
 - [⁠Crysis Wars MP](https://crysiswarsmp.com/) - Crysis Warhead Multiplayer Revival / [Discord](https://discord.gg/RBmvztP)
 - [FXPGunZ](https://fxpgunz.com/) - GunZ Multiplayer Revival
 - [⁠Cypress](https://github.com/PvZ-Cypress/Cypress) - PvZ Garden Warefare 1 + 2 and Battle for Neighborville Private Server Browser
-- [OpenExonaut](https://rentry.co/FMHYB64#openexonaut) - Cartoon Network's Project Exonaut Multiplayer Revival
+- [OpenExonaut](https://rentry.co/gt8yat2y#openexonaut) - Cartoon Network's Project Exonaut Multiplayer Revival
 - [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project / [Discord](https://discord.gg/GqxxgBj)
 - [⁠Carbon](https://discord.gg/52d8ydB5dz) - Self-Hostable Private Fortnite Servers / 1.7.2-30.00 & 30.10+ Via Proxy
 - [Revive Joint Operations](https://revivejointops.com/) or [JointOps2024](https://jointops2024.com/) - Joint Ops Revival Project / Clean Files Required / [YouTube](https://www.youtube.com/@SPAGHETTI-JO) / [Discord](https://discord.com/invite/7AG8gTq)
@@ -91,7 +91,7 @@
 - [Clash of Magic](https://www.clashofmagic.io/) / [Discord](https://discord.gg/eSbkhDF) or [Atrasis](https://atrasisclash.net/) / [Discord](https://discord.gg/wmSjaTJ) - Clash of Clans Private Servers
 - [Rusticaland](https://rusticaland.net/) - Free Rust Servers / [Discord](https://discord.com/invite/MD9RgdYhpf)
 - [The Crew Unlimited](https://thecrewunlimited.com/) - The Crew 1 Revival Project / [Discord](https://discord.gg/Ms7T5vWgP5)
-- [BFME Arena](https://rentry.co/FMHYB64#bfme) - LOTR: The Battle for Middle-Earth Multiplayer / Launcher
+- [BFME Arena](https://rentry.co/gt8yat2y#bfme) - LOTR: The Battle for Middle-Earth Multiplayer / Launcher
 - [Ephinea](https://ephinea.pioneer2.net/) - Phantasy Star Online Blue Burst Server Revival
 - [PSO Servers](https://www.reddit.com/r/PSO/wiki/servers) - Phantasy Star Online 1 Server Revivals
 - [DramaSO](https://www.dramaso.org/) - Sims Online Server Revival

@@ -70,7 +70,6 @@ Resources and tools for genre_specific will be curated here.
 ## ▷ Tabletop Tools
 
 - 🌐 **[Awesome TTRPGs](https://github.com/Zireael07/awesome-tabletop-rpgs)** - Online TTRPGs & Resources
-- ↪️ **[D&D Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_dungeons_.26amp.3B_dragons)** - Dungeons & Dragons Guides / Tools
 - ⭐ **[dice.run](https://dice.run/)**, [DiceSimulator.com](http://www.dicesimulator.com/), [Let's Roll](https://www.linepup.com/dice/) or [Desktop Dice](https://girkovarpa.itch.io/desktopdice) - Dice Simulators
 - [Scorecard.gg](https://scorecard.gg/) - Create Scorecards for Game Matches
 - [RPGBOT](https://rpgbot.net/), [Wargamer](https://www.wargamer.com/), [Roll for Fantasy](https://rollforfantasy.com/), [Kassoon](https://www.kassoon.com/) or [DragonsFoot](https://www.dragonsfoot.org/) - RPG / TTRPG Tools & Learning Resources
@@ -89,7 +88,7 @@ Resources and tools for genre_specific will be curated here.
 
 ## ▷ RPG Worldbuilding
 
-- ↪️ **[Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_writing_tools)** - Writing Tools / Story Managers
+- ↪️ **[Writing Tools](../text-tools/editor#-writing-tools)** - Writing Tools / Story Managers
 - ⭐ **[Kanka](https://kanka.io/)**, [World Anvil](https://www.worldanvil.com/), [RPTools](https://www.rptools.net/), [Scabard](https://www.scabard.com/), [Adventurer's Codex](https://adventurerscodex.com) or [Fantasia Archive](https://fantasiaarchive.com/) - RPG Campaign Managers / Worldbuilding Suites
 - ⭐ **[Chaotic Shiny](http://chaoticshiny.com/)**, [Chartopia](https://chartopia.d12dev.com/), [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/), [Fantasy Name Generators](https://www.fantasynamegenerators.com/) or [Eigengrau's Generator](https://eigengrausgenerator.com/) - RPG / Fantasy Story Writing Tools
 - ⭐ **[donjon](https://donjon.bin.sh/)** or [Azgaar](https://azgaar.github.io/Fantasy-Map-Generator/) - Procedural RPG / Fantasy Map Generators
@@ -121,7 +120,7 @@ Resources and tools for genre_specific will be curated here.
 ## ▷ Visual Novel Tools
 
 - 🌐 **[Visual Novel Wiki](https://www.vnwiki.xyz/)** - Visual Novel Resources / Guides / [Discord](https://discord.gg/dejvpMhWaH) / [GitHub](https://github.com/VNWiki/visual-novel-wiki)
-- ↪️ **[Visual Novel DDL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_special_interest)** - Visual Novel Download Sites
+- ↪️ **[Visual Novel DDL](..//gaming/special-interest)** - Visual Novel Download Sites
 - [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 - [LunaTranslator](https://docs.lunatranslator.org/en/) / [GitHub](https://github.com/HIllya51/LunaTranslator), [⁠Translumo](https://github.com/ramjke/Translumo), [⁠Interpreter](https://github.com/bquenin/interpreter) or [⁠MTool](https://mtool.app/?lang=en) - Game / Visual Novel Translators
 - [VNDB](https://vndb.org/) - Visual Novel Database

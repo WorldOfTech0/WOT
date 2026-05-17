@@ -50,7 +50,7 @@
 - [⁠SteaMidra](https://github.com/Midrags/SFF) - Steam Multi-Tool w/ DLC Unlockers + Multiplayer Fixes
 - [CreamInstaller Revival](https://cs.rin.ru/forum/viewtopic.php?f=20&t=154539) - Steam DLC Unlocker / [GitHub](https://github.com/FroggMaster/CreamInstaller)
 - [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Origin and EA
-- [Anadius](https://rentry.co/FMHYB64#anadius) - EA DLC Unlocker
+- [Anadius](https://rentry.co/gt8yat2y#anadius) - EA DLC Unlocker
 - [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker
 
 ---
