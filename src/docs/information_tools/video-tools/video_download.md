@@ -1,14 +1,14 @@
 # ► Video Download
 
-- ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
-- ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
-- ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
+- ↪️ **[YouTube Video Downloaders](../social-tools/telegram-youtube#-youtube-archiving)**
+- ↪️ **[Twitch Video Downloaders](../social-tools/bilibili-twitch#-twitch-downloaders)**
+- ↪️ **[Download Managers](../file-tools/tools#-download-managers)**
 - ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - Multi-Site / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r)
 - ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://instances.cobalt.best/), [2](https://cobalt.directory/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 - ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.site/), [3](https://9xbuddy.in/) - Multi-Site / Online
-- [Video DownloadHelper](https://www.downloadhelper.net/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/video-downloadhelper.md), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
+- [Video DownloadHelper](https://www.downloadhelper.net/) , [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 - [CD(R)M-Project](https://cdm-project.com/explore/repos) - DRM Tools / [Discord](https://discord.gg/zvGBza34JP)
-- [DRM Bypass Toolkit](https://rentry.co/FMHYB64#dbt) - DRM Bypass Guide
+- [DRM Bypass Toolkit](https://rentry.co/gt8yat2y#dbt) - DRM Bypass Guide
 - [⁠VideoDL](https://github.com/CharlesPikachu/videodl) - Multi-Site
 - [NeoDLP](https://neodlp.neosubhamoy.com/) - Multi-Site / [Extension](https://github.com/neosubhamoy/neodlp-extension) / [GitHub](https://github.com/neosubhamoy/neodlp)
 - [VideoFK](https://www.videofk.com/) - Multi-Site / Online

@@ -1,8 +1,8 @@
 # ► Media Servers
 
-- ↪️ **[Torrent Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
-- ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools) / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
-- ⭐ **[Kodi](https://kodi.tv/)** or [Xbox Kodi](https://apps.microsoft.com/detail/9nblggh4t892) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools)
+- ↪️ **[Torrent Automation](../media/torrent#-torrent-apps)**
+- ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Tools](../video-tools/servers#-plex-tools) / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
+- ⭐ **[Kodi](https://kodi.tv/)** or [Xbox Kodi](https://apps.microsoft.com/detail/9nblggh4t892) - Media Server / [Tools](../video-tools/servers#-plex-tools)
 - [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
 - [Self-Hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides
 - [Prowlarr](https://prowlarr.com/) / [GitHub](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
@@ -10,7 +10,7 @@
 - [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer / [Discord](https://discord.com/invite/EbfftZ5Dd4)
 - [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 - [Seanime](https://seanime.app/) - Anime Server / [Discord](https://discord.com/invite/3AuhRGqUqh)
-- [Plex](https://www.plex.tv/) or [Plezy](https://plezy.app/) / [GitHub](https://github.com/edde746/plezy) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools)
+- [Plex](https://www.plex.tv/) or [Plezy](https://plezy.app/) / [GitHub](https://github.com/edde746/plezy) - Media Server / [Tools](../video-tools/servers#-plex-tools)
 - [DMS](https://github.com/anacrolix/dms) - Media Server
 - [Emby](https://emby.media/) - Media Server
 - [Universal Media Server](https://www.universalmediaserver.com/) - Media Server
@@ -40,7 +40,7 @@
 ## ▷ Plex Tools
 
 - [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
-- [Tautulli](https://tautulli.com/) - Server Monitor / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tautulli-note.md)
+- [Tautulli](https://tautulli.com/) - Server Monitor
 - [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
 - [Reaparr](https://www.reaparr.rocks/) - Merge Plex Libraries w/ Your Own
 - [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount Google Drive
