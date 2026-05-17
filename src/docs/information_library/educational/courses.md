@@ -3,7 +3,7 @@
 ## ▷ Streaming
 
 - 🌐 **[Limnology](https://limnology.co/)** - Educational YouTube Channels
-- ↪️ **[Udemy Tools / Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons)**
+- ↪️ **[Udemy Tools / Coupons](../uncategorised/udemy-coupons)**
 - ⭐ **[edX](https://www.edx.org/)** - Courses / [Downloader](https://github.com/rehmatworks/edx-downloader)
 - ⭐ **[MitOpenCourseWare](https://ocw.mit.edu/)** - Courses
 - ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl)
@@ -28,7 +28,7 @@
 
 ## ▷ Downloading
 
-- **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying link shorteners.
+- **Note** - Use **[redirect bypassers](../internet-tools/url#-redirect-bypass)** to skip annoying link shorteners.
 
 ---
 
@@ -36,7 +36,7 @@
 - ⭐ **[HackNation](https://hacksnation.com/)** - Courses
 - ⭐ **[tut4dl](https://tut4it.com/)** - Courses
 - ⭐ **[Course Busters](https://www.cbusters.com/home)** - Course Busters Access
-- [FreeCourseSite](https://freecoursesite.com/), [2](https://freecoursesites.com/) or [Docspedia](https://docspedia.world/) - Torrenting Sites / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
+- [FreeCourseSite](https://freecoursesite.com/), [2](https://freecoursesites.com/) or [Docspedia](https://docspedia.world/) - Torrenting Sites / Use [VPN](../privacy-security/vpn)
 - [AfraTafreeh](https://afratafreeh.com/) - Courses
 - [learningDL](https://learningdl.net/) - Courses / Requires Leech
 - [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses

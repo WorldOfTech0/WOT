@@ -6,7 +6,7 @@
 - 🌐 **[Python Discord](https://pythondiscord.com/resources/)** - Python Learning Resources
 - 🌐 **[Roadmap](https://roadmap.sh/)** - Developer Roadmaps / [GitHub](https://github.com/kamranahmedse/developer-roadmap)
 - 🌐 **[Path to Senior Engineer](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)** or [Professional Programming](https://github.com/charlax/professional-programming) - Software Engineer Resources
-- ↪️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
+- ↪️ **[Programming Books](../reading/educational-books#-programming-books)** - Read / Download Programming Books
 - ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
 - ⭐ **[git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)**, [Git Commands](https://gabrieldejesus.github.io/git-commands/) or [Git Cheatsheet](https://www.ndpsoftware.com/git-cheatsheet.html#loc=index;) - Git Command Lists
 - ⭐ **[OpenVim](https://openvim.com/)** - Interactive Vim Tutorials
@@ -185,7 +185,7 @@
 - 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** - Data Science Resources
 - 🌐 **[⁠Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis)** - Data Analysis Resources
 - 🌐 **[Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook)** - Data Engineer Resources
-- ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
+- ↪️ **[Machine / Deep Learning](../ai/benchmarks#-machine-learning)**
 - ⭐ **[Open Source Society University](https://github.com/ossu/data-science)** - Data Science Roadmap / [Discord](https://discord.gg/wuytwK5s9h)
 - [Mage](https://www.mage.ai/) - Data Science Pipelines
 - [Deepnote](https://deepnote.com/) - Data Science Notebook
@@ -207,7 +207,7 @@
 ## ▷ Data Structures
 
 - ⭐ **[Leetcode](https://leetcode.com/)** - Coding Practice
-- ⭐ **Leetcode Tools** - [Solutions](https://github.com/kamyu104/LeetCode-Solutions), [2](https://leetcode.ca/), [3](https://walkccc.me/LeetCode/), [4](https://doocs.github.io/leetcode/#/README_EN) / [Company Questions](https://rentry.co/FMHYB64#lcq) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode), [2](https://docs.google.com/spreadsheets/u/0/d/19ZIl3LeNLcKgEwNI9YF2hjkXL6ssGiFl/) / [Resources](https://github.com/ashishps1/awesome-leetcode-resources) / [Analytics](https://leetcode-company-questions.vercel.app/)
+- ⭐ **Leetcode Tools** - [Solutions](https://github.com/kamyu104/LeetCode-Solutions), [2](https://leetcode.ca/), [3](https://walkccc.me/LeetCode/), [4](https://doocs.github.io/leetcode/#/README_EN) / [Company Questions](https://rentry.co/gt8yat2y#lcq) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode), [2](https://docs.google.com/spreadsheets/u/0/d/19ZIl3LeNLcKgEwNI9YF2hjkXL6ssGiFl/) / [Resources](https://github.com/ashishps1/awesome-leetcode-resources) / [Analytics](https://leetcode-company-questions.vercel.app/)
 - [NeetCode](https://neetcode.io/) - Coding Interview Practice
 - [algonds](https://github.com/MaciejWas/algonds) - Coding Practice
 - [Codility](https://app.codility.com/programmers/) - Coding Practice
@@ -280,13 +280,13 @@
 ## ▷ Game Development
 
 - 🌐 **[Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev)**, [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev), [MagicTools](https://github.com/ellisonleao/magictools), [Newgrounds Wiki: Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources) or [The VG Resource](https://www.vg-resource.com/) - Learning Resources
-- ↪️ **[Game Dev Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25BA_game_dev_tools)**
+- ↪️ **[Game Dev Tools](../developer-tools/game-dev#-game-dev-tools)**
 - ⭐ **[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)** - Game Dev Tutorials
 - ⭐ **[r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community
 - [⁠20 Games Challenge](https://20_games_challenge.gitlab.io/) - Beginner Game Dev Challenges
 - [CodeWisp](https://codewisp.net/) - Interactive Beginner Game Dev Learning
 - [Amit’s Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Game Programming Guide
-- [GameProgramBooks](https://rentry.co/FMHYB64#gameprogrambooks) - Game Programming Books
+- [GameProgramBooks](https://rentry.co/gt8yat2y#gameprogrambooks) - Game Programming Books
 - [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Dev Concepts / [Web Version](https://www.pico-8-edu.com/)
 - [From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) - 2D Game Dev Book
 - [Web Game Dev](https://www.webgamedev.com/) - Game Dev Guides / [Discord](https://discord.com/invite/5Z28wjTeyh)

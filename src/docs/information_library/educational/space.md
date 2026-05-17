@@ -67,8 +67,8 @@
 
 ## ▷ Spacecraft
 
-- ↪️ **[Aerospace Engineering Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_aerospace_engineering)**
-- ↪️ **[Satellite / Earth Data](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_satellite_.2F_earth_data)**
+- ↪️ **[Aerospace Engineering Resources](../educational/science-maths#-aerospace-engineering)**
+- ↪️ **[Satellite / Earth Data](../miscellaneous/maps#-satellite--earth-data)**
 - ⭐ **[EarthData](https://worldview.earthdata.nasa.gov/)** - Daily Satellite Replays
 - ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [Copernicus Browser](https://browser.dataspace.copernicus.eu/), [SpaceFromSpace](https://spacefromspace.com/), [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
 - [NASASpaceFlight](https://www.nasaspaceflight.com/) - Launch Livestreams / News / [Forum](https://forum.nasaspaceflight.com/) / [X](https://x.com/NASASpaceflight) / [YouTube](https://www.youtube.com/@NASASpaceflight)

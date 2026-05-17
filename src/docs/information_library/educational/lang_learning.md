@@ -7,7 +7,7 @@
 - 🌐 **[LexiLogos](https://www.lexilogos.com/english/index.htm)** or [Dictionary Index](https://lyricstranslate.com/en/resources) - Language Dictionary Indexes
 - 🌐 **[Talking Dictionaries](https://talkingdictionary.swarthmore.edu/)** - Endangered Language Dictionary Index
 - 🌐 **[Comprehensible Input Wiki](https://comprehensibleinputwiki.org/)** - Learn Languages via Comprehensible Input
-- ↪️ **[Translation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
+- ↪️ **[Translation Tools](../text-tools/tools#-translators)**
 - ⭐ **[Language Transfer](https://www.languagetransfer.org/)** - Language Learning Lectures
 - ⭐ **[Language Reactor](https://www.languagereactor.com/)**, [Dreaming](https://dreaming.com/) / [Subreddit](https://www.reddit.com/r/dreamingspanish/), [2](https://www.reddit.com/r/DreamingFrench/), [LLPlayer](https://github.com/umlx5h/LLPlayer), [Trancy](https://www.trancy.org/) or [Easysubs](https://easysubs.cc/) - Learn Languages via Videos
 - ⭐ **[Readlang](https://readlang.com/)** - Learn a Language via Web Browsing
@@ -21,8 +21,8 @@
 - [Languagelearning.site](https://languagelearning.site/) - Language Learning Torrents
 - [Refold](https://refold.la/) - Language Learning Roadmap
 - [⁠Lengualytics](https://www.lengualytics.com/) - Comprehensible Input Tracker / Resources
-- [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Language Learning Lessons
-- [Language Drops](https://languagedrops.com/) / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [OkyDoky](https://www.okydoky.app/) - Language Learning App with Thematic Vocab
+- [LingoDeer](https://www.lingodeer.com/) or [Busuu](../mobile/android-apks#-modded-apks) (search) - Language Learning Lessons
+- [Language Drops](https://languagedrops.com/) / [Premium](../mobile/android-apks#-modded-apks) (search) or [OkyDoky](https://www.okydoky.app/) - Language Learning App with Thematic Vocab
 - [Yojik](https://fsi-languages.yojik.eu/index.html) or [FSI Language Courses](https://www.fsi-language-courses.org/) / [X](https://x.com/fsi_languages) - Language Learning Courses
 - [DLIFLC](https://gloss.dliflc.edu/) - Language Learning Quizzes
 - [Ba Ba Dum](https://babadum.com/) - Language Learning Game
@@ -80,7 +80,7 @@
 - [WriteAndImprove](https://writeandimprove.com/) - Improve English Writing
 - [Elsaspeak](https://elsaspeak.com/en/) - Practice English Conversations
 - [Spanish-English](https://discord.com/invite/spanish-english) or [English Chat](https://discord.gg/english) - English Learning Community / Discord
-- [Jumpinto](https://rentry.co/FMHYB64#jumpinto) or [IELTS69](https://www.ielts69.com/) - Cambridge English Practice Tests
+- [Jumpinto](https://rentry.co/gt8yat2y#jumpinto) or [IELTS69](https://www.ielts69.com/) - Cambridge English Practice Tests
 - [⁠IELTS Liz](https://ieltsliz.com/) - IELTS Test Preparation
 - [yell0wsuit](https://yell0wsuit.page/english.html) or [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Word Learning Site
 - [CEFR Lookup](https://cefrlookup.com/) - CEFR Word Level Lookup
@@ -96,9 +96,9 @@
 
 - 🌐 **[yame dame](https://yameda.me/)**, [Tatsumoto](https://tatsumoto-ren.github.io/), [GaijinRyman](https://github.com/GaijinRyman/LearningJapaneseResources), [Nihongo](https://nihongo-e-na.com/eng/), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/) or [AnimeCards](https://animecards.site/) - Learning Resources
 - 🌐 **[Japanese Pitch Accent Resources](https://github.com/olety/japanese-pitch-accent-resources)** - Japanese Accent Resources
-- ↪️ **[Japanese Learning Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_japanese_learning_sites)** / [YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_channels)
-- ↪️ **[Dictionaries / Translation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dictionaries_.2F_translation)**
-- ↪️ **[Kanji Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kanji_learning)**
+- ↪️ **[Japanese Learning Sites](../uncategorised/japanese-learning-sites)** / [YouTube Channels](../uncategorised/japanese-learning-sites#youtube-channels)
+- ↪️ **[Dictionaries / Translation](../uncategorised/japanese-learning-sites#dictionaries--translation)**
+- ↪️ **[Kanji Learning Resources](../uncategorised/japanese-learning-sites#kanji-learning)**
 - [JapaneseWithAnime](https://www.japanesewithanime.com/) or [Immersion Kit](https://www.immersionkit.com/) - Learn Japanese via Anime / Manga
 - [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese Beginners Podcast
 - [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension

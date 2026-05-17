@@ -1,13 +1,13 @@
 # ► Learning Sites
 
-- 🌐 **[Learn Anything](https://learn-anything.xyz/)** - Learning Resource Search / [Free Method](https://rentry.co/FMHYB64#learn-anything) / [Discord](https://discord.gg/W7yDkEN67Y) / [GitHub](https://github.com/learn-anything/learn-anything)
+- 🌐 **[Learn Anything](https://learn-anything.xyz/)** - Learning Resource Search / [Free Method](https://rentry.co/gt8yat2y#learn-anything) / [Discord](https://discord.gg/W7yDkEN67Y) / [GitHub](https://github.com/learn-anything/learn-anything)
 - 🌐 **[Wakelet](https://wakelet.com/explore)** - Learning Resources
 - 🌐 **[OpenCulture](https://www.openculture.com/)** - Learning Resources
 - 🌐 **[OSSU](https://github.com/ossu/)** - Learning Resources / [Discord](https://discord.gg/wuytwK5s9h)
 - 🌐 **[The Free Learning List](https://freelearninglist.org/)** - Learning Resources
 - 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
-- ↪️ **[Ebook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_books)**
-- ↪️ **[Quotes / Poetry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_quotes_.2F_poetry)**
+- ↪️ **[Ebook Sites](../reading/ebooks#-ebooks)**
+- ↪️ **[Quotes / Poetry](../reading/educational-books#-quotes--poetry)**
 - ⭐ **[PhET](https://phet.colorado.edu/)**, [⁠Project Lumen](https://www.projectlumen.app/), [Cognito](https://www.cognitoedu.org/) or [Academo](https://academo.org/) - Interactive Lessons
 - ⭐ **[r/coolguides](https://reddit.com/r/coolguides/)** or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
 - ⭐ **[r/educationalgifs](https://reddit.com/r/educationalgifs)** - Learn with GIFs

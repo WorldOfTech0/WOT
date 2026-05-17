@@ -1,8 +1,8 @@
 # ► History
 
-- ↪️ **[Historical Film Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_film_archives)**
-- ↪️ **[History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_history_books)**
-- ↪️ **[Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_historic_maps)** - Map Resources
+- ↪️ **[Historical Film Archives](../media/streaming#-film-archives)**
+- ↪️ **[History Books](../reading/educational-books#-history-books)**
+- ↪️ **[Historical Maps](../miscellaneous/maps#-historic-maps)** - Map Resources
 - ↪️ **[⁠WW2 Links](https://ww2links.ca/)** - Educational WW2 Resources
 - ⭐ **[Historic Films](https://www.historicfilms.com/)** or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 - ⭐ **[Histography](https://histography.io/)** - History Timelines
@@ -88,7 +88,7 @@
 - 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [⁠WorldAtlas](https://www.worldatlas.com/) or [Cool Maps](https://coolmaps.esri.com/) - Atlases
 - 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
 - 🌐 **[Country Infographics](https://rentry.org/o4gq6cq5)** - Country Infographic Images
-- ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
+- ↪️ **[Historical / Modern Maps](../miscellaneous/maps)** - Map Resources
 - ⭐ **[Worldometer](https://www.worldometers.info/)**, [TheScaleOfLife](https://www.thescaleoflife.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Data.gov](https://data.gov/) or [UN Data](https://data.un.org/) - World Data & Statistics
 - ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 - ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [JetPunk Geography](https://www.jetpunk.com/tags/geography), [LizardPoint](https://lizardpoint.com/) or [Seterra](https://www.seterra.com/#quizzes) - Geography Quiz Sites
@@ -129,7 +129,7 @@
 
 ## ▷ Economics
 
-- ↪️ **[Finance / Market Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_finance_.2F_savings)**
+- ↪️ **[Finance / Market Resources](../miscellaneous/career#-finance--savings)**
 - ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 - ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.gg/bvrwaDJveC)
 - [OEC](https://oec.world/en) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
