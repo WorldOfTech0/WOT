@@ -6,15 +6,15 @@
 
 - 🌐 **[Techlore Chart](https://vpn.techlore.tech/)** - VPN Comparison Charts
 - 🌐 **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)**, [2](https://windscribe.com/vpnmap) - VPN Relationship Map
-- ⭐ **[Cloudflare One](https://one.one.one.one/)** - Free / Unlimited / [Wireguard](https://rentry.co/foss-warp) (kill switch) / [Config Generator](https://colab.research.google.com/drive/1fomBbh0mRxpVoGAY5gYT5zPBnFKsLV9o?usp=sharing) / [Discord](https://discord.com/invite/cloudflaredev) / [Alt Client](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/alt-warp-clients.md)
-- ⭐ **[Proton VPN](https://protonvpn.com)** - Free & Paid / Unlimited / [Wireguard](https://protonvpn.com/support/wireguard-configurations) / [Subreddit](https://www.reddit.com/r/ProtonVPN/) / [Telegram](https://t.me/proton_privacy) / [Discord](https://discord.com/invite/proton) / [GitHub](https://github.com/ProtonVPN/) / [Torrent Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/proton-torrenting.md)
+- ⭐ **[Cloudflare One](https://one.one.one.one/)** - Free / Unlimited / [Wireguard](https://rentry.co/foss-warp) (kill switch) / [Config Generator](https://colab.research.google.com/drive/1fomBbh0mRxpVoGAY5gYT5zPBnFKsLV9o?usp=sharing) / [Discord](https://discord.com/invite/cloudflaredev)
+- ⭐ **[Proton VPN](https://protonvpn.com)** - Free & Paid / Unlimited / [Wireguard](https://protonvpn.com/support/wireguard-configurations) / [Subreddit](https://www.reddit.com/r/ProtonVPN/) / [Telegram](https://t.me/proton_privacy) / [Discord](https://discord.com/invite/proton) / [GitHub](https://github.com/ProtonVPN/)
 - ⭐ **[Windscribe](https://windscribe.com)** - Free & Paid / 10GB Monthly / No Torrenting w/ Free Plan / [Subreddit](https://www.reddit.com/r/Windscribe/) / [GitHub](https://github.com/windscribe)
 - ⭐ **[AirVPN](https://airvpn.org/)** - Paid / [.onion](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/) / [GitHub](https://github.com/AirVPN) / [GitLab](https://gitlab.com/AirVPN)
 - ⭐ **[Mullvad VPN](https://mullvad.net/)** - Paid / [No-Log](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [No Port Forwarding](https://mullvad.net/en/blog/removing-the-support-for-forwarded-ports) / [.onion](https://ao54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion) / [GitHub](https://github.com/mullvad)
 - ⭐ **[IVPN](https://www.ivpn.net/)** - Paid / [No-Log](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [No Port Forwarding](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/) / [Subreddit](https://www.reddit.com/r/IVPN/) / [GitHub](https://github.com/ivpn)
 - [Nym](https://nym.com/) - Paid / [5-Hop Mixnet](https://nym.com/mixnet) / [Subreddit](https://www.reddit.com/r/nym/) / [GitHub](https://github.com/nymtech/nym)
 - [RiseupVPN](https://riseup.net/en/vpn) - Free / Unlimited / No Port Forwarding / [GitHub](https://github.com/riseupnet)
-- [PrivadoVPN](https://privadovpn.com/freevpn) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
+- [PrivadoVPN](https://privadovpn.com/freevpn) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](../internet-tools/email#-temp-mail)
 - [Calyx VPN](https://calyxos.org/docs/guide/apps/calyx-vpn/) - Free / Unlimited
 
 ---
@@ -45,7 +45,7 @@
 
 ## ▷ VPN Tools
 
-- ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
+- ↪️ **[Free VPN Configs](../uncategorised/free-vpn-configs)**
 - ⭐ **[VPN Binding Guide](https://wispydocs.pages.dev/torrenting/)** - Bind VPN to Torrent Client to Avoid ISP Letters
 - [⁠WireSock](https://wiresock.net/) or [⁠Tunnl](https://tunnl.to/) - WireGuard Split Tunneling Clients
 - [WG Tunnel](https://wgtunnel.com/) - WireGuard Client / AmneziaWG / Android / [Windows](https://wgtunnel.com/blog/desktop-launch/) / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel)

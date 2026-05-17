@@ -1,7 +1,7 @@
 # ► Web Privacy
 
 - 🌐 **[Google Alt List](https://www.techspot.com/article/2752-all-google-alternatives/)**, [r/degoogle](https://www.reddit.com/r/degoogle) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
-- ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
+- ↪️ **[Encode / Decode URLs](../text-tools/tools#-encode--decode)**
 - ⭐ **[PrivacySpy](https://privacyspy.org/)** / [GitHub](https://github.com/politiwatch/privacyspy) or [ToS;DR](https://tosdr.org/) / [Discord](https://discord.gg/tosdr) / [GitHub](https://github.com/tosdr) - Sites Privacy Policies
 - ⭐ **[JustDeleteMe](https://justdeleteme.xyz/)** - Find / Terminate Old Accounts / [GitHub](https://github.com/jdm-contrib/jdm)
 - [Phish Report](https://phish.report/), [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) / [Telegram](https://t.me/joinchat/AAAAAElZRwd0aBrYTaHHcQ) / [GitHub](https://github.com/eschultze/phishstats-api-network) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
@@ -17,13 +17,13 @@
 ## ▷ Browser Privacy
 
 - 🌐 **[Browser Privacy Guides](https://www.privacyguides.org/en/desktop-browsers)** - Browser Privacy / Setup Guides
-- ↪️ **[Browser Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)**
-- ↪️ **[Android Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
+- ↪️ **[Browser Comparisons](../internet-tools/browser#-browser-tools)**
+- ↪️ **[Android Privacy Browsers](../mobile/android-camera#-android-browsers)**
 - ⭐ **[Tor Browser](https://www.torproject.org/)**, [2](https://tor.eff.org/) - Onion-Routed Browser / [TG Downloads / Bridges](https://t.me/torproject) / [.onion](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/) / [GitLab](https://gitlab.torproject.org/tpo/applications/tor-browser)
 - ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network) / [GitHub](https://github.com/mullvad)
-- ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
+- ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/)
 - ⭐ **[LibreWolf](https://librewolf.net/)** - Custom Privacy-Focused Firefox / [Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater), [2](https://codeberg.org/ltguillaume/librewolf-winupdater) / [Subreddit](https://www.reddit.com/r/LibreWolf) / [Source Code](https://codeberg.org/librewolf)
-- [⁠Phoenix](https://codeberg.org/celenity/Phoenix) - Firefox Privacy Tweak / [GitHub](https://github.com/celenityy/Phoenix) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
+- [⁠Phoenix](https://codeberg.org/celenity/Phoenix) - Firefox Privacy Tweak / [GitHub](https://github.com/celenityy/Phoenix)
 - [Brave Browser](https://brave.com/) - Privacy Chromium Browser / [Subreddit](https://www.reddit.com/r/brave_browser/) / [GitHub](https://github.com/brave/brave-browser)
 - [Encrypted SNI](https://www.cloudflare.com/ssl/encrypted-sni/) - Cloudflare Browser Check
 - [⁠Disable JavaScript](https://disable-javascript.org/) - JavaScript Disabling Guide / Can Break Sites / Whitelisting Required
@@ -33,7 +33,7 @@
 ## ▷ Password Privacy / 2FA
 
 - 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support / [GitHub](https://github.com/2factorauth/twofactorauth)
-- ↪️ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_password_managers)**
+- ↪️ **[Password Managers](../internet-tools/tools#-password-managers)**
 - ⭐ **[Ente Auth](https://ente.com/auth/)** - 2FA / All Platforms / [Discord](https://discord.gg/z2YVKkycX3) / [GitHub](https://github.com/ente-io/ente)
 - ⭐ **[Aegis](https://getaegis.app/)** - 2FA / Android / [X](https://x.com/beemdevelopment) / [GitHub](https://github.com/beemdevelopment/Aegis)
 - ⭐ **[Stratum](https://stratumauth.com)** - 2FA / Android / [GitHub](https://github.com/stratumauth/app)
@@ -89,8 +89,8 @@
 ## ▷ Email Privacy
 
 - 🌐 **[⁠OpenPGP Email Encryption](https://www.openpgp.org/software/)** - Encrypted (OpenPGP) Email Client Index
-- ↪️ **[Temp Mail Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)** - Create Temporary / Throwaway Emails
-- ↪️ **[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing)** - Create Permanent Anonymous Emails
+- ↪️ **[Temp Mail Sites](../internet-tools/email#-temp-mail)** - Create Temporary / Throwaway Emails
+- ↪️ **[Email Aliasing](../internet-tools/email#-email-aliasing)** - Create Permanent Anonymous Emails
 - ⭐ **[Proton Mail](https://proton.me/mail)** - 1GB Free / Encrypted Email / Deleted After 1 Year Inactive / [.onion](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/) / [Subreddit](https://www.reddit.com/r/ProtonMail/) / [More Storage](https://proton.me/support/more-free-storage-existing-users) / [Discord](https://discord.com/invite/proton) / [GitHub](https://github.com/ProtonMail)
 - ⭐ **[Tuta](https://tuta.com/)** - 1GB Free / Encrypted Email / Deleted After 6 Months Inactive / [Subreddit](https://www.reddit.com/r/tutanota/) / [GitHub](https://github.com/tutao/tutanota)
 - [Disroot](https://disroot.org/en/services/email) - 1GB Free / Encrypted Email
@@ -131,7 +131,7 @@
 ## ▷ Search Engines
 
 - 🌐 **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons / [GitLab](https://gitlab.com/nitrohorse/search-engines-compare)
-- ↪️ **[SearX Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_searx_instances)** - SearX Instance Index / [Docs / Hosting](https://docs.searxng.org/) / [.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) / [Matrix](https://matrix.to/#/#searxng:matrix.org) / [GitHub](https://github.com/searxng)
+- ↪️ **[SearX Instances](../uncategorised/searx-instances)** - SearX Instance Index / [Docs / Hosting](https://docs.searxng.org/) / [.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) / [Matrix](https://matrix.to/#/#searxng:matrix.org) / [GitHub](https://github.com/searxng)
 - ⭐ **[Brave Search](https://search.brave.com/)** - Independent / Supports DDG Bangs
 - ⭐ **[4get](https://4get.canine.tools/)**, [2](https://4get.ca/), [3](https://4g.opnxng.com/) - Metasearch / [Instances](https://4get.ca/instances) / [Source Code](https://git.lolcat.ca/lolcat/4get)
 - ⭐ **[DuckDuckGo](https://start.duckduckgo.com/)** - Metasearch / Bing Based / [AI Free](https://noai.duckduckgo.com/) / [Lite](https://lite.duckduckgo.com/) / [HTML](https://html.duckduckgo.com/) / [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / [Subreddit](https://www.reddit.com/r/duckduckgo/)

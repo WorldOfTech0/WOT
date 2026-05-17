@@ -49,8 +49,6 @@
 
 ## ▷ Anti Censorship
 
-- ↪️ **[Great Firewall Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_great_firewall)**
-- ⭐ **[Censorship Bypass Guide](https://cbg.fmhy.bid/)** - Censorship Bypass Guide
 - ⭐ **[⁠Net4people](https://github.com/net4people/bbs/issues)** - Worldwide Censorship Circumvention Discussion
 - ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)**, - Network Packet Alter Tool / Android
 - ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - Network Packet Alter Tools
@@ -70,7 +68,7 @@
 
 ---
 
-- ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
+- ↪️ **[Proxy Lists](../uncategorised/proxy-lists)**
 - [Titanium Network](https://titaniumnetwork.org/services/) - Multi-Proxy / [Instances](https://discord.gg/unblock) / [Discord](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)
 - [⁠US5](https://voucan.securly.com.surf.surfnet.ca/) - Multi-Site + App Proxy / Adblocker / [Discord](https://discord.com/invite/VDA8Ngx38Z)
 - [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
@@ -81,7 +79,7 @@
 - [ProxyPal](https://proxypal.net/) / [Telegram](https://t.me/PlainProxies)
 - [Proxyium](https://proxyium.com/)
 - [Startpage](https://www.startpage.com/) - Use Anon View / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
-- [Google Translate](https://translate.google.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/google-translate-note.md)
+- [Google Translate](https://translate.google.com/)
 - [Proxy Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper) or [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Proxy Scrapers / Checkers
 - [CheckSocks5](https://checksocks5.com/) - SOCKS5 Proxy Checker
 - [Knaben.info](https://knaben.info/) - Torrent Site Proxies
