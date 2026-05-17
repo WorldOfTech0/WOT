@@ -1,6 +1,6 @@
 # ► Search Tools
 
-- ↪️ **[Reddit Search Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_reddit_search)**
+- ↪️ **[Reddit Search Tools](../social-tools/discord-reddit#-reddit-search)**
 - ⭐ **[Shodan](https://www.shodan.io/)** or [FOFA](https://fofa.info/) / [GitHub](https://github.com/FofaInfo/Awesome-FOFA) - Internet Connected Device / Public Assets Search
 - [SimilarSiteSearch](https://www.similarsitesearch.com/), [SimilarWeb](https://similarweb.com/), [SitesLikes](https://www.siteslike.com/), [TopSimilarSites](https://topsimilarsites.com/), [SimilarSites](https://similarsites.com/) or [OpenDirectory](https://odir.us/) - Similar Site Searches
 - [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [OSINT Dorks](https://github.com/BushidoUK/OSINT-SearchOperators), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list), [Dork Genius](https://dorkgenius.com/) or [DorkSearch](https://www.dorksearch.com/) - Search Engine Dorking Tools
@@ -42,9 +42,9 @@
 ## ▷ Search Engines
 
 - 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [Search Engine Index](https://wikipedia.org/wiki/List_of_search_engines), [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/), [Advanced Search Tools](https://start.me/p/nRADzL/advanced-search-tools) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
-- ↪️ **[AI Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
-- ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
-- ↪️ **[Image Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_search_engines)**
+- ↪️ **[AI Search Engines](../ai/chatbots#-specialized-chatbots)**
+- ↪️ **[Privacy Search Engines](../privacy-security/web-privacy#-search-engines)**
+- ↪️ **[Image Search Engines](../image-tools/download#-image-search-engines)**
 - [Search All](https://www.searchall.net/), [WebSitesSearch](https://web-sites-search.web.app/), [CombinedSearch](https://combinedsearch.io/), [gnod Search](https://www.gnod.com/search/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
 - [100 Search Engines](https://www.100searchengines.com/) - Search with 100 Search Engines
 - [Mwmbl](https://mwmbl.org/) - Community Organized Search Engine / [GitHub](https://github.com/mwmbl/mwmbl)

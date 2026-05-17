@@ -1,7 +1,7 @@
 # ► Email Tools
 
 - 🌐 **[Email Providers](https://wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
-- ↪️ **[Email Privacy Services / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)**
+- ↪️ **[Email Privacy Services / Tools](../privacy-security/web-privacy#-email-privacy)**
 - ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
 - [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) - Number-Free Email Service
 - [Delta Chat](https://delta.chat/) - Email-Based Messenger
@@ -16,7 +16,7 @@
 
 ## ▷ Email Clients
 
-- ⭐ **[Betterbird](https://www.betterbird.eu/)** or **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md)
+- ⭐ **[Betterbird](https://www.betterbird.eu/)** or **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org)
 - ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / [GitHub](https://github.com/Foundry376/Mailspring)
 - [Outlook](https://outlook.live.com/owa/)
 - [ElectronMail](https://github.com/vladimiry/ElectronMail)
@@ -31,7 +31,7 @@
 
 ## ▷ Temp Mail
 
-- **Note** - If you're looking for something more private and convenient, check out our [Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing) section. For details about tags, refer to [this resource](https://rentry.org/9i2uu6dx).
+- **Note** - If you're looking for something more private and convenient, check out our [Email Aliasing](../internet-tools/email#-email-aliasing) section. For details about tags, refer to [this resource](https://rentry.org/9i2uu6dx).
 
 ---
 

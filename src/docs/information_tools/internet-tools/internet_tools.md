@@ -1,6 +1,6 @@
 # ► Internet Tools
 
-- ↪️ **[Web Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)**
+- ↪️ **[Web Privacy Tools](../privacy-security/web-privacy)**
 - [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
 - [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
 - [Namechk](https://namechk.com/), [User Scanner](https://github.com/kaifcodec/user-scanner/) or [IUS](https://instantusername.com/) - Check Username Availability
@@ -35,7 +35,7 @@
 
 ## ▷ Password Managers
 
-- ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+- ↪️ **[Password Privacy / 2FA](../privacy-security/web-privacy#-password-privacy--2fa)**
 - ⭐ **[Bitwarden](https://bitwarden.com/)** / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://x.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden)
 - ⭐ **[KeePass](https://keepass.info/)** / [Forks](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only](https://tusk.subdavis.com/) or **[KeePassXC](https://keepassxc.org/)**
 - ⭐ **[Proton Pass](https://proton.me/pass)**
@@ -75,7 +75,7 @@
 
 ## ▷ Captcha Tools
 
-- ⭐ **[Buster](https://github.com/dessant/buster)** - Auto Captcha Solver / [Improve Success Rate](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buster-note.md)
+- ⭐ **[Buster](https://github.com/dessant/buster)** - Auto Captcha Solver
 - [NopeCHA](https://nopecha.com/) - Auto Captcha Solver / [Requires Tokens](https://nopecha.com/manage) / [Discord](https://discord.com/invite/yj7cTYBQaw)
 - [Privacy Pass](https://github.com/cloudflare/pp-browser-extension) - Save Captcha Tokens
 - [Democaptcha](https://democaptcha.com/demo-form-eng/hcaptcha.html) - hCaptcha Demo / Get Captcha Tokens
@@ -85,13 +85,13 @@
 
 ## ▷ Chat Tools
 
-- ↪️ **[Discord Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_discord_tools)**
-- ↪️ **[Telegram Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_telegram_tools)**
-- ↪️ **[Privacy-Focused Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
-- ↪️ **[IRC Clients / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
+- ↪️ **[Discord Tools](../social-tools/discord-reddit#-discord-tools)**
+- ↪️ **[Telegram Tools](../social-tools/telegram-youtube#-telegram-tools)**
+- ↪️ **[Privacy-Focused Messengers](../privacy-security/web-privacy#-encrypted-messengers)**
+- ↪️ **[IRC Clients / Resources](../downloading/software-sites#-irc-tools)**
 - ↪️ **[⁠XMPP Clients / Resources](https://xmpp.org/getting-started/)**
 - ⭐ **[Stoat](https://stoat.chat/)** - Communication Platform / Discord Alt / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/stoatchat/awesome-stoat), [2](https://github.com/revoltchat/awesome-revolt)
-- ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md) - Voice Chat
+- ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/)
 - ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / Chats that Work Without Sign-Up
 - ⭐ **[Gajim](https://gajim.org/)**, [CoyIM](https://coy.im/), [⁠Prose](https://prose.org/), [⁠Fluux](https://github.com/processone/fluux-messenger/), [Profanity](https://profanity-im.github.io/) / [GitHub](https://github.com/profanity-im/profanity) or [xabber](https://www.xabber.com/) - XMPP Clients
 - [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services

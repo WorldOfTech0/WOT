@@ -2,8 +2,8 @@
 
 ## ▷ Archive Services
 
-- ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_4chan_archives)**
-- ⭐ **[Internet Archive](https://archive.org/)** - Internet Archive / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
+- ↪️ **[4chan Archives](../social-tools/4chan#-4chan-archives)**
+- ⭐ **[Internet Archive](https://archive.org/)** - Internet Archive / [Tools](../uncategorised/internet-archive-tools)
 - ⭐ **[Wayback Machine](https://web.archive.org/)** - Archive Web Pages
 - ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/jsvine/waybackpack) / [Browser Extension](https://github.com/internetarchive/wayback-machine-webextension), [2](https://vegetableman.github.io/vandal/) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Auto Load](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)
 - ⭐ **[Web Archives](https://github.com/dessant/web-archives)** or [Resurrect Pages Fork](https://github.com/Albirew/resurrect-pages-isup-edition) - Browser Extensions
@@ -20,8 +20,8 @@
 - 🌐 **[Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving)** - Web Archiving Tools
 - 🌐 **[Data Hoarding](https://datahoarding.org/resources.html)** - Data Hoarding Resources
 - 🌐 **[Webrecorder](https://webrecorder.net/)** - Open-Source Archiving Tools
-- ↪️ **[Twitter Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_twitter.2Fx_archiving)**
-- ↪️ **[YouTube Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_youtube_archiving)**
+- ↪️ **[Twitter Archiving](../social-tools/twitter-x#-twitterx-archiving)**
+- ↪️ **[YouTube Archiving](../social-tools/telegram-youtube#-youtube-archiving)**
 - ⭐ **[ArchiveBox](https://archivebox.io)** - Self-Hosted Web Archiving / [GitHub](https://github.com/archivebox/archivebox)
 - ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** or [MarkdownDown](https://markdowndown.vercel.app/) - Download Web Pages as Markdown Files
 - ⭐ **[HTTrack](https://www.httrack.com/)** - Website Downloader
