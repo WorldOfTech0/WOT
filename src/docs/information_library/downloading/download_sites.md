@@ -1,10 +1,10 @@
 # ► Download Sites
 
-- **Note** - General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
+- **Note** - General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, use **[redirect bypassers](../internet-tools/url#-redirect-bypass)** to skip link shorteners.
 
 ---
 
-- ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Books / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
+- ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Books / Magazines / Newspapers / ROMs / [Tools](/uncategorised/internet-archive-tools)
 - ⭐ **[r/DataHoarder](https://reddit.com/r/DataHoarder)** or [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/) - Data Hoarding Communties
 - [MaxRelease](https://max-rls.com/) - Video / Audio / Magazines
 - [SCNLOG](https://scnlog.me/) - Video / Audio / ROMs / Books
@@ -43,24 +43,36 @@
 
 ---
 
-## ▷ [Video Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)
+## ▷ Video Sites
+
+- [Video Sites Resource](../media/download-sites)
 
 ---
 
-## ▷ [Anime Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_downloading)
+## ▷ Anime Sites
+
+- [Anime Sites](../media/download-sites#-anime-downloading)
 
 ---
 
-## ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_downloading)
+## ▷ Educational Sites
+
+- [Educational Sites](../educational/courses#-downloading)
 
 ---
 
-## ▷ [Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)
+## ▷ Game Sites
+
+- [Game Sites](../gaming/download-games#-download-games)
 
 ---
 
-## ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_sites)
+## ▷ Audio Sites
+
+- [Audio Sites](../media/download-sites#-audio-downloading)
 
 ---
 
-# ► [Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_download_managers)
+# ► Download Managers
+
+- [Download Managers](../file-tools/tools#-download-managers)
