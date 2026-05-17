@@ -1,7 +1,7 @@
 # ► Video Tools
 
 - 🌐 **[Digital Video Intro](https://github.com/leandromoreira/digital_video_introduction)** - Digital Video Guides / Resources
-- ↪️ **[AI Video Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_video_generation)**
+- ↪️ **[AI Video Generators](../ai/video-gen)**
 - ⭐ **[Reincubate Camo](https://camo.com/studio)** - Use Any Camera as Webcam
 - [Kast](https://kast.gg/), [Screen Share Party](https://ba.net/screen/) or [Screenz](https://screenz.agst.dev/) - Online Screen Share
 - [⁠LonelyScreen](https://www.lonelyscreen.com/) - AirPlay Receiver for PC / macOS
@@ -35,7 +35,7 @@
 
 ---
 
-- ↪️ **[Streaming Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_streaming)** - Host Videos on YouTube Style Sites
+- ↪️ **[Streaming Hosts](../media/streaming#-video-streaming)** - Host Videos on YouTube Style Sites
 - ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Requires Sign-Up
 - ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / 3 Days
 - ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
@@ -68,7 +68,7 @@
 - ⭐ **[OBS Studio](https://obsproject.com/)** / Windows, Mac, Linux / [Discord](https://discord.com/invite/obsproject) / [GitHub](https://github.com/obsproject/obs-studio)
 - [Shinobi](https://shinobi.video/) - Network Video Recorder / Mac, Linux / [Discord](https://discord.com/invite/mdhmvuH) / [GitLab](https://gitlab.com/Shinobi-Systems/Shinobi)
 - [MythTV](https://www.mythtv.org/) - Digital Video Recorder (DVR) / Windows, Mac, Linux / [GitHub](https://github.com/MythTV/mythtv)
-- [FFmpeg](https://ffmpeg.org/) / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
+- [FFmpeg](https://ffmpeg.org/) / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](../tools#-ffmpeg-tools)
 - [Openscreen](https://openscreen.vercel.app/) / Windows, Mac / [GitHub](https://github.com/siddharthvaddem/openscreen)
 - [Recordly](https://recordly.dev/) / Windows, Mac, Linux / [GitHub](https://github.com/webadderall/Recordly)
 - [ShareX](https://getsharex.com/) / Windows / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
@@ -85,7 +85,7 @@
 ## ▷ Processing / Encoding
 
 - ⭐ **[HandBrake](https://handbrake.fr/)** or [VidCoder](https://vidcoder.net/) - Video Encoding Software / Windows, Mac, Linux / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake) / [GitHub](https://github.com/HandBrake/HandBrake)
-- ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools) / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg)
+- ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / [Tools](../video-tools/tools#-ffmpeg-tools) / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg)
 - ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
 - ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux
 - ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [⁠Video Noob Guide](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/), [JET Guide](https://jaded-encoding-thaumaturgy.github.io/JET-guide/master/), [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
@@ -176,14 +176,20 @@
 
 ---
 
-## ▷ [Subtitle Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_subtitle_tools)
+## ▷ Subtitle Tools
+
+-[Subtitle Tools](../media/subtitle-tools#-subtitle-tools)
 
 ---
 
-## ▷ [Linux Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_video)
+## ▷ Linux Video Tools
+
+- [Linux Video Tools](../desktop/linux-apps#-linux-video)
 
 ---
 
-## ▷ [Mac Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_video)
+## ▷ Mac Video Tools
+
+- [Mac Video Tools](../desktop/mac-apps#-mac-video)
 
 ---

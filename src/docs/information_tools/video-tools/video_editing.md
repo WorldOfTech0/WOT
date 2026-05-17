@@ -2,7 +2,7 @@
 
 - ⭐ **[r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
 - ⭐ **[Eyecandy](https://eyecannndy.com/)** - Visual Technique Examples / [Discord](https://discord.com/invite/WRyrPkWEzT)
-- ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [⁠TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter), [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio), [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
+- ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [⁠TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter), [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio), [Lossless Scaling](https://worldoftech.co.in/gaming#download-games) (search) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
 - [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers
 - [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
 
@@ -10,12 +10,12 @@
 
 ## ▷ Video Editors
 
-- ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)**
+- ↪️ **[Editing Software](../downloading/torrent-sites)**
 - ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / [Guides](https://www.blackmagicdesign.com/products/davinciresolve/training) / [Subtitle Generator](https://tom-moroney.com/auto-subs/) / [Green Screen Extract](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / Windows, Mac, Linux / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
 - ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / Windows, Mac, Linux / [GitHub](https://github.com/KDE/kdenlive)
 - ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor / Windows, Mac, Linux
 - ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / Windows, Mac, Linux / [GitHub](https://github.com/mltframework/shotcut)
-- [Satvrn](https://rentry.co/FMHYB64#satvrn) - Video Editors / Plugins
+- [Satvrn](https://rentry.co/gt8yat2y#satvrn) - Video Editors / Plugins
 - [OpenShot](https://www.openshot.org/) - Video Editor / Windows, Mac, Linux
 - [VSDC](https://www.videosoftdev.com/) - Video Editor / Windows, Mac
 - [Auto-Editor](https://auto-editor.com/) - CLI Editor
@@ -78,15 +78,15 @@
 - [FreeVideoEffect](https://freevideoeffect.com/)
 - [VideoCoPilot](https://www.videocopilot.net/products/ae22/)
 - [VFXmed](https://www.vfxmed.com/)
-- [Team V.R releases](https://rentry.co/FMHYB64#team-vr)
+- [Team V.R releases](https://rentry.co/gt8yat2y#team-vr)
 - [flex_cg_vfx](https://t.me/flex_cg_vfx)
-- [Download Pirate](https://www.downloadpirate.com/) - **Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)** / [Discord](https://discord.gg/ucTvVtBz9Z)
+- [Download Pirate](https://www.downloadpirate.com/) - **Use [Adblock](../privacy-security/adblocking)** / [Discord](https://discord.gg/ucTvVtBz9Z)
 - [ShareAE](https://www.shareae.com/) - After Effects
 - [HunterAE](https://hunterae.com/) - After Effects
 - [AETemp](https://t.me/AETemp) - After Effects
 - [Visual Effects Pack](https://t.me/visual_effects_pack) - After Effects
 - [AEDownloadPro](https://aedownloadpro.com/) - After Effects
-- [Intro HD](https://intro-hd.net/) - After Effects / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/introhd-warning.md)**
+- [Intro HD](https://intro-hd.net/) - After Effects
 
 ---
 
