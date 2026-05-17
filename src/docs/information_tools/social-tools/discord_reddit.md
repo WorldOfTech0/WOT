@@ -4,11 +4,10 @@
 
 ---
 
-- ↪️ **[Chat Clients / Discord Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chat_tools)**
 - ⭐ **[embeddr.top](https://embeddr.top/)**, [⁠Discord Embed Fixer](https://fixembed.site/), [npf.is](https://discord.nfp.is/) or [stolen.shoes](https://stolen.shoes/) - Discord Video Embedders
 - ⭐ **[embedez](https://embedez.com/)** / [X](https://x.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp) or [FxEmbed](https://github.com/FxEmbed/FxEmbed) - Social Link Embedders
 - ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Nitro / Boost Ads
-- ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/openasar.md)
+- ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar)
 - [⁠Nelly](https://nelly.tools/) - Discord Web Tools
 - [Discorch](https://discorch.org/) / [Source Code](https://codeberg.org/discorch/discorch), [Discrub](https://github.com/prathercc/discrub-ext) or [Undiscord](https://github.com/victornpb/undiscord/) - Message Manipulation Tools / Always Delay 9+ Seconds
 - [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine / [GitHub](https://github.com/AnswerOverflow/AnswerOverflow)
@@ -135,7 +134,7 @@
 - ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)
 - [Redditp](https://redditp.com/) or [Reddit Viewer](https://reddit-viewer.com/) - Reddit TikTok Style Viewers
 - [Beleave](https://beleave.virock.org/) or [SubCleaner](https://www.subcleaner.com/) - Subreddit Cleaners / Managers
-- [Bookmarkeddit](https://bookmarkeddit.com/) - Saved Post Manager / Organizer / [GitHub](https://github.com/mateussilva98/bookmarkeddit) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/bookmarkeddit.md)
+- [Bookmarkeddit](https://bookmarkeddit.com/) - Saved Post Manager / Organizer / [GitHub](https://github.com/mateussilva98/bookmarkeddit)
 - [Reddit Sub Counter](https://greasyfork.org/en/scripts/567501) - Restore Subreddit Subscriber Counter
 - [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5) - Reddit Keyword Notifications
 - [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
@@ -170,7 +169,7 @@
 
 ## ▷ Reddit Alternatives
 
-- ↪️ **[Lemmy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_lemmy_tools)**
+- ↪️ **[Lemmy Tools](../social-tools/tumblr-fediverse#-lemmy-tools)**
 - [Raddle](https://raddle.me/) - Minimalist / Privacy-Focused
 - [r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
 - [Tildes](https://tildes.net/) - Non-Profit / User-Driven Discussion
@@ -198,7 +197,7 @@
 ## ▷ Subreddit Discovery
 
 - 🌐 **[r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/)** - Subreddits Index
-- ↪️ **[Multireddit Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
+- ↪️ **[Multireddit Indexes](../uncategorised/multireddits)**
 - ⭐ **[Vizit](https://redditstuff.github.io/sna/vizit/)**, [sayit](https://anvaka.github.io/sayit/) or [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/) - Visualize Related Subreddits
 - [FindAReddit](https://www.findareddit.com/) - Get Subreddit Suggestions / [Subreddit](https://www.reddit.com/r/findareddit/)
 - [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) or [redsim](https://anvaka.github.io/redsim/) - Find Similar Subreddits

@@ -25,7 +25,7 @@
 - [Fediverse People Directory](https://fediverse.info/explore/people) - Self-Submitted User Directory
 - [Hubzilla Public Sites](https://hubzilla.org/pubsites) - Hubzilla Instances
 - [Friendica Directory](https://dir.friendica.social/servers) - Friendica Instances
-- [Lemmy](https://join-lemmy.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_lemmy_tools), [Mastodon](https://joinmastodon.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_mastodon_tools), [Diaspora](https://diasporafoundation.org/) or [Friendica](https://friendi.ca) - Decentralized Social Networks
+- [Lemmy](https://join-lemmy.org/) / [Tools](../social-tools/tumblr-fediverse#-lemmy-tools), [Mastodon](https://joinmastodon.org/) / [Tools](../social-tools/tumblr-fediverse#-mastodon-tools), [Diaspora](https://diasporafoundation.org/) or [Friendica](https://friendi.ca) - Decentralized Social Networks
 - [FediverseRedirect](https://github.com/zacharee/MastodonRedirect) - Frontend Redirect
 - [Bridgy Fed](https://fed.brid.gy/) - Fediverse Bridge
 - [PodcastAP](https://podcastap.com/) - Podcast Feed Bridge

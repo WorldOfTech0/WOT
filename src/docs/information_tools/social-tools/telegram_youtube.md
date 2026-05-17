@@ -63,7 +63,7 @@
 
 # ► YouTube Tools
 
-- ↪️ **[YouTube Ad + Sponsorblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)**
+- ↪️ **[YouTube Ad + Sponsorblock](../privacy-security/adblocking)**
 - ⭐ **[PocketTube](https://pockettube.io/)** or [Kadium](https://kadium.kasper.space/) - Subscription Managers
 - [Youtube-shorts block](https://github.com/doma-itachi/Youtube-shorts-block) or [Shorts Deflector](https://evenevan.github.io/shorts-deflector/) / [GitHub](https://github.com/evenevan/shorts-deflector) - Play Shorts In The Normal Desktop Interface
 - [Remove YouTube Shorts](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-shorts/) or [Hide YT Shorts Filter List](https://github.com/gijsdev/ublock-hide-yt-shorts) - Hide YouTube Shorts
@@ -114,7 +114,7 @@
 
 ## ▷ Players / Frontends
 
-- ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_youtube_apps)** - Mobile YouTube Apps
+- ↪️ **[Android](../mobile/android-audio#-android-youtube-apps)** / **[iOS](../mobile/ios-tools#-ios-youtube-apps)** - Mobile YouTube Apps
 - ⭐ **[FreeTube](https://freetubeapp.io/)** - Local YouTube Frontend / [GitHub](https://github.com/FreeTubeApp/FreeTube)
 - ⭐ **[Invidious](https://invidious.io/)** or [Materialious](https://materialio.us/) - YouTube Frontend / [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [TUI](https://github.com/darkhz/invidtui)
 - ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
@@ -133,8 +133,8 @@
 
 ## ▷ Video Tools
 
-- ↪️ **[Video Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)**
-- ↪️ **[Video Transcribers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_subtitle_tools)**
+- ↪️ **[Video Adblockers](../privacy-security/adblocking)**
+- ↪️ **[Video Transcribers](../media/subtitle-tools)**
 - ⭐ **[polsy.org.uk](https://polsy.org.uk/stuff/ytrestrict.cgi)** - Video Region Restriction Checker
 - [⁠YouTube No Translation](https://youtube-no-translation.vercel.app/) - Disable YouTube Auto Translations / [GitHub](https://github.com/YouG-o/YouTube_No_Translation)
 - [Video Resumer](https://addons.mozilla.org/en-US/firefox/addon/video-resumer/) - Remembers Where You Left Off in Video
@@ -167,9 +167,9 @@
 ## ▷ YouTube Downloaders
 
 - 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YouTube Downloader GUIs
-- ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
+- ↪️ **[Multi-Site Downloaders](../video-tools/download)**
 - ⭐ **[Parabolic](https://github.com/NickvisionApps/Parabolic)** or [Tartube](https://tartube.sourceforge.io/) - Cross-Platform YT-DLP GUIs
-- ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - YouTube Downloader App / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)
+- ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - YouTube Downloader App
 - ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - YouTube CLI Downloader / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r)
 - ⭐ **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** - YouTube Downloader App
 - [Stacher](https://stacher.io/), [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) or [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - Cross-Platform YT-DL GUIs
