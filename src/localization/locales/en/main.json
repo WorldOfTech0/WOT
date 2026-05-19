@@ -40,7 +40,8 @@
       "developer-tools": "Developer Tools",
       "non-english": "Non-English",
       "miscellaneous": "Miscellaneous",
-      "uncategorised": "Uncategorised"
+      "uncategorised": "Uncategorised",
+      "awesome-library": "Awesome Library"
     }
   },
   "LandingPage": {
@@ -156,6 +157,10 @@
         "uncategorised": {
           "title": "UNCATEGORISED",
           "description": "Curated collections of niche technology resources, developer libraries, and specialized tools."
+        },
+        "awesome-library": {
+          "title": "AWESOME LIBRARY",
+          "description": "Curated lists of self-hosted, scalable, hacking, and Mac ecosystem resources."
         }
       }
     }
@@ -526,6 +531,40 @@
       "tracking": {
         "title": "Tracking & Databases",
         "desc": "Platforms for cataloging and reviewing your music collection."
+      }
+    }
+  },
+  "AwesomeLibrary": {
+    "title": "Awesome Library",
+    "description": "Curated lists of self-hosted, scalable, hacking, and Mac ecosystem resources.",
+    "features": {
+      "selfhosted": {
+        "title": "Selfhosted",
+        "desc": "Curated resources and guides for self-hosting services, applications, and infrastructure."
+      },
+      "stackOnABudget": {
+        "title": "Stack on a budget",
+        "desc": "Resources for building infrastructure and web stacks efficiently without breaking the bank."
+      },
+      "bookOfSecretKnowledge": {
+        "title": "Book of secret knowledge",
+        "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+      },
+      "hacking": {
+        "title": "Hacking",
+        "desc": "A comprehensive guide and resource collection for ethical hacking and cybersecurity."
+      },
+      "mac": {
+        "title": "Mac",
+        "desc": "Curated software, tools, utilities, and resources specifically for the macOS ecosystem."
+      },
+      "scalability": {
+        "title": "Scalability",
+        "desc": "Resources and architectures for designing systems that scale gracefully under load."
+      },
+      "react": {
+        "title": "React",
+        "desc": "Awesome React resources, UI components, tools, and libraries to accelerate frontend development."
       }
     }
   },

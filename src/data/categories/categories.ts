@@ -24,6 +24,7 @@ import {
   NON_ENGLISH_SUBS,
   MISCELLANEOUS_SUBS,
   UNCATEGORISED_SUBS,
+  AWESOME_LIBRARY_SUBS,
 } from './subcategories';
 
 export const CATEGORIES: Category[] = [
@@ -291,5 +292,16 @@ export const CATEGORIES: Category[] = [
     isFeatured: false,
     section: 'more',
     subcategories: Object.values(UNCATEGORISED_SUBS),
+  },
+  {
+    id: 'awesome-library',
+    titleKey: 'LandingPage.Categories.items.awesome-library.title',
+    navKey: 'Navigation.items.awesome-library',
+    subtitleKey: 'LandingPage.Categories.items.awesome-library.description',
+    icon: 'library_books',
+    path: '/awesome-library',
+    isFeatured: false,
+    section: 'information_library',
+    subcategories: Object.values(AWESOME_LIBRARY_SUBS),
   },
 ];
