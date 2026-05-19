@@ -140,6 +140,16 @@ const CopyrightFooter = () => {
                 {t('Footer.links.terms')}
               </Text>
             </RouterLink>
+            <Link
+              href={`${WEBSITE_URL}/sitemap.xml`}
+              target="_blank"
+              rel="noopener noreferrer"
+              fontSize="sm"
+              color="onSurfaceVariant"
+              _hover={{ color: 'onSurface', textDecoration: 'none' }}
+            >
+              {t('Footer.links.sitemap')}
+            </Link>
           </Stack>
         </HStack>
       </Flex>

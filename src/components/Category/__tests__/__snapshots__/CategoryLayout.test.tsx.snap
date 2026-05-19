@@ -122,7 +122,7 @@ exports[`CategoryLayout should render correctly for media category 1`] = `
           </div>
         </div>
         <div
-          class="css-1r3xz02"
+          class="css-1hmat3z"
         >
           <a
             data-discover="true"
@@ -130,7 +130,7 @@ exports[`CategoryLayout should render correctly for media category 1`] = `
             style="text-decoration: none;"
           >
             <div
-              class="css-10sfsnx"
+              class="css-8zjxyz"
             >
               <div
                 class="css-1tgh9hn"
@@ -163,7 +163,7 @@ exports[`CategoryLayout should render correctly for media category 1`] = `
             style="text-decoration: none;"
           >
             <div
-              class="css-10sfsnx"
+              class="css-8zjxyz"
             >
               <div
                 class="css-1tgh9hn"
@@ -196,7 +196,7 @@ exports[`CategoryLayout should render correctly for media category 1`] = `
             style="text-decoration: none;"
           >
             <div
-              class="css-10sfsnx"
+              class="css-8zjxyz"
             >
               <div
                 class="css-1tgh9hn"
@@ -229,7 +229,7 @@ exports[`CategoryLayout should render correctly for media category 1`] = `
             style="text-decoration: none;"
           >
             <div
-              class="css-10sfsnx"
+              class="css-8zjxyz"
             >
               <div
                 class="css-1tgh9hn"
@@ -262,7 +262,7 @@ exports[`CategoryLayout should render correctly for media category 1`] = `
             style="text-decoration: none;"
           >
             <div
-              class="css-10sfsnx"
+              class="css-8zjxyz"
             >
               <div
                 class="css-1tgh9hn"
@@ -295,7 +295,7 @@ exports[`CategoryLayout should render correctly for media category 1`] = `
             style="text-decoration: none;"
           >
             <div
-              class="css-10sfsnx"
+              class="css-8zjxyz"
             >
               <div
                 class="css-1tgh9hn"
@@ -328,7 +328,7 @@ exports[`CategoryLayout should render correctly for media category 1`] = `
             style="text-decoration: none;"
           >
             <div
-              class="css-10sfsnx"
+              class="css-8zjxyz"
             >
               <div
                 class="css-1tgh9hn"

@@ -110,8 +110,8 @@ const SideNavBar = () => {
                   fontFamily="mono"
                   fontSize="8px"
                   fontWeight={isActive ? 'black' : 'bold'}
-                  letterSpacing="0.02em"
-                  lineClamp={1}
+                  letterSpacing="0.01em"
+                  lineClamp={3}
                   w="full"
                   textAlign="center"
                 >
@@ -183,7 +183,7 @@ const SideNavBar = () => {
       pt={8}
       pb={32}
       h="100vh"
-      w={isSubcategoryRoute ? '16' : '64'}
+      w={isSubcategoryRoute ? '20' : '64'}
       position="fixed"
       left={0}
       top={12}

@@ -3,7 +3,7 @@
 exports[`SideNavBar should render collapsed in subcategory route 1`] = `
 <div>
   <nav
-    class="css-1q2r04j"
+    class="css-1mcp4ri"
   >
     <div
       class="css-ixqrcq"
@@ -30,7 +30,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 movie
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Media
               </p>
@@ -56,7 +56,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 psychology
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 AI
               </p>
@@ -82,7 +82,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 download_for_offline
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Downloading
               </p>
@@ -108,7 +108,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 school
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Educational
               </p>
@@ -134,7 +134,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 smartphone
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Mobile
               </p>
@@ -160,7 +160,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 desktop_windows
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Desktop
               </p>
@@ -186,7 +186,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 library_books
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Reading
               </p>
@@ -212,7 +212,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 sports_esports
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Gaming
               </p>
@@ -238,7 +238,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 admin_panel_settings
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Privacy
               </p>
@@ -264,7 +264,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 podcasts
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Audio
               </p>
@@ -290,7 +290,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 translate
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Non-English
               </p>
@@ -316,7 +316,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 category
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Miscellaneous
               </p>
@@ -346,7 +346,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 settings_suggest
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 System Tools
               </p>
@@ -372,7 +372,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 folder_zip
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 File Tools
               </p>
@@ -398,7 +398,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 language
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Internet Tools
               </p>
@@ -424,7 +424,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 groups
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Social Tools
               </p>
@@ -450,7 +450,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 text_fields
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Text Tools
               </p>
@@ -476,7 +476,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 sports_esports
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Gaming Tools
               </p>
@@ -502,7 +502,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 image
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Image Tools
               </p>
@@ -528,7 +528,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 video_library
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Video Tools
               </p>
@@ -554,7 +554,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 headphones
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Audio Tools
               </p>
@@ -580,7 +580,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 school
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Educational Tools
               </p>
@@ -606,7 +606,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 terminal
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Developer Tools
               </p>
@@ -636,7 +636,7 @@ exports[`SideNavBar should render collapsed in subcategory route 1`] = `
                 folder_open
               </span>
               <p
-                class="css-1dudv4b"
+                class="css-2k34x2"
               >
                 Uncategorised
               </p>

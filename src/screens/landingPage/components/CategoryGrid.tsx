@@ -30,6 +30,198 @@ const CategoryCard = ({
   const { t } = useTranslation();
   const isList = viewMode === 'list';
 
+  if (isList) {
+    return (
+      <MotionGridItem
+        layout="position"
+        initial={{ opacity: 0, scale: 0.9 }}
+        animate={{ opacity: 1, scale: 1 }}
+        exit={{
+          opacity: 0,
+          scale: 0.9,
+          transition: { duration: 0.2 },
+        }}
+        colSpan={1}
+        rowSpan={1}
+        whileHover={{ y: -2, scale: 1.005 }}
+        transition={{
+          layout: { duration: 0.4, ease: [0.23, 1, 0.32, 1] },
+          opacity: { duration: 0.4, delay: index * 0.04 },
+          scale: { duration: 0.4, delay: index * 0.04 },
+        }}
+      >
+        <Link
+          to={to}
+          style={{ textDecoration: 'none', display: 'block', height: '100%' }}
+        >
+          <Box
+            display="block"
+            h="full"
+            position="relative"
+            bg="surfaceContainer/40"
+            backdropFilter="blur(24px)"
+            borderRadius="xl"
+            borderWidth="1px"
+            borderColor="outline"
+            overflow="hidden"
+            p={{ base: 3, md: 4 }}
+            transition="all 0.4s cubic-bezier(0.4, 0, 0.2, 1)"
+            role="group"
+            _hover={{
+              bg: 'surfaceContainer/60',
+              borderColor: 'primary',
+              boxShadow:
+                '0 12px 24px rgba(0,0,0,0.3), 0 0 16px rgba(139, 92, 246, 0.08)',
+            }}
+          >
+            {/* Glow effect */}
+            <Box
+              position="absolute"
+              top="0"
+              left="0"
+              w="120px"
+              h="100%"
+              bgGradient="linear(to-r, primaryAlpha.100, transparent)"
+              filter="blur(30px)"
+              opacity={0}
+              _groupHover={{ opacity: 1 }}
+              transition="opacity 0.6s ease"
+            />
+
+            <Flex
+              align="center"
+              justify="space-between"
+              h="full"
+              position="relative"
+              zIndex={1}
+              gap={{ base: 3, md: 4 }}
+            >
+              {/* Left group: Icon + Text */}
+              <Flex align="center" gap={{ base: 3, md: 4 }} flex={1} minW={0}>
+                {/* Icon */}
+                <Flex
+                  align="center"
+                  justify="center"
+                  flexShrink={0}
+                  w={{ base: 10, md: 12 }}
+                  h={{ base: 10, md: 12 }}
+                  borderRadius="xl"
+                  bg="primary/10"
+                  borderWidth="1px"
+                  borderColor="primary/20"
+                  color="primary"
+                  transition="all 0.3s ease"
+                  _groupHover={{
+                    bg: 'primary',
+                    color: 'white',
+                    transform: 'scale(1.05)',
+                  }}
+                >
+                  <span
+                    className="material-symbols-outlined"
+                    style={{
+                      fontSize: '20px',
+                    }}
+                  >
+                    {icon}
+                  </span>
+                </Flex>
+
+                {/* Title & Info */}
+                <Box flex={1} minW={0}>
+                  <Text
+                    fontSize="9px"
+                    color="onSurfaceVariant"
+                    fontFamily="mono"
+                    whiteSpace="nowrap"
+                    opacity={0.8}
+                    mb={0.5}
+                  >
+                    {number} {' // '} {count}{' '}
+                    {t('LandingPage.Categories.suffix', {
+                      defaultValue: 'RESOURCES',
+                    })}
+                  </Text>
+
+                  <Heading
+                    as="h3"
+                    fontSize={{ base: 'sm', md: 'md' }}
+                    fontFamily="heading"
+                    fontWeight="black"
+                    lineHeight="shorter"
+                    letterSpacing="tight"
+                    color="onSurface"
+                    transition="all 0.3s ease"
+                    _groupHover={{ color: 'primary' }}
+                    mb={1}
+                  >
+                    {title}
+                  </Heading>
+
+                  <Text
+                    fontFamily="body"
+                    fontSize={{ base: 'xs', md: 'sm' }}
+                    color="onSurfaceVariant"
+                    lineHeight="shorter"
+                    opacity={0.7}
+                    lineClamp={1}
+                    mt={0.5}
+                  >
+                    {description}
+                  </Text>
+                </Box>
+              </Flex>
+
+              {/* Right group: Suffix & Arrow */}
+              <HStack gap={4} flexShrink={0}>
+                <HStack gap={2} display={{ base: 'none', md: 'flex' }}>
+                  <Box w={1.5} h={1.5} borderRadius="full" bg="primary" />
+                  <Text
+                    fontSize="10px"
+                    fontFamily="mono"
+                    color="primary"
+                    fontWeight="black"
+                    letterSpacing="widest"
+                  >
+                    {t('LandingPage.Categories.suffix')}
+                  </Text>
+                </HStack>
+
+                <Flex
+                  align="center"
+                  justify="center"
+                  w={{ base: 8, md: 9 }}
+                  h={{ base: 8, md: 9 }}
+                  borderRadius="full"
+                  borderWidth="1px"
+                  borderColor="outline"
+                  bg="surfaceContainer/20"
+                  transition="all 0.4s cubic-bezier(0.4, 0, 0.2, 1)"
+                  color="onSurface"
+                  _groupHover={{
+                    bg: 'primary',
+                    borderColor: 'primary',
+                    color: 'white',
+                    transform: 'translateX(3px)',
+                    boxShadow: '0 0 12px rgba(139, 92, 246, 0.4)',
+                  }}
+                >
+                  <span
+                    className="material-symbols-outlined"
+                    style={{ fontSize: '16px' }}
+                  >
+                    arrow_forward
+                  </span>
+                </Flex>
+              </HStack>
+            </Flex>
+          </Box>
+        </Link>
+      </MotionGridItem>
+    );
+  }
+
+  // Grid mode card layout (remains original, robust, and beautiful)
   return (
     <MotionGridItem
       layout="position"
@@ -40,9 +232,9 @@ const CategoryCard = ({
         scale: 0.9,
         transition: { duration: 0.2 },
       }}
-      colSpan={isList ? 1 : isFeatured ? { base: 1, md: 2 } : 1}
-      rowSpan={isList ? 1 : isFeatured ? { base: 1, md: 2 } : 1}
-      whileHover={{ y: isList ? 0 : -8, scale: 1.01 }}
+      colSpan={isFeatured ? { base: 2, md: 2 } : 1}
+      rowSpan={isFeatured ? { base: 1, md: 2 } : 1}
+      whileHover={{ y: -8, scale: 1.01 }}
       transition={{
         layout: { duration: 0.4, ease: [0.23, 1, 0.32, 1] },
         opacity: { duration: 0.4, delay: index * 0.04 },
@@ -59,11 +251,13 @@ const CategoryCard = ({
           position="relative"
           bg="surfaceContainer/40"
           backdropFilter="blur(24px)"
-          borderRadius={isList ? '2xl' : '3xl'}
+          borderRadius={{ base: '2xl', md: '3xl' }}
           borderWidth="1px"
           borderColor="outline"
           overflow="hidden"
-          p={isList ? { base: 4, md: 6 } : isFeatured ? { base: 8, md: 12 } : 8}
+          p={
+            isFeatured ? { base: 4, md: 8, lg: 12 } : { base: 3, md: 6, lg: 8 }
+          }
           transition="all 0.4s cubic-bezier(0.4, 0, 0.2, 1)"
           role="group"
           _hover={{
@@ -76,16 +270,11 @@ const CategoryCard = ({
           {/* Glow effect */}
           <Box
             position="absolute"
-            top={isList ? '0' : '-20%'}
-            left={isList ? '0' : 'auto'}
-            right={isList ? 'auto' : '-10%'}
-            w={isList ? '100px' : '60%'}
-            h={isList ? '100%' : '60%'}
-            bgGradient={
-              isList
-                ? 'linear(to-r, primaryAlpha.100, transparent)'
-                : 'radial(primaryAlpha.200, transparent 70%)'
-            }
+            top="-20%"
+            right="-10%"
+            w="60%"
+            h="60%"
+            bgGradient="radial(primaryAlpha.200, transparent 70%)"
             filter="blur(60px)"
             opacity={0}
             _groupHover={{ opacity: 1 }}
@@ -93,28 +282,29 @@ const CategoryCard = ({
           />
 
           <Flex
-            direction={isList ? { base: 'column', md: 'row' } : 'column'}
-            align={isList ? { base: 'stretch', md: 'center' } : 'stretch'}
+            direction="column"
             justify="space-between"
             h="full"
             position="relative"
             zIndex={1}
-            gap={isList ? { base: 4, md: 8 } : 0}
           >
-            <Flex
-              direction={isList ? { base: 'column', sm: 'row' } : 'column'}
-              align={isList ? { base: 'flex-start', sm: 'center' } : 'stretch'}
-              gap={isList ? { base: 4, md: 8 } : 0}
-              flex={1}
-            >
-              <Flex align="center" gap={4} mb={isList ? 0 : 8}>
+            <Flex direction="column" align="stretch" flex={1}>
+              <Flex
+                align="center"
+                gap={{ base: 2.5, md: 4 }}
+                mb={{ base: 4, md: 6, lg: 8 }}
+              >
                 <Flex
                   align="center"
                   justify="center"
                   flexShrink={0}
-                  w={isList ? 12 : isFeatured ? 14 : 10}
-                  h={isList ? 12 : isFeatured ? 14 : 10}
-                  borderRadius={isList ? 'xl' : isFeatured ? '2xl' : 'xl'}
+                  w={isFeatured ? { base: 10, md: 14 } : { base: 8, md: 10 }}
+                  h={isFeatured ? { base: 10, md: 14 } : { base: 8, md: 10 }}
+                  borderRadius={
+                    isFeatured
+                      ? { base: 'xl', md: '2xl' }
+                      : { base: 'lg', md: 'xl' }
+                  }
                   bg="primary/10"
                   borderWidth="1px"
                   borderColor="primary/20"
@@ -126,18 +316,21 @@ const CategoryCard = ({
                     transform: 'scale(1.1)',
                   }}
                 >
-                  <span
+                  <Box
+                    as="span"
                     className="material-symbols-outlined"
-                    style={{
-                      fontSize: isList ? '24px' : isFeatured ? '28px' : '20px',
-                    }}
+                    fontSize={
+                      isFeatured
+                        ? { base: '20px', md: '28px' }
+                        : { base: '16px', md: '20px' }
+                    }
                   >
                     {icon}
-                  </span>
+                  </Box>
                 </Flex>
                 <Box>
                   <Text
-                    fontSize="10px"
+                    fontSize={{ base: '8px', md: '10px' }}
                     fontFamily="mono"
                     fontWeight="black"
                     textTransform="uppercase"
@@ -150,7 +343,7 @@ const CategoryCard = ({
                       : t('LandingPage.Categories.techStack')}
                   </Text>
                   <Text
-                    fontSize="xs"
+                    fontSize={{ base: '9px', md: 'xs' }}
                     color="onSurfaceVariant"
                     fontFamily="mono"
                   >
@@ -159,22 +352,20 @@ const CategoryCard = ({
                 </Box>
               </Flex>
 
-              <Box flex={1} mt={isList ? 0 : 0}>
+              <Box flex={1}>
                 <Heading
                   as="h3"
                   fontSize={
-                    isList
-                      ? 'lg'
-                      : isFeatured
-                        ? { base: '2xl', md: '3xl' }
-                        : '2xl'
+                    isFeatured
+                      ? { base: 'lg', md: '2xl', lg: '3xl' }
+                      : { base: 'sm', md: 'md', lg: 'lg' }
                   }
                   fontFamily="heading"
                   fontWeight="black"
                   lineHeight="shorter"
                   letterSpacing="tight"
                   color="onSurface"
-                  mb={isList ? 1 : 6}
+                  mb={{ base: 2, md: 4, lg: 6 }}
                   transition="all 0.3s ease"
                   _groupHover={{ color: 'primary' }}
                 >
@@ -183,12 +374,16 @@ const CategoryCard = ({
 
                 <Text
                   fontFamily="body"
-                  fontSize={isList ? 'sm' : isFeatured ? 'lg' : 'sm'}
+                  fontSize={
+                    isFeatured
+                      ? { base: 'xs', md: 'sm', lg: 'lg' }
+                      : { base: 'xs', md: 'sm' }
+                  }
                   color="onSurfaceVariant"
                   maxW={isFeatured ? 'lg' : 'full'}
-                  lineHeight={isList ? 'shorter' : 'tall'}
+                  lineHeight={{ base: 'short', md: 'tall' }}
                   opacity={0.8}
-                  lineClamp={isList ? 1 : undefined}
+                  lineClamp={{ base: 3, md: 4 }}
                 >
                   {description}
                 </Text>
@@ -198,13 +393,12 @@ const CategoryCard = ({
             <Flex
               align="center"
               justify="space-between"
-              mt={isList ? 2 : 12}
-              minW={isList ? { base: 'full', md: '200px' } : 'auto'}
+              mt={{ base: 4, md: 8, lg: 12 }}
             >
               <HStack gap={2}>
-                <Box w={2} h={2} borderRadius="full" bg="primary" />
+                <Box w={1.5} h={1.5} borderRadius="full" bg="primary" />
                 <Text
-                  fontSize="xs"
+                  fontSize={{ base: '9px', md: 'xs' }}
                   fontFamily="mono"
                   color="primary"
                   fontWeight="black"
@@ -217,8 +411,16 @@ const CategoryCard = ({
               <Flex
                 align="center"
                 justify="center"
-                w={isList ? 10 : 12}
-                h={isList ? 10 : 12}
+                w={
+                  isFeatured
+                    ? { base: 8, md: 10, lg: 12 }
+                    : { base: 7, md: 9, lg: 10 }
+                }
+                h={
+                  isFeatured
+                    ? { base: 8, md: 10, lg: 12 }
+                    : { base: 7, md: 9, lg: 10 }
+                }
                 borderRadius="full"
                 borderWidth="1px"
                 borderColor="outline"
@@ -229,16 +431,21 @@ const CategoryCard = ({
                   bg: 'primary',
                   borderColor: 'primary',
                   color: 'white',
-                  transform: isList ? 'translateX(4px)' : 'rotate(45deg)',
+                  transform: 'rotate(45deg)',
                   boxShadow: '0 0 20px rgba(139, 92, 246, 0.4)',
                 }}
               >
-                <span
+                <Box
+                  as="span"
                   className="material-symbols-outlined"
-                  style={{ fontSize: isList ? '20px' : '24px' }}
+                  fontSize={
+                    isFeatured
+                      ? { base: '16px', md: '20px', lg: '24px' }
+                      : { base: '14px', md: '16px', lg: '18px' }
+                  }
                 >
                   arrow_forward
-                </span>
+                </Box>
               </Flex>
             </Flex>
           </Flex>
@@ -250,21 +457,17 @@ const CategoryCard = ({
 
 const SectionToggle = ({ sections, activeSection, setActiveSection }: any) => {
   return (
-    <HStack
-      bg="surfaceContainer/40"
-      backdropFilter="blur(24px)"
-      p={1.5}
-      borderRadius="2xl"
-      borderWidth="1px"
+    <Flex
+      bg={{ base: 'transparent', md: 'surfaceContainer/40' }}
+      backdropFilter={{ base: 'none', md: 'blur(24px)' }}
+      p={{ base: 0, md: 1.5 }}
+      borderRadius={{ base: 'none', md: '2xl' }}
+      borderWidth={{ base: '0px', md: '1px' }}
       borderColor="outline"
-      gap={1}
+      gap={{ base: 1.5, md: 1 }}
       maxW="full"
-      overflowX="auto"
-      css={{
-        '&::-webkit-scrollbar': { display: 'none' },
-        msOverflowStyle: 'none',
-        scrollbarWidth: 'none',
-      }}
+      wrap={{ base: 'wrap', md: 'nowrap' }}
+      justify="center"
     >
       {sections.map((section: any) => {
         const isActive = activeSection === section.id;
@@ -274,19 +477,28 @@ const SectionToggle = ({ sections, activeSection, setActiveSection }: any) => {
               onClick={() => setActiveSection(section.id as any)}
               variant="ghost"
               size="sm"
-              height="36px"
-              px={6}
+              height={{ base: '32px', md: '36px' }}
+              px={{ base: 2, md: 6 }}
               borderRadius="xl"
-              fontSize="xs"
+              fontSize={{ base: '10px', md: 'xs' }}
               fontFamily="mono"
               fontWeight="bold"
-              letterSpacing="widest"
+              letterSpacing="wider"
               textTransform="uppercase"
               position="relative"
               zIndex={1}
               transition="all 0.3s ease"
               color={isActive ? 'onPrimary' : 'onSurfaceVariant'}
-              bg="transparent"
+              bg={
+                isActive
+                  ? 'transparent'
+                  : { base: 'surfaceContainer/40', md: 'transparent' }
+              }
+              borderWidth={isActive ? '0px' : { base: '1px', md: '0px' }}
+              borderColor="outline"
+              backdropFilter={
+                isActive ? 'none' : { base: 'blur(24px)', md: 'none' }
+              }
               _hover={{
                 color: isActive ? 'onPrimary' : 'onSurface',
                 bg: isActive ? 'transparent' : 'surfaceContainer/60',
@@ -317,15 +529,13 @@ const SectionToggle = ({ sections, activeSection, setActiveSection }: any) => {
           </Box>
         );
       })}
-    </HStack>
+    </Flex>
   );
 };
 
 const ViewModeToggle = ({ viewMode, setViewMode }: any) => {
   return (
     <HStack
-      position="absolute"
-      right={0}
       bg="surfaceContainer/40"
       backdropFilter="blur(24px)"
       p={1}
@@ -333,7 +543,7 @@ const ViewModeToggle = ({ viewMode, setViewMode }: any) => {
       borderWidth="1px"
       borderColor="outline"
       gap={1}
-      display={{ base: 'none', md: 'flex' }}
+      display="flex"
     >
       {[
         { id: 'grid', icon: 'grid_view' },
@@ -377,9 +587,10 @@ const FilterBar = ({
 }: any) => {
   return (
     <Flex
-      direction="row"
+      direction={{ base: 'column', md: 'row' }}
       align="center"
       justify="center"
+      gap={4}
       mb={16}
       position="relative"
       w="full"
@@ -389,7 +600,9 @@ const FilterBar = ({
         activeSection={activeSection}
         setActiveSection={setActiveSection}
       />
-      <ViewModeToggle viewMode={viewMode} setViewMode={setViewMode} />
+      <Box position={{ base: 'static', md: 'absolute' }} right={{ md: 0 }}>
+        <ViewModeToggle viewMode={viewMode} setViewMode={setViewMode} />
+      </Box>
     </Flex>
   );
 };
@@ -414,13 +627,13 @@ const CategoryGrid = () => {
   });
 
   const sections = [
-    { id: 'all', label: t('LandingPage.Categories.sections.all') },
     { id: 'library', label: t('LandingPage.Categories.sections.library') },
     { id: 'tools', label: t('LandingPage.Categories.sections.tools') },
+    { id: 'all', label: t('LandingPage.Categories.sections.all') },
   ];
 
   return (
-    <Box as="section" pb={32} px={{ base: 4, md: 12 }}>
+    <Box as="section" pb={32} px={{ base: 2, md: 12 }}>
       <FilterBar
         sections={sections}
         activeSection={activeSection}
@@ -431,9 +644,15 @@ const CategoryGrid = () => {
 
       <Grid
         templateColumns={
-          viewMode === 'grid' ? { base: '1fr', md: 'repeat(4, 1fr)' } : '1fr'
+          viewMode === 'grid'
+            ? {
+                base: 'repeat(2, 1fr)',
+                md: 'repeat(3, 1fr)',
+                lg: 'repeat(4, 1fr)',
+              }
+            : '1fr'
         }
-        gap={6}
+        gap={{ base: 2, md: 6 }}
         autoRows="minmax(min-content, max-content)"
       >
         <AnimatePresence mode="popLayout">

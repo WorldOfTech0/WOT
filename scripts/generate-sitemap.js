@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
-const SITE_URL = 'https://worldoftech.dev';
+const SITE_URL = 'https://worldoftech.co.in';
 const PUBLIC_DIR = path.join(__dirname, '../public');
 const SCRATCH_DIR = path.join(__dirname, '../scratch/sitemap-build');
 
@@ -28,10 +28,7 @@ async function main() {
 
     // 3. Require the compiled CATEGORIES object
     console.log('📖 Importing compiled category configurations...');
-    const compiledPath = path.join(
-      SCRATCH_DIR,
-      'categories.js',
-    );
+    const compiledPath = path.join(SCRATCH_DIR, 'categories.js');
 
     if (!fs.existsSync(compiledPath)) {
       throw new Error(`Compiled file not found at: ${compiledPath}`);

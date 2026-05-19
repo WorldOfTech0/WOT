@@ -13,7 +13,12 @@ import {
 import { useTranslation } from 'react-i18next';
 import { useState, useEffect, useMemo } from 'react';
 import { CATEGORIES } from '../../data/categories/categories';
-import { MdPreview, SubcategorySideBar, TableOfContents, SEO } from '@components';
+import {
+  MdPreview,
+  SubcategorySideBar,
+  TableOfContents,
+  SEO,
+} from '@components';
 import { appStore } from '@appStore';
 import { useShallow } from 'zustand/react/shallow';
 
@@ -155,24 +160,24 @@ const ContentViewer = () => {
     const breadcrumbSchema = {
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
-      'itemListElement': [
+      itemListElement: [
         {
           '@type': 'ListItem',
-          'position': 1,
-          'name': 'Home',
-          'item': 'https://worldoftech.dev',
+          position: 1,
+          name: 'Home',
+          item: 'https://worldoftech.dev',
         },
         {
           '@type': 'ListItem',
-          'position': 2,
-          'name': categoryTitle,
-          'item': `https://worldoftech.dev/${categoryId}`,
+          position: 2,
+          name: categoryTitle,
+          item: `https://worldoftech.dev/${categoryId}`,
         },
         {
           '@type': 'ListItem',
-          'position': 3,
-          'name': subcategoryTitle,
-          'item': `https://worldoftech.dev${subcategory.path}`,
+          position: 3,
+          name: subcategoryTitle,
+          item: `https://worldoftech.dev${subcategory.path}`,
         },
       ],
     };
@@ -180,10 +185,10 @@ const ContentViewer = () => {
     const techArticleSchema = {
       '@context': 'https://schema.org',
       '@type': 'TechArticle',
-      'headline': subcategoryTitle,
-      'description': articleDescription,
-      'url': `https://worldoftech.dev${subcategory.path}`,
-      'inLanguage': 'en',
+      headline: subcategoryTitle,
+      description: articleDescription,
+      url: `https://worldoftech.dev${subcategory.path}`,
+      inLanguage: 'en',
     };
 
     return [breadcrumbSchema, techArticleSchema];

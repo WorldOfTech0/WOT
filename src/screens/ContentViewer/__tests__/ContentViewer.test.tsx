@@ -12,7 +12,10 @@ describe('ContentViewer', () => {
         <ChakraProvider value={system}>
           <MemoryRouter initialEntries={[`/${categoryId}/${subcategoryId}`]}>
             <Routes>
-              <Route path="/:category/:subcategory" element={<ContentViewer />} />
+              <Route
+                path="/:category/:subcategory"
+                element={<ContentViewer />}
+              />
             </Routes>
           </MemoryRouter>
         </ChakraProvider>

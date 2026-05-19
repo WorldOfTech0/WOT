@@ -88,6 +88,7 @@ The platform organizes resources into 2 primary sections comprising 11 verticals
 - **Compound Components**: Use the standard v3 pattern (e.g., `<Dialog.Root>`, `<Menu.Content>`).
 - **Icons**: Centralized in `src/assets/icons/`. Use the `WorldOfTechIcon` enum system.
 - **Theme**: Tokens are managed in `src/components/Theme/theme.ts`. Avoid hardcoded colors.
+- **Responsiveness**: Use responsive design tokens for spacing, padding, layouts, and components (e.g. `flexDirection={{ base: 'column', md: 'row' }}`). Ensure search bars and category filters are compact and wrap or align center on mobile for optimal ergonomics.
 
 ### Routing (React Router v7)
 

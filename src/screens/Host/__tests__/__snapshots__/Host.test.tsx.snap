@@ -915,6 +915,14 @@ exports[`Host should render correctly 1`] = `
                 Terms
               </p>
             </a>
+            <a
+              class="chakra-link css-klqc50"
+              href="https://worldoftech.co.in/sitemap.xml"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Sitemap
+            </a>
           </div>
         </div>
       </div>
