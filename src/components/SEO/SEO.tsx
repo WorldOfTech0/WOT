@@ -18,7 +18,8 @@ export interface SEOProps {
 }
 
 const DEFAULT_TITLE = 'WorldOfTech | Curated Technology Directory';
-const DEFAULT_DESCRIPTION = 'The premium curated directory for tech resources, documentation, guides, and tools.';
+const DEFAULT_DESCRIPTION =
+  'The premium curated directory for tech resources, documentation, guides, and tools.';
 const DEFAULT_KEYWORDS = [
   'technology',
   'tools',
@@ -64,7 +65,8 @@ export const SEO: React.FC<SEOProps> = ({
       : `${SITE_URL}/${ogImage}`;
 
   const finalOgTitle = ogTitle || title || DEFAULT_TITLE;
-  const finalOgDescription = ogDescription || description || DEFAULT_DESCRIPTION;
+  const finalOgDescription =
+    ogDescription || description || DEFAULT_DESCRIPTION;
   const finalOgUrl = ogUrl || absoluteCanonicalUrl;
 
   return (
@@ -89,7 +91,9 @@ export const SEO: React.FC<SEOProps> = ({
       <meta name="twitter:title" content={finalOgTitle} />
       <meta name="twitter:description" content={finalOgDescription} />
       <meta name="twitter:image" content={absoluteOgImage} />
-      {twitterCreator && <meta name="twitter:creator" content={twitterCreator} />}
+      {twitterCreator && (
+        <meta name="twitter:creator" content={twitterCreator} />
+      )}
 
       {/* Structured Schema Data */}
       {schema &&

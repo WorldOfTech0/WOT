@@ -3,5 +3,5 @@ User-agent: *
 Allow: /
 
 # Host & Sitemap definition
-Host: https://worldoftech.dev
-Sitemap: https://worldoftech.dev/sitemap.xml
+Host: https://worldoftech.co.in
+Sitemap: https://worldoftech.co.in/sitemap.xml

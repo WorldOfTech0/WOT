@@ -3,7 +3,7 @@
 exports[`HeroSection should render correctly 1`] = `
 <div>
   <section
-    class="css-w5tu5c"
+    class="css-f2psgt"
   >
     <div
       class="css-1davq0z"
@@ -77,7 +77,7 @@ exports[`HeroSection should render correctly 1`] = `
         style="opacity: 0; will-change: opacity,transform; transform: scale(0.95);"
       >
         <div
-          class="css-86s0lo"
+          class="css-a3wrwu"
         >
           <div
             class="css-1qami3l"
@@ -92,25 +92,25 @@ exports[`HeroSection should render correctly 1`] = `
           class="css-ekv6w8"
         />
         <div
-          class="css-xt4grz"
+          class="css-94opoh"
         >
           <div
-            class="css-3bpxic"
+            class="css-unlspa"
           >
             <span
               class="material-symbols-outlined"
-              style="font-size: 24px;"
+              style="font-size: 22px;"
             >
               search
             </span>
           </div>
           <input
-            class="chakra-input css-hylr73"
+            class="chakra-input css-q852k9"
             placeholder="Search the tech stack..."
             value=""
           />
           <button
-            class="chakra-button css-r22ikg"
+            class="chakra-button css-lkyhja"
             disabled=""
             type="button"
           >

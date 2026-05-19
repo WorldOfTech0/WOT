@@ -74,7 +74,7 @@ exports[`LandingPage should render correctly 1`] = `
       {"@context":"https://schema.org","@type":"WebSite","name":"WorldOfTech","url":"https://worldoftech.dev","description":"The premium curated directory for tech resources, documentation, guides, and tools."}
     </script>
     <section
-      class="css-w5tu5c"
+      class="css-f2psgt"
     >
       <div
         class="css-1davq0z"
@@ -148,7 +148,7 @@ exports[`LandingPage should render correctly 1`] = `
           style="opacity: 0; will-change: opacity,transform; transform: scale(0.95);"
         >
           <div
-            class="css-86s0lo"
+            class="css-a3wrwu"
           >
             <div
               class="css-1qami3l"
@@ -163,25 +163,25 @@ exports[`LandingPage should render correctly 1`] = `
             class="css-ekv6w8"
           />
           <div
-            class="css-xt4grz"
+            class="css-94opoh"
           >
             <div
-              class="css-3bpxic"
+              class="css-unlspa"
             >
               <span
                 class="material-symbols-outlined"
-                style="font-size: 24px;"
+                style="font-size: 22px;"
               >
                 search
               </span>
             </div>
             <input
-              class="chakra-input css-hylr73"
+              class="chakra-input css-q852k9"
               placeholder="Search the tech stack..."
               value=""
             />
             <button
-              class="chakra-button css-r22ikg"
+              class="chakra-button css-lkyhja"
               disabled=""
               type="button"
             >
@@ -192,32 +192,19 @@ exports[`LandingPage should render correctly 1`] = `
       </div>
     </section>
     <section
-      class="css-1gxng3x"
+      class="css-k8oz1p"
     >
       <div
-        class="css-11ywmy5"
+        class="css-bjm0tt"
       >
         <div
-          class="chakra-stack css-1bmk9m4"
+          class="css-mnwnnm"
         >
           <div
             class="css-79elbk"
           >
             <button
-              class="chakra-button css-y4bgx"
-              type="button"
-            >
-              Show All
-            </button>
-            <div
-              style="position: absolute; inset: 0; border-radius: var(--chakra-radii-xl); z-index: 0; box-shadow: 0 4px 12px rgba(139, 92, 246, 0.3);"
-            />
-          </div>
-          <div
-            class="css-79elbk"
-          >
-            <button
-              class="chakra-button css-aon9bv"
+              class="chakra-button css-e59dnr"
               type="button"
             >
               Information Library
@@ -227,42 +214,59 @@ exports[`LandingPage should render correctly 1`] = `
             class="css-79elbk"
           >
             <button
-              class="chakra-button css-aon9bv"
+              class="chakra-button css-e59dnr"
               type="button"
             >
               Engineering Tools
             </button>
           </div>
+          <div
+            class="css-79elbk"
+          >
+            <button
+              class="chakra-button css-1qv51z7"
+              type="button"
+            >
+              Show All
+            </button>
+            <div
+              style="position: absolute; inset: 0; border-radius: var(--chakra-radii-xl); z-index: 0; box-shadow: 0 4px 12px rgba(139, 92, 246, 0.3);"
+            />
+          </div>
         </div>
         <div
-          class="chakra-stack css-5zoaox"
+          class="css-kelqce"
         >
-          <button
-            class="chakra-button css-tmfldm"
-            type="button"
+          <div
+            class="chakra-stack css-1iqvyeg"
           >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 20px;"
+            <button
+              class="chakra-button css-tmfldm"
+              type="button"
             >
-              grid_view
-            </span>
-          </button>
-          <button
-            class="chakra-button css-g1tg1y"
-            type="button"
-          >
-            <span
-              class="material-symbols-outlined"
-              style="font-size: 20px;"
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px;"
+              >
+                grid_view
+              </span>
+            </button>
+            <button
+              class="chakra-button css-g1tg1y"
+              type="button"
             >
-              view_list
-            </span>
-          </button>
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px;"
+              >
+                view_list
+              </span>
+            </button>
+          </div>
         </div>
       </div>
       <div
-        class="css-sta9oh"
+        class="css-1ytgur3"
       >
         <div
           class="css-1pms3ts"
@@ -274,39 +278,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         movie
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         01
                          
@@ -319,140 +322,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       MEDIA RESOURCES
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Elite streaming, download, and media management platforms.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
-                    >
-                      arrow_forward
-                    </span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div
-          class="css-1h8tubl"
-          style="opacity: 0; will-change: opacity,transform; transform: scale(0.9);"
-        >
-          <a
-            data-discover="true"
-            href="/ai"
-            style="text-decoration: none; display: block; height: 100%;"
-          >
-            <div
-              class="css-no5l6c"
-              role="group"
-            >
-              <div
-                class="css-e7tv5z"
-              />
-              <div
-                class="css-11f8q1m"
-              >
-                <div
-                  class="css-cmph9f"
-                >
-                  <div
-                    class="css-2wuqlq"
-                  >
-                    <div
-                      class="css-hfhbfz"
-                    >
-                      <span
-                        class="material-symbols-outlined"
-                        style="font-size: 28px;"
-                      >
-                        psychology
-                      </span>
-                    </div>
-                    <div>
-                      <p
-                        class="css-m2i5yq"
-                      >
-                        Featured Category
-                      </p>
-                      <p
-                        class="css-1iab9o6"
-                      >
-                        02
-                         
-                        // 
-                         
-                        8
-                         
-                         RESOURCES
-                      </p>
-                    </div>
-                  </div>
-                  <div
-                    class="css-1yqqwe7"
-                  >
-                    <h3
-                      class="chakra-heading css-qh20wb"
-                    >
-                      ARTIFICIAL INTELLIGENCE
-                    </h3>
-                    <p
-                      class="css-766f9t"
-                    >
-                      Elite AI models, generation tools, and machine learning benchmarks.
-                    </p>
-                  </div>
-                </div>
-                <div
-                  class="css-1xsgqyo"
-                >
-                  <div
-                    class="chakra-stack css-1x0y7ph"
-                  >
-                    <div
-                      class="css-idhj6b"
-                    />
-                    <p
-                      class="css-v5jli6"
-                    >
-                      / ELITE STACK
-                    </p>
-                  </div>
-                  <div
-                    class="css-1fj2by5"
-                  >
-                    <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -468,43 +371,139 @@ exports[`LandingPage should render correctly 1`] = `
         >
           <a
             data-discover="true"
+            href="/ai"
+            style="text-decoration: none; display: block; height: 100%;"
+          >
+            <div
+              class="css-cm3t09"
+              role="group"
+            >
+              <div
+                class="css-16icayy"
+              />
+              <div
+                class="css-jd24an"
+              >
+                <div
+                  class="css-1gtumgu"
+                >
+                  <div
+                    class="css-1fq9dua"
+                  >
+                    <div
+                      class="css-l9cebf"
+                    >
+                      <span
+                        class="material-symbols-outlined css-rxsw1p"
+                      >
+                        psychology
+                      </span>
+                    </div>
+                    <div>
+                      <p
+                        class="css-dvd87q"
+                      >
+                        Tech Stack
+                      </p>
+                      <p
+                        class="css-cfdib3"
+                      >
+                        02
+                         
+                        // 
+                         
+                        8
+                         
+                         RESOURCES
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="css-1rr4qq7"
+                  >
+                    <h3
+                      class="chakra-heading css-3d0s75"
+                    >
+                      ARTIFICIAL INTELLIGENCE
+                    </h3>
+                    <p
+                      class="css-oro6pk"
+                    >
+                      Elite AI models, generation tools, and machine learning benchmarks.
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="css-qp16bu"
+                >
+                  <div
+                    class="chakra-stack css-1x0y7ph"
+                  >
+                    <div
+                      class="css-2o06cr"
+                    />
+                    <p
+                      class="css-13828rh"
+                    >
+                      / ELITE STACK
+                    </p>
+                  </div>
+                  <div
+                    class="css-1v2nvzt"
+                  >
+                    <span
+                      class="material-symbols-outlined css-14tyfx3"
+                    >
+                      arrow_forward
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div
+          class="css-xk9wk"
+          style="opacity: 0; will-change: opacity,transform; transform: scale(0.9);"
+        >
+          <a
+            data-discover="true"
             href="/downloading"
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-1htz57p"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-1ufwadp"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-x8whs7"
                       >
                         download_for_offline
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
-                        Tech Stack
+                        Featured Category
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         03
                          
@@ -517,41 +516,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-1ma2w3s"
                     >
                       DOWNLOADING & TORRENTING
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-h9jt8q"
                     >
                       Elite direct download sites, Usenet, and torrent tracking platforms.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-xa0i1y"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-1h18glz"
                     >
                       arrow_forward
                     </span>
@@ -562,7 +560,7 @@ exports[`LandingPage should render correctly 1`] = `
           </a>
         </div>
         <div
-          class="css-1h8tubl"
+          class="css-xk9wk"
           style="opacity: 0; will-change: opacity,transform; transform: scale(0.9);"
         >
           <a
@@ -571,39 +569,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-no5l6c"
+              class="css-1htz57p"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-hfhbfz"
+                      class="css-1ufwadp"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 28px;"
+                        class="material-symbols-outlined css-x8whs7"
                       >
                         school
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Featured Category
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         04
                          
@@ -616,41 +613,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-qh20wb"
+                      class="chakra-heading css-1ma2w3s"
                     >
                       EDUCATIONAL RESOURCES
                     </h3>
                     <p
-                      class="css-766f9t"
+                      class="css-h9jt8q"
                     >
                       Curated documentaries, courses, and specialized learning platforms.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-xa0i1y"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-1h18glz"
                     >
                       arrow_forward
                     </span>
@@ -670,39 +666,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         smartphone
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         05
                          
@@ -715,41 +710,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       MOBILE ECOSYSTEM
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Essential tools, APKs, and resources for iOS and Android devices.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -769,39 +763,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         desktop_windows
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         06
                          
@@ -814,41 +807,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       DESKTOP ECOSYSTEM
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Comprehensive guides and tools for Linux, macOS, and Unix-like systems.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -859,7 +851,7 @@ exports[`LandingPage should render correctly 1`] = `
           </a>
         </div>
         <div
-          class="css-1h8tubl"
+          class="css-xk9wk"
           style="opacity: 0; will-change: opacity,transform; transform: scale(0.9);"
         >
           <a
@@ -868,39 +860,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-no5l6c"
+              class="css-1htz57p"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-hfhbfz"
+                      class="css-1ufwadp"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 28px;"
+                        class="material-symbols-outlined css-x8whs7"
                       >
                         library_books
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Featured Category
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         07
                          
@@ -913,41 +904,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-qh20wb"
+                      class="chakra-heading css-1ma2w3s"
                     >
                       BOOKS & READING
                     </h3>
                     <p
-                      class="css-766f9t"
+                      class="css-h9jt8q"
                     >
                       Vast libraries of ebooks, comics, audiobooks, and specialized journals.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-xa0i1y"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-1h18glz"
                     >
                       arrow_forward
                     </span>
@@ -967,39 +957,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         sports_esports
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         08
                          
@@ -1012,41 +1001,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       GAMING & EMULATION
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Elite game repositories, emulation guides, and interactive entertainment.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -1066,39 +1054,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         admin_panel_settings
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         09
                          
@@ -1111,41 +1098,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       PRIVACY & SECURITY
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Essential adblocking, VPNs, and privacy-enhancing technologies.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -1156,7 +1142,7 @@ exports[`LandingPage should render correctly 1`] = `
           </a>
         </div>
         <div
-          class="css-1h8tubl"
+          class="css-xk9wk"
           style="opacity: 0; will-change: opacity,transform; transform: scale(0.9);"
         >
           <a
@@ -1165,39 +1151,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-no5l6c"
+              class="css-1htz57p"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-hfhbfz"
+                      class="css-1ufwadp"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 28px;"
+                        class="material-symbols-outlined css-x8whs7"
                       >
                         podcasts
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Featured Category
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         10
                          
@@ -1210,41 +1195,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-qh20wb"
+                      class="chakra-heading css-1ma2w3s"
                     >
                       MUSIC & AUDIO
                     </h3>
                     <p
-                      class="css-766f9t"
+                      class="css-h9jt8q"
                     >
                       High-fidelity streaming, radio, and audio management resources.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-xa0i1y"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-1h18glz"
                     >
                       arrow_forward
                     </span>
@@ -1264,39 +1248,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         translate
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         11
                          
@@ -1309,41 +1292,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       NON-ENGLISH RESOURCES
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Global technology archives and curated resources in over 30 languages.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -1363,39 +1345,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         category
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         12
                          
@@ -1408,41 +1389,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       MISCELLANEOUS
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       A diverse collection of lifestyle, utility, and elite niche resources.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -1453,7 +1433,7 @@ exports[`LandingPage should render correctly 1`] = `
           </a>
         </div>
         <div
-          class="css-1h8tubl"
+          class="css-xk9wk"
           style="opacity: 0; will-change: opacity,transform; transform: scale(0.9);"
         >
           <a
@@ -1462,39 +1442,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-no5l6c"
+              class="css-1htz57p"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-hfhbfz"
+                      class="css-1ufwadp"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 28px;"
+                        class="material-symbols-outlined css-x8whs7"
                       >
                         settings_suggest
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Featured Category
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         13
                          
@@ -1507,41 +1486,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-qh20wb"
+                      class="chakra-heading css-1ma2w3s"
                     >
                       SYSTEM TOOLS
                     </h3>
                     <p
-                      class="css-766f9t"
+                      class="css-h9jt8q"
                     >
                       Elite OS utilities, hardware diagnostics, and customization frameworks.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-xa0i1y"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-1h18glz"
                     >
                       arrow_forward
                     </span>
@@ -1561,39 +1539,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         folder_zip
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         14
                          
@@ -1606,41 +1583,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       FILE TOOLS
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Advanced file management, PDF processing, and cloud hosting utilities.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -1660,39 +1636,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         language
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         15
                          
@@ -1705,41 +1680,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       INTERNET TOOLS
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Powerful web utilities, OSINT frameworks, and browsing enhancements.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -1759,39 +1733,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         groups
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         16
                          
@@ -1804,41 +1777,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       SOCIAL MEDIA TOOLS
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Elite automation and management tools for global social platforms.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -1858,39 +1830,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         text_fields
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         17
                          
@@ -1903,41 +1874,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       TEXT & MARKUP TOOLS
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Professional editors, markup processors, and typography resources.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -1957,39 +1927,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         sports_esports
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         18
                          
@@ -2002,41 +1971,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       GAMING UTILITIES
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Performance boosters, game trackers, and homebrew Minecraft tools.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -2056,39 +2024,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         image
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         19
                          
@@ -2101,41 +2068,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       IMAGE & DESIGN TOOLS
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Elite editing suites, 3D modeling, and creative design resources.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -2155,39 +2121,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         video_library
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         20
                          
@@ -2200,41 +2165,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       VIDEO & MEDIA TOOLS
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Professional players, media servers, and non-linear editing suites.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -2254,39 +2218,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         headphones
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         21
                          
@@ -2299,41 +2262,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       AUDIO ENGINEERING
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       DAWs, spatial audio tools, and system-wide audio processing.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -2353,39 +2315,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         school
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         22
                          
@@ -2398,41 +2359,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       EDUCATIONAL UTILITIES
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Elite research aids, encyclopedia tools, and learning platforms.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -2452,39 +2412,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         terminal
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         23
                          
@@ -2497,41 +2456,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       DEVELOPER ECOSYSTEM
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       The ultimate stack for coding, web dev, hosting, and cybersecurity.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>
@@ -2551,39 +2509,38 @@ exports[`LandingPage should render correctly 1`] = `
             style="text-decoration: none; display: block; height: 100%;"
           >
             <div
-              class="css-1496l24"
+              class="css-cm3t09"
               role="group"
             >
               <div
-                class="css-e7tv5z"
+                class="css-16icayy"
               />
               <div
-                class="css-11f8q1m"
+                class="css-jd24an"
               >
                 <div
-                  class="css-cmph9f"
+                  class="css-1gtumgu"
                 >
                   <div
-                    class="css-2wuqlq"
+                    class="css-1fq9dua"
                   >
                     <div
-                      class="css-1p860i"
+                      class="css-l9cebf"
                     >
                       <span
-                        class="material-symbols-outlined"
-                        style="font-size: 20px;"
+                        class="material-symbols-outlined css-rxsw1p"
                       >
                         folder_open
                       </span>
                     </div>
                     <div>
                       <p
-                        class="css-m2i5yq"
+                        class="css-dvd87q"
                       >
                         Tech Stack
                       </p>
                       <p
-                        class="css-1iab9o6"
+                        class="css-cfdib3"
                       >
                         24
                          
@@ -2596,41 +2553,40 @@ exports[`LandingPage should render correctly 1`] = `
                     </div>
                   </div>
                   <div
-                    class="css-1yqqwe7"
+                    class="css-1rr4qq7"
                   >
                     <h3
-                      class="chakra-heading css-ilvt5x"
+                      class="chakra-heading css-3d0s75"
                     >
                       UNCATEGORISED
                     </h3>
                     <p
-                      class="css-wu7933"
+                      class="css-oro6pk"
                     >
                       Curated collections of niche technology resources, developer libraries, and specialized tools.
                     </p>
                   </div>
                 </div>
                 <div
-                  class="css-1xsgqyo"
+                  class="css-qp16bu"
                 >
                   <div
                     class="chakra-stack css-1x0y7ph"
                   >
                     <div
-                      class="css-idhj6b"
+                      class="css-2o06cr"
                     />
                     <p
-                      class="css-v5jli6"
+                      class="css-13828rh"
                     >
                       / ELITE STACK
                     </p>
                   </div>
                   <div
-                    class="css-1fj2by5"
+                    class="css-1v2nvzt"
                   >
                     <span
-                      class="material-symbols-outlined"
-                      style="font-size: 24px;"
+                      class="material-symbols-outlined css-14tyfx3"
                     >
                       arrow_forward
                     </span>

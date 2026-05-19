@@ -31,18 +31,18 @@ const CategoryLayout = ({ categoryId }: CategoryLayoutProps) => {
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
-    'itemListElement': [
+    itemListElement: [
       {
         '@type': 'ListItem',
-        'position': 1,
-        'name': 'Home',
-        'item': 'https://worldoftech.dev',
+        position: 1,
+        name: 'Home',
+        item: 'https://worldoftech.dev',
       },
       {
         '@type': 'ListItem',
-        'position': 2,
-        'name': categoryTitle,
-        'item': `https://worldoftech.dev/${categoryId}`,
+        position: 2,
+        name: categoryTitle,
+        item: `https://worldoftech.dev/${categoryId}`,
       },
     ],
   };
@@ -120,7 +120,7 @@ const CategoryLayout = ({ categoryId }: CategoryLayoutProps) => {
 
           <SimpleGrid
             columns={viewMode === 'grid' ? { base: 1, md: 2 } : 1}
-            gap={viewMode === 'grid' ? 4 : 2}
+            gap={viewMode === 'grid' ? 2 : 1}
             w="full"
           >
             {category.subcategories.map((sub) => (
@@ -134,7 +134,7 @@ const CategoryLayout = ({ categoryId }: CategoryLayoutProps) => {
                   backdropFilter="blur(24px)"
                   borderWidth="1px"
                   borderColor="outline"
-                  p={viewMode === 'grid' ? 4 : 2.5}
+                  p={viewMode === 'grid' ? 2 : 1}
                   borderRadius={viewMode === 'grid' ? '2xl' : 'xl'}
                   transition="all 0.3s cubic-bezier(0.4, 0, 0.2, 1)"
                   _hover={{

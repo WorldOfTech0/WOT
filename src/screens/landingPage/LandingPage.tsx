@@ -6,9 +6,9 @@ const LandingPage = () => {
   const websiteSchema = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    'name': 'WorldOfTech',
-    'url': 'https://worldoftech.dev',
-    'description':
+    name: 'WorldOfTech',
+    url: 'https://worldoftech.dev',
+    description:
       'The premium curated directory for tech resources, documentation, guides, and tools.',
   };
 

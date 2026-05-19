@@ -114,7 +114,7 @@ const HeroSection = () => {
       textAlign="center"
       pt={24}
       pb={16}
-      px={{ base: 4, md: 12 }}
+      px={{ base: 2, md: 12 }}
       overflow="hidden"
     >
       <BackgroundAnimation />
@@ -219,7 +219,7 @@ const HeroSection = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.6, delay: 0.4 }}
         >
-          <Flex align="center" gap={4} mb={3} ml={4}>
+          <Flex align="center" gap={4} mb={3} ml={{ base: 2, md: 4 }}>
             <Box w={1} h={1} borderRadius="full" bg="primary" />
             <Text
               fontFamily="mono"
@@ -252,6 +252,7 @@ const HeroSection = () => {
             borderColor="outline"
             borderRadius="full"
             p={1.5}
+            w="full"
             transition="all 0.3s"
             _focusWithin={{
               borderColor: 'primary',
@@ -259,10 +260,14 @@ const HeroSection = () => {
               transform: 'translateY(-2px)',
             }}
           >
-            <Box pl={5} pr={3} color="primary">
+            <Box
+              pl={{ base: 3, md: 5 }}
+              pr={{ base: 1, md: 3 }}
+              color="primary"
+            >
               <span
                 className="material-symbols-outlined"
-                style={{ fontSize: '24px' }}
+                style={{ fontSize: '22px' }}
               >
                 search
               </span>
@@ -275,8 +280,8 @@ const HeroSection = () => {
               outline="none"
               color="onSurface"
               fontFamily="mono"
-              fontSize="md"
-              py={4}
+              fontSize={{ base: 'sm', md: 'md' }}
+              py={{ base: 2, md: 4 }}
               value={search}
               onChange={(e) => setSearch(e.target.value)}
               onKeyDown={(e) => {
@@ -291,11 +296,11 @@ const HeroSection = () => {
             <Button
               bg="primary"
               color="onPrimary"
-              px={10}
-              h="52px"
+              px={{ base: 3, md: 10 }}
+              h={{ base: '40px', md: '52px' }}
               borderRadius="full"
               fontFamily="mono"
-              fontSize="sm"
+              fontSize={{ base: 'xs', md: 'sm' }}
               fontWeight="black"
               letterSpacing="widest"
               disabled={search.trim().length < 2}

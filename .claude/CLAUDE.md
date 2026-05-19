@@ -14,6 +14,7 @@ WorldOfTech is a premium React-based technical directory for free internet resou
 - **Documentation**: Markdown-based (react-markdown-preview)
 - **Favorites**: Persistent user-curated resource list
 - **i18n**: i18next
+- **Responsiveness**: Highly optimized layouts and ergonomic viewports for all mobile screens
 - **CI/CD**: Releases are automatically triggered upon PR merges to `production`.
 
 ## 📘 Primary Documentation
