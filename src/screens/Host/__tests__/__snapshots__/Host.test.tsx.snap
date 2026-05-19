@@ -456,6 +456,32 @@ exports[`Host should render correctly 1`] = `
               </div>
             </a>
           </div>
+          <div
+            class="css-rtymh1"
+          >
+            <a
+              class=""
+              data-discover="true"
+              href="/awesome-library"
+              style="text-decoration: none; display: block;"
+            >
+              <div
+                class="css-1jav04l"
+              >
+                <span
+                  class="material-symbols-outlined"
+                  style="font-size: 20px; transition: all 0.3s ease;"
+                >
+                  library_books
+                </span>
+                <p
+                  class="css-5hra6z"
+                >
+                  Awesome Library
+                </p>
+              </div>
+            </a>
+          </div>
         </div>
         <div
           class="css-choygu"
