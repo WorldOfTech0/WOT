@@ -1646,3 +1646,55 @@ export const UNCATEGORISED_SUBS: Record<string, Subcategory> = {
     docName: 'udemy_coupons',
   },
 };
+
+export const AWESOME_LIBRARY_SUBS: Record<string, Subcategory> = {
+  SELFHOSTED: {
+    id: 'selfhosted',
+    titleKey: 'AwesomeLibrary.features.selfhosted.title',
+    icon: 'dns',
+    path: '/awesome-library/selfhosted',
+    docName: 'awesome_library/selfhosted',
+  },
+  STACK_ON_A_BUDGET: {
+    id: 'stack-on-a-budget',
+    titleKey: 'AwesomeLibrary.features.stackOnABudget.title',
+    icon: 'savings',
+    path: '/awesome-library/stack-on-a-budget',
+    docName: 'awesome_library/stack_on_a_budget',
+  },
+  BOOK_OF_SECRET_KNOWLEDGE: {
+    id: 'book-of-secret-knowledge',
+    titleKey: 'AwesomeLibrary.features.bookOfSecretKnowledge.title',
+    icon: 'menu_book',
+    path: '/awesome-library/book-of-secret-knowledge',
+    docName: 'awesome_library/book_of_secret_knowledge',
+  },
+  HACKING: {
+    id: 'hacking',
+    titleKey: 'AwesomeLibrary.features.hacking.title',
+    icon: 'terminal',
+    path: '/awesome-library/hacking',
+    docName: 'awesome_library/hacking',
+  },
+  MAC: {
+    id: 'mac',
+    titleKey: 'AwesomeLibrary.features.mac.title',
+    icon: 'laptop_mac',
+    path: '/awesome-library/mac',
+    docName: 'awesome_library/mac',
+  },
+  SCALABILITY: {
+    id: 'scalability',
+    titleKey: 'AwesomeLibrary.features.scalability.title',
+    icon: 'trending_up',
+    path: '/awesome-library/scalability',
+    docName: 'awesome_library/scalability',
+  },
+  REACT: {
+    id: 'react',
+    titleKey: 'AwesomeLibrary.features.react.title',
+    icon: 'code',
+    path: '/awesome-library/react',
+    docName: 'awesome_library/react',
+  },
+};
