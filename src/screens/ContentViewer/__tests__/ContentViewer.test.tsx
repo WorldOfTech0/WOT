@@ -37,4 +37,14 @@ describe('ContentViewer', () => {
     const { getAllByText } = renderWithParams('tools', 'unknown-tech');
     expect(getAllByText(/unknown-tech/i).length).toBeGreaterThan(0);
   });
+
+  it('should render correctly for awesome-library selfhosted subcategory', () => {
+    const { container } = renderWithParams('awesome-library', 'selfhosted');
+    expect(container).toMatchSnapshot();
+  });
+
+  it('should render correctly for awesome-library tunneling subcategory', () => {
+    const { container } = renderWithParams('awesome-library', 'tunneling');
+    expect(container).toMatchSnapshot();
+  });
 });

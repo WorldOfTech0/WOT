@@ -1,5 +1,735 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`ContentViewer should render correctly for awesome-library selfhosted subcategory 1`] = `
+<div>
+  <div
+    class="css-1115lm6"
+  >
+    <title>
+      Selfhosted | WorldOfTech
+    </title>
+    <meta
+      content="Selfhosted"
+      name="description"
+    />
+    <meta
+      content="technology, tools, developer tools, system utilities, media streaming, ai resources, learning"
+      name="keywords"
+    />
+    <meta
+      content="index, follow"
+      name="robots"
+    />
+    <link
+      href="https://worldoftech.dev/awesome-library/selfhosted"
+      rel="canonical"
+    />
+    <meta
+      content="website"
+      property="og:type"
+    />
+    <meta
+      content="Selfhosted"
+      property="og:title"
+    />
+    <meta
+      content="Selfhosted"
+      property="og:description"
+    />
+    <meta
+      content="https://worldoftech.dev/og-image.png"
+      property="og:image"
+    />
+    <meta
+      content="https://worldoftech.dev/awesome-library/selfhosted"
+      property="og:url"
+    />
+    <meta
+      content="WorldOfTech"
+      property="og:site_name"
+    />
+    <meta
+      content="summary_large_image"
+      name="twitter:card"
+    />
+    <meta
+      content="Selfhosted"
+      name="twitter:title"
+    />
+    <meta
+      content="Selfhosted"
+      name="twitter:description"
+    />
+    <meta
+      content="https://worldoftech.dev/og-image.png"
+      name="twitter:image"
+    />
+    <meta
+      content="@worldoftech"
+      name="twitter:creator"
+    />
+    <script
+      type="application/ld+json"
+    >
+      {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://worldoftech.dev"},{"@type":"ListItem","position":2,"name":"Awesome Library","item":"https://worldoftech.dev/awesome-library"},{"@type":"ListItem","position":3,"name":"Selfhosted","item":"https://worldoftech.dev/awesome-library/selfhosted"}]}
+    </script>
+    <script
+      type="application/ld+json"
+    >
+      {"@context":"https://schema.org","@type":"TechArticle","headline":"Selfhosted","description":"Selfhosted","url":"https://worldoftech.dev/awesome-library/selfhosted","inLanguage":"en"}
+    </script>
+    <aside
+      class="css-11qsya6"
+    >
+      <div
+        class="css-1ts0ngf"
+      >
+        <p
+          class="css-gvuzmc"
+        >
+          Awesome Library
+        </p>
+        <p
+          class="css-10n9ze3"
+        >
+          SYSTEM LIBRARIES
+        </p>
+      </div>
+      <div
+        class="chakra-stack css-11np1li"
+      >
+        <a
+          aria-current="page"
+          class="active"
+          data-discover="true"
+          href="/awesome-library/selfhosted"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-1amsbtd"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 1;"
+            >
+              dns
+            </span>
+            <p
+              class="css-1jm8lwb"
+            >
+              Selfhosted
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/awesome-library/stack-on-a-budget"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-7ctwjg"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              savings
+            </span>
+            <p
+              class="css-1n4ep0s"
+            >
+              Stack on a budget
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/awesome-library/book-of-secret-knowledge"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-7ctwjg"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              menu_book
+            </span>
+            <p
+              class="css-1n4ep0s"
+            >
+              Book of secret knowledge
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/awesome-library/hacking"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-7ctwjg"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              terminal
+            </span>
+            <p
+              class="css-1n4ep0s"
+            >
+              Hacking
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/awesome-library/mac"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-7ctwjg"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              laptop_mac
+            </span>
+            <p
+              class="css-1n4ep0s"
+            >
+              Mac
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/awesome-library/scalability"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-7ctwjg"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              trending_up
+            </span>
+            <p
+              class="css-1n4ep0s"
+            >
+              Scalability
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/awesome-library/react"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-7ctwjg"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              code
+            </span>
+            <p
+              class="css-1n4ep0s"
+            >
+              React
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/awesome-library/tunneling"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-7ctwjg"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              hub
+            </span>
+            <p
+              class="css-1n4ep0s"
+            >
+              Tunneling
+            </p>
+          </div>
+        </a>
+      </div>
+    </aside>
+    <div
+      class="chakra-container css-1a9hjhw"
+    >
+      <div
+        class="css-1f77ep"
+      >
+        <div
+          class="chakra-stack css-10c7tj2"
+        >
+          <div
+            class="chakra-stack css-1gptjxp"
+          >
+            <div
+              class="chakra-stack css-1x0y7ph"
+            >
+              <a
+                data-discover="true"
+                href="/"
+              >
+                <p
+                  class="css-y9x6a7"
+                >
+                  SYSTEM
+                </p>
+              </a>
+              <p>
+                /
+              </p>
+              <a
+                data-discover="true"
+                href="/awesome-library"
+              >
+                <p
+                  class="css-253glj"
+                >
+                  Awesome Library
+                </p>
+              </a>
+              <p>
+                /
+              </p>
+              <p
+                class="css-1v8u59e"
+              >
+                Selfhosted
+              </p>
+            </div>
+            <button
+              aria-label="Add to Favorites"
+              class="chakra-button css-mlqauu"
+              type="button"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; font-variation-settings: "FILL" 0;"
+              >
+                star
+              </span>
+            </button>
+          </div>
+          <p
+            class="css-wqbqv0"
+          >
+            Curated resources and guides for self-hosting services, applications, and infrastructure.
+          </p>
+          <div
+            class="css-qs0ke5"
+          >
+            <div
+              class="chakra-stack css-1cihsba"
+            >
+              <span
+                class="chakra-spinner css-1i9lbwu"
+              />
+              <p
+                class="css-12nx1bf"
+              >
+                LOADING_DOCUMENTATION...
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ContentViewer should render correctly for awesome-library tunneling subcategory 1`] = `
+<div>
+  <div
+    class="css-1115lm6"
+  >
+    <title>
+      Tunneling | WorldOfTech
+    </title>
+    <meta
+      content="Tunneling"
+      name="description"
+    />
+    <meta
+      content="technology, tools, developer tools, system utilities, media streaming, ai resources, learning"
+      name="keywords"
+    />
+    <meta
+      content="index, follow"
+      name="robots"
+    />
+    <link
+      href="https://worldoftech.dev/awesome-library/tunneling"
+      rel="canonical"
+    />
+    <meta
+      content="website"
+      property="og:type"
+    />
+    <meta
+      content="Tunneling"
+      property="og:title"
+    />
+    <meta
+      content="Tunneling"
+      property="og:description"
+    />
+    <meta
+      content="https://worldoftech.dev/og-image.png"
+      property="og:image"
+    />
+    <meta
+      content="https://worldoftech.dev/awesome-library/tunneling"
+      property="og:url"
+    />
+    <meta
+      content="WorldOfTech"
+      property="og:site_name"
+    />
+    <meta
+      content="summary_large_image"
+      name="twitter:card"
+    />
+    <meta
+      content="Tunneling"
+      name="twitter:title"
+    />
+    <meta
+      content="Tunneling"
+      name="twitter:description"
+    />
+    <meta
+      content="https://worldoftech.dev/og-image.png"
+      name="twitter:image"
+    />
+    <meta
+      content="@worldoftech"
+      name="twitter:creator"
+    />
+    <script
+      type="application/ld+json"
+    >
+      {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://worldoftech.dev"},{"@type":"ListItem","position":2,"name":"Awesome Library","item":"https://worldoftech.dev/awesome-library"},{"@type":"ListItem","position":3,"name":"Tunneling","item":"https://worldoftech.dev/awesome-library/tunneling"}]}
+    </script>
+    <script
+      type="application/ld+json"
+    >
+      {"@context":"https://schema.org","@type":"TechArticle","headline":"Tunneling","description":"Tunneling","url":"https://worldoftech.dev/awesome-library/tunneling","inLanguage":"en"}
+    </script>
+    <aside
+      class="css-11qsya6"
+    >
+      <div
+        class="css-1ts0ngf"
+      >
+        <p
+          class="css-gvuzmc"
+        >
+          Awesome Library
+        </p>
+        <p
+          class="css-10n9ze3"
+        >
+          SYSTEM LIBRARIES
+        </p>
+      </div>
+      <div
+        class="chakra-stack css-11np1li"
+      >
+        <a
+          class=""
+          data-discover="true"
+          href="/awesome-library/selfhosted"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-7ctwjg"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              dns
+            </span>
+            <p
+              class="css-1n4ep0s"
+            >
+              Selfhosted
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/awesome-library/stack-on-a-budget"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-7ctwjg"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              savings
+            </span>
+            <p
+              class="css-1n4ep0s"
+            >
+              Stack on a budget
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/awesome-library/book-of-secret-knowledge"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-7ctwjg"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              menu_book
+            </span>
+            <p
+              class="css-1n4ep0s"
+            >
+              Book of secret knowledge
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/awesome-library/hacking"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-7ctwjg"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              terminal
+            </span>
+            <p
+              class="css-1n4ep0s"
+            >
+              Hacking
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/awesome-library/mac"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-7ctwjg"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              laptop_mac
+            </span>
+            <p
+              class="css-1n4ep0s"
+            >
+              Mac
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/awesome-library/scalability"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-7ctwjg"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              trending_up
+            </span>
+            <p
+              class="css-1n4ep0s"
+            >
+              Scalability
+            </p>
+          </div>
+        </a>
+        <a
+          class=""
+          data-discover="true"
+          href="/awesome-library/react"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-7ctwjg"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 0.7;"
+            >
+              code
+            </span>
+            <p
+              class="css-1n4ep0s"
+            >
+              React
+            </p>
+          </div>
+        </a>
+        <a
+          aria-current="page"
+          class="active"
+          data-discover="true"
+          href="/awesome-library/tunneling"
+          style="text-decoration: none;"
+        >
+          <div
+            class="css-1amsbtd"
+          >
+            <span
+              class="material-symbols-outlined"
+              style="font-size: 18px; opacity: 1;"
+            >
+              hub
+            </span>
+            <p
+              class="css-1jm8lwb"
+            >
+              Tunneling
+            </p>
+          </div>
+        </a>
+      </div>
+    </aside>
+    <div
+      class="chakra-container css-1a9hjhw"
+    >
+      <div
+        class="css-1f77ep"
+      >
+        <div
+          class="chakra-stack css-10c7tj2"
+        >
+          <div
+            class="chakra-stack css-1gptjxp"
+          >
+            <div
+              class="chakra-stack css-1x0y7ph"
+            >
+              <a
+                data-discover="true"
+                href="/"
+              >
+                <p
+                  class="css-y9x6a7"
+                >
+                  SYSTEM
+                </p>
+              </a>
+              <p>
+                /
+              </p>
+              <a
+                data-discover="true"
+                href="/awesome-library"
+              >
+                <p
+                  class="css-253glj"
+                >
+                  Awesome Library
+                </p>
+              </a>
+              <p>
+                /
+              </p>
+              <p
+                class="css-1v8u59e"
+              >
+                Tunneling
+              </p>
+            </div>
+            <button
+              aria-label="Add to Favorites"
+              class="chakra-button css-mlqauu"
+              type="button"
+            >
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 20px; font-variation-settings: "FILL" 0;"
+              >
+                star
+              </span>
+            </button>
+          </div>
+          <p
+            class="css-wqbqv0"
+          >
+            A collection of awesome tunneling tools, port forwarding utilities, and reverse proxies.
+          </p>
+          <div
+            class="css-qs0ke5"
+          >
+            <div
+              class="chakra-stack css-1cihsba"
+            >
+              <span
+                class="chakra-spinner css-1i9lbwu"
+              />
+              <p
+                class="css-12nx1bf"
+              >
+                LOADING_DOCUMENTATION...
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
 exports[`ContentViewer should render correctly for dev_tools subcategory 1`] = `
 <div>
   <div

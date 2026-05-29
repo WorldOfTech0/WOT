@@ -565,6 +565,10 @@
       "react": {
         "title": "React",
         "desc": "Awesome React resources, UI components, tools, and libraries to accelerate frontend development."
+      },
+      "tunneling": {
+        "title": "Tunneling",
+        "desc": "A collection of awesome tunneling tools, port forwarding utilities, and reverse proxies."
       }
     }
   },

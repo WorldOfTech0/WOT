@@ -77,7 +77,9 @@ const ContentViewer = () => {
         try {
           // Dynamic import for markdown files based on section
           let module;
-          if (category?.section === 'information_library') {
+          if (categoryId === 'awesome-library') {
+            module = await import(`../../docs/${subcategory.docName}.md`);
+          } else if (category?.section === 'information_library') {
             module = await import(
               `../../docs/information_library/${categoryId}/${subcategory.docName}.md`
             );

@@ -2596,6 +2596,103 @@ exports[`LandingPage should render correctly 1`] = `
             </div>
           </a>
         </div>
+        <div
+          class="css-1pms3ts"
+          style="opacity: 0; will-change: opacity,transform; transform: scale(0.9);"
+        >
+          <a
+            data-discover="true"
+            href="/awesome-library"
+            style="text-decoration: none; display: block; height: 100%;"
+          >
+            <div
+              class="css-cm3t09"
+              role="group"
+            >
+              <div
+                class="css-16icayy"
+              />
+              <div
+                class="css-jd24an"
+              >
+                <div
+                  class="css-1gtumgu"
+                >
+                  <div
+                    class="css-1fq9dua"
+                  >
+                    <div
+                      class="css-l9cebf"
+                    >
+                      <span
+                        class="material-symbols-outlined css-rxsw1p"
+                      >
+                        library_books
+                      </span>
+                    </div>
+                    <div>
+                      <p
+                        class="css-dvd87q"
+                      >
+                        Tech Stack
+                      </p>
+                      <p
+                        class="css-cfdib3"
+                      >
+                        25
+                         
+                        // 
+                         
+                        8
+                         
+                         RESOURCES
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="css-1rr4qq7"
+                  >
+                    <h3
+                      class="chakra-heading css-3d0s75"
+                    >
+                      AWESOME LIBRARY
+                    </h3>
+                    <p
+                      class="css-oro6pk"
+                    >
+                      Curated lists of self-hosted, scalable, hacking, and Mac ecosystem resources.
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="css-qp16bu"
+                >
+                  <div
+                    class="chakra-stack css-1x0y7ph"
+                  >
+                    <div
+                      class="css-2o06cr"
+                    />
+                    <p
+                      class="css-13828rh"
+                    >
+                      / ELITE STACK
+                    </p>
+                  </div>
+                  <div
+                    class="css-1v2nvzt"
+                  >
+                    <span
+                      class="material-symbols-outlined css-14tyfx3"
+                    >
+                      arrow_forward
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
       </div>
     </section>
   </div>

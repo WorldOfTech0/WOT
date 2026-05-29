@@ -1697,4 +1697,11 @@ export const AWESOME_LIBRARY_SUBS: Record<string, Subcategory> = {
     path: '/awesome-library/react',
     docName: 'awesome_library/react',
   },
+  TUNNELING: {
+    id: 'tunneling',
+    titleKey: 'AwesomeLibrary.features.tunneling.title',
+    icon: 'hub',
+    path: '/awesome-library/tunneling',
+    docName: 'awesome_library/tunneling',
+  },
 };
